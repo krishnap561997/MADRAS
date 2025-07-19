@@ -1,10 +1,20 @@
 # MADRAS
-MAtlab turbulent Dispersion Room-scale Analysis Software (MADRAS) is a software for calculating turbulent dispersal statistics from Lagrangian particle tracks generated from Euler-Lagrange DNS, LES, and RANS.
+**MA**tlab turbulent **D**ispersion **R**oom-scale **A**nalysis **S**oftware (**MADRAS**) is a software for calculating turbulent dispersal statistics from Lagrangian particle tracks generated from Euler-Lagrange DNS, LES, and RANS.
 
-The software and its workflow are used to derive meaningful statistical information from the novel ***statistical overloading methodology*** employed for one-way coupled turbulent dispersal problems. The software has also been specialized for predicting aerosol dispersal and pathogen concentration in indoor spaces to compute quantities such as cumulative exposure time (CET) and Safe Occupancy Limit. The use/distribution of this code is allowed ONLY after approval by Prof. S. Balachandar **(bala1s@ufl.edu)**, the project PI. This code was written and conceptualized at the University of Florida at the Computational Multiphysics Group and the CM<sup>3</sup>C by Dr. K.A. Krishnaprasad, Prof. S. Balachandar, Prof. Nadim Zgheib, and Dr. Jorge Salinas. For further details on implementation and utility, please get in touch with Dr. Krishnaprasad **(krishnap561997@gmail.com)**.
+The software and its workflow are used to derive meaningful statistical information from the novel ***statistical overloading methodology*** employed for one-way coupled turbulent dispersal problems. The software has also been specialized for predicting aerosol dispersal and pathogen concentration in indoor spaces to compute quantities such as cumulative exposure time (CET) and Safe Occupancy Limit. The use/distribution of this code is allowed ***ONLY*** after approval by Prof. S. Balachandar **(bala1s@ufl.edu)**, the project PI. This code was written and conceptualized at the University of Florida at the Computational Multiphysics Group and the CM<sup>3</sup>C by Dr. K.A. Krishnaprasad, Dr. Jorge Salinas, Prof. Nadim Zgheib, and Prof. S. Balachandar. For further details on implementation and utility, please get in touch with Dr. Krishnaprasad **(krishnap.kalivel@ufl.edu)**.
 
 # Statistical Overloading
-Turbulent dispersal processes are two-point two-time stochastic processes that depend on the locations of the pollutant's (source) and where the concentration is monitored (sink). Quite often, these flows are one-way coupled, such as in aerosol transmission of diseases, occupational hazards introduced through chemicals, droplet impingement on airfoils, and atmospheric dispersion in urban settings. Statistical overloading is an Euler-Lagrange simulation strategy wherein the simulation domain is overloaded with Lagrangian particles that are randomly seeded across both time and space. The Lagrangian point-particles and their dispersal are monitored by tracking their spatiotemporal data over the course of the simulation. For further details on the statistical overloading methodology and its implementation, please refer to the published works of [Krishnaprasad et al., 2025](https://www.sciencedirect.com/science/article/pii/S0021850225000679?casa_token=OltE_e7JP0AAAAAA:sNyJROtb4YO5C6vd4ZwAZl_GXRdZWJyIck9YYAeB_HS9d82FCEb4MTxkH9c8_ftCWTRgeGQ42w).
+Turbulent dispersal processes are two-point two-time stochastic processes that depend on the locations of the pollutant's origin (**source**) and where the concentration is monitored (**sink**). Quite often, these flows are one-way coupled, such as in aerosol transmission of diseases, occupational hazards introduced through chemicals, droplet impingement on airfoils, and atmospheric dispersion in urban settings. Statistical overloading is an Euler-Lagrange simulation strategy wherein the simulation domain is overloaded with Lagrangian particles that are randomly seeded across both time and space. The Lagrangian point-particles and their dispersal are monitored by tracking their spatiotemporal data over the course of the simulation. For further details on the statistical overloading methodology and its implementation, please refer to the published works of [Krishnaprasad et al., 2025](https://www.sciencedirect.com/science/article/pii/S0021850225000679?casa_token=OltE_e7JP0AAAAAA:sNyJROtb4YO5C6vd4ZwAZl_GXRdZWJyIck9YYAeB_HS9d82FCEb4MTxkH9c8_ftCWTRgeGQ42w).
+
+# Workflow
+
+```mermaid
+graph TD;
+    ELLES Simulation --> Preprocessing;
+    Preprocessing --> vtu2h5;
+    
+    
+```
 
 # List of publications
 Listed below are the published works that utilize MADRAS and its workflow for statistical post-processing.
