@@ -8,13 +8,22 @@ Turbulent dispersal processes are two-point two-time stochastic processes that d
 
 # Workflow
 
+## Pre-processing step
 ```mermaid
 graph TD;
-    ELLES Simulation --> Preprocessing;
-    Preprocessing --> vtu2h5;
-    
-    
+    A[Start: **EL CFD Simulations**] --> B[Raw Data: Spatiotemporal Point-Particle Data]
+
+    B --> C[Pre-processing]
+
+    C --> D[**vtu2h5**: Convert .vtu to .h5]
+    D --> E[***.h5 Data***]
+
+    E --> F[**Generate_spheres**: Extract particle info within Subvolumes]
+
+    F --> G[***id_dp_tm***: Spatiotemporal particle data in specific Locations within room]    
 ```
+
+## Homogenized statistics - Averaged over all possible source-sink locations
 
 # List of publications
 Listed below are the published works that utilize MADRAS and its workflow for statistical post-processing.
