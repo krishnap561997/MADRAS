@@ -1,0 +1,56 @@
+#
+# nek parameter file
+#
+[GENERAL] 
+startFrom = room0.ini time=0
+numSteps = 126000
+dt = 8.e-4
+writeInterval = 1250
+timeStepper = bdf3
+
+#extrapolation = OIFS
+#variableDt = yes
+#targetCFL = 1.0
+
+#filtering = hpfrt
+#filterWeight = 10
+#filterCutoffRatio = 0.9 
+
+filtering = explicit
+filterWeight = 0.05
+filterCutoffRatio = 0.9
+
+userparam01 = 1250 
+userParam02 = 1.e-03  #Length of inlet source
+userParam03 = 2       #Number of particles per size per injection per inlet
+userParam04 = 50     #time_{end of injection}
+
+[MESH]
+numberOfBCFields = 2
+writeToFieldFile = yes
+
+[PROBLEMTYPE]
+equation = incompNS
+
+[PRESSURE]
+residualTol = 1e-04
+writeToFieldFile = yes
+
+[VELOCITY]
+residualTol = 1e-06
+density = 1.2041
+viscosity = 1.81e-5 
+
+#[TEMPERATURE]
+#residualTol = 1e-06
+#rhoCp = 1.2041
+#conductivity = 1.81e-5
+
+[TEMPERATURE]
+solver = none
+writeToFieldFile = yes
+
+[SCALAR01] # udiff
+solver = none
+writeToFieldFile = yes
+

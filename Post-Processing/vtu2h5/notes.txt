@@ -1,0 +1,6 @@
+Version			Description
+v9  		- 	Written by Jorge. For tagging particles initialized at t = 0 using 512 cores
+v10 		-	Written by Krishna. For tagging particles initialized at t = 0 and injected every second. 
+v11 		- 	Written by Krishna. For tagging particles injected every time step. Also stores tag02 - time step at which particle was injected. 
+v12 		- 	Written by Krishna. For continuous injection + particles initialized at t = 0. Tags only the particles that are injected.
+v13 		- 	Written by Krishna. For continuous injection + particles initialized at t = 0. Tags only the particles at t=0.

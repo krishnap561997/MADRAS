@@ -1,0 +1,1413 @@
+Tue Jun 15 18:31:12 EDT 2021
+c24b-s15.ufhpc
+[H[2J
+nfile =
+
+   281
+
+-----------------------------------
+Reading par00001.h5
+Elapsed time is 0.574584 seconds.
+-----------------------------------
+Reading par00002.h5
+Finding particles that have exited the domain
+170329 particles exited the domain
+Elapsed time is 9.006482 seconds.
+-----------------------------------
+Reading par00003.h5
+Finding particles that have exited the domain
+373109 particles exited the domain
+Elapsed time is 9.233342 seconds.
+-----------------------------------
+Reading par00004.h5
+Finding particles that have exited the domain
+608534 particles exited the domain
+Elapsed time is 9.173426 seconds.
+-----------------------------------
+Reading par00005.h5
+Finding particles that have exited the domain
+870025 particles exited the domain
+Elapsed time is 9.448815 seconds.
+-----------------------------------
+Reading par00006.h5
+Finding particles that have exited the domain
+1145574 particles exited the domain
+Elapsed time is 9.189939 seconds.
+-----------------------------------
+Reading par00007.h5
+Finding particles that have exited the domain
+1428905 particles exited the domain
+Elapsed time is 8.974771 seconds.
+-----------------------------------
+Reading par00008.h5
+Finding particles that have exited the domain
+1710961 particles exited the domain
+Elapsed time is 8.926168 seconds.
+-----------------------------------
+Reading par00009.h5
+Finding particles that have exited the domain
+1991944 particles exited the domain
+Elapsed time is 8.746489 seconds.
+-----------------------------------
+Reading par00010.h5
+Finding particles that have exited the domain
+2274328 particles exited the domain
+Elapsed time is 8.797781 seconds.
+-----------------------------------
+Reading par00011.h5
+Finding particles that have exited the domain
+2555979 particles exited the domain
+Elapsed time is 8.714815 seconds.
+-----------------------------------
+Reading par00012.h5
+Finding particles that have exited the domain
+2837593 particles exited the domain
+Elapsed time is 8.440962 seconds.
+-----------------------------------
+Reading par00013.h5
+Finding particles that have exited the domain
+3119621 particles exited the domain
+Elapsed time is 8.408176 seconds.
+-----------------------------------
+Reading par00014.h5
+Finding particles that have exited the domain
+3403212 particles exited the domain
+Elapsed time is 8.317628 seconds.
+-----------------------------------
+Reading par00015.h5
+Finding particles that have exited the domain
+3684594 particles exited the domain
+Elapsed time is 8.494182 seconds.
+-----------------------------------
+Reading par00016.h5
+Finding particles that have exited the domain
+3964195 particles exited the domain
+Elapsed time is 8.267160 seconds.
+-----------------------------------
+Reading par00017.h5
+Finding particles that have exited the domain
+4241287 particles exited the domain
+Elapsed time is 7.890250 seconds.
+-----------------------------------
+Reading par00018.h5
+Finding particles that have exited the domain
+4518720 particles exited the domain
+Elapsed time is 7.795065 seconds.
+-----------------------------------
+Reading par00019.h5
+Finding particles that have exited the domain
+4794546 particles exited the domain
+Elapsed time is 7.689365 seconds.
+-----------------------------------
+Reading par00020.h5
+Finding particles that have exited the domain
+5070735 particles exited the domain
+Elapsed time is 7.540408 seconds.
+-----------------------------------
+Reading par00021.h5
+Finding particles that have exited the domain
+5346877 particles exited the domain
+Elapsed time is 7.508841 seconds.
+-----------------------------------
+Reading par00022.h5
+Finding particles that have exited the domain
+5620397 particles exited the domain
+Elapsed time is 7.363780 seconds.
+-----------------------------------
+Reading par00023.h5
+Finding particles that have exited the domain
+5894048 particles exited the domain
+Elapsed time is 7.166600 seconds.
+-----------------------------------
+Reading par00024.h5
+Finding particles that have exited the domain
+6165929 particles exited the domain
+Elapsed time is 7.096775 seconds.
+-----------------------------------
+Reading par00025.h5
+Finding particles that have exited the domain
+6437392 particles exited the domain
+Elapsed time is 7.134227 seconds.
+-----------------------------------
+Reading par00026.h5
+Finding particles that have exited the domain
+6704731 particles exited the domain
+Elapsed time is 6.982436 seconds.
+-----------------------------------
+Reading par00027.h5
+Finding particles that have exited the domain
+6971810 particles exited the domain
+Elapsed time is 6.867542 seconds.
+-----------------------------------
+Reading par00028.h5
+Finding particles that have exited the domain
+7235132 particles exited the domain
+Elapsed time is 6.653669 seconds.
+-----------------------------------
+Reading par00029.h5
+Finding particles that have exited the domain
+7494027 particles exited the domain
+Elapsed time is 6.712126 seconds.
+-----------------------------------
+Reading par00030.h5
+Finding particles that have exited the domain
+7749854 particles exited the domain
+Elapsed time is 6.501157 seconds.
+-----------------------------------
+Reading par00031.h5
+Finding particles that have exited the domain
+8002866 particles exited the domain
+Elapsed time is 6.604313 seconds.
+-----------------------------------
+Reading par00032.h5
+Finding particles that have exited the domain
+8253138 particles exited the domain
+Elapsed time is 6.386563 seconds.
+-----------------------------------
+Reading par00033.h5
+Finding particles that have exited the domain
+8501202 particles exited the domain
+Elapsed time is 6.232081 seconds.
+-----------------------------------
+Reading par00034.h5
+Finding particles that have exited the domain
+8745675 particles exited the domain
+Elapsed time is 6.234866 seconds.
+-----------------------------------
+Reading par00035.h5
+Finding particles that have exited the domain
+8985783 particles exited the domain
+Elapsed time is 6.078530 seconds.
+-----------------------------------
+Reading par00036.h5
+Finding particles that have exited the domain
+9223180 particles exited the domain
+Elapsed time is 5.941617 seconds.
+-----------------------------------
+Reading par00037.h5
+Finding particles that have exited the domain
+9459657 particles exited the domain
+Elapsed time is 6.211231 seconds.
+-----------------------------------
+Reading par00038.h5
+Finding particles that have exited the domain
+9694008 particles exited the domain
+Elapsed time is 5.892363 seconds.
+-----------------------------------
+Reading par00039.h5
+Finding particles that have exited the domain
+9923919 particles exited the domain
+Elapsed time is 5.849120 seconds.
+-----------------------------------
+Reading par00040.h5
+Finding particles that have exited the domain
+10148787 particles exited the domain
+Elapsed time is 5.582545 seconds.
+-----------------------------------
+Reading par00041.h5
+Finding particles that have exited the domain
+10370893 particles exited the domain
+Elapsed time is 5.558924 seconds.
+-----------------------------------
+Reading par00042.h5
+Finding particles that have exited the domain
+10589442 particles exited the domain
+Elapsed time is 5.402357 seconds.
+-----------------------------------
+Reading par00043.h5
+Finding particles that have exited the domain
+10803972 particles exited the domain
+Elapsed time is 5.296151 seconds.
+-----------------------------------
+Reading par00044.h5
+Finding particles that have exited the domain
+11012193 particles exited the domain
+Elapsed time is 5.331353 seconds.
+-----------------------------------
+Reading par00045.h5
+Finding particles that have exited the domain
+11215011 particles exited the domain
+Elapsed time is 5.138999 seconds.
+-----------------------------------
+Reading par00046.h5
+Finding particles that have exited the domain
+11412586 particles exited the domain
+Elapsed time is 5.082244 seconds.
+-----------------------------------
+Reading par00047.h5
+Finding particles that have exited the domain
+11606299 particles exited the domain
+Elapsed time is 5.019701 seconds.
+-----------------------------------
+Reading par00048.h5
+Finding particles that have exited the domain
+11798220 particles exited the domain
+Elapsed time is 4.973310 seconds.
+-----------------------------------
+Reading par00049.h5
+Finding particles that have exited the domain
+11987344 particles exited the domain
+Elapsed time is 4.826579 seconds.
+-----------------------------------
+Reading par00050.h5
+Finding particles that have exited the domain
+12173178 particles exited the domain
+Elapsed time is 4.929817 seconds.
+-----------------------------------
+Reading par00051.h5
+Finding particles that have exited the domain
+12354895 particles exited the domain
+Elapsed time is 4.774899 seconds.
+-----------------------------------
+Reading par00052.h5
+Finding particles that have exited the domain
+12533639 particles exited the domain
+Elapsed time is 4.650255 seconds.
+-----------------------------------
+Reading par00053.h5
+Finding particles that have exited the domain
+12707726 particles exited the domain
+Elapsed time is 4.454667 seconds.
+-----------------------------------
+Reading par00054.h5
+Finding particles that have exited the domain
+12877986 particles exited the domain
+Elapsed time is 4.791781 seconds.
+-----------------------------------
+Reading par00055.h5
+Finding particles that have exited the domain
+13044092 particles exited the domain
+Elapsed time is 4.473553 seconds.
+-----------------------------------
+Reading par00056.h5
+Finding particles that have exited the domain
+13207767 particles exited the domain
+Elapsed time is 4.330853 seconds.
+-----------------------------------
+Reading par00057.h5
+Finding particles that have exited the domain
+13368052 particles exited the domain
+Elapsed time is 4.499876 seconds.
+-----------------------------------
+Reading par00058.h5
+Finding particles that have exited the domain
+13524998 particles exited the domain
+Elapsed time is 4.202749 seconds.
+-----------------------------------
+Reading par00059.h5
+Finding particles that have exited the domain
+13680439 particles exited the domain
+Elapsed time is 4.226850 seconds.
+-----------------------------------
+Reading par00060.h5
+Finding particles that have exited the domain
+13831573 particles exited the domain
+Elapsed time is 4.410308 seconds.
+-----------------------------------
+Reading par00061.h5
+Finding particles that have exited the domain
+13980448 particles exited the domain
+Elapsed time is 4.195579 seconds.
+-----------------------------------
+Reading par00062.h5
+Finding particles that have exited the domain
+14126885 particles exited the domain
+Elapsed time is 4.121835 seconds.
+-----------------------------------
+Reading par00063.h5
+Finding particles that have exited the domain
+14272278 particles exited the domain
+Elapsed time is 4.228508 seconds.
+-----------------------------------
+Reading par00064.h5
+Finding particles that have exited the domain
+14415564 particles exited the domain
+Elapsed time is 4.018429 seconds.
+-----------------------------------
+Reading par00065.h5
+Finding particles that have exited the domain
+14556100 particles exited the domain
+Elapsed time is 4.256437 seconds.
+-----------------------------------
+Reading par00066.h5
+Finding particles that have exited the domain
+14692021 particles exited the domain
+Elapsed time is 4.017312 seconds.
+-----------------------------------
+Reading par00067.h5
+Finding particles that have exited the domain
+14824296 particles exited the domain
+Elapsed time is 3.913957 seconds.
+-----------------------------------
+Reading par00068.h5
+Finding particles that have exited the domain
+14952656 particles exited the domain
+Elapsed time is 3.902551 seconds.
+-----------------------------------
+Reading par00069.h5
+Finding particles that have exited the domain
+15077845 particles exited the domain
+Elapsed time is 4.009570 seconds.
+-----------------------------------
+Reading par00070.h5
+Finding particles that have exited the domain
+15200041 particles exited the domain
+Elapsed time is 3.738438 seconds.
+-----------------------------------
+Reading par00071.h5
+Finding particles that have exited the domain
+15320112 particles exited the domain
+Elapsed time is 3.783421 seconds.
+-----------------------------------
+Reading par00072.h5
+Finding particles that have exited the domain
+15437613 particles exited the domain
+Elapsed time is 3.747013 seconds.
+-----------------------------------
+Reading par00073.h5
+Finding particles that have exited the domain
+15553321 particles exited the domain
+Elapsed time is 3.802215 seconds.
+-----------------------------------
+Reading par00074.h5
+Finding particles that have exited the domain
+15666862 particles exited the domain
+Elapsed time is 3.663310 seconds.
+-----------------------------------
+Reading par00075.h5
+Finding particles that have exited the domain
+15777872 particles exited the domain
+Elapsed time is 3.544290 seconds.
+-----------------------------------
+Reading par00076.h5
+Finding particles that have exited the domain
+15885903 particles exited the domain
+Elapsed time is 3.584127 seconds.
+-----------------------------------
+Reading par00077.h5
+Finding particles that have exited the domain
+15992536 particles exited the domain
+Elapsed time is 3.536876 seconds.
+-----------------------------------
+Reading par00078.h5
+Finding particles that have exited the domain
+16096776 particles exited the domain
+Elapsed time is 3.494646 seconds.
+-----------------------------------
+Reading par00079.h5
+Finding particles that have exited the domain
+16199179 particles exited the domain
+Elapsed time is 3.429391 seconds.
+-----------------------------------
+Reading par00080.h5
+Finding particles that have exited the domain
+16301032 particles exited the domain
+Elapsed time is 3.457188 seconds.
+-----------------------------------
+Reading par00081.h5
+Finding particles that have exited the domain
+16400396 particles exited the domain
+Elapsed time is 3.257943 seconds.
+-----------------------------------
+Reading par00082.h5
+Finding particles that have exited the domain
+16497352 particles exited the domain
+Elapsed time is 3.169703 seconds.
+-----------------------------------
+Reading par00083.h5
+Finding particles that have exited the domain
+16591729 particles exited the domain
+Elapsed time is 3.189272 seconds.
+-----------------------------------
+Reading par00084.h5
+Finding particles that have exited the domain
+16684021 particles exited the domain
+Elapsed time is 3.119881 seconds.
+-----------------------------------
+Reading par00085.h5
+Finding particles that have exited the domain
+16773756 particles exited the domain
+Elapsed time is 3.126337 seconds.
+-----------------------------------
+Reading par00086.h5
+Finding particles that have exited the domain
+16861876 particles exited the domain
+Elapsed time is 3.144224 seconds.
+-----------------------------------
+Reading par00087.h5
+Finding particles that have exited the domain
+16946688 particles exited the domain
+Elapsed time is 3.081548 seconds.
+-----------------------------------
+Reading par00088.h5
+Finding particles that have exited the domain
+17029620 particles exited the domain
+Elapsed time is 3.108722 seconds.
+-----------------------------------
+Reading par00089.h5
+Finding particles that have exited the domain
+17111103 particles exited the domain
+Elapsed time is 3.075639 seconds.
+-----------------------------------
+Reading par00090.h5
+Finding particles that have exited the domain
+17190799 particles exited the domain
+Elapsed time is 3.062237 seconds.
+-----------------------------------
+Reading par00091.h5
+Finding particles that have exited the domain
+17269106 particles exited the domain
+Elapsed time is 3.111184 seconds.
+-----------------------------------
+Reading par00092.h5
+Finding particles that have exited the domain
+17345504 particles exited the domain
+Elapsed time is 3.039217 seconds.
+-----------------------------------
+Reading par00093.h5
+Finding particles that have exited the domain
+17420449 particles exited the domain
+Elapsed time is 2.991334 seconds.
+-----------------------------------
+Reading par00094.h5
+Finding particles that have exited the domain
+17493985 particles exited the domain
+Elapsed time is 2.998436 seconds.
+-----------------------------------
+Reading par00095.h5
+Finding particles that have exited the domain
+17566931 particles exited the domain
+Elapsed time is 3.011672 seconds.
+-----------------------------------
+Reading par00096.h5
+Finding particles that have exited the domain
+17638765 particles exited the domain
+Elapsed time is 2.940149 seconds.
+-----------------------------------
+Reading par00097.h5
+Finding particles that have exited the domain
+17708964 particles exited the domain
+Elapsed time is 2.981732 seconds.
+-----------------------------------
+Reading par00098.h5
+Finding particles that have exited the domain
+17777474 particles exited the domain
+Elapsed time is 2.872944 seconds.
+-----------------------------------
+Reading par00099.h5
+Finding particles that have exited the domain
+17844197 particles exited the domain
+Elapsed time is 2.906109 seconds.
+-----------------------------------
+Reading par00100.h5
+Finding particles that have exited the domain
+17909340 particles exited the domain
+Elapsed time is 2.828577 seconds.
+-----------------------------------
+Reading par00101.h5
+Finding particles that have exited the domain
+17972711 particles exited the domain
+Elapsed time is 2.776679 seconds.
+-----------------------------------
+Reading par00102.h5
+Finding particles that have exited the domain
+18034471 particles exited the domain
+Elapsed time is 2.787840 seconds.
+-----------------------------------
+Reading par00103.h5
+Finding particles that have exited the domain
+18094743 particles exited the domain
+Elapsed time is 2.731393 seconds.
+-----------------------------------
+Reading par00104.h5
+Finding particles that have exited the domain
+18154265 particles exited the domain
+Elapsed time is 2.719156 seconds.
+-----------------------------------
+Reading par00105.h5
+Finding particles that have exited the domain
+18211354 particles exited the domain
+Elapsed time is 2.660752 seconds.
+-----------------------------------
+Reading par00106.h5
+Finding particles that have exited the domain
+18267360 particles exited the domain
+Elapsed time is 2.654786 seconds.
+-----------------------------------
+Reading par00107.h5
+Finding particles that have exited the domain
+18321861 particles exited the domain
+Elapsed time is 2.693841 seconds.
+-----------------------------------
+Reading par00108.h5
+Finding particles that have exited the domain
+18375222 particles exited the domain
+Elapsed time is 2.771169 seconds.
+-----------------------------------
+Reading par00109.h5
+Finding particles that have exited the domain
+18427825 particles exited the domain
+Elapsed time is 2.592680 seconds.
+-----------------------------------
+Reading par00110.h5
+Finding particles that have exited the domain
+18479260 particles exited the domain
+Elapsed time is 2.526533 seconds.
+-----------------------------------
+Reading par00111.h5
+Finding particles that have exited the domain
+18529489 particles exited the domain
+Elapsed time is 2.525249 seconds.
+-----------------------------------
+Reading par00112.h5
+Finding particles that have exited the domain
+18578221 particles exited the domain
+Elapsed time is 2.501920 seconds.
+-----------------------------------
+Reading par00113.h5
+Finding particles that have exited the domain
+18626097 particles exited the domain
+Elapsed time is 2.503110 seconds.
+-----------------------------------
+Reading par00114.h5
+Finding particles that have exited the domain
+18672846 particles exited the domain
+Elapsed time is 2.445604 seconds.
+-----------------------------------
+Reading par00115.h5
+Finding particles that have exited the domain
+18718214 particles exited the domain
+Elapsed time is 2.434468 seconds.
+-----------------------------------
+Reading par00116.h5
+Finding particles that have exited the domain
+18761959 particles exited the domain
+Elapsed time is 2.424253 seconds.
+-----------------------------------
+Reading par00117.h5
+Finding particles that have exited the domain
+18804588 particles exited the domain
+Elapsed time is 2.419889 seconds.
+-----------------------------------
+Reading par00118.h5
+Finding particles that have exited the domain
+18846510 particles exited the domain
+Elapsed time is 2.415170 seconds.
+-----------------------------------
+Reading par00119.h5
+Finding particles that have exited the domain
+18887128 particles exited the domain
+Elapsed time is 2.493593 seconds.
+-----------------------------------
+Reading par00120.h5
+Finding particles that have exited the domain
+18926555 particles exited the domain
+Elapsed time is 2.432280 seconds.
+-----------------------------------
+Reading par00121.h5
+Finding particles that have exited the domain
+18965283 particles exited the domain
+Elapsed time is 2.441694 seconds.
+-----------------------------------
+Reading par00122.h5
+Finding particles that have exited the domain
+19003346 particles exited the domain
+Elapsed time is 2.459400 seconds.
+-----------------------------------
+Reading par00123.h5
+Finding particles that have exited the domain
+19040181 particles exited the domain
+Elapsed time is 2.745548 seconds.
+-----------------------------------
+Reading par00124.h5
+Finding particles that have exited the domain
+19076317 particles exited the domain
+Elapsed time is 2.492101 seconds.
+-----------------------------------
+Reading par00125.h5
+Finding particles that have exited the domain
+19111429 particles exited the domain
+Elapsed time is 2.498727 seconds.
+-----------------------------------
+Reading par00126.h5
+Finding particles that have exited the domain
+19145707 particles exited the domain
+Elapsed time is 2.429319 seconds.
+-----------------------------------
+Reading par00127.h5
+Finding particles that have exited the domain
+19179346 particles exited the domain
+Elapsed time is 2.355802 seconds.
+-----------------------------------
+Reading par00128.h5
+Finding particles that have exited the domain
+19212234 particles exited the domain
+Elapsed time is 2.376545 seconds.
+-----------------------------------
+Reading par00129.h5
+Finding particles that have exited the domain
+19244418 particles exited the domain
+Elapsed time is 2.339403 seconds.
+-----------------------------------
+Reading par00130.h5
+Finding particles that have exited the domain
+19275599 particles exited the domain
+Elapsed time is 2.265172 seconds.
+-----------------------------------
+Reading par00131.h5
+Finding particles that have exited the domain
+19306401 particles exited the domain
+Elapsed time is 2.227780 seconds.
+-----------------------------------
+Reading par00132.h5
+Finding particles that have exited the domain
+19336172 particles exited the domain
+Elapsed time is 2.180230 seconds.
+-----------------------------------
+Reading par00133.h5
+Finding particles that have exited the domain
+19364986 particles exited the domain
+Elapsed time is 2.204697 seconds.
+-----------------------------------
+Reading par00134.h5
+Finding particles that have exited the domain
+19393704 particles exited the domain
+Elapsed time is 2.150117 seconds.
+-----------------------------------
+Reading par00135.h5
+Finding particles that have exited the domain
+19421578 particles exited the domain
+Elapsed time is 2.128856 seconds.
+-----------------------------------
+Reading par00136.h5
+Finding particles that have exited the domain
+19448448 particles exited the domain
+Elapsed time is 2.169652 seconds.
+-----------------------------------
+Reading par00137.h5
+Finding particles that have exited the domain
+19474611 particles exited the domain
+Elapsed time is 2.070578 seconds.
+-----------------------------------
+Reading par00138.h5
+Finding particles that have exited the domain
+19500100 particles exited the domain
+Elapsed time is 2.065904 seconds.
+-----------------------------------
+Reading par00139.h5
+Finding particles that have exited the domain
+19525248 particles exited the domain
+Elapsed time is 2.127681 seconds.
+-----------------------------------
+Reading par00140.h5
+Finding particles that have exited the domain
+19549632 particles exited the domain
+Elapsed time is 2.134982 seconds.
+-----------------------------------
+Reading par00141.h5
+Finding particles that have exited the domain
+19573466 particles exited the domain
+Elapsed time is 2.173449 seconds.
+-----------------------------------
+Reading par00142.h5
+Finding particles that have exited the domain
+19596554 particles exited the domain
+Elapsed time is 2.084494 seconds.
+-----------------------------------
+Reading par00143.h5
+Finding particles that have exited the domain
+19619147 particles exited the domain
+Elapsed time is 2.118040 seconds.
+-----------------------------------
+Reading par00144.h5
+Finding particles that have exited the domain
+19641468 particles exited the domain
+Elapsed time is 2.087164 seconds.
+-----------------------------------
+Reading par00145.h5
+Finding particles that have exited the domain
+19662952 particles exited the domain
+Elapsed time is 2.092254 seconds.
+-----------------------------------
+Reading par00146.h5
+Finding particles that have exited the domain
+19684231 particles exited the domain
+Elapsed time is 2.081689 seconds.
+-----------------------------------
+Reading par00147.h5
+Finding particles that have exited the domain
+19704937 particles exited the domain
+Elapsed time is 2.111461 seconds.
+-----------------------------------
+Reading par00148.h5
+Finding particles that have exited the domain
+19725170 particles exited the domain
+Elapsed time is 2.119255 seconds.
+-----------------------------------
+Reading par00149.h5
+Finding particles that have exited the domain
+19744681 particles exited the domain
+Elapsed time is 2.144523 seconds.
+-----------------------------------
+Reading par00150.h5
+Finding particles that have exited the domain
+19763746 particles exited the domain
+Elapsed time is 2.096361 seconds.
+-----------------------------------
+Reading par00151.h5
+Finding particles that have exited the domain
+19782440 particles exited the domain
+Elapsed time is 2.094688 seconds.
+-----------------------------------
+Reading par00152.h5
+Finding particles that have exited the domain
+19800614 particles exited the domain
+Elapsed time is 2.064492 seconds.
+-----------------------------------
+Reading par00153.h5
+Finding particles that have exited the domain
+19818609 particles exited the domain
+Elapsed time is 2.081036 seconds.
+-----------------------------------
+Reading par00154.h5
+Finding particles that have exited the domain
+19836112 particles exited the domain
+Elapsed time is 2.027695 seconds.
+-----------------------------------
+Reading par00155.h5
+Finding particles that have exited the domain
+19852762 particles exited the domain
+Elapsed time is 2.030003 seconds.
+-----------------------------------
+Reading par00156.h5
+Finding particles that have exited the domain
+19869221 particles exited the domain
+Elapsed time is 1.971123 seconds.
+-----------------------------------
+Reading par00157.h5
+Finding particles that have exited the domain
+19885331 particles exited the domain
+Elapsed time is 1.963401 seconds.
+-----------------------------------
+Reading par00158.h5
+Finding particles that have exited the domain
+19900748 particles exited the domain
+Elapsed time is 1.936957 seconds.
+-----------------------------------
+Reading par00159.h5
+Finding particles that have exited the domain
+19915837 particles exited the domain
+Elapsed time is 1.933750 seconds.
+-----------------------------------
+Reading par00160.h5
+Finding particles that have exited the domain
+19930665 particles exited the domain
+Elapsed time is 1.960832 seconds.
+-----------------------------------
+Reading par00161.h5
+Finding particles that have exited the domain
+19945175 particles exited the domain
+Elapsed time is 1.876207 seconds.
+-----------------------------------
+Reading par00162.h5
+Finding particles that have exited the domain
+19959301 particles exited the domain
+Elapsed time is 1.928350 seconds.
+-----------------------------------
+Reading par00163.h5
+Finding particles that have exited the domain
+19972879 particles exited the domain
+Elapsed time is 1.837850 seconds.
+-----------------------------------
+Reading par00164.h5
+Finding particles that have exited the domain
+19986221 particles exited the domain
+Elapsed time is 1.830945 seconds.
+-----------------------------------
+Reading par00165.h5
+Finding particles that have exited the domain
+19999353 particles exited the domain
+Elapsed time is 1.882376 seconds.
+-----------------------------------
+Reading par00166.h5
+Finding particles that have exited the domain
+20012080 particles exited the domain
+Elapsed time is 1.826660 seconds.
+-----------------------------------
+Reading par00167.h5
+Finding particles that have exited the domain
+20024722 particles exited the domain
+Elapsed time is 1.852053 seconds.
+-----------------------------------
+Reading par00168.h5
+Finding particles that have exited the domain
+20036970 particles exited the domain
+Elapsed time is 1.854680 seconds.
+-----------------------------------
+Reading par00169.h5
+Finding particles that have exited the domain
+20049070 particles exited the domain
+Elapsed time is 1.866755 seconds.
+-----------------------------------
+Reading par00170.h5
+Finding particles that have exited the domain
+20061050 particles exited the domain
+Elapsed time is 1.845191 seconds.
+-----------------------------------
+Reading par00171.h5
+Finding particles that have exited the domain
+20072362 particles exited the domain
+Elapsed time is 1.864703 seconds.
+-----------------------------------
+Reading par00172.h5
+Finding particles that have exited the domain
+20083514 particles exited the domain
+Elapsed time is 1.858071 seconds.
+-----------------------------------
+Reading par00173.h5
+Finding particles that have exited the domain
+20094229 particles exited the domain
+Elapsed time is 1.874547 seconds.
+-----------------------------------
+Reading par00174.h5
+Finding particles that have exited the domain
+20104556 particles exited the domain
+Elapsed time is 1.916159 seconds.
+-----------------------------------
+Reading par00175.h5
+Finding particles that have exited the domain
+20114477 particles exited the domain
+Elapsed time is 1.893207 seconds.
+-----------------------------------
+Reading par00176.h5
+Finding particles that have exited the domain
+20124083 particles exited the domain
+Elapsed time is 1.883377 seconds.
+-----------------------------------
+Reading par00177.h5
+Finding particles that have exited the domain
+20133641 particles exited the domain
+Elapsed time is 1.891675 seconds.
+-----------------------------------
+Reading par00178.h5
+Finding particles that have exited the domain
+20142824 particles exited the domain
+Elapsed time is 1.844450 seconds.
+-----------------------------------
+Reading par00179.h5
+Finding particles that have exited the domain
+20151749 particles exited the domain
+Elapsed time is 1.963725 seconds.
+-----------------------------------
+Reading par00180.h5
+Finding particles that have exited the domain
+20160292 particles exited the domain
+Elapsed time is 1.826273 seconds.
+-----------------------------------
+Reading par00181.h5
+Finding particles that have exited the domain
+20168771 particles exited the domain
+Elapsed time is 1.798392 seconds.
+-----------------------------------
+Reading par00182.h5
+Finding particles that have exited the domain
+20177091 particles exited the domain
+Elapsed time is 1.778620 seconds.
+-----------------------------------
+Reading par00183.h5
+Finding particles that have exited the domain
+20185217 particles exited the domain
+Elapsed time is 1.784299 seconds.
+-----------------------------------
+Reading par00184.h5
+Finding particles that have exited the domain
+20193055 particles exited the domain
+Elapsed time is 1.710377 seconds.
+-----------------------------------
+Reading par00185.h5
+Finding particles that have exited the domain
+20200704 particles exited the domain
+Elapsed time is 1.741064 seconds.
+-----------------------------------
+Reading par00186.h5
+Finding particles that have exited the domain
+20208178 particles exited the domain
+Elapsed time is 1.714629 seconds.
+-----------------------------------
+Reading par00187.h5
+Finding particles that have exited the domain
+20215560 particles exited the domain
+Elapsed time is 1.793296 seconds.
+-----------------------------------
+Reading par00188.h5
+Finding particles that have exited the domain
+20222733 particles exited the domain
+Elapsed time is 1.674657 seconds.
+-----------------------------------
+Reading par00189.h5
+Finding particles that have exited the domain
+20229587 particles exited the domain
+Elapsed time is 1.682166 seconds.
+-----------------------------------
+Reading par00190.h5
+Finding particles that have exited the domain
+20236396 particles exited the domain
+Elapsed time is 1.677248 seconds.
+-----------------------------------
+Reading par00191.h5
+Finding particles that have exited the domain
+20242938 particles exited the domain
+Elapsed time is 1.691829 seconds.
+-----------------------------------
+Reading par00192.h5
+Finding particles that have exited the domain
+20249266 particles exited the domain
+Elapsed time is 1.677340 seconds.
+-----------------------------------
+Reading par00193.h5
+Finding particles that have exited the domain
+20255438 particles exited the domain
+Elapsed time is 1.744816 seconds.
+-----------------------------------
+Reading par00194.h5
+Finding particles that have exited the domain
+20261340 particles exited the domain
+Elapsed time is 1.678180 seconds.
+-----------------------------------
+Reading par00195.h5
+Finding particles that have exited the domain
+20267320 particles exited the domain
+Elapsed time is 1.694294 seconds.
+-----------------------------------
+Reading par00196.h5
+Finding particles that have exited the domain
+20273108 particles exited the domain
+Elapsed time is 1.760095 seconds.
+-----------------------------------
+Reading par00197.h5
+Finding particles that have exited the domain
+20278587 particles exited the domain
+Elapsed time is 1.721549 seconds.
+-----------------------------------
+Reading par00198.h5
+Finding particles that have exited the domain
+20283970 particles exited the domain
+Elapsed time is 1.705539 seconds.
+-----------------------------------
+Reading par00199.h5
+Finding particles that have exited the domain
+20289237 particles exited the domain
+Elapsed time is 1.742685 seconds.
+-----------------------------------
+Reading par00200.h5
+Finding particles that have exited the domain
+20294406 particles exited the domain
+Elapsed time is 1.709175 seconds.
+-----------------------------------
+Reading par00201.h5
+Finding particles that have exited the domain
+20299363 particles exited the domain
+Elapsed time is 1.725330 seconds.
+-----------------------------------
+Reading par00202.h5
+Finding particles that have exited the domain
+20304182 particles exited the domain
+Elapsed time is 1.731696 seconds.
+-----------------------------------
+Reading par00203.h5
+Finding particles that have exited the domain
+20308902 particles exited the domain
+Elapsed time is 1.716968 seconds.
+-----------------------------------
+Reading par00204.h5
+Finding particles that have exited the domain
+20313425 particles exited the domain
+Elapsed time is 1.679104 seconds.
+-----------------------------------
+Reading par00205.h5
+Finding particles that have exited the domain
+20317893 particles exited the domain
+Elapsed time is 1.694378 seconds.
+-----------------------------------
+Reading par00206.h5
+Finding particles that have exited the domain
+20322227 particles exited the domain
+Elapsed time is 1.638507 seconds.
+-----------------------------------
+Reading par00207.h5
+Finding particles that have exited the domain
+20326391 particles exited the domain
+Elapsed time is 1.641679 seconds.
+-----------------------------------
+Reading par00208.h5
+Finding particles that have exited the domain
+20330509 particles exited the domain
+Elapsed time is 1.622245 seconds.
+-----------------------------------
+Reading par00209.h5
+Finding particles that have exited the domain
+20334497 particles exited the domain
+Elapsed time is 1.619670 seconds.
+-----------------------------------
+Reading par00210.h5
+Finding particles that have exited the domain
+20338312 particles exited the domain
+Elapsed time is 1.578271 seconds.
+-----------------------------------
+Reading par00211.h5
+Finding particles that have exited the domain
+20342211 particles exited the domain
+Elapsed time is 1.575129 seconds.
+-----------------------------------
+Reading par00212.h5
+Finding particles that have exited the domain
+20345945 particles exited the domain
+Elapsed time is 1.532825 seconds.
+-----------------------------------
+Reading par00213.h5
+Finding particles that have exited the domain
+20349612 particles exited the domain
+Elapsed time is 1.539282 seconds.
+-----------------------------------
+Reading par00214.h5
+Finding particles that have exited the domain
+20353234 particles exited the domain
+Elapsed time is 1.547571 seconds.
+-----------------------------------
+Reading par00215.h5
+Finding particles that have exited the domain
+20356642 particles exited the domain
+Elapsed time is 1.567701 seconds.
+-----------------------------------
+Reading par00216.h5
+Finding particles that have exited the domain
+20359979 particles exited the domain
+Elapsed time is 1.548706 seconds.
+-----------------------------------
+Reading par00217.h5
+Finding particles that have exited the domain
+20363261 particles exited the domain
+Elapsed time is 1.568088 seconds.
+-----------------------------------
+Reading par00218.h5
+Finding particles that have exited the domain
+20366349 particles exited the domain
+Elapsed time is 1.537894 seconds.
+-----------------------------------
+Reading par00219.h5
+Finding particles that have exited the domain
+20369514 particles exited the domain
+Elapsed time is 1.565529 seconds.
+-----------------------------------
+Reading par00220.h5
+Finding particles that have exited the domain
+20372493 particles exited the domain
+Elapsed time is 1.539685 seconds.
+-----------------------------------
+Reading par00221.h5
+Finding particles that have exited the domain
+20375388 particles exited the domain
+Elapsed time is 1.559387 seconds.
+-----------------------------------
+Reading par00222.h5
+Finding particles that have exited the domain
+20378161 particles exited the domain
+Elapsed time is 1.551591 seconds.
+-----------------------------------
+Reading par00223.h5
+Finding particles that have exited the domain
+20380956 particles exited the domain
+Elapsed time is 1.572064 seconds.
+-----------------------------------
+Reading par00224.h5
+Finding particles that have exited the domain
+20383679 particles exited the domain
+Elapsed time is 1.642719 seconds.
+-----------------------------------
+Reading par00225.h5
+Finding particles that have exited the domain
+20386358 particles exited the domain
+Elapsed time is 1.601436 seconds.
+-----------------------------------
+Reading par00226.h5
+Finding particles that have exited the domain
+20388997 particles exited the domain
+Elapsed time is 1.572485 seconds.
+-----------------------------------
+Reading par00227.h5
+Finding particles that have exited the domain
+20391551 particles exited the domain
+Elapsed time is 1.580978 seconds.
+-----------------------------------
+Reading par00228.h5
+Finding particles that have exited the domain
+20393990 particles exited the domain
+Elapsed time is 1.569572 seconds.
+-----------------------------------
+Reading par00229.h5
+Finding particles that have exited the domain
+20396438 particles exited the domain
+Elapsed time is 1.575446 seconds.
+-----------------------------------
+Reading par00230.h5
+Finding particles that have exited the domain
+20398770 particles exited the domain
+Elapsed time is 1.552948 seconds.
+-----------------------------------
+Reading par00231.h5
+Finding particles that have exited the domain
+20401122 particles exited the domain
+Elapsed time is 1.553344 seconds.
+-----------------------------------
+Reading par00232.h5
+Finding particles that have exited the domain
+20403297 particles exited the domain
+Elapsed time is 1.530868 seconds.
+-----------------------------------
+Reading par00233.h5
+Finding particles that have exited the domain
+20405481 particles exited the domain
+Elapsed time is 1.519037 seconds.
+-----------------------------------
+Reading par00234.h5
+Finding particles that have exited the domain
+20407530 particles exited the domain
+Elapsed time is 1.505208 seconds.
+-----------------------------------
+Reading par00235.h5
+Finding particles that have exited the domain
+20409577 particles exited the domain
+Elapsed time is 1.484116 seconds.
+-----------------------------------
+Reading par00236.h5
+Finding particles that have exited the domain
+20411492 particles exited the domain
+Elapsed time is 1.438446 seconds.
+-----------------------------------
+Reading par00237.h5
+Finding particles that have exited the domain
+20413406 particles exited the domain
+Elapsed time is 1.426180 seconds.
+-----------------------------------
+Reading par00238.h5
+Finding particles that have exited the domain
+20415196 particles exited the domain
+Elapsed time is 1.401629 seconds.
+-----------------------------------
+Reading par00239.h5
+Finding particles that have exited the domain
+20416934 particles exited the domain
+Elapsed time is 1.415988 seconds.
+-----------------------------------
+Reading par00240.h5
+Finding particles that have exited the domain
+20418637 particles exited the domain
+Elapsed time is 1.407620 seconds.
+-----------------------------------
+Reading par00241.h5
+Finding particles that have exited the domain
+20420318 particles exited the domain
+Elapsed time is 1.442509 seconds.
+-----------------------------------
+Reading par00242.h5
+Finding particles that have exited the domain
+20421938 particles exited the domain
+Elapsed time is 1.418493 seconds.
+-----------------------------------
+Reading par00243.h5
+Finding particles that have exited the domain
+20423484 particles exited the domain
+Elapsed time is 1.439632 seconds.
+-----------------------------------
+Reading par00244.h5
+Finding particles that have exited the domain
+20424969 particles exited the domain
+Elapsed time is 1.432724 seconds.
+-----------------------------------
+Reading par00245.h5
+Finding particles that have exited the domain
+20426456 particles exited the domain
+Elapsed time is 1.457573 seconds.
+-----------------------------------
+Reading par00246.h5
+Finding particles that have exited the domain
+20427927 particles exited the domain
+Elapsed time is 1.441675 seconds.
+-----------------------------------
+Reading par00247.h5
+Finding particles that have exited the domain
+20429395 particles exited the domain
+Elapsed time is 1.460241 seconds.
+-----------------------------------
+Reading par00248.h5
+Finding particles that have exited the domain
+20430734 particles exited the domain
+Elapsed time is 1.448744 seconds.
+-----------------------------------
+Reading par00249.h5
+Finding particles that have exited the domain
+20432102 particles exited the domain
+Elapsed time is 1.460573 seconds.
+-----------------------------------
+Reading par00250.h5
+Finding particles that have exited the domain
+20433398 particles exited the domain
+Elapsed time is 1.440398 seconds.
+-----------------------------------
+Reading par00251.h5
+Finding particles that have exited the domain
+20434739 particles exited the domain
+Elapsed time is 1.450688 seconds.
+-----------------------------------
+Reading par00252.h5
+Finding particles that have exited the domain
+20435994 particles exited the domain
+Elapsed time is 1.429201 seconds.
+-----------------------------------
+Reading par00253.h5
+Finding particles that have exited the domain
+20437219 particles exited the domain
+Elapsed time is 1.436366 seconds.
+-----------------------------------
+Reading par00254.h5
+Finding particles that have exited the domain
+20438386 particles exited the domain
+Elapsed time is 1.422776 seconds.
+-----------------------------------
+Reading par00255.h5
+Finding particles that have exited the domain
+20439552 particles exited the domain
+Elapsed time is 1.451522 seconds.
+-----------------------------------
+Reading par00256.h5
+Finding particles that have exited the domain
+20440629 particles exited the domain
+Elapsed time is 1.407066 seconds.
+-----------------------------------
+Reading par00257.h5
+Finding particles that have exited the domain
+20441708 particles exited the domain
+Elapsed time is 1.425059 seconds.
+-----------------------------------
+Reading par00258.h5
+Finding particles that have exited the domain
+20442740 particles exited the domain
+Elapsed time is 1.382503 seconds.
+-----------------------------------
+Reading par00259.h5
+Finding particles that have exited the domain
+20443761 particles exited the domain
+Elapsed time is 1.369197 seconds.
+-----------------------------------
+Reading par00260.h5
+Finding particles that have exited the domain
+20444797 particles exited the domain
+Elapsed time is 1.348949 seconds.
+-----------------------------------
+Reading par00261.h5
+Finding particles that have exited the domain
+20445808 particles exited the domain
+Elapsed time is 1.343143 seconds.
+-----------------------------------
+Reading par00262.h5
+Finding particles that have exited the domain
+20446764 particles exited the domain
+Elapsed time is 1.329486 seconds.
+-----------------------------------
+Reading par00263.h5
+Finding particles that have exited the domain
+20447697 particles exited the domain
+Elapsed time is 1.318868 seconds.
+-----------------------------------
+Reading par00264.h5
+Finding particles that have exited the domain
+20448578 particles exited the domain
+Elapsed time is 1.311803 seconds.
+-----------------------------------
+Reading par00265.h5
+Finding particles that have exited the domain
+20449432 particles exited the domain
+Elapsed time is 1.332454 seconds.
+-----------------------------------
+Reading par00266.h5
+Finding particles that have exited the domain
+20450283 particles exited the domain
+Elapsed time is 1.323216 seconds.
+-----------------------------------
+Reading par00267.h5
+Finding particles that have exited the domain
+20451069 particles exited the domain
+Elapsed time is 1.355147 seconds.
+-----------------------------------
+Reading par00268.h5
+Finding particles that have exited the domain
+20451924 particles exited the domain
+Elapsed time is 1.327346 seconds.
+-----------------------------------
+Reading par00269.h5
+Finding particles that have exited the domain
+20452700 particles exited the domain
+Elapsed time is 1.396511 seconds.
+-----------------------------------
+Reading par00270.h5
+Finding particles that have exited the domain
+20453436 particles exited the domain
+Elapsed time is 1.352561 seconds.
+-----------------------------------
+Reading par00271.h5
+Finding particles that have exited the domain
+20454192 particles exited the domain
+Elapsed time is 1.352981 seconds.
+-----------------------------------
+Reading par00272.h5
+Finding particles that have exited the domain
+20454885 particles exited the domain
+Elapsed time is 1.340137 seconds.
+-----------------------------------
+Reading par00273.h5
+Finding particles that have exited the domain
+20455522 particles exited the domain
+Elapsed time is 1.347693 seconds.
+-----------------------------------
+Reading par00274.h5
+Finding particles that have exited the domain
+20456184 particles exited the domain
+Elapsed time is 1.328954 seconds.
+-----------------------------------
+Reading par00275.h5
+Finding particles that have exited the domain
+20456867 particles exited the domain
+Elapsed time is 1.339700 seconds.
+-----------------------------------
+Reading par00276.h5
+Finding particles that have exited the domain
+20457472 particles exited the domain
+Elapsed time is 1.321318 seconds.
+-----------------------------------
+Reading par00277.h5
+Finding particles that have exited the domain
+20458049 particles exited the domain
+Elapsed time is 1.356856 seconds.
+-----------------------------------
+Reading par00278.h5
+Finding particles that have exited the domain
+20458664 particles exited the domain
+Elapsed time is 1.325622 seconds.
+-----------------------------------
+Reading par00279.h5
+Finding particles that have exited the domain
+20459242 particles exited the domain
+Elapsed time is 1.312932 seconds.
+-----------------------------------
+Reading par00280.h5
+Finding particles that have exited the domain
+20459847 particles exited the domain
+Elapsed time is 1.290200 seconds.
+-----------------------------------
+Reading par00281.h5
+Finding particles that have exited the domain
+20460418 particles exited the domain
+Elapsed time is 1.295249 seconds.
+Time difference b/w outputs is 1 sec
+Final output time that is read is 280 sec
+File saved

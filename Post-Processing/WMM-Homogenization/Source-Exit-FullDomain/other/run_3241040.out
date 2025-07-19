@@ -1,0 +1,2808 @@
+Wed Jun 16 17:57:18 EDT 2021
+c26a-s22.ufhpc
+[H[2J-----------------------------------
+Reading par00001.h5
+Elapsed time is 0.913326 seconds.
+-----------------------------------
+Reading par00002.h5
+Elapsed time is 0.662608 seconds.
+Finding particles that have exited the domain
+Elapsed time is 13.436812 seconds.
+Recording exit location of particles
+Elapsed time is 0.528488 seconds.
+Updating x,y,z location of airborne particles
+170329 particles exited the domain
+Elapsed time is 17.604010 seconds.
+-----------------------------------
+Reading par00003.h5
+Elapsed time is 0.763394 seconds.
+Finding particles that have exited the domain
+Elapsed time is 13.713482 seconds.
+Recording exit location of particles
+Elapsed time is 0.464973 seconds.
+Updating x,y,z location of airborne particles
+373109 particles exited the domain
+Elapsed time is 18.672809 seconds.
+-----------------------------------
+Reading par00004.h5
+Elapsed time is 0.699405 seconds.
+Finding particles that have exited the domain
+Elapsed time is 13.372018 seconds.
+Recording exit location of particles
+Elapsed time is 0.484399 seconds.
+Updating x,y,z location of airborne particles
+608534 particles exited the domain
+Elapsed time is 19.265314 seconds.
+-----------------------------------
+Reading par00005.h5
+Elapsed time is 0.810132 seconds.
+Finding particles that have exited the domain
+Elapsed time is 13.244280 seconds.
+Recording exit location of particles
+Elapsed time is 0.463740 seconds.
+Updating x,y,z location of airborne particles
+870025 particles exited the domain
+Elapsed time is 19.532372 seconds.
+-----------------------------------
+Reading par00006.h5
+Elapsed time is 0.654489 seconds.
+Finding particles that have exited the domain
+Elapsed time is 13.064561 seconds.
+Recording exit location of particles
+Elapsed time is 0.289503 seconds.
+Updating x,y,z location of airborne particles
+1145574 particles exited the domain
+Elapsed time is 19.277135 seconds.
+-----------------------------------
+Reading par00007.h5
+Elapsed time is 0.692918 seconds.
+Finding particles that have exited the domain
+Elapsed time is 13.057148 seconds.
+Recording exit location of particles
+Elapsed time is 0.280253 seconds.
+Updating x,y,z location of airborne particles
+1428905 particles exited the domain
+Elapsed time is 18.961671 seconds.
+-----------------------------------
+Reading par00008.h5
+Elapsed time is 0.696257 seconds.
+Finding particles that have exited the domain
+Elapsed time is 13.059555 seconds.
+Recording exit location of particles
+Elapsed time is 0.326952 seconds.
+Updating x,y,z location of airborne particles
+1710961 particles exited the domain
+Elapsed time is 18.956158 seconds.
+-----------------------------------
+Reading par00009.h5
+Elapsed time is 0.828473 seconds.
+Finding particles that have exited the domain
+Elapsed time is 12.973294 seconds.
+Recording exit location of particles
+Elapsed time is 0.280682 seconds.
+Updating x,y,z location of airborne particles
+1991944 particles exited the domain
+Elapsed time is 18.671897 seconds.
+-----------------------------------
+Reading par00010.h5
+Elapsed time is 0.799260 seconds.
+Finding particles that have exited the domain
+Elapsed time is 12.613371 seconds.
+Recording exit location of particles
+Elapsed time is 0.307063 seconds.
+Updating x,y,z location of airborne particles
+2274328 particles exited the domain
+Elapsed time is 18.433035 seconds.
+-----------------------------------
+Reading par00011.h5
+Elapsed time is 0.846029 seconds.
+Finding particles that have exited the domain
+Elapsed time is 12.677395 seconds.
+Recording exit location of particles
+Elapsed time is 0.289777 seconds.
+Updating x,y,z location of airborne particles
+2555979 particles exited the domain
+Elapsed time is 18.211863 seconds.
+-----------------------------------
+Reading par00012.h5
+Elapsed time is 0.671701 seconds.
+Finding particles that have exited the domain
+Elapsed time is 12.880177 seconds.
+Recording exit location of particles
+Elapsed time is 0.308857 seconds.
+Updating x,y,z location of airborne particles
+2837593 particles exited the domain
+Elapsed time is 17.988522 seconds.
+-----------------------------------
+Reading par00013.h5
+Elapsed time is 0.650542 seconds.
+Finding particles that have exited the domain
+Elapsed time is 12.602176 seconds.
+Recording exit location of particles
+Elapsed time is 0.296277 seconds.
+Updating x,y,z location of airborne particles
+3119621 particles exited the domain
+Elapsed time is 17.554901 seconds.
+-----------------------------------
+Reading par00014.h5
+Elapsed time is 0.569359 seconds.
+Finding particles that have exited the domain
+Elapsed time is 12.561610 seconds.
+Recording exit location of particles
+Elapsed time is 0.309758 seconds.
+Updating x,y,z location of airborne particles
+3403212 particles exited the domain
+Elapsed time is 17.313754 seconds.
+-----------------------------------
+Reading par00015.h5
+Elapsed time is 0.633130 seconds.
+Finding particles that have exited the domain
+Elapsed time is 12.845437 seconds.
+Recording exit location of particles
+Elapsed time is 0.292207 seconds.
+Updating x,y,z location of airborne particles
+3684594 particles exited the domain
+Elapsed time is 17.267253 seconds.
+-----------------------------------
+Reading par00016.h5
+Elapsed time is 0.617365 seconds.
+Finding particles that have exited the domain
+Elapsed time is 12.315125 seconds.
+Recording exit location of particles
+Elapsed time is 0.280266 seconds.
+Updating x,y,z location of airborne particles
+3964195 particles exited the domain
+Elapsed time is 16.924818 seconds.
+-----------------------------------
+Reading par00017.h5
+Elapsed time is 0.563987 seconds.
+Finding particles that have exited the domain
+Elapsed time is 11.817149 seconds.
+Recording exit location of particles
+Elapsed time is 0.346749 seconds.
+Updating x,y,z location of airborne particles
+4241287 particles exited the domain
+Elapsed time is 16.781097 seconds.
+-----------------------------------
+Reading par00018.h5
+Elapsed time is 0.849083 seconds.
+Finding particles that have exited the domain
+Elapsed time is 11.944436 seconds.
+Recording exit location of particles
+Elapsed time is 0.284660 seconds.
+Updating x,y,z location of airborne particles
+4518720 particles exited the domain
+Elapsed time is 16.590817 seconds.
+-----------------------------------
+Reading par00019.h5
+Elapsed time is 0.488729 seconds.
+Finding particles that have exited the domain
+Elapsed time is 11.844173 seconds.
+Recording exit location of particles
+Elapsed time is 0.309183 seconds.
+Updating x,y,z location of airborne particles
+4794546 particles exited the domain
+Elapsed time is 16.412406 seconds.
+-----------------------------------
+Reading par00020.h5
+Elapsed time is 0.497359 seconds.
+Finding particles that have exited the domain
+Elapsed time is 11.654443 seconds.
+Recording exit location of particles
+Elapsed time is 0.292699 seconds.
+Updating x,y,z location of airborne particles
+5070735 particles exited the domain
+Elapsed time is 15.999435 seconds.
+-----------------------------------
+Reading par00021.h5
+Elapsed time is 0.543824 seconds.
+Finding particles that have exited the domain
+Elapsed time is 11.430504 seconds.
+Recording exit location of particles
+Elapsed time is 0.308988 seconds.
+Updating x,y,z location of airborne particles
+5346877 particles exited the domain
+Elapsed time is 16.287565 seconds.
+-----------------------------------
+Reading par00022.h5
+Elapsed time is 0.482744 seconds.
+Finding particles that have exited the domain
+Elapsed time is 11.175335 seconds.
+Recording exit location of particles
+Elapsed time is 0.291973 seconds.
+Updating x,y,z location of airborne particles
+5620397 particles exited the domain
+Elapsed time is 15.604521 seconds.
+-----------------------------------
+Reading par00023.h5
+Elapsed time is 0.847097 seconds.
+Finding particles that have exited the domain
+Elapsed time is 11.031083 seconds.
+Recording exit location of particles
+Elapsed time is 0.279870 seconds.
+Updating x,y,z location of airborne particles
+5894048 particles exited the domain
+Elapsed time is 15.237850 seconds.
+-----------------------------------
+Reading par00024.h5
+Elapsed time is 0.508807 seconds.
+Finding particles that have exited the domain
+Elapsed time is 10.955125 seconds.
+Recording exit location of particles
+Elapsed time is 0.306790 seconds.
+Updating x,y,z location of airborne particles
+6165929 particles exited the domain
+Elapsed time is 15.028347 seconds.
+-----------------------------------
+Reading par00025.h5
+Elapsed time is 0.600141 seconds.
+Finding particles that have exited the domain
+Elapsed time is 11.068629 seconds.
+Recording exit location of particles
+Elapsed time is 0.295273 seconds.
+Updating x,y,z location of airborne particles
+6437392 particles exited the domain
+Elapsed time is 14.878122 seconds.
+-----------------------------------
+Reading par00026.h5
+Elapsed time is 0.527287 seconds.
+Finding particles that have exited the domain
+Elapsed time is 10.731914 seconds.
+Recording exit location of particles
+Elapsed time is 0.280111 seconds.
+Updating x,y,z location of airborne particles
+6704731 particles exited the domain
+Elapsed time is 14.901444 seconds.
+-----------------------------------
+Reading par00027.h5
+Elapsed time is 0.460320 seconds.
+Finding particles that have exited the domain
+Elapsed time is 10.896052 seconds.
+Recording exit location of particles
+Elapsed time is 0.306747 seconds.
+Updating x,y,z location of airborne particles
+6971810 particles exited the domain
+Elapsed time is 14.413197 seconds.
+-----------------------------------
+Reading par00028.h5
+Elapsed time is 0.453393 seconds.
+Finding particles that have exited the domain
+Elapsed time is 10.505948 seconds.
+Recording exit location of particles
+Elapsed time is 0.293748 seconds.
+Updating x,y,z location of airborne particles
+7235132 particles exited the domain
+Elapsed time is 14.153627 seconds.
+-----------------------------------
+Reading par00029.h5
+Elapsed time is 0.490085 seconds.
+Finding particles that have exited the domain
+Elapsed time is 10.384182 seconds.
+Recording exit location of particles
+Elapsed time is 0.279036 seconds.
+Updating x,y,z location of airborne particles
+7494027 particles exited the domain
+Elapsed time is 13.874211 seconds.
+-----------------------------------
+Reading par00030.h5
+Elapsed time is 0.411435 seconds.
+Finding particles that have exited the domain
+Elapsed time is 10.223622 seconds.
+Recording exit location of particles
+Elapsed time is 0.319117 seconds.
+Updating x,y,z location of airborne particles
+7749854 particles exited the domain
+Elapsed time is 13.783656 seconds.
+-----------------------------------
+Reading par00031.h5
+Elapsed time is 0.481573 seconds.
+Finding particles that have exited the domain
+Elapsed time is 10.236476 seconds.
+Recording exit location of particles
+Elapsed time is 0.281570 seconds.
+Updating x,y,z location of airborne particles
+8002866 particles exited the domain
+Elapsed time is 13.389550 seconds.
+-----------------------------------
+Reading par00032.h5
+Elapsed time is 0.756104 seconds.
+Finding particles that have exited the domain
+Elapsed time is 10.051848 seconds.
+Recording exit location of particles
+Elapsed time is 0.307023 seconds.
+Updating x,y,z location of airborne particles
+8253138 particles exited the domain
+Elapsed time is 13.243260 seconds.
+-----------------------------------
+Reading par00033.h5
+Elapsed time is 0.406882 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.909817 seconds.
+Recording exit location of particles
+Elapsed time is 0.293276 seconds.
+Updating x,y,z location of airborne particles
+8501202 particles exited the domain
+Elapsed time is 13.042489 seconds.
+-----------------------------------
+Reading par00034.h5
+Elapsed time is 0.372245 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.903899 seconds.
+Recording exit location of particles
+Elapsed time is 0.279432 seconds.
+Updating x,y,z location of airborne particles
+8745675 particles exited the domain
+Elapsed time is 12.815016 seconds.
+-----------------------------------
+Reading par00035.h5
+Elapsed time is 0.346307 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.791226 seconds.
+Recording exit location of particles
+Elapsed time is 0.318485 seconds.
+Updating x,y,z location of airborne particles
+8985783 particles exited the domain
+Elapsed time is 12.566979 seconds.
+-----------------------------------
+Reading par00036.h5
+Elapsed time is 0.438927 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.785707 seconds.
+Recording exit location of particles
+Elapsed time is 0.279654 seconds.
+Updating x,y,z location of airborne particles
+9223180 particles exited the domain
+Elapsed time is 12.437400 seconds.
+-----------------------------------
+Reading par00037.h5
+Elapsed time is 0.439495 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.647209 seconds.
+Recording exit location of particles
+Elapsed time is 0.278935 seconds.
+Updating x,y,z location of airborne particles
+9459657 particles exited the domain
+Elapsed time is 12.323921 seconds.
+-----------------------------------
+Reading par00038.h5
+Elapsed time is 0.399391 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.709200 seconds.
+Recording exit location of particles
+Elapsed time is 0.293437 seconds.
+Updating x,y,z location of airborne particles
+9694008 particles exited the domain
+Elapsed time is 11.936642 seconds.
+-----------------------------------
+Reading par00039.h5
+Elapsed time is 0.376003 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.336280 seconds.
+Recording exit location of particles
+Elapsed time is 0.278829 seconds.
+Updating x,y,z location of airborne particles
+9923919 particles exited the domain
+Elapsed time is 11.623928 seconds.
+-----------------------------------
+Reading par00040.h5
+Elapsed time is 0.367014 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.208467 seconds.
+Recording exit location of particles
+Elapsed time is 0.277518 seconds.
+Updating x,y,z location of airborne particles
+10148787 particles exited the domain
+Elapsed time is 11.502806 seconds.
+-----------------------------------
+Reading par00041.h5
+Elapsed time is 0.351737 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.030951 seconds.
+Recording exit location of particles
+Elapsed time is 0.298641 seconds.
+Updating x,y,z location of airborne particles
+10370893 particles exited the domain
+Elapsed time is 11.306382 seconds.
+-----------------------------------
+Reading par00042.h5
+Elapsed time is 0.312221 seconds.
+Finding particles that have exited the domain
+Elapsed time is 9.294788 seconds.
+Recording exit location of particles
+Elapsed time is 0.278860 seconds.
+Updating x,y,z location of airborne particles
+10589442 particles exited the domain
+Elapsed time is 11.158800 seconds.
+-----------------------------------
+Reading par00043.h5
+Elapsed time is 0.347029 seconds.
+Finding particles that have exited the domain
+Elapsed time is 8.842268 seconds.
+Recording exit location of particles
+Elapsed time is 0.322609 seconds.
+Updating x,y,z location of airborne particles
+10803972 particles exited the domain
+Elapsed time is 10.941620 seconds.
+-----------------------------------
+Reading par00044.h5
+Elapsed time is 0.353132 seconds.
+Finding particles that have exited the domain
+Elapsed time is 8.844521 seconds.
+Recording exit location of particles
+Elapsed time is 0.278594 seconds.
+Updating x,y,z location of airborne particles
+11012193 particles exited the domain
+Elapsed time is 10.720564 seconds.
+-----------------------------------
+Reading par00045.h5
+Elapsed time is 0.598842 seconds.
+Finding particles that have exited the domain
+Elapsed time is 8.658048 seconds.
+Recording exit location of particles
+Elapsed time is 0.278013 seconds.
+Updating x,y,z location of airborne particles
+11215011 particles exited the domain
+Elapsed time is 10.403641 seconds.
+-----------------------------------
+Reading par00046.h5
+Elapsed time is 0.315275 seconds.
+Finding particles that have exited the domain
+Elapsed time is 8.458890 seconds.
+Recording exit location of particles
+Elapsed time is 0.279452 seconds.
+Updating x,y,z location of airborne particles
+11412586 particles exited the domain
+Elapsed time is 10.359063 seconds.
+-----------------------------------
+Reading par00047.h5
+Elapsed time is 0.315859 seconds.
+Finding particles that have exited the domain
+Elapsed time is 8.067544 seconds.
+Recording exit location of particles
+Elapsed time is 0.319510 seconds.
+Updating x,y,z location of airborne particles
+11606299 particles exited the domain
+Elapsed time is 10.157886 seconds.
+-----------------------------------
+Reading par00048.h5
+Elapsed time is 0.359708 seconds.
+Finding particles that have exited the domain
+Elapsed time is 8.021675 seconds.
+Recording exit location of particles
+Elapsed time is 0.277609 seconds.
+Updating x,y,z location of airborne particles
+11798220 particles exited the domain
+Elapsed time is 9.883939 seconds.
+-----------------------------------
+Reading par00049.h5
+Elapsed time is 0.282541 seconds.
+Finding particles that have exited the domain
+Elapsed time is 7.990025 seconds.
+Recording exit location of particles
+Elapsed time is 0.277482 seconds.
+Updating x,y,z location of airborne particles
+11987344 particles exited the domain
+Elapsed time is 9.781323 seconds.
+-----------------------------------
+Reading par00050.h5
+Elapsed time is 0.260587 seconds.
+Finding particles that have exited the domain
+Elapsed time is 7.998913 seconds.
+Recording exit location of particles
+Elapsed time is 0.321463 seconds.
+Updating x,y,z location of airborne particles
+12173178 particles exited the domain
+Elapsed time is 9.629881 seconds.
+-----------------------------------
+Reading par00051.h5
+Elapsed time is 0.267410 seconds.
+Finding particles that have exited the domain
+Elapsed time is 7.658450 seconds.
+Recording exit location of particles
+Elapsed time is 0.279811 seconds.
+Updating x,y,z location of airborne particles
+12354895 particles exited the domain
+Elapsed time is 9.373245 seconds.
+-----------------------------------
+Reading par00052.h5
+Elapsed time is 0.303058 seconds.
+Finding particles that have exited the domain
+Elapsed time is 7.250466 seconds.
+Recording exit location of particles
+Elapsed time is 0.278777 seconds.
+Updating x,y,z location of airborne particles
+12533639 particles exited the domain
+Elapsed time is 9.178467 seconds.
+-----------------------------------
+Reading par00053.h5
+Elapsed time is 0.304076 seconds.
+Finding particles that have exited the domain
+Elapsed time is 7.788068 seconds.
+Recording exit location of particles
+Elapsed time is 0.277513 seconds.
+Updating x,y,z location of airborne particles
+12707726 particles exited the domain
+Elapsed time is 9.193875 seconds.
+-----------------------------------
+Reading par00054.h5
+Elapsed time is 0.528088 seconds.
+Finding particles that have exited the domain
+Elapsed time is 7.594677 seconds.
+Recording exit location of particles
+Elapsed time is 0.332075 seconds.
+Updating x,y,z location of airborne particles
+12877986 particles exited the domain
+Elapsed time is 9.152447 seconds.
+-----------------------------------
+Reading par00055.h5
+Elapsed time is 0.224715 seconds.
+Finding particles that have exited the domain
+Elapsed time is 7.193293 seconds.
+Recording exit location of particles
+Elapsed time is 0.280333 seconds.
+Updating x,y,z location of airborne particles
+13044092 particles exited the domain
+Elapsed time is 8.777358 seconds.
+-----------------------------------
+Reading par00056.h5
+Elapsed time is 0.248086 seconds.
+Finding particles that have exited the domain
+Elapsed time is 7.218397 seconds.
+Recording exit location of particles
+Elapsed time is 0.293776 seconds.
+Updating x,y,z location of airborne particles
+13207767 particles exited the domain
+Elapsed time is 8.698226 seconds.
+-----------------------------------
+Reading par00057.h5
+Elapsed time is 0.249525 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.900838 seconds.
+Recording exit location of particles
+Elapsed time is 0.288557 seconds.
+Updating x,y,z location of airborne particles
+13368052 particles exited the domain
+Elapsed time is 8.799846 seconds.
+-----------------------------------
+Reading par00058.h5
+Elapsed time is 0.213610 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.887734 seconds.
+Recording exit location of particles
+Elapsed time is 0.292454 seconds.
+Updating x,y,z location of airborne particles
+13524998 particles exited the domain
+Elapsed time is 8.313045 seconds.
+-----------------------------------
+Reading par00059.h5
+Elapsed time is 0.252750 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.746529 seconds.
+Recording exit location of particles
+Elapsed time is 0.280443 seconds.
+Updating x,y,z location of airborne particles
+13680439 particles exited the domain
+Elapsed time is 8.169349 seconds.
+-----------------------------------
+Reading par00060.h5
+Elapsed time is 0.205260 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.586406 seconds.
+Recording exit location of particles
+Elapsed time is 0.277417 seconds.
+Updating x,y,z location of airborne particles
+13831573 particles exited the domain
+Elapsed time is 8.054845 seconds.
+-----------------------------------
+Reading par00061.h5
+Elapsed time is 0.266824 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.541923 seconds.
+Recording exit location of particles
+Elapsed time is 0.289525 seconds.
+Updating x,y,z location of airborne particles
+13980448 particles exited the domain
+Elapsed time is 7.939612 seconds.
+-----------------------------------
+Reading par00062.h5
+Elapsed time is 0.264588 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.572660 seconds.
+Recording exit location of particles
+Elapsed time is 0.290303 seconds.
+Updating x,y,z location of airborne particles
+14126885 particles exited the domain
+Elapsed time is 7.818894 seconds.
+-----------------------------------
+Reading par00063.h5
+Elapsed time is 0.216270 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.176039 seconds.
+Recording exit location of particles
+Elapsed time is 0.280426 seconds.
+Updating x,y,z location of airborne particles
+14272278 particles exited the domain
+Elapsed time is 7.587299 seconds.
+-----------------------------------
+Reading par00064.h5
+Elapsed time is 0.328254 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.417782 seconds.
+Recording exit location of particles
+Elapsed time is 0.277342 seconds.
+Updating x,y,z location of airborne particles
+14415564 particles exited the domain
+Elapsed time is 7.599080 seconds.
+-----------------------------------
+Reading par00065.h5
+Elapsed time is 0.234141 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.099727 seconds.
+Recording exit location of particles
+Elapsed time is 0.286578 seconds.
+Updating x,y,z location of airborne particles
+14556100 particles exited the domain
+Elapsed time is 7.743141 seconds.
+-----------------------------------
+Reading par00066.h5
+Elapsed time is 0.288694 seconds.
+Finding particles that have exited the domain
+Elapsed time is 6.060218 seconds.
+Recording exit location of particles
+Elapsed time is 0.331830 seconds.
+Updating x,y,z location of airborne particles
+14692021 particles exited the domain
+Elapsed time is 7.301400 seconds.
+-----------------------------------
+Reading par00067.h5
+Elapsed time is 0.207146 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.938731 seconds.
+Recording exit location of particles
+Elapsed time is 0.280642 seconds.
+Updating x,y,z location of airborne particles
+14824296 particles exited the domain
+Elapsed time is 7.181979 seconds.
+-----------------------------------
+Reading par00068.h5
+Elapsed time is 0.238799 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.951439 seconds.
+Recording exit location of particles
+Elapsed time is 0.280772 seconds.
+Updating x,y,z location of airborne particles
+14952656 particles exited the domain
+Elapsed time is 6.963532 seconds.
+-----------------------------------
+Reading par00069.h5
+Elapsed time is 0.219775 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.752799 seconds.
+Recording exit location of particles
+Elapsed time is 0.276982 seconds.
+Updating x,y,z location of airborne particles
+15077845 particles exited the domain
+Elapsed time is 6.920476 seconds.
+-----------------------------------
+Reading par00070.h5
+Elapsed time is 0.274248 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.819622 seconds.
+Recording exit location of particles
+Elapsed time is 0.278490 seconds.
+Updating x,y,z location of airborne particles
+15200041 particles exited the domain
+Elapsed time is 6.874006 seconds.
+-----------------------------------
+Reading par00071.h5
+Elapsed time is 0.187972 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.323027 seconds.
+Recording exit location of particles
+Elapsed time is 0.303801 seconds.
+Updating x,y,z location of airborne particles
+15320112 particles exited the domain
+Elapsed time is 6.355836 seconds.
+-----------------------------------
+Reading par00072.h5
+Elapsed time is 0.290915 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.512125 seconds.
+Recording exit location of particles
+Elapsed time is 0.279845 seconds.
+Updating x,y,z location of airborne particles
+15437613 particles exited the domain
+Elapsed time is 6.574433 seconds.
+-----------------------------------
+Reading par00073.h5
+Elapsed time is 0.246875 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.202682 seconds.
+Recording exit location of particles
+Elapsed time is 0.278187 seconds.
+Updating x,y,z location of airborne particles
+15553321 particles exited the domain
+Elapsed time is 6.255860 seconds.
+-----------------------------------
+Reading par00074.h5
+Elapsed time is 0.492552 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.210242 seconds.
+Recording exit location of particles
+Elapsed time is 0.292303 seconds.
+Updating x,y,z location of airborne particles
+15666862 particles exited the domain
+Elapsed time is 6.100769 seconds.
+-----------------------------------
+Reading par00075.h5
+Elapsed time is 0.187438 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.170162 seconds.
+Recording exit location of particles
+Elapsed time is 0.277479 seconds.
+Updating x,y,z location of airborne particles
+15777872 particles exited the domain
+Elapsed time is 6.217778 seconds.
+-----------------------------------
+Reading par00076.h5
+Elapsed time is 0.247714 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.977032 seconds.
+Recording exit location of particles
+Elapsed time is 0.288183 seconds.
+Updating x,y,z location of airborne particles
+15885903 particles exited the domain
+Elapsed time is 6.342850 seconds.
+-----------------------------------
+Reading par00077.h5
+Elapsed time is 0.168571 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.950180 seconds.
+Recording exit location of particles
+Elapsed time is 0.279660 seconds.
+Updating x,y,z location of airborne particles
+15992536 particles exited the domain
+Elapsed time is 6.072847 seconds.
+-----------------------------------
+Reading par00078.h5
+Elapsed time is 0.171035 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.739666 seconds.
+Recording exit location of particles
+Elapsed time is 0.278728 seconds.
+Updating x,y,z location of airborne particles
+16096776 particles exited the domain
+Elapsed time is 5.999447 seconds.
+-----------------------------------
+Reading par00079.h5
+Elapsed time is 0.338472 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.678495 seconds.
+Recording exit location of particles
+Elapsed time is 0.276715 seconds.
+Updating x,y,z location of airborne particles
+16199179 particles exited the domain
+Elapsed time is 6.045707 seconds.
+-----------------------------------
+Reading par00080.h5
+Elapsed time is 0.171083 seconds.
+Finding particles that have exited the domain
+Elapsed time is 5.258534 seconds.
+Recording exit location of particles
+Elapsed time is 0.297455 seconds.
+Updating x,y,z location of airborne particles
+16301032 particles exited the domain
+Elapsed time is 5.717227 seconds.
+-----------------------------------
+Reading par00081.h5
+Elapsed time is 0.179799 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.327171 seconds.
+Recording exit location of particles
+Elapsed time is 0.322593 seconds.
+Updating x,y,z location of airborne particles
+16400396 particles exited the domain
+Elapsed time is 5.427277 seconds.
+-----------------------------------
+Reading par00082.h5
+Elapsed time is 0.157638 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.186397 seconds.
+Recording exit location of particles
+Elapsed time is 0.280664 seconds.
+Updating x,y,z location of airborne particles
+16497352 particles exited the domain
+Elapsed time is 5.312820 seconds.
+-----------------------------------
+Reading par00083.h5
+Elapsed time is 0.147390 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.153218 seconds.
+Recording exit location of particles
+Elapsed time is 0.276521 seconds.
+Updating x,y,z location of airborne particles
+16591729 particles exited the domain
+Elapsed time is 5.495716 seconds.
+-----------------------------------
+Reading par00084.h5
+Elapsed time is 0.131268 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.177178 seconds.
+Recording exit location of particles
+Elapsed time is 0.276633 seconds.
+Updating x,y,z location of airborne particles
+16684021 particles exited the domain
+Elapsed time is 5.216326 seconds.
+-----------------------------------
+Reading par00085.h5
+Elapsed time is 0.221092 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.044862 seconds.
+Recording exit location of particles
+Elapsed time is 0.597799 seconds.
+Updating x,y,z location of airborne particles
+16773756 particles exited the domain
+Elapsed time is 5.111492 seconds.
+-----------------------------------
+Reading par00086.h5
+Elapsed time is 0.222152 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.210585 seconds.
+Recording exit location of particles
+Elapsed time is 0.665420 seconds.
+Updating x,y,z location of airborne particles
+16861876 particles exited the domain
+Elapsed time is 5.020202 seconds.
+-----------------------------------
+Reading par00087.h5
+Elapsed time is 0.185673 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.162657 seconds.
+Recording exit location of particles
+Elapsed time is 0.299912 seconds.
+Updating x,y,z location of airborne particles
+16946688 particles exited the domain
+Elapsed time is 4.952376 seconds.
+-----------------------------------
+Reading par00088.h5
+Elapsed time is 0.128001 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.111216 seconds.
+Recording exit location of particles
+Elapsed time is 0.280742 seconds.
+Updating x,y,z location of airborne particles
+17029620 particles exited the domain
+Elapsed time is 4.841775 seconds.
+-----------------------------------
+Reading par00089.h5
+Elapsed time is 0.123356 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.088742 seconds.
+Recording exit location of particles
+Elapsed time is 0.278104 seconds.
+Updating x,y,z location of airborne particles
+17111103 particles exited the domain
+Elapsed time is 4.726182 seconds.
+-----------------------------------
+Reading par00090.h5
+Elapsed time is 0.110911 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.051240 seconds.
+Recording exit location of particles
+Elapsed time is 0.286024 seconds.
+Updating x,y,z location of airborne particles
+17190799 particles exited the domain
+Elapsed time is 4.720993 seconds.
+-----------------------------------
+Reading par00091.h5
+Elapsed time is 0.113816 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.015984 seconds.
+Recording exit location of particles
+Elapsed time is 0.277252 seconds.
+Updating x,y,z location of airborne particles
+17269106 particles exited the domain
+Elapsed time is 4.616975 seconds.
+-----------------------------------
+Reading par00092.h5
+Elapsed time is 0.134355 seconds.
+Finding particles that have exited the domain
+Elapsed time is 4.033490 seconds.
+Recording exit location of particles
+Elapsed time is 0.277884 seconds.
+Updating x,y,z location of airborne particles
+17345504 particles exited the domain
+Elapsed time is 4.578123 seconds.
+-----------------------------------
+Reading par00093.h5
+Elapsed time is 0.125277 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.907095 seconds.
+Recording exit location of particles
+Elapsed time is 0.284424 seconds.
+Updating x,y,z location of airborne particles
+17420449 particles exited the domain
+Elapsed time is 4.802437 seconds.
+-----------------------------------
+Reading par00094.h5
+Elapsed time is 0.141986 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.896432 seconds.
+Recording exit location of particles
+Elapsed time is 0.284879 seconds.
+Updating x,y,z location of airborne particles
+17493985 particles exited the domain
+Elapsed time is 4.475075 seconds.
+-----------------------------------
+Reading par00095.h5
+Elapsed time is 0.132071 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.823103 seconds.
+Recording exit location of particles
+Elapsed time is 0.280662 seconds.
+Updating x,y,z location of airborne particles
+17566931 particles exited the domain
+Elapsed time is 4.407520 seconds.
+-----------------------------------
+Reading par00096.h5
+Elapsed time is 0.144122 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.729418 seconds.
+Recording exit location of particles
+Elapsed time is 0.279218 seconds.
+Updating x,y,z location of airborne particles
+17638765 particles exited the domain
+Elapsed time is 4.333061 seconds.
+-----------------------------------
+Reading par00097.h5
+Elapsed time is 0.125182 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.754287 seconds.
+Recording exit location of particles
+Elapsed time is 0.276998 seconds.
+Updating x,y,z location of airborne particles
+17708964 particles exited the domain
+Elapsed time is 4.253135 seconds.
+-----------------------------------
+Reading par00098.h5
+Elapsed time is 0.133713 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.724684 seconds.
+Recording exit location of particles
+Elapsed time is 0.277400 seconds.
+Updating x,y,z location of airborne particles
+17777474 particles exited the domain
+Elapsed time is 4.179559 seconds.
+-----------------------------------
+Reading par00099.h5
+Elapsed time is 0.129235 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.727932 seconds.
+Recording exit location of particles
+Elapsed time is 0.291885 seconds.
+Updating x,y,z location of airborne particles
+17844197 particles exited the domain
+Elapsed time is 4.096912 seconds.
+-----------------------------------
+Reading par00100.h5
+Elapsed time is 0.102484 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.633508 seconds.
+Recording exit location of particles
+Elapsed time is 0.276610 seconds.
+Updating x,y,z location of airborne particles
+17909340 particles exited the domain
+Elapsed time is 4.061557 seconds.
+-----------------------------------
+Reading par00101.h5
+Elapsed time is 0.105972 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.578727 seconds.
+Recording exit location of particles
+Elapsed time is 0.285329 seconds.
+Updating x,y,z location of airborne particles
+17972711 particles exited the domain
+Elapsed time is 4.006012 seconds.
+-----------------------------------
+Reading par00102.h5
+Elapsed time is 0.098212 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.503446 seconds.
+Recording exit location of particles
+Elapsed time is 0.282238 seconds.
+Updating x,y,z location of airborne particles
+18034471 particles exited the domain
+Elapsed time is 3.978697 seconds.
+-----------------------------------
+Reading par00103.h5
+Elapsed time is 0.111791 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.499981 seconds.
+Recording exit location of particles
+Elapsed time is 0.279132 seconds.
+Updating x,y,z location of airborne particles
+18094743 particles exited the domain
+Elapsed time is 3.907381 seconds.
+-----------------------------------
+Reading par00104.h5
+Elapsed time is 0.082561 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.410666 seconds.
+Recording exit location of particles
+Elapsed time is 0.277728 seconds.
+Updating x,y,z location of airborne particles
+18154265 particles exited the domain
+Elapsed time is 3.885440 seconds.
+-----------------------------------
+Reading par00105.h5
+Elapsed time is 0.092513 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.426057 seconds.
+Recording exit location of particles
+Elapsed time is 0.277393 seconds.
+Updating x,y,z location of airborne particles
+18211354 particles exited the domain
+Elapsed time is 3.733426 seconds.
+-----------------------------------
+Reading par00106.h5
+Elapsed time is 0.085506 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.364236 seconds.
+Recording exit location of particles
+Elapsed time is 0.291899 seconds.
+Updating x,y,z location of airborne particles
+18267360 particles exited the domain
+Elapsed time is 3.813847 seconds.
+-----------------------------------
+Reading par00107.h5
+Elapsed time is 0.227536 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.261919 seconds.
+Recording exit location of particles
+Elapsed time is 0.275792 seconds.
+Updating x,y,z location of airborne particles
+18321861 particles exited the domain
+Elapsed time is 3.729052 seconds.
+-----------------------------------
+Reading par00108.h5
+Elapsed time is 0.092687 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.533468 seconds.
+Recording exit location of particles
+Elapsed time is 0.276099 seconds.
+Updating x,y,z location of airborne particles
+18375222 particles exited the domain
+Elapsed time is 3.699571 seconds.
+-----------------------------------
+Reading par00109.h5
+Elapsed time is 0.084161 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.194447 seconds.
+Recording exit location of particles
+Elapsed time is 0.290518 seconds.
+Updating x,y,z location of airborne particles
+18427825 particles exited the domain
+Elapsed time is 3.566571 seconds.
+-----------------------------------
+Reading par00110.h5
+Elapsed time is 0.131770 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.144637 seconds.
+Recording exit location of particles
+Elapsed time is 0.276769 seconds.
+Updating x,y,z location of airborne particles
+18479260 particles exited the domain
+Elapsed time is 3.647083 seconds.
+-----------------------------------
+Reading par00111.h5
+Elapsed time is 0.110195 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.114286 seconds.
+Recording exit location of particles
+Elapsed time is 0.282914 seconds.
+Updating x,y,z location of airborne particles
+18529489 particles exited the domain
+Elapsed time is 3.530222 seconds.
+-----------------------------------
+Reading par00112.h5
+Elapsed time is 0.105755 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.183478 seconds.
+Recording exit location of particles
+Elapsed time is 0.280847 seconds.
+Updating x,y,z location of airborne particles
+18578221 particles exited the domain
+Elapsed time is 3.646920 seconds.
+-----------------------------------
+Reading par00113.h5
+Elapsed time is 0.086340 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.096350 seconds.
+Recording exit location of particles
+Elapsed time is 0.285242 seconds.
+Updating x,y,z location of airborne particles
+18626097 particles exited the domain
+Elapsed time is 3.491229 seconds.
+-----------------------------------
+Reading par00114.h5
+Elapsed time is 0.144602 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.119056 seconds.
+Recording exit location of particles
+Elapsed time is 0.277998 seconds.
+Updating x,y,z location of airborne particles
+18672846 particles exited the domain
+Elapsed time is 3.428463 seconds.
+-----------------------------------
+Reading par00115.h5
+Elapsed time is 0.104707 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.122609 seconds.
+Recording exit location of particles
+Elapsed time is 0.276472 seconds.
+Updating x,y,z location of airborne particles
+18718214 particles exited the domain
+Elapsed time is 3.392903 seconds.
+-----------------------------------
+Reading par00116.h5
+Elapsed time is 0.069711 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.095717 seconds.
+Recording exit location of particles
+Elapsed time is 0.279528 seconds.
+Updating x,y,z location of airborne particles
+18761959 particles exited the domain
+Elapsed time is 3.340828 seconds.
+-----------------------------------
+Reading par00117.h5
+Elapsed time is 0.121618 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.088618 seconds.
+Recording exit location of particles
+Elapsed time is 0.278758 seconds.
+Updating x,y,z location of airborne particles
+18804588 particles exited the domain
+Elapsed time is 3.289017 seconds.
+-----------------------------------
+Reading par00118.h5
+Elapsed time is 0.072972 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.050180 seconds.
+Recording exit location of particles
+Elapsed time is 0.285498 seconds.
+Updating x,y,z location of airborne particles
+18846510 particles exited the domain
+Elapsed time is 3.267017 seconds.
+-----------------------------------
+Reading par00119.h5
+Elapsed time is 0.117588 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.090603 seconds.
+Recording exit location of particles
+Elapsed time is 0.294382 seconds.
+Updating x,y,z location of airborne particles
+18887128 particles exited the domain
+Elapsed time is 3.213899 seconds.
+-----------------------------------
+Reading par00120.h5
+Elapsed time is 0.055997 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.090198 seconds.
+Recording exit location of particles
+Elapsed time is 0.287905 seconds.
+Updating x,y,z location of airborne particles
+18926555 particles exited the domain
+Elapsed time is 3.217824 seconds.
+-----------------------------------
+Reading par00121.h5
+Elapsed time is 0.066264 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.075690 seconds.
+Recording exit location of particles
+Elapsed time is 0.281250 seconds.
+Updating x,y,z location of airborne particles
+18965283 particles exited the domain
+Elapsed time is 3.176844 seconds.
+-----------------------------------
+Reading par00122.h5
+Elapsed time is 0.090598 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.082676 seconds.
+Recording exit location of particles
+Elapsed time is 0.279374 seconds.
+Updating x,y,z location of airborne particles
+19003346 particles exited the domain
+Elapsed time is 3.108516 seconds.
+-----------------------------------
+Reading par00123.h5
+Elapsed time is 0.103873 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.065711 seconds.
+Recording exit location of particles
+Elapsed time is 0.287688 seconds.
+Updating x,y,z location of airborne particles
+19040181 particles exited the domain
+Elapsed time is 3.109643 seconds.
+-----------------------------------
+Reading par00124.h5
+Elapsed time is 0.057340 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.007890 seconds.
+Recording exit location of particles
+Elapsed time is 0.277634 seconds.
+Updating x,y,z location of airborne particles
+19076317 particles exited the domain
+Elapsed time is 3.077646 seconds.
+-----------------------------------
+Reading par00125.h5
+Elapsed time is 0.070364 seconds.
+Finding particles that have exited the domain
+Elapsed time is 3.034602 seconds.
+Recording exit location of particles
+Elapsed time is 0.276693 seconds.
+Updating x,y,z location of airborne particles
+19111429 particles exited the domain
+Elapsed time is 3.005580 seconds.
+-----------------------------------
+Reading par00126.h5
+Elapsed time is 0.093493 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.943777 seconds.
+Recording exit location of particles
+Elapsed time is 0.279193 seconds.
+Updating x,y,z location of airborne particles
+19145707 particles exited the domain
+Elapsed time is 3.042976 seconds.
+-----------------------------------
+Reading par00127.h5
+Elapsed time is 0.070867 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.911975 seconds.
+Recording exit location of particles
+Elapsed time is 0.276987 seconds.
+Updating x,y,z location of airborne particles
+19179346 particles exited the domain
+Elapsed time is 2.976403 seconds.
+-----------------------------------
+Reading par00128.h5
+Elapsed time is 0.120166 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.910713 seconds.
+Recording exit location of particles
+Elapsed time is 0.276576 seconds.
+Updating x,y,z location of airborne particles
+19212234 particles exited the domain
+Elapsed time is 2.959284 seconds.
+-----------------------------------
+Reading par00129.h5
+Elapsed time is 0.056447 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.848679 seconds.
+Recording exit location of particles
+Elapsed time is 0.281589 seconds.
+Updating x,y,z location of airborne particles
+19244418 particles exited the domain
+Elapsed time is 2.926477 seconds.
+-----------------------------------
+Reading par00130.h5
+Elapsed time is 0.090748 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.830528 seconds.
+Recording exit location of particles
+Elapsed time is 0.278859 seconds.
+Updating x,y,z location of airborne particles
+19275599 particles exited the domain
+Elapsed time is 2.971385 seconds.
+-----------------------------------
+Reading par00131.h5
+Elapsed time is 0.058038 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.828346 seconds.
+Recording exit location of particles
+Elapsed time is 0.278195 seconds.
+Updating x,y,z location of airborne particles
+19306401 particles exited the domain
+Elapsed time is 2.872756 seconds.
+-----------------------------------
+Reading par00132.h5
+Elapsed time is 0.047490 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.724262 seconds.
+Recording exit location of particles
+Elapsed time is 0.278183 seconds.
+Updating x,y,z location of airborne particles
+19336172 particles exited the domain
+Elapsed time is 2.847762 seconds.
+-----------------------------------
+Reading par00133.h5
+Elapsed time is 0.056806 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.746834 seconds.
+Recording exit location of particles
+Elapsed time is 0.278019 seconds.
+Updating x,y,z location of airborne particles
+19364986 particles exited the domain
+Elapsed time is 2.811900 seconds.
+-----------------------------------
+Reading par00134.h5
+Elapsed time is 0.071608 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.678359 seconds.
+Recording exit location of particles
+Elapsed time is 0.276898 seconds.
+Updating x,y,z location of airborne particles
+19393704 particles exited the domain
+Elapsed time is 2.802244 seconds.
+-----------------------------------
+Reading par00135.h5
+Elapsed time is 0.075050 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.676788 seconds.
+Recording exit location of particles
+Elapsed time is 0.277565 seconds.
+Updating x,y,z location of airborne particles
+19421578 particles exited the domain
+Elapsed time is 2.730717 seconds.
+-----------------------------------
+Reading par00136.h5
+Elapsed time is 0.050387 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.646166 seconds.
+Recording exit location of particles
+Elapsed time is 0.276775 seconds.
+Updating x,y,z location of airborne particles
+19448448 particles exited the domain
+Elapsed time is 2.779600 seconds.
+-----------------------------------
+Reading par00137.h5
+Elapsed time is 0.054471 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.580735 seconds.
+Recording exit location of particles
+Elapsed time is 0.276930 seconds.
+Updating x,y,z location of airborne particles
+19474611 particles exited the domain
+Elapsed time is 2.729458 seconds.
+-----------------------------------
+Reading par00138.h5
+Elapsed time is 0.081473 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.898778 seconds.
+Recording exit location of particles
+Elapsed time is 0.277253 seconds.
+Updating x,y,z location of airborne particles
+19500100 particles exited the domain
+Elapsed time is 2.707571 seconds.
+-----------------------------------
+Reading par00139.h5
+Elapsed time is 0.096049 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.571660 seconds.
+Recording exit location of particles
+Elapsed time is 0.276557 seconds.
+Updating x,y,z location of airborne particles
+19525248 particles exited the domain
+Elapsed time is 2.716827 seconds.
+-----------------------------------
+Reading par00140.h5
+Elapsed time is 0.055027 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.589311 seconds.
+Recording exit location of particles
+Elapsed time is 0.277203 seconds.
+Updating x,y,z location of airborne particles
+19549632 particles exited the domain
+Elapsed time is 2.640711 seconds.
+-----------------------------------
+Reading par00141.h5
+Elapsed time is 0.048785 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.586493 seconds.
+Recording exit location of particles
+Elapsed time is 0.318250 seconds.
+Updating x,y,z location of airborne particles
+19573466 particles exited the domain
+Elapsed time is 2.783027 seconds.
+-----------------------------------
+Reading par00142.h5
+Elapsed time is 0.048821 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.587232 seconds.
+Recording exit location of particles
+Elapsed time is 0.279464 seconds.
+Updating x,y,z location of airborne particles
+19596554 particles exited the domain
+Elapsed time is 2.615763 seconds.
+-----------------------------------
+Reading par00143.h5
+Elapsed time is 0.064865 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.631047 seconds.
+Recording exit location of particles
+Elapsed time is 0.283986 seconds.
+Updating x,y,z location of airborne particles
+19619147 particles exited the domain
+Elapsed time is 2.604968 seconds.
+-----------------------------------
+Reading par00144.h5
+Elapsed time is 0.064595 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.582104 seconds.
+Recording exit location of particles
+Elapsed time is 0.277745 seconds.
+Updating x,y,z location of airborne particles
+19641468 particles exited the domain
+Elapsed time is 2.581267 seconds.
+-----------------------------------
+Reading par00145.h5
+Elapsed time is 0.053478 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.621492 seconds.
+Recording exit location of particles
+Elapsed time is 0.277272 seconds.
+Updating x,y,z location of airborne particles
+19662952 particles exited the domain
+Elapsed time is 2.569847 seconds.
+-----------------------------------
+Reading par00146.h5
+Elapsed time is 0.077341 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.587381 seconds.
+Recording exit location of particles
+Elapsed time is 0.276407 seconds.
+Updating x,y,z location of airborne particles
+19684231 particles exited the domain
+Elapsed time is 2.548681 seconds.
+-----------------------------------
+Reading par00147.h5
+Elapsed time is 0.138467 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.636297 seconds.
+Recording exit location of particles
+Elapsed time is 0.277186 seconds.
+Updating x,y,z location of airborne particles
+19704937 particles exited the domain
+Elapsed time is 2.512113 seconds.
+-----------------------------------
+Reading par00148.h5
+Elapsed time is 0.052749 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.596270 seconds.
+Recording exit location of particles
+Elapsed time is 0.278366 seconds.
+Updating x,y,z location of airborne particles
+19725170 particles exited the domain
+Elapsed time is 2.503466 seconds.
+-----------------------------------
+Reading par00149.h5
+Elapsed time is 0.055698 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.608474 seconds.
+Recording exit location of particles
+Elapsed time is 0.276086 seconds.
+Updating x,y,z location of airborne particles
+19744681 particles exited the domain
+Elapsed time is 2.516414 seconds.
+-----------------------------------
+Reading par00150.h5
+Elapsed time is 0.052497 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.623171 seconds.
+Recording exit location of particles
+Elapsed time is 0.284033 seconds.
+Updating x,y,z location of airborne particles
+19763746 particles exited the domain
+Elapsed time is 2.488431 seconds.
+-----------------------------------
+Reading par00151.h5
+Elapsed time is 0.042100 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.589515 seconds.
+Recording exit location of particles
+Elapsed time is 0.276818 seconds.
+Updating x,y,z location of airborne particles
+19782440 particles exited the domain
+Elapsed time is 2.484063 seconds.
+-----------------------------------
+Reading par00152.h5
+Elapsed time is 0.050220 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.687341 seconds.
+Recording exit location of particles
+Elapsed time is 0.277228 seconds.
+Updating x,y,z location of airborne particles
+19800614 particles exited the domain
+Elapsed time is 2.442368 seconds.
+-----------------------------------
+Reading par00153.h5
+Elapsed time is 0.067242 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.538731 seconds.
+Recording exit location of particles
+Elapsed time is 0.276208 seconds.
+Updating x,y,z location of airborne particles
+19818609 particles exited the domain
+Elapsed time is 2.468513 seconds.
+-----------------------------------
+Reading par00154.h5
+Elapsed time is 0.038733 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.552950 seconds.
+Recording exit location of particles
+Elapsed time is 0.279686 seconds.
+Updating x,y,z location of airborne particles
+19836112 particles exited the domain
+Elapsed time is 2.400319 seconds.
+-----------------------------------
+Reading par00155.h5
+Elapsed time is 0.057670 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.483064 seconds.
+Recording exit location of particles
+Elapsed time is 0.278672 seconds.
+Updating x,y,z location of airborne particles
+19852762 particles exited the domain
+Elapsed time is 2.403477 seconds.
+-----------------------------------
+Reading par00156.h5
+Elapsed time is 0.041468 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.505142 seconds.
+Recording exit location of particles
+Elapsed time is 0.278521 seconds.
+Updating x,y,z location of airborne particles
+19869221 particles exited the domain
+Elapsed time is 2.376879 seconds.
+-----------------------------------
+Reading par00157.h5
+Elapsed time is 0.051990 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.426517 seconds.
+Recording exit location of particles
+Elapsed time is 0.277717 seconds.
+Updating x,y,z location of airborne particles
+19885331 particles exited the domain
+Elapsed time is 2.392464 seconds.
+-----------------------------------
+Reading par00158.h5
+Elapsed time is 0.057053 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.402660 seconds.
+Recording exit location of particles
+Elapsed time is 0.276830 seconds.
+Updating x,y,z location of airborne particles
+19900748 particles exited the domain
+Elapsed time is 2.350638 seconds.
+-----------------------------------
+Reading par00159.h5
+Elapsed time is 0.086776 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.372040 seconds.
+Recording exit location of particles
+Elapsed time is 0.277102 seconds.
+Updating x,y,z location of airborne particles
+19915837 particles exited the domain
+Elapsed time is 2.364084 seconds.
+-----------------------------------
+Reading par00160.h5
+Elapsed time is 0.047460 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.348038 seconds.
+Recording exit location of particles
+Elapsed time is 0.276989 seconds.
+Updating x,y,z location of airborne particles
+19930665 particles exited the domain
+Elapsed time is 2.332818 seconds.
+-----------------------------------
+Reading par00161.h5
+Elapsed time is 0.047937 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.318899 seconds.
+Recording exit location of particles
+Elapsed time is 0.276478 seconds.
+Updating x,y,z location of airborne particles
+19945175 particles exited the domain
+Elapsed time is 2.347225 seconds.
+-----------------------------------
+Reading par00162.h5
+Elapsed time is 0.058008 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.372439 seconds.
+Recording exit location of particles
+Elapsed time is 0.276702 seconds.
+Updating x,y,z location of airborne particles
+19959301 particles exited the domain
+Elapsed time is 2.318342 seconds.
+-----------------------------------
+Reading par00163.h5
+Elapsed time is 0.050118 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.273526 seconds.
+Recording exit location of particles
+Elapsed time is 0.276365 seconds.
+Updating x,y,z location of airborne particles
+19972879 particles exited the domain
+Elapsed time is 2.305284 seconds.
+-----------------------------------
+Reading par00164.h5
+Elapsed time is 0.032914 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.274020 seconds.
+Recording exit location of particles
+Elapsed time is 0.277170 seconds.
+Updating x,y,z location of airborne particles
+19986221 particles exited the domain
+Elapsed time is 2.287594 seconds.
+-----------------------------------
+Reading par00165.h5
+Elapsed time is 0.046664 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.309885 seconds.
+Recording exit location of particles
+Elapsed time is 0.276504 seconds.
+Updating x,y,z location of airborne particles
+19999353 particles exited the domain
+Elapsed time is 2.272077 seconds.
+-----------------------------------
+Reading par00166.h5
+Elapsed time is 0.051794 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.285665 seconds.
+Recording exit location of particles
+Elapsed time is 0.276084 seconds.
+Updating x,y,z location of airborne particles
+20012080 particles exited the domain
+Elapsed time is 2.275384 seconds.
+-----------------------------------
+Reading par00167.h5
+Elapsed time is 0.031870 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.293277 seconds.
+Recording exit location of particles
+Elapsed time is 0.278281 seconds.
+Updating x,y,z location of airborne particles
+20024722 particles exited the domain
+Elapsed time is 2.271751 seconds.
+-----------------------------------
+Reading par00168.h5
+Elapsed time is 0.035890 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.298472 seconds.
+Recording exit location of particles
+Elapsed time is 0.276822 seconds.
+Updating x,y,z location of airborne particles
+20036970 particles exited the domain
+Elapsed time is 2.269668 seconds.
+-----------------------------------
+Reading par00169.h5
+Elapsed time is 0.054597 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.314048 seconds.
+Recording exit location of particles
+Elapsed time is 0.278980 seconds.
+Updating x,y,z location of airborne particles
+20049070 particles exited the domain
+Elapsed time is 2.237986 seconds.
+-----------------------------------
+Reading par00170.h5
+Elapsed time is 0.048097 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.315332 seconds.
+Recording exit location of particles
+Elapsed time is 0.278319 seconds.
+Updating x,y,z location of airborne particles
+20061050 particles exited the domain
+Elapsed time is 2.277545 seconds.
+-----------------------------------
+Reading par00171.h5
+Elapsed time is 0.118210 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.331173 seconds.
+Recording exit location of particles
+Elapsed time is 0.277201 seconds.
+Updating x,y,z location of airborne particles
+20072362 particles exited the domain
+Elapsed time is 2.461430 seconds.
+-----------------------------------
+Reading par00172.h5
+Elapsed time is 0.031922 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.320111 seconds.
+Recording exit location of particles
+Elapsed time is 0.276376 seconds.
+Updating x,y,z location of airborne particles
+20083514 particles exited the domain
+Elapsed time is 2.204692 seconds.
+-----------------------------------
+Reading par00173.h5
+Elapsed time is 0.181265 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.351522 seconds.
+Recording exit location of particles
+Elapsed time is 0.280321 seconds.
+Updating x,y,z location of airborne particles
+20094229 particles exited the domain
+Elapsed time is 2.195546 seconds.
+-----------------------------------
+Reading par00174.h5
+Elapsed time is 0.044579 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.336993 seconds.
+Recording exit location of particles
+Elapsed time is 0.277761 seconds.
+Updating x,y,z location of airborne particles
+20104556 particles exited the domain
+Elapsed time is 2.370465 seconds.
+-----------------------------------
+Reading par00175.h5
+Elapsed time is 0.053171 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.369554 seconds.
+Recording exit location of particles
+Elapsed time is 0.276680 seconds.
+Updating x,y,z location of airborne particles
+20114477 particles exited the domain
+Elapsed time is 2.191710 seconds.
+-----------------------------------
+Reading par00176.h5
+Elapsed time is 0.111167 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.342262 seconds.
+Recording exit location of particles
+Elapsed time is 0.277157 seconds.
+Updating x,y,z location of airborne particles
+20124083 particles exited the domain
+Elapsed time is 2.176379 seconds.
+-----------------------------------
+Reading par00177.h5
+Elapsed time is 0.055276 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.354090 seconds.
+Recording exit location of particles
+Elapsed time is 0.276677 seconds.
+Updating x,y,z location of airborne particles
+20133641 particles exited the domain
+Elapsed time is 2.499067 seconds.
+-----------------------------------
+Reading par00178.h5
+Elapsed time is 0.052904 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.334978 seconds.
+Recording exit location of particles
+Elapsed time is 0.276838 seconds.
+Updating x,y,z location of airborne particles
+20142824 particles exited the domain
+Elapsed time is 2.152902 seconds.
+-----------------------------------
+Reading par00179.h5
+Elapsed time is 0.035177 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.310853 seconds.
+Recording exit location of particles
+Elapsed time is 0.275959 seconds.
+Updating x,y,z location of airborne particles
+20151749 particles exited the domain
+Elapsed time is 2.150017 seconds.
+-----------------------------------
+Reading par00180.h5
+Elapsed time is 0.052628 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.522723 seconds.
+Recording exit location of particles
+Elapsed time is 0.284786 seconds.
+Updating x,y,z location of airborne particles
+20160292 particles exited the domain
+Elapsed time is 2.148999 seconds.
+-----------------------------------
+Reading par00181.h5
+Elapsed time is 0.032982 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.254507 seconds.
+Recording exit location of particles
+Elapsed time is 0.277467 seconds.
+Updating x,y,z location of airborne particles
+20168771 particles exited the domain
+Elapsed time is 2.141426 seconds.
+-----------------------------------
+Reading par00182.h5
+Elapsed time is 0.046064 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.206101 seconds.
+Recording exit location of particles
+Elapsed time is 0.276071 seconds.
+Updating x,y,z location of airborne particles
+20177091 particles exited the domain
+Elapsed time is 2.121339 seconds.
+-----------------------------------
+Reading par00183.h5
+Elapsed time is 0.124823 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.203064 seconds.
+Recording exit location of particles
+Elapsed time is 0.321541 seconds.
+Updating x,y,z location of airborne particles
+20185217 particles exited the domain
+Elapsed time is 2.105449 seconds.
+-----------------------------------
+Reading par00184.h5
+Elapsed time is 0.025252 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.157698 seconds.
+Recording exit location of particles
+Elapsed time is 0.278078 seconds.
+Updating x,y,z location of airborne particles
+20193055 particles exited the domain
+Elapsed time is 2.093655 seconds.
+-----------------------------------
+Reading par00185.h5
+Elapsed time is 0.057630 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.125000 seconds.
+Recording exit location of particles
+Elapsed time is 0.278858 seconds.
+Updating x,y,z location of airborne particles
+20200704 particles exited the domain
+Elapsed time is 2.169645 seconds.
+-----------------------------------
+Reading par00186.h5
+Elapsed time is 0.064383 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.113778 seconds.
+Recording exit location of particles
+Elapsed time is 0.276222 seconds.
+Updating x,y,z location of airborne particles
+20208178 particles exited the domain
+Elapsed time is 2.091679 seconds.
+-----------------------------------
+Reading par00187.h5
+Elapsed time is 0.041825 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.078955 seconds.
+Recording exit location of particles
+Elapsed time is 0.276597 seconds.
+Updating x,y,z location of airborne particles
+20215560 particles exited the domain
+Elapsed time is 2.105481 seconds.
+-----------------------------------
+Reading par00188.h5
+Elapsed time is 0.062290 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.073743 seconds.
+Recording exit location of particles
+Elapsed time is 0.276687 seconds.
+Updating x,y,z location of airborne particles
+20222733 particles exited the domain
+Elapsed time is 2.083758 seconds.
+-----------------------------------
+Reading par00189.h5
+Elapsed time is 0.038510 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.073646 seconds.
+Recording exit location of particles
+Elapsed time is 0.276078 seconds.
+Updating x,y,z location of airborne particles
+20229587 particles exited the domain
+Elapsed time is 2.090161 seconds.
+-----------------------------------
+Reading par00190.h5
+Elapsed time is 0.054364 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.088576 seconds.
+Recording exit location of particles
+Elapsed time is 0.275978 seconds.
+Updating x,y,z location of airborne particles
+20236396 particles exited the domain
+Elapsed time is 2.065490 seconds.
+-----------------------------------
+Reading par00191.h5
+Elapsed time is 0.031672 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.092337 seconds.
+Recording exit location of particles
+Elapsed time is 0.277043 seconds.
+Updating x,y,z location of airborne particles
+20242938 particles exited the domain
+Elapsed time is 2.143364 seconds.
+-----------------------------------
+Reading par00192.h5
+Elapsed time is 0.067573 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.115017 seconds.
+Recording exit location of particles
+Elapsed time is 0.277433 seconds.
+Updating x,y,z location of airborne particles
+20249266 particles exited the domain
+Elapsed time is 2.070272 seconds.
+-----------------------------------
+Reading par00193.h5
+Elapsed time is 0.024974 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.099408 seconds.
+Recording exit location of particles
+Elapsed time is 0.277187 seconds.
+Updating x,y,z location of airborne particles
+20255438 particles exited the domain
+Elapsed time is 2.065485 seconds.
+-----------------------------------
+Reading par00194.h5
+Elapsed time is 0.026264 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.128808 seconds.
+Recording exit location of particles
+Elapsed time is 0.281500 seconds.
+Updating x,y,z location of airborne particles
+20261340 particles exited the domain
+Elapsed time is 2.051709 seconds.
+-----------------------------------
+Reading par00195.h5
+Elapsed time is 0.023092 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.114070 seconds.
+Recording exit location of particles
+Elapsed time is 0.276574 seconds.
+Updating x,y,z location of airborne particles
+20267320 particles exited the domain
+Elapsed time is 2.034006 seconds.
+-----------------------------------
+Reading par00196.h5
+Elapsed time is 0.048780 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.120868 seconds.
+Recording exit location of particles
+Elapsed time is 0.275688 seconds.
+Updating x,y,z location of airborne particles
+20273108 particles exited the domain
+Elapsed time is 2.087350 seconds.
+-----------------------------------
+Reading par00197.h5
+Elapsed time is 0.027520 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.131171 seconds.
+Recording exit location of particles
+Elapsed time is 0.276569 seconds.
+Updating x,y,z location of airborne particles
+20278587 particles exited the domain
+Elapsed time is 2.028226 seconds.
+-----------------------------------
+Reading par00198.h5
+Elapsed time is 0.040438 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.136420 seconds.
+Recording exit location of particles
+Elapsed time is 0.276423 seconds.
+Updating x,y,z location of airborne particles
+20283970 particles exited the domain
+Elapsed time is 2.032667 seconds.
+-----------------------------------
+Reading par00199.h5
+Elapsed time is 0.053853 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.173457 seconds.
+Recording exit location of particles
+Elapsed time is 0.311631 seconds.
+Updating x,y,z location of airborne particles
+20289237 particles exited the domain
+Elapsed time is 2.030460 seconds.
+-----------------------------------
+Reading par00200.h5
+Elapsed time is 0.020129 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.142554 seconds.
+Recording exit location of particles
+Elapsed time is 0.277031 seconds.
+Updating x,y,z location of airborne particles
+20294406 particles exited the domain
+Elapsed time is 2.022824 seconds.
+-----------------------------------
+Reading par00201.h5
+Elapsed time is 0.042426 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.164653 seconds.
+Recording exit location of particles
+Elapsed time is 0.277150 seconds.
+Updating x,y,z location of airborne particles
+20299363 particles exited the domain
+Elapsed time is 2.076409 seconds.
+-----------------------------------
+Reading par00202.h5
+Elapsed time is 0.029459 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.152776 seconds.
+Recording exit location of particles
+Elapsed time is 0.275906 seconds.
+Updating x,y,z location of airborne particles
+20304182 particles exited the domain
+Elapsed time is 2.017268 seconds.
+-----------------------------------
+Reading par00203.h5
+Elapsed time is 0.061116 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.136561 seconds.
+Recording exit location of particles
+Elapsed time is 0.293084 seconds.
+Updating x,y,z location of airborne particles
+20308902 particles exited the domain
+Elapsed time is 2.014510 seconds.
+-----------------------------------
+Reading par00204.h5
+Elapsed time is 0.047847 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.114381 seconds.
+Recording exit location of particles
+Elapsed time is 0.276668 seconds.
+Updating x,y,z location of airborne particles
+20313425 particles exited the domain
+Elapsed time is 2.016122 seconds.
+-----------------------------------
+Reading par00205.h5
+Elapsed time is 0.024108 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.090245 seconds.
+Recording exit location of particles
+Elapsed time is 0.276148 seconds.
+Updating x,y,z location of airborne particles
+20317893 particles exited the domain
+Elapsed time is 2.003025 seconds.
+-----------------------------------
+Reading par00206.h5
+Elapsed time is 0.056352 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.090539 seconds.
+Recording exit location of particles
+Elapsed time is 0.276643 seconds.
+Updating x,y,z location of airborne particles
+20322227 particles exited the domain
+Elapsed time is 1.998760 seconds.
+-----------------------------------
+Reading par00207.h5
+Elapsed time is 0.026294 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.048004 seconds.
+Recording exit location of particles
+Elapsed time is 0.276801 seconds.
+Updating x,y,z location of airborne particles
+20326391 particles exited the domain
+Elapsed time is 1.991827 seconds.
+-----------------------------------
+Reading par00208.h5
+Elapsed time is 0.041235 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.025493 seconds.
+Recording exit location of particles
+Elapsed time is 0.276220 seconds.
+Updating x,y,z location of airborne particles
+20330509 particles exited the domain
+Elapsed time is 2.005594 seconds.
+-----------------------------------
+Reading par00209.h5
+Elapsed time is 0.032233 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.008817 seconds.
+Recording exit location of particles
+Elapsed time is 0.277398 seconds.
+Updating x,y,z location of airborne particles
+20334497 particles exited the domain
+Elapsed time is 1.983182 seconds.
+-----------------------------------
+Reading par00210.h5
+Elapsed time is 0.032196 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.977627 seconds.
+Recording exit location of particles
+Elapsed time is 0.277276 seconds.
+Updating x,y,z location of airborne particles
+20338312 particles exited the domain
+Elapsed time is 2.014495 seconds.
+-----------------------------------
+Reading par00211.h5
+Elapsed time is 0.031226 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.955400 seconds.
+Recording exit location of particles
+Elapsed time is 0.275796 seconds.
+Updating x,y,z location of airborne particles
+20342211 particles exited the domain
+Elapsed time is 1.981192 seconds.
+-----------------------------------
+Reading par00212.h5
+Elapsed time is 0.035636 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.942686 seconds.
+Recording exit location of particles
+Elapsed time is 0.277192 seconds.
+Updating x,y,z location of airborne particles
+20345945 particles exited the domain
+Elapsed time is 1.982127 seconds.
+-----------------------------------
+Reading par00213.h5
+Elapsed time is 0.030040 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.943973 seconds.
+Recording exit location of particles
+Elapsed time is 0.277492 seconds.
+Updating x,y,z location of airborne particles
+20349612 particles exited the domain
+Elapsed time is 1.982101 seconds.
+-----------------------------------
+Reading par00214.h5
+Elapsed time is 0.016984 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.911500 seconds.
+Recording exit location of particles
+Elapsed time is 0.299102 seconds.
+Updating x,y,z location of airborne particles
+20353234 particles exited the domain
+Elapsed time is 1.966538 seconds.
+-----------------------------------
+Reading par00215.h5
+Elapsed time is 0.042990 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.928185 seconds.
+Recording exit location of particles
+Elapsed time is 0.288860 seconds.
+Updating x,y,z location of airborne particles
+20356642 particles exited the domain
+Elapsed time is 1.975665 seconds.
+-----------------------------------
+Reading par00216.h5
+Elapsed time is 0.014157 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.938584 seconds.
+Recording exit location of particles
+Elapsed time is 0.308085 seconds.
+Updating x,y,z location of airborne particles
+20359979 particles exited the domain
+Elapsed time is 1.961815 seconds.
+-----------------------------------
+Reading par00217.h5
+Elapsed time is 0.040621 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.935031 seconds.
+Recording exit location of particles
+Elapsed time is 0.276866 seconds.
+Updating x,y,z location of airborne particles
+20363261 particles exited the domain
+Elapsed time is 1.983998 seconds.
+-----------------------------------
+Reading par00218.h5
+Elapsed time is 0.034720 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.944426 seconds.
+Recording exit location of particles
+Elapsed time is 0.276542 seconds.
+Updating x,y,z location of airborne particles
+20366349 particles exited the domain
+Elapsed time is 2.010810 seconds.
+-----------------------------------
+Reading par00219.h5
+Elapsed time is 0.023629 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.060639 seconds.
+Recording exit location of particles
+Elapsed time is 0.276891 seconds.
+Updating x,y,z location of airborne particles
+20369514 particles exited the domain
+Elapsed time is 1.960189 seconds.
+-----------------------------------
+Reading par00220.h5
+Elapsed time is 0.012248 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.978070 seconds.
+Recording exit location of particles
+Elapsed time is 0.276211 seconds.
+Updating x,y,z location of airborne particles
+20372493 particles exited the domain
+Elapsed time is 1.955858 seconds.
+-----------------------------------
+Reading par00221.h5
+Elapsed time is 0.009909 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.968096 seconds.
+Recording exit location of particles
+Elapsed time is 0.276227 seconds.
+Updating x,y,z location of airborne particles
+20375388 particles exited the domain
+Elapsed time is 1.953370 seconds.
+-----------------------------------
+Reading par00222.h5
+Elapsed time is 0.009697 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.975748 seconds.
+Recording exit location of particles
+Elapsed time is 0.275616 seconds.
+Updating x,y,z location of airborne particles
+20378161 particles exited the domain
+Elapsed time is 1.973145 seconds.
+-----------------------------------
+Reading par00223.h5
+Elapsed time is 0.008366 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.984531 seconds.
+Recording exit location of particles
+Elapsed time is 0.275902 seconds.
+Updating x,y,z location of airborne particles
+20380956 particles exited the domain
+Elapsed time is 1.946291 seconds.
+-----------------------------------
+Reading par00224.h5
+Elapsed time is 0.007676 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.993699 seconds.
+Recording exit location of particles
+Elapsed time is 0.276329 seconds.
+Updating x,y,z location of airborne particles
+20383679 particles exited the domain
+Elapsed time is 1.945746 seconds.
+-----------------------------------
+Reading par00225.h5
+Elapsed time is 0.010690 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.022364 seconds.
+Recording exit location of particles
+Elapsed time is 0.275698 seconds.
+Updating x,y,z location of airborne particles
+20386358 particles exited the domain
+Elapsed time is 1.943815 seconds.
+-----------------------------------
+Reading par00226.h5
+Elapsed time is 0.007804 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.996810 seconds.
+Recording exit location of particles
+Elapsed time is 0.276885 seconds.
+Updating x,y,z location of airborne particles
+20388997 particles exited the domain
+Elapsed time is 1.946552 seconds.
+-----------------------------------
+Reading par00227.h5
+Elapsed time is 0.007682 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.017214 seconds.
+Recording exit location of particles
+Elapsed time is 0.287926 seconds.
+Updating x,y,z location of airborne particles
+20391551 particles exited the domain
+Elapsed time is 1.940980 seconds.
+-----------------------------------
+Reading par00228.h5
+Elapsed time is 0.007612 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.995732 seconds.
+Recording exit location of particles
+Elapsed time is 0.276612 seconds.
+Updating x,y,z location of airborne particles
+20393990 particles exited the domain
+Elapsed time is 1.930010 seconds.
+-----------------------------------
+Reading par00229.h5
+Elapsed time is 0.009835 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.990597 seconds.
+Recording exit location of particles
+Elapsed time is 0.276103 seconds.
+Updating x,y,z location of airborne particles
+20396438 particles exited the domain
+Elapsed time is 1.974714 seconds.
+-----------------------------------
+Reading par00230.h5
+Elapsed time is 0.010072 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.153036 seconds.
+Recording exit location of particles
+Elapsed time is 0.278307 seconds.
+Updating x,y,z location of airborne particles
+20398770 particles exited the domain
+Elapsed time is 1.936181 seconds.
+-----------------------------------
+Reading par00231.h5
+Elapsed time is 0.007452 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.952593 seconds.
+Recording exit location of particles
+Elapsed time is 0.275583 seconds.
+Updating x,y,z location of airborne particles
+20401122 particles exited the domain
+Elapsed time is 1.931128 seconds.
+-----------------------------------
+Reading par00232.h5
+Elapsed time is 0.008892 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.954710 seconds.
+Recording exit location of particles
+Elapsed time is 0.276260 seconds.
+Updating x,y,z location of airborne particles
+20403297 particles exited the domain
+Elapsed time is 1.954888 seconds.
+-----------------------------------
+Reading par00233.h5
+Elapsed time is 0.009511 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.919773 seconds.
+Recording exit location of particles
+Elapsed time is 0.281095 seconds.
+Updating x,y,z location of airborne particles
+20405481 particles exited the domain
+Elapsed time is 1.926766 seconds.
+-----------------------------------
+Reading par00234.h5
+Elapsed time is 0.008533 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.907128 seconds.
+Recording exit location of particles
+Elapsed time is 0.286081 seconds.
+Updating x,y,z location of airborne particles
+20407530 particles exited the domain
+Elapsed time is 1.929086 seconds.
+-----------------------------------
+Reading par00235.h5
+Elapsed time is 0.008114 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.855083 seconds.
+Recording exit location of particles
+Elapsed time is 0.276434 seconds.
+Updating x,y,z location of airborne particles
+20409577 particles exited the domain
+Elapsed time is 1.918295 seconds.
+-----------------------------------
+Reading par00236.h5
+Elapsed time is 0.007666 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.826438 seconds.
+Recording exit location of particles
+Elapsed time is 0.277122 seconds.
+Updating x,y,z location of airborne particles
+20411492 particles exited the domain
+Elapsed time is 1.945351 seconds.
+-----------------------------------
+Reading par00237.h5
+Elapsed time is 0.008677 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.797934 seconds.
+Recording exit location of particles
+Elapsed time is 0.276355 seconds.
+Updating x,y,z location of airborne particles
+20413406 particles exited the domain
+Elapsed time is 1.917387 seconds.
+-----------------------------------
+Reading par00238.h5
+Elapsed time is 0.007165 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.771867 seconds.
+Recording exit location of particles
+Elapsed time is 0.276618 seconds.
+Updating x,y,z location of airborne particles
+20415196 particles exited the domain
+Elapsed time is 1.917130 seconds.
+-----------------------------------
+Reading par00239.h5
+Elapsed time is 0.007963 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.797219 seconds.
+Recording exit location of particles
+Elapsed time is 0.275883 seconds.
+Updating x,y,z location of airborne particles
+20416934 particles exited the domain
+Elapsed time is 1.921655 seconds.
+-----------------------------------
+Reading par00240.h5
+Elapsed time is 0.008399 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.784245 seconds.
+Recording exit location of particles
+Elapsed time is 0.276540 seconds.
+Updating x,y,z location of airborne particles
+20418637 particles exited the domain
+Elapsed time is 1.912659 seconds.
+-----------------------------------
+Reading par00241.h5
+Elapsed time is 0.007114 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.792206 seconds.
+Recording exit location of particles
+Elapsed time is 0.277175 seconds.
+Updating x,y,z location of airborne particles
+20420318 particles exited the domain
+Elapsed time is 1.937749 seconds.
+-----------------------------------
+Reading par00242.h5
+Elapsed time is 0.008769 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.801305 seconds.
+Recording exit location of particles
+Elapsed time is 0.276500 seconds.
+Updating x,y,z location of airborne particles
+20421938 particles exited the domain
+Elapsed time is 1.912408 seconds.
+-----------------------------------
+Reading par00243.h5
+Elapsed time is 0.007319 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.809284 seconds.
+Recording exit location of particles
+Elapsed time is 0.276422 seconds.
+Updating x,y,z location of airborne particles
+20423484 particles exited the domain
+Elapsed time is 2.073228 seconds.
+-----------------------------------
+Reading par00244.h5
+Elapsed time is 0.007363 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.834144 seconds.
+Recording exit location of particles
+Elapsed time is 0.276518 seconds.
+Updating x,y,z location of airborne particles
+20424969 particles exited the domain
+Elapsed time is 1.935424 seconds.
+-----------------------------------
+Reading par00245.h5
+Elapsed time is 0.008585 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.825459 seconds.
+Recording exit location of particles
+Elapsed time is 0.276082 seconds.
+Updating x,y,z location of airborne particles
+20426456 particles exited the domain
+Elapsed time is 1.942078 seconds.
+-----------------------------------
+Reading par00246.h5
+Elapsed time is 0.007032 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.832487 seconds.
+Recording exit location of particles
+Elapsed time is 0.276141 seconds.
+Updating x,y,z location of airborne particles
+20427927 particles exited the domain
+Elapsed time is 1.931106 seconds.
+-----------------------------------
+Reading par00247.h5
+Elapsed time is 0.007239 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.837792 seconds.
+Recording exit location of particles
+Elapsed time is 0.279048 seconds.
+Updating x,y,z location of airborne particles
+20429395 particles exited the domain
+Elapsed time is 1.922363 seconds.
+-----------------------------------
+Reading par00248.h5
+Elapsed time is 0.007621 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.321744 seconds.
+Recording exit location of particles
+Elapsed time is 0.280953 seconds.
+Updating x,y,z location of airborne particles
+20430734 particles exited the domain
+Elapsed time is 1.909909 seconds.
+-----------------------------------
+Reading par00249.h5
+Elapsed time is 0.007177 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.856320 seconds.
+Recording exit location of particles
+Elapsed time is 0.276213 seconds.
+Updating x,y,z location of airborne particles
+20432102 particles exited the domain
+Elapsed time is 1.903559 seconds.
+-----------------------------------
+Reading par00250.h5
+Elapsed time is 0.006755 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.831067 seconds.
+Recording exit location of particles
+Elapsed time is 0.289691 seconds.
+Updating x,y,z location of airborne particles
+20433398 particles exited the domain
+Elapsed time is 1.916420 seconds.
+-----------------------------------
+Reading par00251.h5
+Elapsed time is 0.007045 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.831467 seconds.
+Recording exit location of particles
+Elapsed time is 0.281954 seconds.
+Updating x,y,z location of airborne particles
+20434739 particles exited the domain
+Elapsed time is 1.899782 seconds.
+-----------------------------------
+Reading par00252.h5
+Elapsed time is 0.006757 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.009513 seconds.
+Recording exit location of particles
+Elapsed time is 0.283887 seconds.
+Updating x,y,z location of airborne particles
+20435994 particles exited the domain
+Elapsed time is 1.899052 seconds.
+-----------------------------------
+Reading par00253.h5
+Elapsed time is 0.006719 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.812178 seconds.
+Recording exit location of particles
+Elapsed time is 0.280621 seconds.
+Updating x,y,z location of airborne particles
+20437219 particles exited the domain
+Elapsed time is 1.900503 seconds.
+-----------------------------------
+Reading par00254.h5
+Elapsed time is 0.006578 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.804205 seconds.
+Recording exit location of particles
+Elapsed time is 0.275663 seconds.
+Updating x,y,z location of airborne particles
+20438386 particles exited the domain
+Elapsed time is 1.896837 seconds.
+-----------------------------------
+Reading par00255.h5
+Elapsed time is 0.006736 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.809146 seconds.
+Recording exit location of particles
+Elapsed time is 0.276331 seconds.
+Updating x,y,z location of airborne particles
+20439552 particles exited the domain
+Elapsed time is 1.899680 seconds.
+-----------------------------------
+Reading par00256.h5
+Elapsed time is 0.009037 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.771109 seconds.
+Recording exit location of particles
+Elapsed time is 0.275596 seconds.
+Updating x,y,z location of airborne particles
+20440629 particles exited the domain
+Elapsed time is 1.904680 seconds.
+-----------------------------------
+Reading par00257.h5
+Elapsed time is 0.008582 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.755810 seconds.
+Recording exit location of particles
+Elapsed time is 0.276123 seconds.
+Updating x,y,z location of airborne particles
+20441708 particles exited the domain
+Elapsed time is 1.912128 seconds.
+-----------------------------------
+Reading par00258.h5
+Elapsed time is 0.007307 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.738391 seconds.
+Recording exit location of particles
+Elapsed time is 0.275894 seconds.
+Updating x,y,z location of airborne particles
+20442740 particles exited the domain
+Elapsed time is 1.894189 seconds.
+-----------------------------------
+Reading par00259.h5
+Elapsed time is 0.006702 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.718045 seconds.
+Recording exit location of particles
+Elapsed time is 0.276322 seconds.
+Updating x,y,z location of airborne particles
+20443761 particles exited the domain
+Elapsed time is 1.900354 seconds.
+-----------------------------------
+Reading par00260.h5
+Elapsed time is 0.007463 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.720068 seconds.
+Recording exit location of particles
+Elapsed time is 0.278884 seconds.
+Updating x,y,z location of airborne particles
+20444797 particles exited the domain
+Elapsed time is 1.911650 seconds.
+-----------------------------------
+Reading par00261.h5
+Elapsed time is 0.006715 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.679525 seconds.
+Recording exit location of particles
+Elapsed time is 0.275763 seconds.
+Updating x,y,z location of airborne particles
+20445808 particles exited the domain
+Elapsed time is 1.893615 seconds.
+-----------------------------------
+Reading par00262.h5
+Elapsed time is 0.006466 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.655276 seconds.
+Recording exit location of particles
+Elapsed time is 0.276329 seconds.
+Updating x,y,z location of airborne particles
+20446764 particles exited the domain
+Elapsed time is 1.909078 seconds.
+-----------------------------------
+Reading par00263.h5
+Elapsed time is 0.007863 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.653123 seconds.
+Recording exit location of particles
+Elapsed time is 0.282784 seconds.
+Updating x,y,z location of airborne particles
+20447697 particles exited the domain
+Elapsed time is 1.910156 seconds.
+-----------------------------------
+Reading par00264.h5
+Elapsed time is 0.006805 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.656274 seconds.
+Recording exit location of particles
+Elapsed time is 0.276138 seconds.
+Updating x,y,z location of airborne particles
+20448578 particles exited the domain
+Elapsed time is 1.888358 seconds.
+-----------------------------------
+Reading par00265.h5
+Elapsed time is 0.006314 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.662020 seconds.
+Recording exit location of particles
+Elapsed time is 0.276299 seconds.
+Updating x,y,z location of airborne particles
+20449432 particles exited the domain
+Elapsed time is 1.910293 seconds.
+-----------------------------------
+Reading par00266.h5
+Elapsed time is 0.006473 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.681448 seconds.
+Recording exit location of particles
+Elapsed time is 0.287708 seconds.
+Updating x,y,z location of airborne particles
+20450283 particles exited the domain
+Elapsed time is 1.908776 seconds.
+-----------------------------------
+Reading par00267.h5
+Elapsed time is 0.006513 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.676211 seconds.
+Recording exit location of particles
+Elapsed time is 0.276457 seconds.
+Updating x,y,z location of airborne particles
+20451069 particles exited the domain
+Elapsed time is 1.886389 seconds.
+-----------------------------------
+Reading par00268.h5
+Elapsed time is 0.008846 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.678147 seconds.
+Recording exit location of particles
+Elapsed time is 0.276515 seconds.
+Updating x,y,z location of airborne particles
+20451924 particles exited the domain
+Elapsed time is 1.928117 seconds.
+-----------------------------------
+Reading par00269.h5
+Elapsed time is 0.008201 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.709759 seconds.
+Recording exit location of particles
+Elapsed time is 0.276192 seconds.
+Updating x,y,z location of airborne particles
+20452700 particles exited the domain
+Elapsed time is 1.889429 seconds.
+-----------------------------------
+Reading par00270.h5
+Elapsed time is 0.006641 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.686041 seconds.
+Recording exit location of particles
+Elapsed time is 0.277440 seconds.
+Updating x,y,z location of airborne particles
+20453436 particles exited the domain
+Elapsed time is 1.887190 seconds.
+-----------------------------------
+Reading par00271.h5
+Elapsed time is 0.006369 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.692427 seconds.
+Recording exit location of particles
+Elapsed time is 0.274757 seconds.
+Updating x,y,z location of airborne particles
+20454192 particles exited the domain
+Elapsed time is 1.902724 seconds.
+-----------------------------------
+Reading par00272.h5
+Elapsed time is 0.006139 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.695060 seconds.
+Recording exit location of particles
+Elapsed time is 0.275753 seconds.
+Updating x,y,z location of airborne particles
+20454885 particles exited the domain
+Elapsed time is 1.885515 seconds.
+-----------------------------------
+Reading par00273.h5
+Elapsed time is 0.007354 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.691035 seconds.
+Recording exit location of particles
+Elapsed time is 0.275546 seconds.
+Updating x,y,z location of airborne particles
+20455522 particles exited the domain
+Elapsed time is 1.888102 seconds.
+-----------------------------------
+Reading par00274.h5
+Elapsed time is 0.006720 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.704506 seconds.
+Recording exit location of particles
+Elapsed time is 0.276342 seconds.
+Updating x,y,z location of airborne particles
+20456184 particles exited the domain
+Elapsed time is 1.888014 seconds.
+-----------------------------------
+Reading par00275.h5
+Elapsed time is 0.006158 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.680433 seconds.
+Recording exit location of particles
+Elapsed time is 0.276262 seconds.
+Updating x,y,z location of airborne particles
+20456867 particles exited the domain
+Elapsed time is 1.880886 seconds.
+-----------------------------------
+Reading par00276.h5
+Elapsed time is 0.006894 seconds.
+Finding particles that have exited the domain
+Elapsed time is 2.045528 seconds.
+Recording exit location of particles
+Elapsed time is 0.276254 seconds.
+Updating x,y,z location of airborne particles
+20457472 particles exited the domain
+Elapsed time is 1.900505 seconds.
+-----------------------------------
+Reading par00277.h5
+Elapsed time is 0.006282 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.662564 seconds.
+Recording exit location of particles
+Elapsed time is 0.274904 seconds.
+Updating x,y,z location of airborne particles
+20458049 particles exited the domain
+Elapsed time is 1.877996 seconds.
+-----------------------------------
+Reading par00278.h5
+Elapsed time is 0.006504 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.662534 seconds.
+Recording exit location of particles
+Elapsed time is 0.276395 seconds.
+Updating x,y,z location of airborne particles
+20458664 particles exited the domain
+Elapsed time is 1.905081 seconds.
+-----------------------------------
+Reading par00279.h5
+Elapsed time is 0.006321 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.662044 seconds.
+Recording exit location of particles
+Elapsed time is 0.276718 seconds.
+Updating x,y,z location of airborne particles
+20459242 particles exited the domain
+Elapsed time is 1.881649 seconds.
+-----------------------------------
+Reading par00280.h5
+Elapsed time is 0.007191 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.633876 seconds.
+Recording exit location of particles
+Elapsed time is 0.275178 seconds.
+Updating x,y,z location of airborne particles
+20459847 particles exited the domain
+Elapsed time is 1.876846 seconds.
+-----------------------------------
+Reading par00281.h5
+Elapsed time is 0.006447 seconds.
+Finding particles that have exited the domain
+Elapsed time is 1.676636 seconds.
+Recording exit location of particles
+Elapsed time is 0.288571 seconds.
+Updating x,y,z location of airborne particles
+20460418 particles exited the domain
+Elapsed time is 1.891055 seconds.
+Time difference b/w outputs is 1 sec
+Final output time that is read is 280 sec
+File saved

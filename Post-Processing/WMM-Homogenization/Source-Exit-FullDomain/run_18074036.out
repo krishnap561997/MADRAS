@@ -1,0 +1,66 @@
+Sun Feb 13 19:31:03 EST 2022
+c23b-s6.ufhpc
+
+par =
+
+    '/blue/bala/krishnap.kalivel/Nek5000/room_one_v27'
+
+
+parout =
+
+    '/blue/bala/krishnap.kalivel/Nek5000/room_one_v27'
+
+
+fpath =
+
+    '/blue/bala/krishnap.kalivel/COVID/room_27/NewLangevin/Source-Exit-FullDomain'
+
+
+fpathw =
+
+    '/blue/bala/krishnap.kalivel/COVID/room_27/NewLangevin/Source-Exit-FullDomain'
+
+
+nfile =
+
+   124
+
+
+ACH =
+
+     5
+
+
+fontsize =
+
+    24
+
+
+rlenx =
+
+    10
+
+
+rleny =
+
+    3.2000
+
+
+rlenz =
+
+    10
+
+-----------------------------------
+Recording exit times and surfaces
+-----------------------------------
+Reading par00001.h5
+Error using h5readc
+The filename specified was either not found on the MATLAB path or it contains unsupported characters.
+
+Error in h5read (line 66)
+
+Error in record_times_v01 (line 8)
+
+Error in main_v01 (line 30)
+
+MATLAB:imagesci:h5read:fileOpenErr

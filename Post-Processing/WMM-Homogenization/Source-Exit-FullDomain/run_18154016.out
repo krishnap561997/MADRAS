@@ -1,0 +1,948 @@
+Mon Feb 14 14:33:58 EST 2022
+c32a-s36.ufhpc
+
+par =
+
+    '/blue/bala/krishnap.kalivel/COVID/room_27/NewLangevin/h5files/par'
+
+
+parout =
+
+    '/blue/bala/krishnap.kalivel/COVID/room_27/NewLangevin/h5files/parout'
+
+
+fpath =
+
+    '/blue/bala/krishnap.kalivel/COVID/room_27/NewLangevin/Source-Exit-FullDomain'
+
+
+fpathw =
+
+    '/blue/bala/krishnap.kalivel/COVID/room_27/NewLangevin/Source-Exit-FullDomain'
+
+
+nfile =
+
+   124
+
+
+ACH =
+
+     5
+
+
+fontsize =
+
+    24
+
+
+rlenx =
+
+    10
+
+
+rleny =
+
+    3.2000
+
+
+rlenz =
+
+    10
+
+-----------------------------------
+Recording exit times and surfaces
+-----------------------------------
+Reading par00001.h5
+Elapsed time is 0.379954 seconds.
+
+-----------------------------------
+Reading parout00002.h5
+Elapsed time is 0.023139 seconds.
+
+33874 particles have exited the domain
+Elapsed time is 0.139019 seconds.
+
+-----------------------------------
+Reading parout00003.h5
+Elapsed time is 0.016496 seconds.
+
+34209 particles have exited the domain
+Elapsed time is 0.093996 seconds.
+
+-----------------------------------
+Reading parout00004.h5
+Elapsed time is 0.013390 seconds.
+
+34369 particles have exited the domain
+Elapsed time is 0.089923 seconds.
+
+-----------------------------------
+Reading parout00005.h5
+Elapsed time is 0.013955 seconds.
+
+34756 particles have exited the domain
+Elapsed time is 0.090837 seconds.
+
+-----------------------------------
+Reading parout00006.h5
+Elapsed time is 0.014466 seconds.
+
+34457 particles have exited the domain
+Elapsed time is 0.103627 seconds.
+
+-----------------------------------
+Reading parout00007.h5
+Elapsed time is 0.013830 seconds.
+
+34150 particles have exited the domain
+Elapsed time is 0.090335 seconds.
+
+-----------------------------------
+Reading parout00008.h5
+Elapsed time is 0.013476 seconds.
+
+34159 particles have exited the domain
+Elapsed time is 0.088903 seconds.
+
+-----------------------------------
+Reading parout00009.h5
+Elapsed time is 0.013184 seconds.
+
+33937 particles have exited the domain
+Elapsed time is 0.089895 seconds.
+
+-----------------------------------
+Reading parout00010.h5
+Elapsed time is 0.013213 seconds.
+
+34016 particles have exited the domain
+Elapsed time is 0.088547 seconds.
+
+-----------------------------------
+Reading parout00011.h5
+Elapsed time is 0.013492 seconds.
+
+33702 particles have exited the domain
+Elapsed time is 0.088889 seconds.
+
+-----------------------------------
+Reading parout00012.h5
+Elapsed time is 0.013478 seconds.
+
+32991 particles have exited the domain
+Elapsed time is 0.088754 seconds.
+
+-----------------------------------
+Reading parout00013.h5
+Elapsed time is 0.012967 seconds.
+
+32707 particles have exited the domain
+Elapsed time is 0.088920 seconds.
+
+-----------------------------------
+Reading parout00014.h5
+Elapsed time is 0.012875 seconds.
+
+32530 particles have exited the domain
+Elapsed time is 0.088930 seconds.
+
+-----------------------------------
+Reading parout00015.h5
+Elapsed time is 0.013593 seconds.
+
+32530 particles have exited the domain
+Elapsed time is 0.088702 seconds.
+
+-----------------------------------
+Reading parout00016.h5
+Elapsed time is 0.013048 seconds.
+
+31739 particles have exited the domain
+Elapsed time is 0.088217 seconds.
+
+-----------------------------------
+Reading parout00017.h5
+Elapsed time is 0.013377 seconds.
+
+31227 particles have exited the domain
+Elapsed time is 0.088543 seconds.
+
+-----------------------------------
+Reading parout00018.h5
+Elapsed time is 0.013191 seconds.
+
+30816 particles have exited the domain
+Elapsed time is 0.088630 seconds.
+
+-----------------------------------
+Reading parout00019.h5
+Elapsed time is 0.013032 seconds.
+
+30307 particles have exited the domain
+Elapsed time is 0.089568 seconds.
+
+-----------------------------------
+Reading parout00020.h5
+Elapsed time is 0.015082 seconds.
+
+29736 particles have exited the domain
+Elapsed time is 0.088262 seconds.
+
+-----------------------------------
+Reading parout00021.h5
+Elapsed time is 0.012634 seconds.
+
+29581 particles have exited the domain
+Elapsed time is 0.088573 seconds.
+
+-----------------------------------
+Reading parout00022.h5
+Elapsed time is 0.012818 seconds.
+
+28839 particles have exited the domain
+Elapsed time is 0.096215 seconds.
+
+-----------------------------------
+Reading parout00023.h5
+Elapsed time is 0.013471 seconds.
+
+28831 particles have exited the domain
+Elapsed time is 0.093238 seconds.
+
+-----------------------------------
+Reading parout00024.h5
+Elapsed time is 0.012264 seconds.
+
+27992 particles have exited the domain
+Elapsed time is 0.089105 seconds.
+
+-----------------------------------
+Reading parout00025.h5
+Elapsed time is 0.013090 seconds.
+
+27541 particles have exited the domain
+Elapsed time is 0.088320 seconds.
+
+-----------------------------------
+Reading parout00026.h5
+Elapsed time is 0.013424 seconds.
+
+26796 particles have exited the domain
+Elapsed time is 0.088385 seconds.
+
+-----------------------------------
+Reading parout00027.h5
+Elapsed time is 0.012511 seconds.
+
+25990 particles have exited the domain
+Elapsed time is 0.089143 seconds.
+
+-----------------------------------
+Reading parout00028.h5
+Elapsed time is 0.013601 seconds.
+
+25562 particles have exited the domain
+Elapsed time is 0.088797 seconds.
+
+-----------------------------------
+Reading parout00029.h5
+Elapsed time is 0.014956 seconds.
+
+25382 particles have exited the domain
+Elapsed time is 0.089188 seconds.
+
+-----------------------------------
+Reading parout00030.h5
+Elapsed time is 0.012431 seconds.
+
+24724 particles have exited the domain
+Elapsed time is 0.089338 seconds.
+
+-----------------------------------
+Reading parout00031.h5
+Elapsed time is 0.013562 seconds.
+
+24046 particles have exited the domain
+Elapsed time is 0.088895 seconds.
+
+-----------------------------------
+Reading parout00032.h5
+Elapsed time is 0.012098 seconds.
+
+23658 particles have exited the domain
+Elapsed time is 0.088839 seconds.
+
+-----------------------------------
+Reading parout00033.h5
+Elapsed time is 0.012007 seconds.
+
+23244 particles have exited the domain
+Elapsed time is 0.088563 seconds.
+
+-----------------------------------
+Reading parout00034.h5
+Elapsed time is 0.013419 seconds.
+
+22582 particles have exited the domain
+Elapsed time is 0.088856 seconds.
+
+-----------------------------------
+Reading parout00035.h5
+Elapsed time is 0.011950 seconds.
+
+21911 particles have exited the domain
+Elapsed time is 0.087961 seconds.
+
+-----------------------------------
+Reading parout00036.h5
+Elapsed time is 0.015098 seconds.
+
+21661 particles have exited the domain
+Elapsed time is 0.087972 seconds.
+
+-----------------------------------
+Reading parout00037.h5
+Elapsed time is 0.013141 seconds.
+
+21379 particles have exited the domain
+Elapsed time is 0.088206 seconds.
+
+-----------------------------------
+Reading parout00038.h5
+Elapsed time is 0.012632 seconds.
+
+20438 particles have exited the domain
+Elapsed time is 0.087947 seconds.
+
+-----------------------------------
+Reading parout00039.h5
+Elapsed time is 0.012021 seconds.
+
+20192 particles have exited the domain
+Elapsed time is 0.089463 seconds.
+
+-----------------------------------
+Reading parout00040.h5
+Elapsed time is 0.011636 seconds.
+
+19947 particles have exited the domain
+Elapsed time is 0.087974 seconds.
+
+-----------------------------------
+Reading parout00041.h5
+Elapsed time is 0.015568 seconds.
+
+19712 particles have exited the domain
+Elapsed time is 0.088491 seconds.
+
+-----------------------------------
+Reading parout00042.h5
+Elapsed time is 0.011854 seconds.
+
+19278 particles have exited the domain
+Elapsed time is 0.088014 seconds.
+
+-----------------------------------
+Reading parout00043.h5
+Elapsed time is 0.011768 seconds.
+
+18886 particles have exited the domain
+Elapsed time is 0.099551 seconds.
+
+-----------------------------------
+Reading parout00044.h5
+Elapsed time is 0.011993 seconds.
+
+18824 particles have exited the domain
+Elapsed time is 0.089407 seconds.
+
+-----------------------------------
+Reading parout00045.h5
+Elapsed time is 0.011669 seconds.
+
+18360 particles have exited the domain
+Elapsed time is 0.088771 seconds.
+
+-----------------------------------
+Reading parout00046.h5
+Elapsed time is 0.011884 seconds.
+
+18265 particles have exited the domain
+Elapsed time is 0.088464 seconds.
+
+-----------------------------------
+Reading parout00047.h5
+Elapsed time is 0.011438 seconds.
+
+17683 particles have exited the domain
+Elapsed time is 0.087643 seconds.
+
+-----------------------------------
+Reading parout00048.h5
+Elapsed time is 0.011875 seconds.
+
+17426 particles have exited the domain
+Elapsed time is 0.088328 seconds.
+
+-----------------------------------
+Reading parout00049.h5
+Elapsed time is 0.011893 seconds.
+
+17300 particles have exited the domain
+Elapsed time is 0.088183 seconds.
+
+-----------------------------------
+Reading parout00050.h5
+Elapsed time is 0.011668 seconds.
+
+17113 particles have exited the domain
+Elapsed time is 0.087872 seconds.
+
+-----------------------------------
+Reading parout00051.h5
+Elapsed time is 0.012270 seconds.
+
+16831 particles have exited the domain
+Elapsed time is 0.088032 seconds.
+
+-----------------------------------
+Reading parout00052.h5
+Elapsed time is 0.013099 seconds.
+
+16570 particles have exited the domain
+Elapsed time is 0.088254 seconds.
+
+-----------------------------------
+Reading parout00053.h5
+Elapsed time is 0.013414 seconds.
+
+15998 particles have exited the domain
+Elapsed time is 0.088097 seconds.
+
+-----------------------------------
+Reading parout00054.h5
+Elapsed time is 0.012002 seconds.
+
+16047 particles have exited the domain
+Elapsed time is 0.088040 seconds.
+
+-----------------------------------
+Reading parout00055.h5
+Elapsed time is 0.011179 seconds.
+
+15606 particles have exited the domain
+Elapsed time is 0.089817 seconds.
+
+-----------------------------------
+Reading parout00056.h5
+Elapsed time is 0.011164 seconds.
+
+15549 particles have exited the domain
+Elapsed time is 0.088065 seconds.
+
+-----------------------------------
+Reading parout00057.h5
+Elapsed time is 0.011148 seconds.
+
+15266 particles have exited the domain
+Elapsed time is 0.087695 seconds.
+
+-----------------------------------
+Reading parout00058.h5
+Elapsed time is 0.011863 seconds.
+
+15314 particles have exited the domain
+Elapsed time is 0.088707 seconds.
+
+-----------------------------------
+Reading parout00059.h5
+Elapsed time is 0.011241 seconds.
+
+15103 particles have exited the domain
+Elapsed time is 0.088432 seconds.
+
+-----------------------------------
+Reading parout00060.h5
+Elapsed time is 0.011621 seconds.
+
+14630 particles have exited the domain
+Elapsed time is 0.087632 seconds.
+
+-----------------------------------
+Reading parout00061.h5
+Elapsed time is 0.010921 seconds.
+
+14452 particles have exited the domain
+Elapsed time is 0.087774 seconds.
+
+-----------------------------------
+Reading parout00062.h5
+Elapsed time is 0.010882 seconds.
+
+14366 particles have exited the domain
+Elapsed time is 0.087885 seconds.
+
+-----------------------------------
+Reading parout00063.h5
+Elapsed time is 0.011037 seconds.
+
+14438 particles have exited the domain
+Elapsed time is 0.087487 seconds.
+
+-----------------------------------
+Reading parout00064.h5
+Elapsed time is 0.010942 seconds.
+
+14334 particles have exited the domain
+Elapsed time is 0.088932 seconds.
+
+-----------------------------------
+Reading parout00065.h5
+Elapsed time is 0.010992 seconds.
+
+14354 particles have exited the domain
+Elapsed time is 0.087286 seconds.
+
+-----------------------------------
+Reading parout00066.h5
+Elapsed time is 0.010948 seconds.
+
+13971 particles have exited the domain
+Elapsed time is 0.087231 seconds.
+
+-----------------------------------
+Reading parout00067.h5
+Elapsed time is 0.010856 seconds.
+
+13506 particles have exited the domain
+Elapsed time is 0.087077 seconds.
+
+-----------------------------------
+Reading parout00068.h5
+Elapsed time is 0.011083 seconds.
+
+13446 particles have exited the domain
+Elapsed time is 0.087217 seconds.
+
+-----------------------------------
+Reading parout00069.h5
+Elapsed time is 0.012496 seconds.
+
+13363 particles have exited the domain
+Elapsed time is 0.087414 seconds.
+
+-----------------------------------
+Reading parout00070.h5
+Elapsed time is 0.011108 seconds.
+
+13240 particles have exited the domain
+Elapsed time is 0.087365 seconds.
+
+-----------------------------------
+Reading parout00071.h5
+Elapsed time is 0.010884 seconds.
+
+12975 particles have exited the domain
+Elapsed time is 0.087425 seconds.
+
+-----------------------------------
+Reading parout00072.h5
+Elapsed time is 0.011007 seconds.
+
+12898 particles have exited the domain
+Elapsed time is 0.088871 seconds.
+
+-----------------------------------
+Reading parout00073.h5
+Elapsed time is 0.010924 seconds.
+
+13103 particles have exited the domain
+Elapsed time is 0.088124 seconds.
+
+-----------------------------------
+Reading parout00074.h5
+Elapsed time is 0.011276 seconds.
+
+12836 particles have exited the domain
+Elapsed time is 0.087519 seconds.
+
+-----------------------------------
+Reading parout00075.h5
+Elapsed time is 0.010989 seconds.
+
+13093 particles have exited the domain
+Elapsed time is 0.087105 seconds.
+
+-----------------------------------
+Reading parout00076.h5
+Elapsed time is 0.011195 seconds.
+
+12767 particles have exited the domain
+Elapsed time is 0.088207 seconds.
+
+-----------------------------------
+Reading parout00077.h5
+Elapsed time is 0.010777 seconds.
+
+12900 particles have exited the domain
+Elapsed time is 0.087130 seconds.
+
+-----------------------------------
+Reading parout00078.h5
+Elapsed time is 0.010995 seconds.
+
+12490 particles have exited the domain
+Elapsed time is 0.088313 seconds.
+
+-----------------------------------
+Reading parout00079.h5
+Elapsed time is 0.013347 seconds.
+
+12624 particles have exited the domain
+Elapsed time is 0.087737 seconds.
+
+-----------------------------------
+Reading parout00080.h5
+Elapsed time is 0.011582 seconds.
+
+12533 particles have exited the domain
+Elapsed time is 0.087259 seconds.
+
+-----------------------------------
+Reading parout00081.h5
+Elapsed time is 0.011475 seconds.
+
+12415 particles have exited the domain
+Elapsed time is 0.087876 seconds.
+
+-----------------------------------
+Reading parout00082.h5
+Elapsed time is 0.011263 seconds.
+
+12400 particles have exited the domain
+Elapsed time is 0.088048 seconds.
+
+-----------------------------------
+Reading parout00083.h5
+Elapsed time is 0.011319 seconds.
+
+12428 particles have exited the domain
+Elapsed time is 0.087590 seconds.
+
+-----------------------------------
+Reading parout00084.h5
+Elapsed time is 0.011485 seconds.
+
+12378 particles have exited the domain
+Elapsed time is 0.088225 seconds.
+
+-----------------------------------
+Reading parout00085.h5
+Elapsed time is 0.013245 seconds.
+
+12433 particles have exited the domain
+Elapsed time is 0.088044 seconds.
+
+-----------------------------------
+Reading parout00086.h5
+Elapsed time is 0.011066 seconds.
+
+12181 particles have exited the domain
+Elapsed time is 0.087344 seconds.
+
+-----------------------------------
+Reading parout00087.h5
+Elapsed time is 0.011033 seconds.
+
+11868 particles have exited the domain
+Elapsed time is 0.087706 seconds.
+
+-----------------------------------
+Reading parout00088.h5
+Elapsed time is 0.011368 seconds.
+
+11858 particles have exited the domain
+Elapsed time is 0.088660 seconds.
+
+-----------------------------------
+Reading parout00089.h5
+Elapsed time is 0.011292 seconds.
+
+11683 particles have exited the domain
+Elapsed time is 0.088307 seconds.
+
+-----------------------------------
+Reading parout00090.h5
+Elapsed time is 0.011151 seconds.
+
+11554 particles have exited the domain
+Elapsed time is 0.091544 seconds.
+
+-----------------------------------
+Reading parout00091.h5
+Elapsed time is 0.011407 seconds.
+
+11318 particles have exited the domain
+Elapsed time is 0.088033 seconds.
+
+-----------------------------------
+Reading parout00092.h5
+Elapsed time is 0.011430 seconds.
+
+11297 particles have exited the domain
+Elapsed time is 0.087848 seconds.
+
+-----------------------------------
+Reading parout00093.h5
+Elapsed time is 0.011060 seconds.
+
+11126 particles have exited the domain
+Elapsed time is 0.089340 seconds.
+
+-----------------------------------
+Reading parout00094.h5
+Elapsed time is 0.011152 seconds.
+
+11019 particles have exited the domain
+Elapsed time is 0.088448 seconds.
+
+-----------------------------------
+Reading parout00095.h5
+Elapsed time is 0.010929 seconds.
+
+10963 particles have exited the domain
+Elapsed time is 0.087360 seconds.
+
+-----------------------------------
+Reading parout00096.h5
+Elapsed time is 0.010975 seconds.
+
+10919 particles have exited the domain
+Elapsed time is 0.087752 seconds.
+
+-----------------------------------
+Reading parout00097.h5
+Elapsed time is 0.010728 seconds.
+
+11021 particles have exited the domain
+Elapsed time is 0.088270 seconds.
+
+-----------------------------------
+Reading parout00098.h5
+Elapsed time is 0.010665 seconds.
+
+10757 particles have exited the domain
+Elapsed time is 0.087361 seconds.
+
+-----------------------------------
+Reading parout00099.h5
+Elapsed time is 0.010608 seconds.
+
+11063 particles have exited the domain
+Elapsed time is 0.088316 seconds.
+
+-----------------------------------
+Reading parout00100.h5
+Elapsed time is 0.011956 seconds.
+
+10454 particles have exited the domain
+Elapsed time is 0.089823 seconds.
+
+-----------------------------------
+Reading parout00101.h5
+Elapsed time is 0.012411 seconds.
+
+10546 particles have exited the domain
+Elapsed time is 0.088442 seconds.
+
+-----------------------------------
+Reading parout00102.h5
+Elapsed time is 0.010960 seconds.
+
+10583 particles have exited the domain
+Elapsed time is 0.092584 seconds.
+
+-----------------------------------
+Reading parout00103.h5
+Elapsed time is 0.010910 seconds.
+
+10184 particles have exited the domain
+Elapsed time is 0.088975 seconds.
+
+-----------------------------------
+Reading parout00104.h5
+Elapsed time is 0.010742 seconds.
+
+10316 particles have exited the domain
+Elapsed time is 0.088587 seconds.
+
+-----------------------------------
+Reading parout00105.h5
+Elapsed time is 0.010709 seconds.
+
+10405 particles have exited the domain
+Elapsed time is 0.088108 seconds.
+
+-----------------------------------
+Reading parout00106.h5
+Elapsed time is 0.010777 seconds.
+
+10156 particles have exited the domain
+Elapsed time is 0.087919 seconds.
+
+-----------------------------------
+Reading parout00107.h5
+Elapsed time is 0.010810 seconds.
+
+9984 particles have exited the domain
+Elapsed time is 0.088073 seconds.
+
+-----------------------------------
+Reading parout00108.h5
+Elapsed time is 0.010300 seconds.
+
+10014 particles have exited the domain
+Elapsed time is 0.087135 seconds.
+
+-----------------------------------
+Reading parout00109.h5
+Elapsed time is 0.011600 seconds.
+
+9869 particles have exited the domain
+Elapsed time is 0.091874 seconds.
+
+-----------------------------------
+Reading parout00110.h5
+Elapsed time is 0.010697 seconds.
+
+9782 particles have exited the domain
+Elapsed time is 0.087571 seconds.
+
+-----------------------------------
+Reading parout00111.h5
+Elapsed time is 0.010865 seconds.
+
+9685 particles have exited the domain
+Elapsed time is 0.087434 seconds.
+
+-----------------------------------
+Reading parout00112.h5
+Elapsed time is 0.010690 seconds.
+
+9820 particles have exited the domain
+Elapsed time is 0.090959 seconds.
+
+-----------------------------------
+Reading parout00113.h5
+Elapsed time is 0.010781 seconds.
+
+9799 particles have exited the domain
+Elapsed time is 0.096875 seconds.
+
+-----------------------------------
+Reading parout00114.h5
+Elapsed time is 0.013019 seconds.
+
+9637 particles have exited the domain
+Elapsed time is 0.096948 seconds.
+
+-----------------------------------
+Reading parout00115.h5
+Elapsed time is 0.010769 seconds.
+
+9462 particles have exited the domain
+Elapsed time is 0.086782 seconds.
+
+-----------------------------------
+Reading parout00116.h5
+Elapsed time is 0.010622 seconds.
+
+9429 particles have exited the domain
+Elapsed time is 0.087930 seconds.
+
+-----------------------------------
+Reading parout00117.h5
+Elapsed time is 0.010695 seconds.
+
+9611 particles have exited the domain
+Elapsed time is 0.087190 seconds.
+
+-----------------------------------
+Reading parout00118.h5
+Elapsed time is 0.012413 seconds.
+
+9297 particles have exited the domain
+Elapsed time is 0.087715 seconds.
+
+-----------------------------------
+Reading parout00119.h5
+Elapsed time is 0.010733 seconds.
+
+9316 particles have exited the domain
+Elapsed time is 0.087713 seconds.
+
+-----------------------------------
+Reading parout00120.h5
+Elapsed time is 0.010628 seconds.
+
+9285 particles have exited the domain
+Elapsed time is 0.087439 seconds.
+
+-----------------------------------
+Reading parout00121.h5
+Elapsed time is 0.010646 seconds.
+
+9222 particles have exited the domain
+Elapsed time is 0.087441 seconds.
+
+-----------------------------------
+Reading parout00122.h5
+Elapsed time is 0.010651 seconds.
+
+9361 particles have exited the domain
+Elapsed time is 0.087579 seconds.
+
+-----------------------------------
+Reading parout00123.h5
+Elapsed time is 0.010709 seconds.
+
+9176 particles have exited the domain
+Elapsed time is 0.088273 seconds.
+
+-----------------------------------
+Reading parout00124.h5
+Elapsed time is 0.010835 seconds.
+
+9101 particles have exited the domain
+Elapsed time is 0.088006 seconds.
+
+Elapsed time is 0.095598 seconds.
+
+-----------------------------------
+verify_remove
+-----------------------------------
+Reading par00124.h5
+Warning: some particles that exited domain are still airborne
+16043 unaccounted particles have been removed
+Elapsed time is 2.120321 seconds.
+
+-----------------------------------
+exit_time
+Elapsed time is 176.089418 seconds.
+
+-----------------------------------
+plotting
+Elapsed time is 104.634909 seconds.
+
+-----------------------------------
+saving file
+File saved
+Elapsed time is 3.131812 seconds.
+-----------------------------------
+Job terminated successfully
+Undefined function or variable 'a'.
+
+Error in main_v01 (line 79)
+
+MATLAB:UndefinedFunction
