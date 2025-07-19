@@ -1,0 +1,67 @@
+Tue May 21 13:00:49 EDT 2024
+c30b-s27.ufhpc
+
+fpath =
+
+    '/blue/bala/krishnap.kalivel/RANS/RANS_onecassette/Sou2Snk/dist_0.4m/Data'
+
+
+spath =
+
+    '/blue/bala/krishnap.kalivel/RANS/RANS_onecassette/Sou2Snk/dist_0.4m/Data_02'
+
+
+nx =
+
+    11
+
+
+ny =
+
+     6
+
+
+nz =
+
+    15
+
+
+dist =
+
+    0.4000
+
+Source_nxi_001_nyi_001_nzi_001
+Elapsed time is 0.126651 seconds.
+Source_nxi_001_nyi_001_nzi_002
+Elapsed time is 0.006874 seconds.
+Source_nxi_001_nyi_001_nzi_003
+Elapsed time is 0.006877 seconds.
+Source_nxi_001_nyi_001_nzi_004
+Elapsed time is 0.006063 seconds.
+Source_nxi_001_nyi_001_nzi_005
+Elapsed time is 0.016733 seconds.
+Source_nxi_001_nyi_001_nzi_006
+Elapsed time is 0.005720 seconds.
+Source_nxi_001_nyi_001_nzi_007
+Elapsed time is 0.005430 seconds.
+Source_nxi_001_nyi_001_nzi_008
+Elapsed time is 0.005463 seconds.
+Source_nxi_001_nyi_001_nzi_009
+Elapsed time is 0.007602 seconds.
+Source_nxi_001_nyi_001_nzi_010
+Elapsed time is 0.006694 seconds.
+Source_nxi_001_nyi_001_nzi_011
+Elapsed time is 0.006845 seconds.
+Source_nxi_001_nyi_001_nzi_012
+Elapsed time is 0.006509 seconds.
+Source_nxi_001_nyi_001_nzi_013
+Elapsed time is 0.007313 seconds.
+Source_nxi_001_nyi_001_nzi_014
+Elapsed time is 0.006938 seconds.
+Error using load
+Unable to find file or directory
+'/blue/bala/krishnap.kalivel/RANS/RANS_onecassette/Sou2Snk/dist_0.4m/Data/Source_nxi_001_nyi_001_nzi_015'.
+
+Error in compile_data_mean_it (line 24)
+
+MATLAB:load:couldNotReadFile

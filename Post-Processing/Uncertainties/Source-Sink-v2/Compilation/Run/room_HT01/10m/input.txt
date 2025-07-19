@@ -1,0 +1,6 @@
+'/blue/bala/krishnap.kalivel/COVID/Sou2Snk_v2/room_31/dist_10m/Data'
+'/blue/bala/krishnap.kalivel/COVID/Sou2Snk_v2/room_31/dist_10m/Data_02'
+25
+8
+25
+10

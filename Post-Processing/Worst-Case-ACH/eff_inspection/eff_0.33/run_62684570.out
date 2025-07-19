@@ -1,0 +1,69 @@
+Fri Apr 28 11:10:00 EDT 2023
+c36a-s32.ufhpc
+
+fpath =
+
+    '/home/krishnap.kalivel/MATLAB_src/Higher-ACH-Better/eff_inspection'
+
+
+d =
+
+     8
+
+
+dT1 =
+
+     0
+
+
+dT2 =
+
+     0
+
+
+T0_min =
+
+     1
+
+
+T0_max =
+
+    30
+
+
+ACH_eff_min =
+
+    0.5000
+
+
+ACH_eff_max =
+
+    30
+
+
+eta_ef =
+
+    0.3300
+
+
+lam_v =
+
+   8.3333e-05
+
+
+ACH_min =
+
+    0.5000
+
+
+ACH_max =
+
+    91
+
+Arrays have incompatible sizes for this operation.
+
+Error in get_nd (line 25)
+
+Error in main_v3 (line 41)
+
+MATLAB:sizeDimensionsMustMatch

@@ -1,0 +1,2356 @@
+Tue Nov 29 13:37:43 EST 2022
+c27a-s41.ufhpc
+
+The following have been reloaded with a version change:
+  1) matlab/2018b => matlab/2022a
+
+
+fpath =
+
+    '/home/krishnap.kalivel/MATLAB_src/Higher-ACH-Better/dt1_inspection/Data'
+
+
+T0 =
+
+    30
+
+ACH :0.3. Dist: 4
+Elapsed time is 11.934450 seconds.
+ACH :0.3. Dist: 4.5
+Elapsed time is 2.410835 seconds.
+ACH :0.3. Dist: 5
+Elapsed time is 2.269315 seconds.
+ACH :0.3. Dist: 5.5
+Elapsed time is 2.138697 seconds.
+ACH :0.3. Dist: 6
+Elapsed time is 2.180063 seconds.
+ACH :0.3. Dist: 6.5
+Elapsed time is 2.266991 seconds.
+ACH :0.3. Dist: 7
+Elapsed time is 2.592903 seconds.
+ACH :0.3. Dist: 7.5
+Elapsed time is 2.534589 seconds.
+ACH :0.3. Dist: 8
+Elapsed time is 2.579689 seconds.
+ACH :0.3. Dist: 8.5
+Elapsed time is 2.231346 seconds.
+ACH :0.3. Dist: 9
+Elapsed time is 2.860039 seconds.
+ACH :0.3. Dist: 9.5
+Elapsed time is 2.514961 seconds.
+ACH :0.3. Dist: 10
+Elapsed time is 2.440878 seconds.
+ACH :0.4. Dist: 4
+Elapsed time is 2.254437 seconds.
+ACH :0.4. Dist: 4.5
+Elapsed time is 2.194565 seconds.
+ACH :0.4. Dist: 5
+Elapsed time is 2.449444 seconds.
+ACH :0.4. Dist: 5.5
+Elapsed time is 5.121343 seconds.
+ACH :0.4. Dist: 6
+Elapsed time is 2.499674 seconds.
+ACH :0.4. Dist: 6.5
+Elapsed time is 2.402662 seconds.
+ACH :0.4. Dist: 7
+Elapsed time is 2.186964 seconds.
+ACH :0.4. Dist: 7.5
+Elapsed time is 2.578557 seconds.
+ACH :0.4. Dist: 8
+Elapsed time is 2.563947 seconds.
+ACH :0.4. Dist: 8.5
+Elapsed time is 2.295780 seconds.
+ACH :0.4. Dist: 9
+Elapsed time is 2.123840 seconds.
+ACH :0.4. Dist: 9.5
+Elapsed time is 2.088509 seconds.
+ACH :0.4. Dist: 10
+Elapsed time is 2.266199 seconds.
+ACH :0.5. Dist: 4
+Elapsed time is 2.403414 seconds.
+ACH :0.5. Dist: 4.5
+Elapsed time is 2.136313 seconds.
+ACH :0.5. Dist: 5
+Elapsed time is 2.181329 seconds.
+ACH :0.5. Dist: 5.5
+Elapsed time is 2.105343 seconds.
+ACH :0.5. Dist: 6
+Elapsed time is 2.646170 seconds.
+ACH :0.5. Dist: 6.5
+Elapsed time is 2.521887 seconds.
+ACH :0.5. Dist: 7
+Elapsed time is 6.882292 seconds.
+ACH :0.5. Dist: 7.5
+Elapsed time is 7.636637 seconds.
+ACH :0.5. Dist: 8
+Elapsed time is 5.398118 seconds.
+ACH :0.5. Dist: 8.5
+Elapsed time is 2.490566 seconds.
+ACH :0.5. Dist: 9
+Elapsed time is 2.331165 seconds.
+ACH :0.5. Dist: 9.5
+Elapsed time is 2.264648 seconds.
+ACH :0.5. Dist: 10
+Elapsed time is 2.252134 seconds.
+ACH :0.6. Dist: 4
+Elapsed time is 2.163810 seconds.
+ACH :0.6. Dist: 4.5
+Elapsed time is 2.159507 seconds.
+ACH :0.6. Dist: 5
+Elapsed time is 2.299533 seconds.
+ACH :0.6. Dist: 5.5
+Elapsed time is 2.598497 seconds.
+ACH :0.6. Dist: 6
+Elapsed time is 2.529346 seconds.
+ACH :0.6. Dist: 6.5
+Elapsed time is 2.329323 seconds.
+ACH :0.6. Dist: 7
+Elapsed time is 2.235400 seconds.
+ACH :0.6. Dist: 7.5
+Elapsed time is 2.555119 seconds.
+ACH :0.6. Dist: 8
+Elapsed time is 2.381888 seconds.
+ACH :0.6. Dist: 8.5
+Elapsed time is 2.260290 seconds.
+ACH :0.6. Dist: 9
+Elapsed time is 2.177567 seconds.
+ACH :0.6. Dist: 9.5
+Elapsed time is 2.152843 seconds.
+ACH :0.6. Dist: 10
+Elapsed time is 2.153451 seconds.
+ACH :0.7. Dist: 4
+Elapsed time is 2.486393 seconds.
+ACH :0.7. Dist: 4.5
+Elapsed time is 2.637922 seconds.
+ACH :0.7. Dist: 5
+Elapsed time is 2.643197 seconds.
+ACH :0.7. Dist: 5.5
+Elapsed time is 2.710103 seconds.
+ACH :0.7. Dist: 6
+Elapsed time is 2.668710 seconds.
+ACH :0.7. Dist: 6.5
+Elapsed time is 2.380227 seconds.
+ACH :0.7. Dist: 7
+Elapsed time is 2.204575 seconds.
+ACH :0.7. Dist: 7.5
+Elapsed time is 2.165754 seconds.
+ACH :0.7. Dist: 8
+Elapsed time is 2.181115 seconds.
+ACH :0.7. Dist: 8.5
+Elapsed time is 2.186200 seconds.
+ACH :0.7. Dist: 9
+Elapsed time is 2.287702 seconds.
+ACH :0.7. Dist: 9.5
+Elapsed time is 2.719677 seconds.
+ACH :0.7. Dist: 10
+Elapsed time is 2.626619 seconds.
+ACH :0.8. Dist: 4
+Elapsed time is 2.583674 seconds.
+ACH :0.8. Dist: 4.5
+Elapsed time is 2.453438 seconds.
+ACH :0.8. Dist: 5
+Elapsed time is 2.655602 seconds.
+ACH :0.8. Dist: 5.5
+Elapsed time is 2.523286 seconds.
+ACH :0.8. Dist: 6
+Elapsed time is 2.339057 seconds.
+ACH :0.8. Dist: 6.5
+Elapsed time is 2.282967 seconds.
+ACH :0.8. Dist: 7
+Elapsed time is 2.153690 seconds.
+ACH :0.8. Dist: 7.5
+Elapsed time is 2.183474 seconds.
+ACH :0.8. Dist: 8
+Elapsed time is 2.660528 seconds.
+ACH :0.8. Dist: 8.5
+Elapsed time is 2.436289 seconds.
+ACH :0.8. Dist: 9
+Elapsed time is 2.548302 seconds.
+ACH :0.8. Dist: 9.5
+Elapsed time is 2.371536 seconds.
+ACH :0.8. Dist: 10
+Elapsed time is 2.514881 seconds.
+ACH :0.9. Dist: 4
+Elapsed time is 2.264045 seconds.
+ACH :0.9. Dist: 4.5
+Elapsed time is 2.211646 seconds.
+ACH :0.9. Dist: 5
+Elapsed time is 2.209551 seconds.
+ACH :0.9. Dist: 5.5
+Elapsed time is 2.216602 seconds.
+ACH :0.9. Dist: 6
+Elapsed time is 2.226623 seconds.
+ACH :0.9. Dist: 6.5
+Elapsed time is 2.446201 seconds.
+ACH :0.9. Dist: 7
+Elapsed time is 2.891143 seconds.
+ACH :0.9. Dist: 7.5
+Elapsed time is 2.711711 seconds.
+ACH :0.9. Dist: 8
+Elapsed time is 2.555231 seconds.
+ACH :0.9. Dist: 8.5
+Elapsed time is 2.685526 seconds.
+ACH :0.9. Dist: 9
+Elapsed time is 2.764442 seconds.
+ACH :0.9. Dist: 9.5
+Elapsed time is 2.508068 seconds.
+ACH :0.9. Dist: 10
+Elapsed time is 2.292278 seconds.
+ACH :1. Dist: 4
+Elapsed time is 2.209873 seconds.
+ACH :1. Dist: 4.5
+Elapsed time is 2.210432 seconds.
+ACH :1. Dist: 5
+Elapsed time is 2.437139 seconds.
+ACH :1. Dist: 5.5
+Elapsed time is 2.466436 seconds.
+ACH :1. Dist: 6
+Elapsed time is 2.558722 seconds.
+ACH :1. Dist: 6.5
+Elapsed time is 2.659735 seconds.
+ACH :1. Dist: 7
+Elapsed time is 2.685790 seconds.
+ACH :1. Dist: 7.5
+Elapsed time is 2.718878 seconds.
+ACH :1. Dist: 8
+Elapsed time is 2.502517 seconds.
+ACH :1. Dist: 8.5
+Elapsed time is 2.318715 seconds.
+ACH :1. Dist: 9
+Elapsed time is 2.294951 seconds.
+ACH :1. Dist: 9.5
+Elapsed time is 2.211063 seconds.
+ACH :1. Dist: 10
+Elapsed time is 2.333862 seconds.
+ACH :1.1. Dist: 4
+Elapsed time is 2.362414 seconds.
+ACH :1.1. Dist: 4.5
+Elapsed time is 2.416488 seconds.
+ACH :1.1. Dist: 5
+Elapsed time is 2.406669 seconds.
+ACH :1.1. Dist: 5.5
+Elapsed time is 2.465919 seconds.
+ACH :1.1. Dist: 6
+Elapsed time is 2.559134 seconds.
+ACH :1.1. Dist: 6.5
+Elapsed time is 2.418705 seconds.
+ACH :1.1. Dist: 7
+Elapsed time is 2.241301 seconds.
+ACH :1.1. Dist: 7.5
+Elapsed time is 2.234574 seconds.
+ACH :1.1. Dist: 8
+Elapsed time is 2.230897 seconds.
+ACH :1.1. Dist: 8.5
+Elapsed time is 2.376851 seconds.
+ACH :1.1. Dist: 9
+Elapsed time is 2.793643 seconds.
+ACH :1.1. Dist: 9.5
+Elapsed time is 2.663434 seconds.
+ACH :1.1. Dist: 10
+Elapsed time is 2.691505 seconds.
+ACH :1.2. Dist: 4
+Elapsed time is 2.682549 seconds.
+ACH :1.2. Dist: 4.5
+Elapsed time is 2.668425 seconds.
+ACH :1.2. Dist: 5
+Elapsed time is 2.528816 seconds.
+ACH :1.2. Dist: 5.5
+Elapsed time is 2.373905 seconds.
+ACH :1.2. Dist: 6
+Elapsed time is 2.291475 seconds.
+ACH :1.2. Dist: 6.5
+Elapsed time is 2.253879 seconds.
+ACH :1.2. Dist: 7
+Elapsed time is 2.369737 seconds.
+ACH :1.2. Dist: 7.5
+Elapsed time is 2.503458 seconds.
+ACH :1.2. Dist: 8
+Elapsed time is 2.599366 seconds.
+ACH :1.2. Dist: 8.5
+Elapsed time is 2.471629 seconds.
+ACH :1.2. Dist: 9
+Elapsed time is 2.463989 seconds.
+ACH :1.2. Dist: 9.5
+Elapsed time is 2.438220 seconds.
+ACH :1.2. Dist: 10
+Elapsed time is 2.358277 seconds.
+ACH :1.3. Dist: 4
+Elapsed time is 2.358557 seconds.
+ACH :1.3. Dist: 4.5
+Elapsed time is 2.396123 seconds.
+ACH :1.3. Dist: 5
+Elapsed time is 2.282211 seconds.
+ACH :1.3. Dist: 5.5
+Elapsed time is 2.574694 seconds.
+ACH :1.3. Dist: 6
+Elapsed time is 2.817056 seconds.
+ACH :1.3. Dist: 6.5
+Elapsed time is 2.744927 seconds.
+ACH :1.3. Dist: 7
+Elapsed time is 2.661140 seconds.
+ACH :1.3. Dist: 7.5
+Elapsed time is 2.715515 seconds.
+ACH :1.3. Dist: 8
+Elapsed time is 2.841033 seconds.
+ACH :1.3. Dist: 8.5
+Elapsed time is 2.700416 seconds.
+ACH :1.3. Dist: 9
+Elapsed time is 2.445087 seconds.
+ACH :1.3. Dist: 9.5
+Elapsed time is 2.396069 seconds.
+ACH :1.3. Dist: 10
+Elapsed time is 2.746151 seconds.
+ACH :1.4. Dist: 4
+Elapsed time is 2.720557 seconds.
+ACH :1.4. Dist: 4.5
+Elapsed time is 2.540538 seconds.
+ACH :1.4. Dist: 5
+Elapsed time is 2.825261 seconds.
+ACH :1.4. Dist: 5.5
+Elapsed time is 2.781517 seconds.
+ACH :1.4. Dist: 6
+Elapsed time is 2.369855 seconds.
+ACH :1.4. Dist: 6.5
+Elapsed time is 2.329010 seconds.
+ACH :1.4. Dist: 7
+Elapsed time is 2.331870 seconds.
+ACH :1.4. Dist: 7.5
+Elapsed time is 2.334926 seconds.
+ACH :1.4. Dist: 8
+Elapsed time is 2.327856 seconds.
+ACH :1.4. Dist: 8.5
+Elapsed time is 2.698035 seconds.
+ACH :1.4. Dist: 9
+Elapsed time is 2.629542 seconds.
+ACH :1.4. Dist: 9.5
+Elapsed time is 2.911893 seconds.
+ACH :1.4. Dist: 10
+Elapsed time is 2.811070 seconds.
+ACH :1.5. Dist: 4
+Elapsed time is 2.444990 seconds.
+ACH :1.5. Dist: 4.5
+Elapsed time is 2.780053 seconds.
+ACH :1.5. Dist: 5
+Elapsed time is 2.545089 seconds.
+ACH :1.5. Dist: 5.5
+Elapsed time is 2.379461 seconds.
+ACH :1.5. Dist: 6
+Elapsed time is 2.365442 seconds.
+ACH :1.5. Dist: 6.5
+Elapsed time is 2.795540 seconds.
+ACH :1.5. Dist: 7
+Elapsed time is 2.895146 seconds.
+ACH :1.5. Dist: 7.5
+Elapsed time is 2.881191 seconds.
+ACH :1.5. Dist: 8
+Elapsed time is 2.801515 seconds.
+ACH :1.5. Dist: 8.5
+Elapsed time is 2.459653 seconds.
+ACH :1.5. Dist: 9
+Elapsed time is 2.806803 seconds.
+ACH :1.5. Dist: 9.5
+Elapsed time is 2.801557 seconds.
+ACH :1.5. Dist: 10
+Elapsed time is 2.439926 seconds.
+ACH :1.6. Dist: 4
+Elapsed time is 2.366910 seconds.
+ACH :1.6. Dist: 4.5
+Elapsed time is 2.631074 seconds.
+ACH :1.6. Dist: 5
+Elapsed time is 2.734358 seconds.
+ACH :1.6. Dist: 5.5
+Elapsed time is 2.727105 seconds.
+ACH :1.6. Dist: 6
+Elapsed time is 2.931218 seconds.
+ACH :1.6. Dist: 6.5
+Elapsed time is 2.821544 seconds.
+ACH :1.6. Dist: 7
+Elapsed time is 2.660383 seconds.
+ACH :1.6. Dist: 7.5
+Elapsed time is 2.880755 seconds.
+ACH :1.6. Dist: 8
+Elapsed time is 2.696084 seconds.
+ACH :1.6. Dist: 8.5
+Elapsed time is 2.519999 seconds.
+ACH :1.6. Dist: 9
+Elapsed time is 2.499377 seconds.
+ACH :1.6. Dist: 9.5
+Elapsed time is 2.482686 seconds.
+ACH :1.6. Dist: 10
+Elapsed time is 2.430175 seconds.
+ACH :1.7. Dist: 4
+Elapsed time is 2.869888 seconds.
+ACH :1.7. Dist: 4.5
+Elapsed time is 2.836726 seconds.
+ACH :1.7. Dist: 5
+Elapsed time is 2.744670 seconds.
+ACH :1.7. Dist: 5.5
+Elapsed time is 2.574447 seconds.
+ACH :1.7. Dist: 6
+Elapsed time is 2.524192 seconds.
+ACH :1.7. Dist: 6.5
+Elapsed time is 2.436382 seconds.
+ACH :1.7. Dist: 7
+Elapsed time is 2.388033 seconds.
+ACH :1.7. Dist: 7.5
+Elapsed time is 2.692988 seconds.
+ACH :1.7. Dist: 8
+Elapsed time is 2.768984 seconds.
+ACH :1.7. Dist: 8.5
+Elapsed time is 2.852838 seconds.
+ACH :1.7. Dist: 9
+Elapsed time is 2.670637 seconds.
+ACH :1.7. Dist: 9.5
+Elapsed time is 2.421726 seconds.
+ACH :1.7. Dist: 10
+Elapsed time is 2.544451 seconds.
+ACH :1.8. Dist: 4
+Elapsed time is 2.780275 seconds.
+ACH :1.8. Dist: 4.5
+Elapsed time is 2.612860 seconds.
+ACH :1.8. Dist: 5
+Elapsed time is 2.406837 seconds.
+ACH :1.8. Dist: 5.5
+Elapsed time is 2.423833 seconds.
+ACH :1.8. Dist: 6
+Elapsed time is 2.941951 seconds.
+ACH :1.8. Dist: 6.5
+Elapsed time is 2.822179 seconds.
+ACH :1.8. Dist: 7
+Elapsed time is 2.898516 seconds.
+ACH :1.8. Dist: 7.5
+Elapsed time is 2.710166 seconds.
+ACH :1.8. Dist: 8
+Elapsed time is 2.592112 seconds.
+ACH :1.8. Dist: 8.5
+Elapsed time is 3.001983 seconds.
+ACH :1.8. Dist: 9
+Elapsed time is 2.736745 seconds.
+ACH :1.8. Dist: 9.5
+Elapsed time is 2.728572 seconds.
+ACH :1.8. Dist: 10
+Elapsed time is 2.945476 seconds.
+ACH :1.9. Dist: 4
+Elapsed time is 2.984216 seconds.
+ACH :1.9. Dist: 4.5
+Elapsed time is 2.812837 seconds.
+ACH :1.9. Dist: 5
+Elapsed time is 2.806788 seconds.
+ACH :1.9. Dist: 5.5
+Elapsed time is 2.952648 seconds.
+ACH :1.9. Dist: 6
+Elapsed time is 3.021815 seconds.
+ACH :1.9. Dist: 6.5
+Elapsed time is 3.000485 seconds.
+ACH :1.9. Dist: 7
+Elapsed time is 2.886729 seconds.
+ACH :1.9. Dist: 7.5
+Elapsed time is 2.884387 seconds.
+ACH :1.9. Dist: 8
+Elapsed time is 3.047598 seconds.
+ACH :1.9. Dist: 8.5
+Elapsed time is 2.933302 seconds.
+ACH :1.9. Dist: 9
+Elapsed time is 2.815766 seconds.
+ACH :1.9. Dist: 9.5
+Elapsed time is 2.967427 seconds.
+ACH :1.9. Dist: 10
+Elapsed time is 2.828339 seconds.
+ACH :2. Dist: 4
+Elapsed time is 2.873840 seconds.
+ACH :2. Dist: 4.5
+Elapsed time is 2.853424 seconds.
+ACH :2. Dist: 5
+Elapsed time is 2.850331 seconds.
+ACH :2. Dist: 5.5
+Elapsed time is 3.031382 seconds.
+ACH :2. Dist: 6
+Elapsed time is 3.110478 seconds.
+ACH :2. Dist: 6.5
+Elapsed time is 3.079798 seconds.
+ACH :2. Dist: 7
+Elapsed time is 2.961348 seconds.
+ACH :2. Dist: 7.5
+Elapsed time is 3.094249 seconds.
+ACH :2. Dist: 8
+Elapsed time is 2.925143 seconds.
+ACH :2. Dist: 8.5
+Elapsed time is 2.848871 seconds.
+ACH :2. Dist: 9
+Elapsed time is 2.840762 seconds.
+ACH :2. Dist: 9.5
+Elapsed time is 2.908334 seconds.
+ACH :2. Dist: 10
+Elapsed time is 3.036543 seconds.
+ACH :2.1. Dist: 4
+Elapsed time is 3.023709 seconds.
+ACH :2.1. Dist: 4.5
+Elapsed time is 3.036004 seconds.
+ACH :2.1. Dist: 5
+Elapsed time is 3.143541 seconds.
+ACH :2.1. Dist: 5.5
+Elapsed time is 3.007922 seconds.
+ACH :2.1. Dist: 6
+Elapsed time is 2.871205 seconds.
+ACH :2.1. Dist: 6.5
+Elapsed time is 2.969734 seconds.
+ACH :2.1. Dist: 7
+Elapsed time is 2.966450 seconds.
+ACH :2.1. Dist: 7.5
+Elapsed time is 3.100043 seconds.
+ACH :2.1. Dist: 8
+Elapsed time is 3.006354 seconds.
+ACH :2.1. Dist: 8.5
+Elapsed time is 2.962414 seconds.
+ACH :2.1. Dist: 9
+Elapsed time is 3.023983 seconds.
+ACH :2.1. Dist: 9.5
+Elapsed time is 2.901772 seconds.
+ACH :2.1. Dist: 10
+Elapsed time is 2.953957 seconds.
+ACH :2.2. Dist: 4
+Elapsed time is 3.035122 seconds.
+ACH :2.2. Dist: 4.5
+Elapsed time is 2.943732 seconds.
+ACH :2.2. Dist: 5
+Elapsed time is 3.002366 seconds.
+ACH :2.2. Dist: 5.5
+Elapsed time is 3.110449 seconds.
+ACH :2.2. Dist: 6
+Elapsed time is 2.988147 seconds.
+ACH :2.2. Dist: 6.5
+Elapsed time is 2.943426 seconds.
+ACH :2.2. Dist: 7
+Elapsed time is 2.935970 seconds.
+ACH :2.2. Dist: 7.5
+Elapsed time is 2.948188 seconds.
+ACH :2.2. Dist: 8
+Elapsed time is 2.967382 seconds.
+ACH :2.2. Dist: 8.5
+Elapsed time is 2.901551 seconds.
+ACH :2.2. Dist: 9
+Elapsed time is 2.931956 seconds.
+ACH :2.2. Dist: 9.5
+Elapsed time is 3.143071 seconds.
+ACH :2.2. Dist: 10
+Elapsed time is 2.975924 seconds.
+ACH :2.3. Dist: 4
+Elapsed time is 2.929063 seconds.
+ACH :2.3. Dist: 4.5
+Elapsed time is 3.118690 seconds.
+ACH :2.3. Dist: 5
+Elapsed time is 3.015633 seconds.
+ACH :2.3. Dist: 5.5
+Elapsed time is 2.934897 seconds.
+ACH :2.3. Dist: 6
+Elapsed time is 2.923326 seconds.
+ACH :2.3. Dist: 6.5
+Elapsed time is 2.933327 seconds.
+ACH :2.3. Dist: 7
+Elapsed time is 3.019454 seconds.
+ACH :2.3. Dist: 7.5
+Elapsed time is 2.993502 seconds.
+ACH :2.3. Dist: 8
+Elapsed time is 3.060873 seconds.
+ACH :2.3. Dist: 8.5
+Elapsed time is 3.081861 seconds.
+ACH :2.3. Dist: 9
+Elapsed time is 3.165674 seconds.
+ACH :2.3. Dist: 9.5
+Elapsed time is 3.071120 seconds.
+ACH :2.3. Dist: 10
+Elapsed time is 2.982217 seconds.
+ACH :2.4. Dist: 4
+Elapsed time is 2.936465 seconds.
+ACH :2.4. Dist: 4.5
+Elapsed time is 3.024266 seconds.
+ACH :2.4. Dist: 5
+Elapsed time is 3.055732 seconds.
+ACH :2.4. Dist: 5.5
+Elapsed time is 2.974413 seconds.
+ACH :2.4. Dist: 6
+Elapsed time is 2.961589 seconds.
+ACH :2.4. Dist: 6.5
+Elapsed time is 3.179768 seconds.
+ACH :2.4. Dist: 7
+Elapsed time is 3.101445 seconds.
+ACH :2.4. Dist: 7.5
+Elapsed time is 3.045377 seconds.
+ACH :2.4. Dist: 8
+Elapsed time is 3.034882 seconds.
+ACH :2.4. Dist: 8.5
+Elapsed time is 3.059926 seconds.
+ACH :2.4. Dist: 9
+Elapsed time is 3.203917 seconds.
+ACH :2.4. Dist: 9.5
+Elapsed time is 3.044574 seconds.
+ACH :2.4. Dist: 10
+Elapsed time is 2.932875 seconds.
+ACH :2.5. Dist: 4
+Elapsed time is 3.196145 seconds.
+ACH :2.5. Dist: 4.5
+Elapsed time is 3.212394 seconds.
+ACH :2.5. Dist: 5
+Elapsed time is 3.138737 seconds.
+ACH :2.5. Dist: 5.5
+Elapsed time is 3.006942 seconds.
+ACH :2.5. Dist: 6
+Elapsed time is 3.001317 seconds.
+ACH :2.5. Dist: 6.5
+Elapsed time is 2.978982 seconds.
+ACH :2.5. Dist: 7
+Elapsed time is 3.011344 seconds.
+ACH :2.5. Dist: 7.5
+Elapsed time is 3.067521 seconds.
+ACH :2.5. Dist: 8
+Elapsed time is 3.147401 seconds.
+ACH :2.5. Dist: 8.5
+Elapsed time is 3.032870 seconds.
+ACH :2.5. Dist: 9
+Elapsed time is 2.955710 seconds.
+ACH :2.5. Dist: 9.5
+Elapsed time is 3.087039 seconds.
+ACH :2.5. Dist: 10
+Elapsed time is 3.068840 seconds.
+ACH :2.6. Dist: 4
+Elapsed time is 3.140609 seconds.
+ACH :2.6. Dist: 4.5
+Elapsed time is 3.060419 seconds.
+ACH :2.6. Dist: 5
+Elapsed time is 3.142071 seconds.
+ACH :2.6. Dist: 5.5
+Elapsed time is 3.014651 seconds.
+ACH :2.6. Dist: 6
+Elapsed time is 2.982359 seconds.
+ACH :2.6. Dist: 6.5
+Elapsed time is 2.988079 seconds.
+ACH :2.6. Dist: 7
+Elapsed time is 3.055850 seconds.
+ACH :2.6. Dist: 7.5
+Elapsed time is 2.972906 seconds.
+ACH :2.6. Dist: 8
+Elapsed time is 2.989162 seconds.
+ACH :2.6. Dist: 8.5
+Elapsed time is 3.052413 seconds.
+ACH :2.6. Dist: 9
+Elapsed time is 3.110598 seconds.
+ACH :2.6. Dist: 9.5
+Elapsed time is 3.172878 seconds.
+ACH :2.6. Dist: 10
+Elapsed time is 3.050014 seconds.
+ACH :2.7. Dist: 4
+Elapsed time is 3.009329 seconds.
+ACH :2.7. Dist: 4.5
+Elapsed time is 2.985053 seconds.
+ACH :2.7. Dist: 5
+Elapsed time is 3.002035 seconds.
+ACH :2.7. Dist: 5.5
+Elapsed time is 3.010757 seconds.
+ACH :2.7. Dist: 6
+Elapsed time is 3.059619 seconds.
+ACH :2.7. Dist: 6.5
+Elapsed time is 3.031966 seconds.
+ACH :2.7. Dist: 7
+Elapsed time is 3.255968 seconds.
+ACH :2.7. Dist: 7.5
+Elapsed time is 3.097556 seconds.
+ACH :2.7. Dist: 8
+Elapsed time is 3.012434 seconds.
+ACH :2.7. Dist: 8.5
+Elapsed time is 3.057981 seconds.
+ACH :2.7. Dist: 9
+Elapsed time is 3.083672 seconds.
+ACH :2.7. Dist: 9.5
+Elapsed time is 3.007389 seconds.
+ACH :2.7. Dist: 10
+Elapsed time is 3.018039 seconds.
+ACH :2.8. Dist: 4
+Elapsed time is 3.021169 seconds.
+ACH :2.8. Dist: 4.5
+Elapsed time is 3.272017 seconds.
+ACH :2.8. Dist: 5
+Elapsed time is 3.191877 seconds.
+ACH :2.8. Dist: 5.5
+Elapsed time is 3.024654 seconds.
+ACH :2.8. Dist: 6
+Elapsed time is 3.014588 seconds.
+ACH :2.8. Dist: 6.5
+Elapsed time is 3.016399 seconds.
+ACH :2.8. Dist: 7
+Elapsed time is 3.062651 seconds.
+ACH :2.8. Dist: 7.5
+Elapsed time is 3.031857 seconds.
+ACH :2.8. Dist: 8
+Elapsed time is 3.241700 seconds.
+ACH :2.8. Dist: 8.5
+Elapsed time is 3.212363 seconds.
+ACH :2.8. Dist: 9
+Elapsed time is 3.124038 seconds.
+ACH :2.8. Dist: 9.5
+Elapsed time is 3.173428 seconds.
+ACH :2.8. Dist: 10
+Elapsed time is 3.123419 seconds.
+ACH :2.9. Dist: 4
+Elapsed time is 3.151549 seconds.
+ACH :2.9. Dist: 4.5
+Elapsed time is 3.183696 seconds.
+ACH :2.9. Dist: 5
+Elapsed time is 3.293563 seconds.
+ACH :2.9. Dist: 5.5
+Elapsed time is 3.247572 seconds.
+ACH :2.9. Dist: 6
+Elapsed time is 3.151559 seconds.
+ACH :2.9. Dist: 6.5
+Elapsed time is 3.155027 seconds.
+ACH :2.9. Dist: 7
+Elapsed time is 3.093773 seconds.
+ACH :2.9. Dist: 7.5
+Elapsed time is 3.129184 seconds.
+ACH :2.9. Dist: 8
+Elapsed time is 3.116465 seconds.
+ACH :2.9. Dist: 8.5
+Elapsed time is 3.168251 seconds.
+ACH :2.9. Dist: 9
+Elapsed time is 3.076454 seconds.
+ACH :2.9. Dist: 9.5
+Elapsed time is 3.061432 seconds.
+ACH :2.9. Dist: 10
+Elapsed time is 3.058614 seconds.
+ACH :3. Dist: 4
+Elapsed time is 3.059862 seconds.
+ACH :3. Dist: 4.5
+Elapsed time is 3.062249 seconds.
+ACH :3. Dist: 5
+Elapsed time is 3.064268 seconds.
+ACH :3. Dist: 5.5
+Elapsed time is 3.143731 seconds.
+ACH :3. Dist: 6
+Elapsed time is 3.156691 seconds.
+ACH :3. Dist: 6.5
+Elapsed time is 3.092088 seconds.
+ACH :3. Dist: 7
+Elapsed time is 3.075696 seconds.
+ACH :3. Dist: 7.5
+Elapsed time is 3.118053 seconds.
+ACH :3. Dist: 8
+Elapsed time is 3.102986 seconds.
+ACH :3. Dist: 8.5
+Elapsed time is 3.224240 seconds.
+ACH :3. Dist: 9
+Elapsed time is 3.218215 seconds.
+ACH :3. Dist: 9.5
+Elapsed time is 3.163547 seconds.
+ACH :3. Dist: 10
+Elapsed time is 3.083388 seconds.
+ACH :3.1. Dist: 4
+Elapsed time is 3.098813 seconds.
+ACH :3.1. Dist: 4.5
+Elapsed time is 3.234143 seconds.
+ACH :3.1. Dist: 5
+Elapsed time is 3.119723 seconds.
+ACH :3.1. Dist: 5.5
+Elapsed time is 3.076649 seconds.
+ACH :3.1. Dist: 6
+Elapsed time is 3.204888 seconds.
+ACH :3.1. Dist: 6.5
+Elapsed time is 3.217981 seconds.
+ACH :3.1. Dist: 7
+Elapsed time is 3.082012 seconds.
+ACH :3.1. Dist: 7.5
+Elapsed time is 3.084831 seconds.
+ACH :3.1. Dist: 8
+Elapsed time is 3.097108 seconds.
+ACH :3.1. Dist: 8.5
+Elapsed time is 3.219021 seconds.
+ACH :3.1. Dist: 9
+Elapsed time is 3.219907 seconds.
+ACH :3.1. Dist: 9.5
+Elapsed time is 3.154443 seconds.
+ACH :3.1. Dist: 10
+Elapsed time is 3.257627 seconds.
+ACH :3.2. Dist: 4
+Elapsed time is 3.309981 seconds.
+ACH :3.2. Dist: 4.5
+Elapsed time is 3.237610 seconds.
+ACH :3.2. Dist: 5
+Elapsed time is 3.166925 seconds.
+ACH :3.2. Dist: 5.5
+Elapsed time is 3.125292 seconds.
+ACH :3.2. Dist: 6
+Elapsed time is 3.356121 seconds.
+ACH :3.2. Dist: 6.5
+Elapsed time is 3.217570 seconds.
+ACH :3.2. Dist: 7
+Elapsed time is 3.127282 seconds.
+ACH :3.2. Dist: 7.5
+Elapsed time is 3.312207 seconds.
+ACH :3.2. Dist: 8
+Elapsed time is 3.244385 seconds.
+ACH :3.2. Dist: 8.5
+Elapsed time is 3.151948 seconds.
+ACH :3.2. Dist: 9
+Elapsed time is 3.162567 seconds.
+ACH :3.2. Dist: 9.5
+Elapsed time is 3.150638 seconds.
+ACH :3.2. Dist: 10
+Elapsed time is 3.246695 seconds.
+ACH :3.3. Dist: 4
+Elapsed time is 3.199571 seconds.
+ACH :3.3. Dist: 4.5
+Elapsed time is 3.165970 seconds.
+ACH :3.3. Dist: 5
+Elapsed time is 3.278312 seconds.
+ACH :3.3. Dist: 5.5
+Elapsed time is 3.185159 seconds.
+ACH :3.3. Dist: 6
+Elapsed time is 3.161319 seconds.
+ACH :3.3. Dist: 6.5
+Elapsed time is 3.144358 seconds.
+ACH :3.3. Dist: 7
+Elapsed time is 3.184645 seconds.
+ACH :3.3. Dist: 7.5
+Elapsed time is 3.264973 seconds.
+ACH :3.3. Dist: 8
+Elapsed time is 3.167801 seconds.
+ACH :3.3. Dist: 8.5
+Elapsed time is 3.221856 seconds.
+ACH :3.3. Dist: 9
+Elapsed time is 3.314588 seconds.
+ACH :3.3. Dist: 9.5
+Elapsed time is 3.240287 seconds.
+ACH :3.3. Dist: 10
+Elapsed time is 3.473316 seconds.
+ACH :3.4. Dist: 4
+Elapsed time is 3.502398 seconds.
+ACH :3.4. Dist: 4.5
+Elapsed time is 3.467322 seconds.
+ACH :3.4. Dist: 5
+Elapsed time is 3.467144 seconds.
+ACH :3.4. Dist: 5.5
+Elapsed time is 3.462702 seconds.
+ACH :3.4. Dist: 6
+Elapsed time is 3.476487 seconds.
+ACH :3.4. Dist: 6.5
+Elapsed time is 3.450053 seconds.
+ACH :3.4. Dist: 7
+Elapsed time is 3.447241 seconds.
+ACH :3.4. Dist: 7.5
+Elapsed time is 3.472776 seconds.
+ACH :3.4. Dist: 8
+Elapsed time is 3.433587 seconds.
+ACH :3.4. Dist: 8.5
+Elapsed time is 3.462875 seconds.
+ACH :3.4. Dist: 9
+Elapsed time is 3.497593 seconds.
+ACH :3.4. Dist: 9.5
+Elapsed time is 3.492093 seconds.
+ACH :3.4. Dist: 10
+Elapsed time is 3.460746 seconds.
+ACH :3.5. Dist: 4
+Elapsed time is 3.446622 seconds.
+ACH :3.5. Dist: 4.5
+Elapsed time is 3.460402 seconds.
+ACH :3.5. Dist: 5
+Elapsed time is 3.473724 seconds.
+ACH :3.5. Dist: 5.5
+Elapsed time is 3.435447 seconds.
+ACH :3.5. Dist: 6
+Elapsed time is 3.452166 seconds.
+ACH :3.5. Dist: 6.5
+Elapsed time is 3.455957 seconds.
+ACH :3.5. Dist: 7
+Elapsed time is 3.453350 seconds.
+ACH :3.5. Dist: 7.5
+Elapsed time is 3.407723 seconds.
+ACH :3.5. Dist: 8
+Elapsed time is 3.437217 seconds.
+ACH :3.5. Dist: 8.5
+Elapsed time is 3.438863 seconds.
+ACH :3.5. Dist: 9
+Elapsed time is 3.473699 seconds.
+ACH :3.5. Dist: 9.5
+Elapsed time is 3.625219 seconds.
+ACH :3.5. Dist: 10
+Elapsed time is 3.498782 seconds.
+ACH :3.6. Dist: 4
+Elapsed time is 3.508251 seconds.
+ACH :3.6. Dist: 4.5
+Elapsed time is 3.508933 seconds.
+ACH :3.6. Dist: 5
+Elapsed time is 3.486193 seconds.
+ACH :3.6. Dist: 5.5
+Elapsed time is 3.470415 seconds.
+ACH :3.6. Dist: 6
+Elapsed time is 3.453580 seconds.
+ACH :3.6. Dist: 6.5
+Elapsed time is 3.451313 seconds.
+ACH :3.6. Dist: 7
+Elapsed time is 3.466585 seconds.
+ACH :3.6. Dist: 7.5
+Elapsed time is 3.423817 seconds.
+ACH :3.6. Dist: 8
+Elapsed time is 3.482375 seconds.
+ACH :3.6. Dist: 8.5
+Elapsed time is 3.469252 seconds.
+ACH :3.6. Dist: 9
+Elapsed time is 3.482583 seconds.
+ACH :3.6. Dist: 9.5
+Elapsed time is 3.463453 seconds.
+ACH :3.6. Dist: 10
+Elapsed time is 3.466975 seconds.
+ACH :3.7. Dist: 4
+Elapsed time is 3.493182 seconds.
+ACH :3.7. Dist: 4.5
+Elapsed time is 3.491974 seconds.
+ACH :3.7. Dist: 5
+Elapsed time is 3.677393 seconds.
+ACH :3.7. Dist: 5.5
+Elapsed time is 3.499511 seconds.
+ACH :3.7. Dist: 6
+Elapsed time is 3.485572 seconds.
+ACH :3.7. Dist: 6.5
+Elapsed time is 3.486503 seconds.
+ACH :3.7. Dist: 7
+Elapsed time is 3.493842 seconds.
+ACH :3.7. Dist: 7.5
+Elapsed time is 3.442790 seconds.
+ACH :3.7. Dist: 8
+Elapsed time is 3.479270 seconds.
+ACH :3.7. Dist: 8.5
+Elapsed time is 3.515539 seconds.
+ACH :3.7. Dist: 9
+Elapsed time is 3.536243 seconds.
+ACH :3.7. Dist: 9.5
+Elapsed time is 3.522907 seconds.
+ACH :3.7. Dist: 10
+Elapsed time is 3.520185 seconds.
+ACH :3.8. Dist: 4
+Elapsed time is 3.533378 seconds.
+ACH :3.8. Dist: 4.5
+Elapsed time is 3.532132 seconds.
+ACH :3.8. Dist: 5
+Elapsed time is 3.512033 seconds.
+ACH :3.8. Dist: 5.5
+Elapsed time is 3.522825 seconds.
+ACH :3.8. Dist: 6
+Elapsed time is 3.530797 seconds.
+ACH :3.8. Dist: 6.5
+Elapsed time is 3.574933 seconds.
+ACH :3.8. Dist: 7
+Elapsed time is 3.551896 seconds.
+ACH :3.8. Dist: 7.5
+Elapsed time is 3.494606 seconds.
+ACH :3.8. Dist: 8
+Elapsed time is 3.439419 seconds.
+ACH :3.8. Dist: 8.5
+Elapsed time is 3.481326 seconds.
+ACH :3.8. Dist: 9
+Elapsed time is 3.474187 seconds.
+ACH :3.8. Dist: 9.5
+Elapsed time is 3.535620 seconds.
+ACH :3.8. Dist: 10
+Elapsed time is 3.516799 seconds.
+ACH :3.9. Dist: 4
+Elapsed time is 3.503171 seconds.
+ACH :3.9. Dist: 4.5
+Elapsed time is 3.514080 seconds.
+ACH :3.9. Dist: 5
+Elapsed time is 3.503990 seconds.
+ACH :3.9. Dist: 5.5
+Elapsed time is 3.498526 seconds.
+ACH :3.9. Dist: 6
+Elapsed time is 3.454636 seconds.
+ACH :3.9. Dist: 6.5
+Elapsed time is 3.405189 seconds.
+ACH :3.9. Dist: 7
+Elapsed time is 3.448442 seconds.
+ACH :3.9. Dist: 7.5
+Elapsed time is 3.434768 seconds.
+ACH :3.9. Dist: 8
+Elapsed time is 3.444467 seconds.
+ACH :3.9. Dist: 8.5
+Elapsed time is 3.469658 seconds.
+ACH :3.9. Dist: 9
+Elapsed time is 3.408248 seconds.
+ACH :3.9. Dist: 9.5
+Elapsed time is 3.557297 seconds.
+ACH :3.9. Dist: 10
+Elapsed time is 3.450519 seconds.
+ACH :4. Dist: 4
+Elapsed time is 3.451684 seconds.
+ACH :4. Dist: 4.5
+Elapsed time is 3.338999 seconds.
+ACH :4. Dist: 5
+Elapsed time is 3.396157 seconds.
+ACH :4. Dist: 5.5
+Elapsed time is 3.266156 seconds.
+ACH :4. Dist: 6
+Elapsed time is 3.349474 seconds.
+ACH :4. Dist: 6.5
+Elapsed time is 3.243797 seconds.
+ACH :4. Dist: 7
+Elapsed time is 3.301336 seconds.
+ACH :4. Dist: 7.5
+Elapsed time is 3.245824 seconds.
+ACH :4. Dist: 8
+Elapsed time is 3.238207 seconds.
+ACH :4. Dist: 8.5
+Elapsed time is 3.279361 seconds.
+ACH :4. Dist: 9
+Elapsed time is 3.373889 seconds.
+ACH :4. Dist: 9.5
+Elapsed time is 3.317403 seconds.
+ACH :4. Dist: 10
+Elapsed time is 3.310834 seconds.
+ACH :4.1. Dist: 4
+Elapsed time is 3.404493 seconds.
+ACH :4.1. Dist: 4.5
+Elapsed time is 3.324318 seconds.
+ACH :4.1. Dist: 5
+Elapsed time is 3.343438 seconds.
+ACH :4.1. Dist: 5.5
+Elapsed time is 3.257479 seconds.
+ACH :4.1. Dist: 6
+Elapsed time is 3.299883 seconds.
+ACH :4.1. Dist: 6.5
+Elapsed time is 3.397621 seconds.
+ACH :4.1. Dist: 7
+Elapsed time is 3.470430 seconds.
+ACH :4.1. Dist: 7.5
+Elapsed time is 3.410249 seconds.
+ACH :4.1. Dist: 8
+Elapsed time is 3.415943 seconds.
+ACH :4.1. Dist: 8.5
+Elapsed time is 3.463317 seconds.
+ACH :4.1. Dist: 9
+Elapsed time is 3.437330 seconds.
+ACH :4.1. Dist: 9.5
+Elapsed time is 3.392144 seconds.
+ACH :4.1. Dist: 10
+Elapsed time is 3.289965 seconds.
+ACH :4.2. Dist: 4
+Elapsed time is 3.373032 seconds.
+ACH :4.2. Dist: 4.5
+Elapsed time is 3.505498 seconds.
+ACH :4.2. Dist: 5
+Elapsed time is 3.548314 seconds.
+ACH :4.2. Dist: 5.5
+Elapsed time is 3.457118 seconds.
+ACH :4.2. Dist: 6
+Elapsed time is 3.432650 seconds.
+ACH :4.2. Dist: 6.5
+Elapsed time is 3.531455 seconds.
+ACH :4.2. Dist: 7
+Elapsed time is 3.547199 seconds.
+ACH :4.2. Dist: 7.5
+Elapsed time is 3.535108 seconds.
+ACH :4.2. Dist: 8
+Elapsed time is 3.482736 seconds.
+ACH :4.2. Dist: 8.5
+Elapsed time is 3.484786 seconds.
+ACH :4.2. Dist: 9
+Elapsed time is 3.533242 seconds.
+ACH :4.2. Dist: 9.5
+Elapsed time is 3.544363 seconds.
+ACH :4.2. Dist: 10
+Elapsed time is 3.556770 seconds.
+ACH :4.3. Dist: 4
+Elapsed time is 3.724298 seconds.
+ACH :4.3. Dist: 4.5
+Elapsed time is 3.575462 seconds.
+ACH :4.3. Dist: 5
+Elapsed time is 3.572914 seconds.
+ACH :4.3. Dist: 5.5
+Elapsed time is 3.546931 seconds.
+ACH :4.3. Dist: 6
+Elapsed time is 3.496896 seconds.
+ACH :4.3. Dist: 6.5
+Elapsed time is 3.532426 seconds.
+ACH :4.3. Dist: 7
+Elapsed time is 3.502158 seconds.
+ACH :4.3. Dist: 7.5
+Elapsed time is 3.527892 seconds.
+ACH :4.3. Dist: 8
+Elapsed time is 3.519760 seconds.
+ACH :4.3. Dist: 8.5
+Elapsed time is 3.544850 seconds.
+ACH :4.3. Dist: 9
+Elapsed time is 3.588554 seconds.
+ACH :4.3. Dist: 9.5
+Elapsed time is 3.579436 seconds.
+ACH :4.3. Dist: 10
+Elapsed time is 3.569025 seconds.
+ACH :4.4. Dist: 4
+Elapsed time is 3.586041 seconds.
+ACH :4.4. Dist: 4.5
+Elapsed time is 3.598406 seconds.
+ACH :4.4. Dist: 5
+Elapsed time is 3.589500 seconds.
+ACH :4.4. Dist: 5.5
+Elapsed time is 3.582008 seconds.
+ACH :4.4. Dist: 6
+Elapsed time is 3.616388 seconds.
+ACH :4.4. Dist: 6.5
+Elapsed time is 3.872480 seconds.
+ACH :4.4. Dist: 7
+Elapsed time is 3.717352 seconds.
+ACH :4.4. Dist: 7.5
+Elapsed time is 3.742796 seconds.
+ACH :4.4. Dist: 8
+Elapsed time is 3.819700 seconds.
+ACH :4.4. Dist: 8.5
+Elapsed time is 3.764803 seconds.
+ACH :4.4. Dist: 9
+Elapsed time is 3.864659 seconds.
+ACH :4.4. Dist: 9.5
+Elapsed time is 3.779023 seconds.
+ACH :4.4. Dist: 10
+Elapsed time is 3.880357 seconds.
+ACH :4.5. Dist: 4
+Elapsed time is 3.859825 seconds.
+ACH :4.5. Dist: 4.5
+Elapsed time is 3.829621 seconds.
+ACH :4.5. Dist: 5
+Elapsed time is 3.565577 seconds.
+ACH :4.5. Dist: 5.5
+Elapsed time is 3.875192 seconds.
+ACH :4.5. Dist: 6
+Elapsed time is 3.809582 seconds.
+ACH :4.5. Dist: 6.5
+Elapsed time is 3.740393 seconds.
+ACH :4.5. Dist: 7
+Elapsed time is 3.833174 seconds.
+ACH :4.5. Dist: 7.5
+Elapsed time is 3.764655 seconds.
+ACH :4.5. Dist: 8
+Elapsed time is 3.867083 seconds.
+ACH :4.5. Dist: 8.5
+Elapsed time is 3.811863 seconds.
+ACH :4.5. Dist: 9
+Elapsed time is 3.753116 seconds.
+ACH :4.5. Dist: 9.5
+Elapsed time is 3.859063 seconds.
+ACH :4.5. Dist: 10
+Elapsed time is 3.794811 seconds.
+ACH :4.6. Dist: 4
+Elapsed time is 3.897351 seconds.
+ACH :4.6. Dist: 4.5
+Elapsed time is 3.873891 seconds.
+ACH :4.6. Dist: 5
+Elapsed time is 3.868755 seconds.
+ACH :4.6. Dist: 5.5
+Elapsed time is 3.802693 seconds.
+ACH :4.6. Dist: 6
+Elapsed time is 3.797633 seconds.
+ACH :4.6. Dist: 6.5
+Elapsed time is 3.842535 seconds.
+ACH :4.6. Dist: 7
+Elapsed time is 3.852058 seconds.
+ACH :4.6. Dist: 7.5
+Elapsed time is 3.834031 seconds.
+ACH :4.6. Dist: 8
+Elapsed time is 3.752796 seconds.
+ACH :4.6. Dist: 8.5
+Elapsed time is 3.986896 seconds.
+ACH :4.6. Dist: 9
+Elapsed time is 3.809665 seconds.
+ACH :4.6. Dist: 9.5
+Elapsed time is 3.815063 seconds.
+ACH :4.6. Dist: 10
+Elapsed time is 3.811892 seconds.
+ACH :4.7. Dist: 4
+Elapsed time is 3.829027 seconds.
+ACH :4.7. Dist: 4.5
+Elapsed time is 3.911612 seconds.
+ACH :4.7. Dist: 5
+Elapsed time is 3.909870 seconds.
+ACH :4.7. Dist: 5.5
+Elapsed time is 3.887126 seconds.
+ACH :4.7. Dist: 6
+Elapsed time is 3.862435 seconds.
+ACH :4.7. Dist: 6.5
+Elapsed time is 3.772306 seconds.
+ACH :4.7. Dist: 7
+Elapsed time is 3.905019 seconds.
+ACH :4.7. Dist: 7.5
+Elapsed time is 3.809633 seconds.
+ACH :4.7. Dist: 8
+Elapsed time is 3.845795 seconds.
+ACH :4.7. Dist: 8.5
+Elapsed time is 3.971116 seconds.
+ACH :4.7. Dist: 9
+Elapsed time is 3.929949 seconds.
+ACH :4.7. Dist: 9.5
+Elapsed time is 3.909167 seconds.
+ACH :4.7. Dist: 10
+Elapsed time is 3.724170 seconds.
+ACH :4.8. Dist: 4
+Elapsed time is 3.788147 seconds.
+ACH :4.8. Dist: 4.5
+Elapsed time is 3.938673 seconds.
+ACH :4.8. Dist: 5
+Elapsed time is 3.881115 seconds.
+ACH :4.8. Dist: 5.5
+Elapsed time is 3.931010 seconds.
+ACH :4.8. Dist: 6
+Elapsed time is 3.883492 seconds.
+ACH :4.8. Dist: 6.5
+Elapsed time is 3.938561 seconds.
+ACH :4.8. Dist: 7
+Elapsed time is 3.830052 seconds.
+ACH :4.8. Dist: 7.5
+Elapsed time is 3.997564 seconds.
+ACH :4.8. Dist: 8
+Elapsed time is 3.877175 seconds.
+ACH :4.8. Dist: 8.5
+Elapsed time is 3.765720 seconds.
+ACH :4.8. Dist: 9
+Elapsed time is 3.951498 seconds.
+ACH :4.8. Dist: 9.5
+Elapsed time is 3.881037 seconds.
+ACH :4.8. Dist: 10
+Elapsed time is 3.710614 seconds.
+ACH :4.9. Dist: 4
+Elapsed time is 3.943534 seconds.
+ACH :4.9. Dist: 4.5
+Elapsed time is 3.925258 seconds.
+ACH :4.9. Dist: 5
+Elapsed time is 3.850746 seconds.
+ACH :4.9. Dist: 5.5
+Elapsed time is 3.829711 seconds.
+ACH :4.9. Dist: 6
+Elapsed time is 3.952221 seconds.
+ACH :4.9. Dist: 6.5
+Elapsed time is 3.805998 seconds.
+ACH :4.9. Dist: 7
+Elapsed time is 3.859378 seconds.
+ACH :4.9. Dist: 7.5
+Elapsed time is 3.948837 seconds.
+ACH :4.9. Dist: 8
+Elapsed time is 3.940757 seconds.
+ACH :4.9. Dist: 8.5
+Elapsed time is 3.918652 seconds.
+ACH :4.9. Dist: 9
+Elapsed time is 3.865531 seconds.
+ACH :4.9. Dist: 9.5
+Elapsed time is 3.889112 seconds.
+ACH :4.9. Dist: 10
+Elapsed time is 4.132209 seconds.
+ACH :5. Dist: 4
+Elapsed time is 3.900641 seconds.
+ACH :5. Dist: 4.5
+Elapsed time is 3.776728 seconds.
+ACH :5. Dist: 5
+Elapsed time is 3.811944 seconds.
+ACH :5. Dist: 5.5
+Elapsed time is 3.947771 seconds.
+ACH :5. Dist: 6
+Elapsed time is 3.994312 seconds.
+ACH :5. Dist: 6.5
+Elapsed time is 3.849386 seconds.
+ACH :5. Dist: 7
+Elapsed time is 3.845643 seconds.
+ACH :5. Dist: 7.5
+Elapsed time is 3.949384 seconds.
+ACH :5. Dist: 8
+Elapsed time is 3.810585 seconds.
+ACH :5. Dist: 8.5
+Elapsed time is 3.764543 seconds.
+ACH :5. Dist: 9
+Elapsed time is 3.869388 seconds.
+ACH :5. Dist: 9.5
+Elapsed time is 3.885200 seconds.
+ACH :5. Dist: 10
+Elapsed time is 3.922480 seconds.
+ACH :5.1. Dist: 4
+Elapsed time is 3.975402 seconds.
+ACH :5.1. Dist: 4.5
+Elapsed time is 3.951972 seconds.
+ACH :5.1. Dist: 5
+Elapsed time is 3.992278 seconds.
+ACH :5.1. Dist: 5.5
+Elapsed time is 3.934224 seconds.
+ACH :5.1. Dist: 6
+Elapsed time is 3.926056 seconds.
+ACH :5.1. Dist: 6.5
+Elapsed time is 3.930038 seconds.
+ACH :5.1. Dist: 7
+Elapsed time is 3.942608 seconds.
+ACH :5.1. Dist: 7.5
+Elapsed time is 3.966622 seconds.
+ACH :5.1. Dist: 8
+Elapsed time is 3.972783 seconds.
+ACH :5.1. Dist: 8.5
+Elapsed time is 3.960001 seconds.
+ACH :5.1. Dist: 9
+Elapsed time is 3.936353 seconds.
+ACH :5.1. Dist: 9.5
+Elapsed time is 4.022627 seconds.
+ACH :5.1. Dist: 10
+Elapsed time is 3.823826 seconds.
+ACH :5.2. Dist: 4
+Elapsed time is 3.887853 seconds.
+ACH :5.2. Dist: 4.5
+Elapsed time is 3.978373 seconds.
+ACH :5.2. Dist: 5
+Elapsed time is 3.911626 seconds.
+ACH :5.2. Dist: 5.5
+Elapsed time is 3.928486 seconds.
+ACH :5.2. Dist: 6
+Elapsed time is 3.872513 seconds.
+ACH :5.2. Dist: 6.5
+Elapsed time is 3.957224 seconds.
+ACH :5.2. Dist: 7
+Elapsed time is 4.035654 seconds.
+ACH :5.2. Dist: 7.5
+Elapsed time is 3.905237 seconds.
+ACH :5.2. Dist: 8
+Elapsed time is 3.819612 seconds.
+ACH :5.2. Dist: 8.5
+Elapsed time is 3.979851 seconds.
+ACH :5.2. Dist: 9
+Elapsed time is 3.924900 seconds.
+ACH :5.2. Dist: 9.5
+Elapsed time is 3.894364 seconds.
+ACH :5.2. Dist: 10
+Elapsed time is 3.941600 seconds.
+ACH :5.3. Dist: 4
+Elapsed time is 4.005282 seconds.
+ACH :5.3. Dist: 4.5
+Elapsed time is 3.938793 seconds.
+ACH :5.3. Dist: 5
+Elapsed time is 4.028222 seconds.
+ACH :5.3. Dist: 5.5
+Elapsed time is 4.057983 seconds.
+ACH :5.3. Dist: 6
+Elapsed time is 4.013300 seconds.
+ACH :5.3. Dist: 6.5
+Elapsed time is 3.977230 seconds.
+ACH :5.3. Dist: 7
+Elapsed time is 3.997766 seconds.
+ACH :5.3. Dist: 7.5
+Elapsed time is 3.953795 seconds.
+ACH :5.3. Dist: 8
+Elapsed time is 3.941127 seconds.
+ACH :5.3. Dist: 8.5
+Elapsed time is 3.981864 seconds.
+ACH :5.3. Dist: 9
+Elapsed time is 3.985893 seconds.
+ACH :5.3. Dist: 9.5
+Elapsed time is 3.957588 seconds.
+ACH :5.3. Dist: 10
+Elapsed time is 3.966179 seconds.
+ACH :5.4. Dist: 4
+Elapsed time is 3.937170 seconds.
+ACH :5.4. Dist: 4.5
+Elapsed time is 3.940126 seconds.
+ACH :5.4. Dist: 5
+Elapsed time is 3.957757 seconds.
+ACH :5.4. Dist: 5.5
+Elapsed time is 3.983718 seconds.
+ACH :5.4. Dist: 6
+Elapsed time is 4.028062 seconds.
+ACH :5.4. Dist: 6.5
+Elapsed time is 4.028048 seconds.
+ACH :5.4. Dist: 7
+Elapsed time is 3.983403 seconds.
+ACH :5.4. Dist: 7.5
+Elapsed time is 4.021298 seconds.
+ACH :5.4. Dist: 8
+Elapsed time is 3.920599 seconds.
+ACH :5.4. Dist: 8.5
+Elapsed time is 3.895470 seconds.
+ACH :5.4. Dist: 9
+Elapsed time is 4.041647 seconds.
+ACH :5.4. Dist: 9.5
+Elapsed time is 3.953270 seconds.
+ACH :5.4. Dist: 10
+Elapsed time is 3.908750 seconds.
+ACH :5.5. Dist: 4
+Elapsed time is 3.993241 seconds.
+ACH :5.5. Dist: 4.5
+Elapsed time is 4.052676 seconds.
+ACH :5.5. Dist: 5
+Elapsed time is 4.052843 seconds.
+ACH :5.5. Dist: 5.5
+Elapsed time is 3.959386 seconds.
+ACH :5.5. Dist: 6
+Elapsed time is 3.854823 seconds.
+ACH :5.5. Dist: 6.5
+Elapsed time is 4.062577 seconds.
+ACH :5.5. Dist: 7
+Elapsed time is 3.996539 seconds.
+ACH :5.5. Dist: 7.5
+Elapsed time is 4.011603 seconds.
+ACH :5.5. Dist: 8
+Elapsed time is 3.997607 seconds.
+ACH :5.5. Dist: 8.5
+Elapsed time is 3.943310 seconds.
+ACH :5.5. Dist: 9
+Elapsed time is 3.954093 seconds.
+ACH :5.5. Dist: 9.5
+Elapsed time is 3.994204 seconds.
+ACH :5.5. Dist: 10
+Elapsed time is 4.090326 seconds.
+ACH :5.6. Dist: 4
+Elapsed time is 4.070219 seconds.
+ACH :5.6. Dist: 4.5
+Elapsed time is 3.877399 seconds.
+ACH :5.6. Dist: 5
+Elapsed time is 3.875894 seconds.
+ACH :5.6. Dist: 5.5
+Elapsed time is 4.035195 seconds.
+ACH :5.6. Dist: 6
+Elapsed time is 4.091881 seconds.
+ACH :5.6. Dist: 6.5
+Elapsed time is 4.023663 seconds.
+ACH :5.6. Dist: 7
+Elapsed time is 3.900778 seconds.
+ACH :5.6. Dist: 7.5
+Elapsed time is 3.975559 seconds.
+ACH :5.6. Dist: 8
+Elapsed time is 4.093850 seconds.
+ACH :5.6. Dist: 8.5
+Elapsed time is 4.065395 seconds.
+ACH :5.6. Dist: 9
+Elapsed time is 4.004389 seconds.
+ACH :5.6. Dist: 9.5
+Elapsed time is 4.060296 seconds.
+ACH :5.6. Dist: 10
+Elapsed time is 4.159684 seconds.
+ACH :5.7. Dist: 4
+Elapsed time is 4.064032 seconds.
+ACH :5.7. Dist: 4.5
+Elapsed time is 4.053241 seconds.
+ACH :5.7. Dist: 5
+Elapsed time is 4.058185 seconds.
+ACH :5.7. Dist: 5.5
+Elapsed time is 4.018828 seconds.
+ACH :5.7. Dist: 6
+Elapsed time is 3.928359 seconds.
+ACH :5.7. Dist: 6.5
+Elapsed time is 4.061720 seconds.
+ACH :5.7. Dist: 7
+Elapsed time is 4.073939 seconds.
+ACH :5.7. Dist: 7.5
+Elapsed time is 3.951327 seconds.
+ACH :5.7. Dist: 8
+Elapsed time is 3.915805 seconds.
+ACH :5.7. Dist: 8.5
+Elapsed time is 4.041079 seconds.
+ACH :5.7. Dist: 9
+Elapsed time is 3.998900 seconds.
+ACH :5.7. Dist: 9.5
+Elapsed time is 4.086991 seconds.
+ACH :5.7. Dist: 10
+Elapsed time is 4.043095 seconds.
+ACH :5.8. Dist: 4
+Elapsed time is 4.070917 seconds.
+ACH :5.8. Dist: 4.5
+Elapsed time is 4.018304 seconds.
+ACH :5.8. Dist: 5
+Elapsed time is 3.986421 seconds.
+ACH :5.8. Dist: 5.5
+Elapsed time is 4.044890 seconds.
+ACH :5.8. Dist: 6
+Elapsed time is 4.107083 seconds.
+ACH :5.8. Dist: 6.5
+Elapsed time is 4.067399 seconds.
+ACH :5.8. Dist: 7
+Elapsed time is 4.071992 seconds.
+ACH :5.8. Dist: 7.5
+Elapsed time is 4.103329 seconds.
+ACH :5.8. Dist: 8
+Elapsed time is 4.066300 seconds.
+ACH :5.8. Dist: 8.5
+Elapsed time is 4.095025 seconds.
+ACH :5.8. Dist: 9
+Elapsed time is 4.084392 seconds.
+ACH :5.8. Dist: 9.5
+Elapsed time is 4.023329 seconds.
+ACH :5.8. Dist: 10
+Elapsed time is 4.030589 seconds.
+ACH :5.9. Dist: 4
+Elapsed time is 4.079585 seconds.
+ACH :5.9. Dist: 4.5
+Elapsed time is 4.113515 seconds.
+ACH :5.9. Dist: 5
+Elapsed time is 4.045276 seconds.
+ACH :5.9. Dist: 5.5
+Elapsed time is 4.088876 seconds.
+ACH :5.9. Dist: 6
+Elapsed time is 4.075104 seconds.
+ACH :5.9. Dist: 6.5
+Elapsed time is 4.062092 seconds.
+ACH :5.9. Dist: 7
+Elapsed time is 4.091131 seconds.
+ACH :5.9. Dist: 7.5
+Elapsed time is 4.214852 seconds.
+ACH :5.9. Dist: 8
+Elapsed time is 4.062364 seconds.
+ACH :5.9. Dist: 8.5
+Elapsed time is 4.037993 seconds.
+ACH :5.9. Dist: 9
+Elapsed time is 4.048315 seconds.
+ACH :5.9. Dist: 9.5
+Elapsed time is 4.100106 seconds.
+ACH :5.9. Dist: 10
+Elapsed time is 4.076609 seconds.
+ACH :6. Dist: 4
+Elapsed time is 4.072909 seconds.
+ACH :6. Dist: 4.5
+Elapsed time is 4.074887 seconds.
+ACH :6. Dist: 5
+Elapsed time is 4.039796 seconds.
+ACH :6. Dist: 5.5
+Elapsed time is 4.034953 seconds.
+ACH :6. Dist: 6
+Elapsed time is 4.046399 seconds.
+ACH :6. Dist: 6.5
+Elapsed time is 4.042756 seconds.
+ACH :6. Dist: 7
+Elapsed time is 3.973124 seconds.
+ACH :6. Dist: 7.5
+Elapsed time is 4.018113 seconds.
+ACH :6. Dist: 8
+Elapsed time is 3.863516 seconds.
+ACH :6. Dist: 8.5
+Elapsed time is 3.973348 seconds.
+ACH :6. Dist: 9
+Elapsed time is 4.078861 seconds.
+ACH :6. Dist: 9.5
+Elapsed time is 4.008982 seconds.
+ACH :6. Dist: 10
+Elapsed time is 4.037806 seconds.
+ACH :6.1. Dist: 4
+Elapsed time is 4.047978 seconds.
+ACH :6.1. Dist: 4.5
+Elapsed time is 4.023408 seconds.
+ACH :6.1. Dist: 5
+Elapsed time is 4.052647 seconds.
+ACH :6.1. Dist: 5.5
+Elapsed time is 3.989105 seconds.
+ACH :6.1. Dist: 6
+Elapsed time is 3.909798 seconds.
+ACH :6.1. Dist: 6.5
+Elapsed time is 3.948307 seconds.
+ACH :6.1. Dist: 7
+Elapsed time is 3.946086 seconds.
+ACH :6.1. Dist: 7.5
+Elapsed time is 4.019502 seconds.
+ACH :6.1. Dist: 8
+Elapsed time is 4.045760 seconds.
+ACH :6.1. Dist: 8.5
+Elapsed time is 4.100966 seconds.
+ACH :6.1. Dist: 9
+Elapsed time is 4.093990 seconds.
+ACH :6.1. Dist: 9.5
+Elapsed time is 4.029527 seconds.
+ACH :6.1. Dist: 10
+Elapsed time is 4.052663 seconds.
+ACH :6.2. Dist: 4
+Elapsed time is 4.064122 seconds.
+ACH :6.2. Dist: 4.5
+Elapsed time is 4.032309 seconds.
+ACH :6.2. Dist: 5
+Elapsed time is 3.929362 seconds.
+ACH :6.2. Dist: 5.5
+Elapsed time is 4.079421 seconds.
+ACH :6.2. Dist: 6
+Elapsed time is 4.082074 seconds.
+ACH :6.2. Dist: 6.5
+Elapsed time is 3.985392 seconds.
+ACH :6.2. Dist: 7
+Elapsed time is 4.069411 seconds.
+ACH :6.2. Dist: 7.5
+Elapsed time is 4.114923 seconds.
+ACH :6.2. Dist: 8
+Elapsed time is 3.934220 seconds.
+ACH :6.2. Dist: 8.5
+Elapsed time is 3.907632 seconds.
+ACH :6.2. Dist: 9
+Elapsed time is 4.034420 seconds.
+ACH :6.2. Dist: 9.5
+Elapsed time is 4.039852 seconds.
+ACH :6.2. Dist: 10
+Elapsed time is 3.987536 seconds.
+ACH :6.3. Dist: 4
+Elapsed time is 4.039144 seconds.
+ACH :6.3. Dist: 4.5
+Elapsed time is 4.056338 seconds.
+ACH :6.3. Dist: 5
+Elapsed time is 4.082525 seconds.
+ACH :6.3. Dist: 5.5
+Elapsed time is 4.026360 seconds.
+ACH :6.3. Dist: 6
+Elapsed time is 3.973880 seconds.
+ACH :6.3. Dist: 6.5
+Elapsed time is 4.072018 seconds.
+ACH :6.3. Dist: 7
+Elapsed time is 4.075781 seconds.
+ACH :6.3. Dist: 7.5
+Elapsed time is 4.097378 seconds.
+ACH :6.3. Dist: 8
+Elapsed time is 4.088170 seconds.
+ACH :6.3. Dist: 8.5
+Elapsed time is 4.101186 seconds.
+ACH :6.3. Dist: 9
+Elapsed time is 4.022975 seconds.
+ACH :6.3. Dist: 9.5
+Elapsed time is 4.090025 seconds.
+ACH :6.3. Dist: 10
+Elapsed time is 4.026912 seconds.
+ACH :6.4. Dist: 4
+Elapsed time is 4.083177 seconds.
+ACH :6.4. Dist: 4.5
+Elapsed time is 4.075072 seconds.
+ACH :6.4. Dist: 5
+Elapsed time is 4.021094 seconds.
+ACH :6.4. Dist: 5.5
+Elapsed time is 4.132370 seconds.
+ACH :6.4. Dist: 6
+Elapsed time is 4.053052 seconds.
+ACH :6.4. Dist: 6.5
+Elapsed time is 4.027145 seconds.
+ACH :6.4. Dist: 7
+Elapsed time is 4.118154 seconds.
+ACH :6.4. Dist: 7.5
+Elapsed time is 4.068848 seconds.
+ACH :6.4. Dist: 8
+Elapsed time is 4.015731 seconds.
+ACH :6.4. Dist: 8.5
+Elapsed time is 4.076733 seconds.
+ACH :6.4. Dist: 9
+Elapsed time is 4.027905 seconds.
+ACH :6.4. Dist: 9.5
+Elapsed time is 3.901939 seconds.
+ACH :6.4. Dist: 10
+Elapsed time is 4.083207 seconds.
+ACH :6.5. Dist: 4
+Elapsed time is 4.112310 seconds.
+ACH :6.5. Dist: 4.5
+Elapsed time is 4.118181 seconds.
+ACH :6.5. Dist: 5
+Elapsed time is 4.079498 seconds.
+ACH :6.5. Dist: 5.5
+Elapsed time is 4.085919 seconds.
+ACH :6.5. Dist: 6
+Elapsed time is 4.106892 seconds.
+ACH :6.5. Dist: 6.5
+Elapsed time is 4.105546 seconds.
+ACH :6.5. Dist: 7
+Elapsed time is 4.118168 seconds.
+ACH :6.5. Dist: 7.5
+Elapsed time is 4.088001 seconds.
+ACH :6.5. Dist: 8
+Elapsed time is 4.112760 seconds.
+ACH :6.5. Dist: 8.5
+Elapsed time is 4.090234 seconds.
+ACH :6.5. Dist: 9
+Elapsed time is 4.137155 seconds.
+ACH :6.5. Dist: 9.5
+Elapsed time is 4.096090 seconds.
+ACH :6.5. Dist: 10
+Elapsed time is 4.145551 seconds.
+ACH :6.6. Dist: 4
+Elapsed time is 4.118660 seconds.
+ACH :6.6. Dist: 4.5
+Elapsed time is 4.072653 seconds.
+ACH :6.6. Dist: 5
+Elapsed time is 4.089369 seconds.
+ACH :6.6. Dist: 5.5
+Elapsed time is 4.115335 seconds.
+ACH :6.6. Dist: 6
+Elapsed time is 4.064880 seconds.
+ACH :6.6. Dist: 6.5
+Elapsed time is 4.154789 seconds.
+ACH :6.6. Dist: 7
+Elapsed time is 4.078247 seconds.
+ACH :6.6. Dist: 7.5
+Elapsed time is 4.096062 seconds.
+ACH :6.6. Dist: 8
+Elapsed time is 4.100509 seconds.
+ACH :6.6. Dist: 8.5
+Elapsed time is 4.175211 seconds.
+ACH :6.6. Dist: 9
+Elapsed time is 4.102584 seconds.
+ACH :6.6. Dist: 9.5
+Elapsed time is 4.142518 seconds.
+ACH :6.6. Dist: 10
+Elapsed time is 4.095110 seconds.
+ACH :6.7. Dist: 4
+Elapsed time is 4.154573 seconds.
+ACH :6.7. Dist: 4.5
+Elapsed time is 4.169737 seconds.
+ACH :6.7. Dist: 5
+Elapsed time is 3.965612 seconds.
+ACH :6.7. Dist: 5.5
+Elapsed time is 4.020693 seconds.
+ACH :6.7. Dist: 6
+Elapsed time is 4.067843 seconds.
+ACH :6.7. Dist: 6.5
+Elapsed time is 4.151988 seconds.
+ACH :6.7. Dist: 7
+Elapsed time is 4.081877 seconds.
+ACH :6.7. Dist: 7.5
+Elapsed time is 4.014222 seconds.
+ACH :6.7. Dist: 8
+Elapsed time is 4.207228 seconds.
+ACH :6.7. Dist: 8.5
+Elapsed time is 4.146541 seconds.
+ACH :6.7. Dist: 9
+Elapsed time is 4.111888 seconds.
+ACH :6.7. Dist: 9.5
+Elapsed time is 4.204946 seconds.
+ACH :6.7. Dist: 10
+Elapsed time is 4.136493 seconds.
+ACH :6.8. Dist: 4
+Elapsed time is 3.814473 seconds.
+ACH :6.8. Dist: 4.5
+Elapsed time is 4.112040 seconds.
+ACH :6.8. Dist: 5
+Elapsed time is 4.224419 seconds.
+ACH :6.8. Dist: 5.5
+Elapsed time is 4.169032 seconds.
+ACH :6.8. Dist: 6
+Elapsed time is 4.261659 seconds.
+ACH :6.8. Dist: 6.5
+Elapsed time is 4.210506 seconds.
+ACH :6.8. Dist: 7
+Elapsed time is 4.154665 seconds.
+ACH :6.8. Dist: 7.5
+Elapsed time is 4.176495 seconds.
+ACH :6.8. Dist: 8
+Elapsed time is 4.225561 seconds.
+ACH :6.8. Dist: 8.5
+Elapsed time is 4.154185 seconds.
+ACH :6.8. Dist: 9
+Elapsed time is 4.091191 seconds.
+ACH :6.8. Dist: 9.5
+Elapsed time is 4.215280 seconds.
+ACH :6.8. Dist: 10
+Elapsed time is 4.223444 seconds.
+ACH :6.9. Dist: 4
+Elapsed time is 4.148665 seconds.
+ACH :6.9. Dist: 4.5
+Elapsed time is 4.108320 seconds.
+ACH :6.9. Dist: 5
+Elapsed time is 4.163648 seconds.
+ACH :6.9. Dist: 5.5
+Elapsed time is 4.215029 seconds.
+ACH :6.9. Dist: 6
+Elapsed time is 4.205678 seconds.
+ACH :6.9. Dist: 6.5
+Elapsed time is 4.218452 seconds.
+ACH :6.9. Dist: 7
+Elapsed time is 4.165565 seconds.
+ACH :6.9. Dist: 7.5
+Elapsed time is 4.137483 seconds.
+ACH :6.9. Dist: 8
+Elapsed time is 4.240976 seconds.
+ACH :6.9. Dist: 8.5
+Elapsed time is 4.229888 seconds.
+ACH :6.9. Dist: 9
+Elapsed time is 4.216836 seconds.
+ACH :6.9. Dist: 9.5
+Elapsed time is 4.145802 seconds.
+ACH :6.9. Dist: 10
+Elapsed time is 4.185778 seconds.
+ACH :7. Dist: 4
+Elapsed time is 4.243393 seconds.
+ACH :7. Dist: 4.5
+Elapsed time is 4.026575 seconds.
+ACH :7. Dist: 5
+Elapsed time is 4.227199 seconds.
+ACH :7. Dist: 5.5
+Elapsed time is 4.214761 seconds.
+ACH :7. Dist: 6
+Elapsed time is 4.293332 seconds.
+ACH :7. Dist: 6.5
+Elapsed time is 4.211286 seconds.
+ACH :7. Dist: 7
+Elapsed time is 4.262548 seconds.
+ACH :7. Dist: 7.5
+Elapsed time is 4.143924 seconds.
+ACH :7. Dist: 8
+Elapsed time is 4.289661 seconds.
+ACH :7. Dist: 8.5
+Elapsed time is 4.189071 seconds.
+ACH :7. Dist: 9
+Elapsed time is 4.218597 seconds.
+ACH :7. Dist: 9.5
+Elapsed time is 4.232792 seconds.
+ACH :7. Dist: 10
+Elapsed time is 4.205343 seconds.
+ACH :7.1. Dist: 4
+Elapsed time is 4.232192 seconds.
+ACH :7.1. Dist: 4.5
+Elapsed time is 4.254091 seconds.
+ACH :7.1. Dist: 5
+Elapsed time is 4.257162 seconds.
+ACH :7.1. Dist: 5.5
+Elapsed time is 4.230393 seconds.
+ACH :7.1. Dist: 6
+Elapsed time is 4.272959 seconds.
+ACH :7.1. Dist: 6.5
+Elapsed time is 4.203840 seconds.
+ACH :7.1. Dist: 7
+Elapsed time is 4.219697 seconds.
+ACH :7.1. Dist: 7.5
+Elapsed time is 4.285307 seconds.
+ACH :7.1. Dist: 8
+Elapsed time is 4.201548 seconds.
+ACH :7.1. Dist: 8.5
+Elapsed time is 4.156794 seconds.
+ACH :7.1. Dist: 9
+Elapsed time is 4.226181 seconds.
+ACH :7.1. Dist: 9.5
+Elapsed time is 4.070448 seconds.
+ACH :7.1. Dist: 10
+Elapsed time is 4.123082 seconds.
+ACH :7.2. Dist: 4
+Elapsed time is 4.271715 seconds.
+ACH :7.2. Dist: 4.5
+Elapsed time is 4.237850 seconds.
+ACH :7.2. Dist: 5
+Elapsed time is 4.175449 seconds.
+ACH :7.2. Dist: 5.5
+Elapsed time is 4.096028 seconds.
+ACH :7.2. Dist: 6
+Elapsed time is 4.271064 seconds.
+ACH :7.2. Dist: 6.5
+Elapsed time is 4.208321 seconds.
+ACH :7.2. Dist: 7
+Elapsed time is 4.129282 seconds.
+ACH :7.2. Dist: 7.5
+Elapsed time is 4.199398 seconds.
+ACH :7.2. Dist: 8
+Elapsed time is 4.251534 seconds.
+ACH :7.2. Dist: 8.5
+Elapsed time is 4.258511 seconds.
+ACH :7.2. Dist: 9
+Elapsed time is 4.239869 seconds.
+ACH :7.2. Dist: 9.5
+Elapsed time is 4.286680 seconds.
+ACH :7.2. Dist: 10
+Elapsed time is 4.302428 seconds.
+ACH :7.3. Dist: 4
+Elapsed time is 4.311166 seconds.
+ACH :7.3. Dist: 4.5
+Elapsed time is 4.325812 seconds.
+ACH :7.3. Dist: 5
+Elapsed time is 4.230332 seconds.
+ACH :7.3. Dist: 5.5
+Elapsed time is 4.035752 seconds.
+ACH :7.3. Dist: 6
+Elapsed time is 4.177216 seconds.
+ACH :7.3. Dist: 6.5
+Elapsed time is 4.301267 seconds.
+ACH :7.3. Dist: 7
+Elapsed time is 4.248915 seconds.
+ACH :7.3. Dist: 7.5
+Elapsed time is 4.290807 seconds.
+ACH :7.3. Dist: 8
+Elapsed time is 4.180684 seconds.
+ACH :7.3. Dist: 8.5
+Elapsed time is 4.298906 seconds.
+ACH :7.3. Dist: 9
+Elapsed time is 4.222083 seconds.
+ACH :7.3. Dist: 9.5
+Elapsed time is 4.292496 seconds.
+ACH :7.3. Dist: 10
+Elapsed time is 4.212558 seconds.
+ACH :7.4. Dist: 4
+Elapsed time is 4.279712 seconds.
+ACH :7.4. Dist: 4.5
+Elapsed time is 4.219217 seconds.
+ACH :7.4. Dist: 5
+Elapsed time is 4.283893 seconds.
+ACH :7.4. Dist: 5.5
+Elapsed time is 4.275531 seconds.
+ACH :7.4. Dist: 6
+Elapsed time is 4.187640 seconds.
+ACH :7.4. Dist: 6.5
+Elapsed time is 4.263070 seconds.
+ACH :7.4. Dist: 7
+Elapsed time is 4.259031 seconds.
+ACH :7.4. Dist: 7.5
+Elapsed time is 4.265765 seconds.
+ACH :7.4. Dist: 8
+Elapsed time is 4.279509 seconds.
+ACH :7.4. Dist: 8.5
+Elapsed time is 4.312149 seconds.
+ACH :7.4. Dist: 9
+Elapsed time is 4.207159 seconds.
+ACH :7.4. Dist: 9.5
+Elapsed time is 4.338359 seconds.
+ACH :7.4. Dist: 10
+Elapsed time is 4.175702 seconds.
+ACH :7.5. Dist: 4
+Elapsed time is 4.271204 seconds.
+ACH :7.5. Dist: 4.5
+Elapsed time is 4.305398 seconds.
+ACH :7.5. Dist: 5
+Elapsed time is 4.361660 seconds.
+ACH :7.5. Dist: 5.5
+Elapsed time is 4.262195 seconds.
+ACH :7.5. Dist: 6
+Elapsed time is 4.171849 seconds.
+ACH :7.5. Dist: 6.5
+Elapsed time is 4.096127 seconds.
+ACH :7.5. Dist: 7
+Elapsed time is 4.209677 seconds.
+ACH :7.5. Dist: 7.5
+Elapsed time is 4.345246 seconds.
+ACH :7.5. Dist: 8
+Elapsed time is 4.261226 seconds.
+ACH :7.5. Dist: 8.5
+Elapsed time is 4.215421 seconds.
+ACH :7.5. Dist: 9
+Elapsed time is 4.294536 seconds.
+ACH :7.5. Dist: 9.5
+Elapsed time is 4.288953 seconds.
+ACH :7.5. Dist: 10
+Elapsed time is 4.466565 seconds.
+ACH :7.6. Dist: 4
+Elapsed time is 4.155048 seconds.
+ACH :7.6. Dist: 4.5
+Elapsed time is 4.259660 seconds.
+ACH :7.6. Dist: 5
+Elapsed time is 4.359014 seconds.
+ACH :7.6. Dist: 5.5
+Elapsed time is 4.278197 seconds.
+ACH :7.6. Dist: 6
+Elapsed time is 4.298492 seconds.
+ACH :7.6. Dist: 6.5
+Elapsed time is 4.294385 seconds.
+ACH :7.6. Dist: 7
+Elapsed time is 4.323612 seconds.
+ACH :7.6. Dist: 7.5
+Elapsed time is 4.402549 seconds.
+ACH :7.6. Dist: 8
+Elapsed time is 4.300293 seconds.
+ACH :7.6. Dist: 8.5
+Elapsed time is 4.157916 seconds.
+ACH :7.6. Dist: 9
+Elapsed time is 4.329532 seconds.
+ACH :7.6. Dist: 9.5
+Elapsed time is 4.312319 seconds.
+ACH :7.6. Dist: 10
+Elapsed time is 4.341022 seconds.
+ACH :7.7. Dist: 4
+Elapsed time is 4.349623 seconds.
+ACH :7.7. Dist: 4.5
+Elapsed time is 4.288098 seconds.
+ACH :7.7. Dist: 5
+Elapsed time is 4.214332 seconds.
+ACH :7.7. Dist: 5.5
+Elapsed time is 4.316114 seconds.
+ACH :7.7. Dist: 6
+Elapsed time is 4.328532 seconds.
+ACH :7.7. Dist: 6.5
+Elapsed time is 4.236169 seconds.
+ACH :7.7. Dist: 7
+Elapsed time is 4.364989 seconds.
+ACH :7.7. Dist: 7.5
+Elapsed time is 4.295166 seconds.
+ACH :7.7. Dist: 8
+Elapsed time is 4.271539 seconds.
+ACH :7.7. Dist: 8.5
+Elapsed time is 4.358498 seconds.
+ACH :7.7. Dist: 9
+Elapsed time is 4.335793 seconds.
+ACH :7.7. Dist: 9.5
+Elapsed time is 4.303024 seconds.
+ACH :7.7. Dist: 10
+Elapsed time is 4.354411 seconds.
+ACH :7.8. Dist: 4
+Elapsed time is 4.321577 seconds.
+ACH :7.8. Dist: 4.5
+Elapsed time is 4.346680 seconds.
+ACH :7.8. Dist: 5
+Elapsed time is 4.333433 seconds.
+ACH :7.8. Dist: 5.5
+Elapsed time is 4.356935 seconds.
+ACH :7.8. Dist: 6
+Elapsed time is 4.375524 seconds.
+ACH :7.8. Dist: 6.5
+Elapsed time is 4.321747 seconds.
+ACH :7.8. Dist: 7
+Elapsed time is 4.332739 seconds.
+ACH :7.8. Dist: 7.5
+Elapsed time is 4.338485 seconds.
+ACH :7.8. Dist: 8
+Elapsed time is 4.346395 seconds.
+ACH :7.8. Dist: 8.5
+Elapsed time is 4.184441 seconds.
+ACH :7.8. Dist: 9
+Elapsed time is 4.339859 seconds.
+ACH :7.8. Dist: 9.5
+Elapsed time is 4.336378 seconds.
+ACH :7.8. Dist: 10
+Elapsed time is 4.323992 seconds.
+ACH :7.9. Dist: 4
+Elapsed time is 4.301963 seconds.
+ACH :7.9. Dist: 4.5
+Elapsed time is 4.352390 seconds.
+ACH :7.9. Dist: 5
+Elapsed time is 4.427795 seconds.
+ACH :7.9. Dist: 5.5
+Elapsed time is 4.316699 seconds.
+ACH :7.9. Dist: 6
+Elapsed time is 4.311858 seconds.
+ACH :7.9. Dist: 6.5
+Elapsed time is 4.360349 seconds.
+ACH :7.9. Dist: 7
+Elapsed time is 4.348028 seconds.
+ACH :7.9. Dist: 7.5
+Elapsed time is 4.231314 seconds.
+ACH :7.9. Dist: 8
+Elapsed time is 4.372357 seconds.
+ACH :7.9. Dist: 8.5
+Elapsed time is 4.352927 seconds.
+ACH :7.9. Dist: 9
+Elapsed time is 4.356565 seconds.
+ACH :7.9. Dist: 9.5
+Elapsed time is 4.278807 seconds.
+ACH :7.9. Dist: 10
+Elapsed time is 4.220625 seconds.
+ACH :8. Dist: 4
+Elapsed time is 4.284586 seconds.
+ACH :8. Dist: 4.5
+Elapsed time is 4.304125 seconds.
+ACH :8. Dist: 5
+Elapsed time is 4.422772 seconds.
+ACH :8. Dist: 5.5
+Elapsed time is 4.356898 seconds.
+ACH :8. Dist: 6
+Elapsed time is 4.248775 seconds.
+ACH :8. Dist: 6.5
+Elapsed time is 4.324361 seconds.
+ACH :8. Dist: 7
+Elapsed time is 4.353131 seconds.
+ACH :8. Dist: 7.5
+Elapsed time is 4.340248 seconds.
+ACH :8. Dist: 8
+Elapsed time is 4.289460 seconds.
+ACH :8. Dist: 8.5
+Elapsed time is 4.337700 seconds.
+ACH :8. Dist: 9
+Elapsed time is 4.283451 seconds.
+ACH :8. Dist: 9.5
+Elapsed time is 4.223592 seconds.
+ACH :8. Dist: 10
+Elapsed time is 4.336814 seconds.
+ACH :8.1. Dist: 4
+Elapsed time is 4.300354 seconds.
+ACH :8.1. Dist: 4.5
+Elapsed time is 4.430261 seconds.
+ACH :8.1. Dist: 5
+Elapsed time is 4.327833 seconds.
+ACH :8.1. Dist: 5.5
+Elapsed time is 4.407204 seconds.
+ACH :8.1. Dist: 6
+Elapsed time is 4.427083 seconds.
+ACH :8.1. Dist: 6.5
+Elapsed time is 4.284575 seconds.
+ACH :8.1. Dist: 7
+Elapsed time is 4.275125 seconds.
+ACH :8.1. Dist: 7.5
+Elapsed time is 4.355913 seconds.
+ACH :8.1. Dist: 8
+Elapsed time is 4.357043 seconds.
+ACH :8.1. Dist: 8.5
+Elapsed time is 4.324637 seconds.
+ACH :8.1. Dist: 9
+Elapsed time is 4.339776 seconds.
+ACH :8.1. Dist: 9.5
+Elapsed time is 4.309899 seconds.
+ACH :8.1. Dist: 10
+Elapsed time is 4.246506 seconds.
+ACH :8.2. Dist: 4
+Elapsed time is 4.280900 seconds.
+ACH :8.2. Dist: 4.5
+Elapsed time is 4.396420 seconds.
+ACH :8.2. Dist: 5
+Elapsed time is 4.235728 seconds.
+ACH :8.2. Dist: 5.5
+Elapsed time is 4.336127 seconds.
+ACH :8.2. Dist: 6
+Elapsed time is 4.316943 seconds.
+ACH :8.2. Dist: 6.5
+Elapsed time is 4.293024 seconds.
+ACH :8.2. Dist: 7
+Elapsed time is 4.358059 seconds.
+ACH :8.2. Dist: 7.5
+Elapsed time is 4.432908 seconds.
+ACH :8.2. Dist: 8
+Elapsed time is 4.282945 seconds.
+ACH :8.2. Dist: 8.5
+Elapsed time is 4.327898 seconds.
+ACH :8.2. Dist: 9
+Elapsed time is 4.268897 seconds.
+ACH :8.2. Dist: 9.5
+Elapsed time is 4.361948 seconds.
+ACH :8.2. Dist: 10
+Elapsed time is 4.385155 seconds.
+ACH :8.3. Dist: 4
+Elapsed time is 4.386197 seconds.
+ACH :8.3. Dist: 4.5
+Elapsed time is 4.395585 seconds.
+ACH :8.3. Dist: 5
+Elapsed time is 4.325165 seconds.
+ACH :8.3. Dist: 5.5
+Elapsed time is 4.233353 seconds.
+ACH :8.3. Dist: 6
+Elapsed time is 4.309777 seconds.
+ACH :8.3. Dist: 6.5
+Elapsed time is 4.382011 seconds.
+ACH :8.3. Dist: 7
+Elapsed time is 4.382034 seconds.
+ACH :8.3. Dist: 7.5
+Elapsed time is 4.345708 seconds.
+ACH :8.3. Dist: 8
+Elapsed time is 4.317927 seconds.
+ACH :8.3. Dist: 8.5
+Elapsed time is 4.351343 seconds.
+ACH :8.3. Dist: 9
+Elapsed time is 4.314503 seconds.
+ACH :8.3. Dist: 9.5
+Elapsed time is 4.226745 seconds.
+ACH :8.3. Dist: 10
+Elapsed time is 4.305007 seconds.
+ACH :8.4. Dist: 4
+Elapsed time is 4.373852 seconds.
+ACH :8.4. Dist: 4.5
+Elapsed time is 4.307230 seconds.
+ACH :8.4. Dist: 5
+Elapsed time is 4.392114 seconds.
+ACH :8.4. Dist: 5.5
+Elapsed time is 4.250704 seconds.
+ACH :8.4. Dist: 6
+Elapsed time is 4.245117 seconds.
+ACH :8.4. Dist: 6.5
+Elapsed time is 4.336080 seconds.
+ACH :8.4. Dist: 7
+Elapsed time is 4.351580 seconds.
+ACH :8.4. Dist: 7.5
+Elapsed time is 4.284931 seconds.
+ACH :8.4. Dist: 8
+Elapsed time is 4.265056 seconds.
+ACH :8.4. Dist: 8.5
+Elapsed time is 4.334042 seconds.
+ACH :8.4. Dist: 9
+Elapsed time is 4.298691 seconds.
+ACH :8.4. Dist: 9.5
+Elapsed time is 4.311937 seconds.
+ACH :8.4. Dist: 10
+Elapsed time is 4.298800 seconds.
+ACH :8.5. Dist: 4
+Elapsed time is 4.350447 seconds.
+ACH :8.5. Dist: 4.5
+Elapsed time is 4.313235 seconds.
+ACH :8.5. Dist: 5
+Elapsed time is 4.269306 seconds.
+ACH :8.5. Dist: 5.5
+Elapsed time is 4.319924 seconds.
+ACH :8.5. Dist: 6
+Elapsed time is 4.233340 seconds.
+ACH :8.5. Dist: 6.5
+Elapsed time is 4.232006 seconds.
+ACH :8.5. Dist: 7
+Elapsed time is 4.319343 seconds.
+ACH :8.5. Dist: 7.5
+Elapsed time is 4.330686 seconds.
+ACH :8.5. Dist: 8
+Elapsed time is 4.268234 seconds.
+ACH :8.5. Dist: 8.5
+Elapsed time is 4.307856 seconds.
+ACH :8.5. Dist: 9
+Elapsed time is 4.313324 seconds.
+ACH :8.5. Dist: 9.5
+Elapsed time is 4.292251 seconds.
+ACH :8.5. Dist: 10
+Elapsed time is 4.285896 seconds.
+ACH :8.6. Dist: 4
+Elapsed time is 4.299015 seconds.
+ACH :8.6. Dist: 4.5
+Elapsed time is 4.362814 seconds.
+ACH :8.6. Dist: 5
+Elapsed time is 4.294693 seconds.
+ACH :8.6. Dist: 5.5
+Elapsed time is 4.368441 seconds.
+ACH :8.6. Dist: 6
+Elapsed time is 4.281331 seconds.
+ACH :8.6. Dist: 6.5
+Elapsed time is 4.403110 seconds.
+ACH :8.6. Dist: 7
+Elapsed time is 4.245430 seconds.
+ACH :8.6. Dist: 7.5
+Elapsed time is 4.215263 seconds.
+ACH :8.6. Dist: 8
+Elapsed time is 4.321096 seconds.
+ACH :8.6. Dist: 8.5
+Elapsed time is 4.491211 seconds.
+ACH :8.6. Dist: 9
+Elapsed time is 4.367871 seconds.
+ACH :8.6. Dist: 9.5
+Elapsed time is 4.217584 seconds.
+ACH :8.6. Dist: 10
+Elapsed time is 4.374011 seconds.
+ACH :8.7. Dist: 4
+Elapsed time is 4.319666 seconds.
+ACH :8.7. Dist: 4.5
+Elapsed time is 4.368277 seconds.
+ACH :8.7. Dist: 5
+Elapsed time is 4.331026 seconds.
+ACH :8.7. Dist: 5.5
+Elapsed time is 4.340866 seconds.
+ACH :8.7. Dist: 6
+Elapsed time is 4.302739 seconds.
+ACH :8.7. Dist: 6.5
+Elapsed time is 4.224039 seconds.
+ACH :8.7. Dist: 7
+Elapsed time is 4.256476 seconds.
+ACH :8.7. Dist: 7.5
+Elapsed time is 4.414861 seconds.
+ACH :8.7. Dist: 8
+Elapsed time is 4.346498 seconds.
+ACH :8.7. Dist: 8.5
+Elapsed time is 4.248640 seconds.
+ACH :8.7. Dist: 9
+Elapsed time is 4.370973 seconds.
+ACH :8.7. Dist: 9.5
+Elapsed time is 4.419003 seconds.
+ACH :8.7. Dist: 10
+Elapsed time is 4.281838 seconds.
+ACH :8.8. Dist: 4
+Elapsed time is 4.246989 seconds.
+ACH :8.8. Dist: 4.5
+Elapsed time is 4.428377 seconds.
+ACH :8.8. Dist: 5
+Elapsed time is 4.366389 seconds.
+ACH :8.8. Dist: 5.5
+Elapsed time is 4.178282 seconds.
+ACH :8.8. Dist: 6
+Elapsed time is 4.369426 seconds.
+ACH :8.8. Dist: 6.5
+Elapsed time is 4.479613 seconds.
+ACH :8.8. Dist: 7
+Elapsed time is 4.357983 seconds.
+ACH :8.8. Dist: 7.5
+Elapsed time is 4.439373 seconds.
+ACH :8.8. Dist: 8
+Elapsed time is 4.302683 seconds.
+ACH :8.8. Dist: 8.5
+Elapsed time is 4.213077 seconds.
+ACH :8.8. Dist: 9
+Elapsed time is 4.459460 seconds.
+ACH :8.8. Dist: 9.5
+Elapsed time is 4.375130 seconds.
+ACH :8.8. Dist: 10
+Elapsed time is 4.285162 seconds.
+ACH :8.9. Dist: 4
+Elapsed time is 4.392524 seconds.
+ACH :8.9. Dist: 4.5
+Elapsed time is 4.406604 seconds.
+ACH :8.9. Dist: 5
+Elapsed time is 4.292981 seconds.
+ACH :8.9. Dist: 5.5
+Elapsed time is 4.192814 seconds.
+ACH :8.9. Dist: 6
+Elapsed time is 4.411864 seconds.
+ACH :8.9. Dist: 6.5
+Elapsed time is 4.191172 seconds.
+ACH :8.9. Dist: 7
+Elapsed time is 4.270393 seconds.
+ACH :8.9. Dist: 7.5
+Elapsed time is 4.410869 seconds.
+ACH :8.9. Dist: 8
+Elapsed time is 4.295016 seconds.
+ACH :8.9. Dist: 8.5
+Elapsed time is 4.431650 seconds.
+ACH :8.9. Dist: 9
+Elapsed time is 4.287573 seconds.
+ACH :8.9. Dist: 9.5
+Elapsed time is 4.237501 seconds.
+ACH :8.9. Dist: 10
+Elapsed time is 4.435631 seconds.
+ACH :9. Dist: 4
+Elapsed time is 4.452520 seconds.
+ACH :9. Dist: 4.5
+Elapsed time is 4.412341 seconds.
+ACH :9. Dist: 5
+Elapsed time is 4.399225 seconds.
+ACH :9. Dist: 5.5
+Elapsed time is 4.325924 seconds.
+ACH :9. Dist: 6
+Elapsed time is 4.453328 seconds.
+ACH :9. Dist: 6.5
+Elapsed time is 4.262408 seconds.
+ACH :9. Dist: 7
+Elapsed time is 4.189370 seconds.
+ACH :9. Dist: 7.5
+Elapsed time is 4.427105 seconds.
+ACH :9. Dist: 8
+Elapsed time is 4.454486 seconds.
+ACH :9. Dist: 8.5
+Elapsed time is 4.383823 seconds.
+ACH :9. Dist: 9
+Elapsed time is 4.207145 seconds.
+ACH :9. Dist: 9.5
+Elapsed time is 4.355440 seconds.
+ACH :9. Dist: 10
+Elapsed time is 4.535100 seconds.
+ACH :9.1. Dist: 4
+Elapsed time is 4.391193 seconds.
+ACH :9.1. Dist: 4.5
+Elapsed time is 4.363480 seconds.
+ACH :9.1. Dist: 5
+Elapsed time is 4.467536 seconds.
+ACH :9.1. Dist: 5.5
+Elapsed time is 4.364849 seconds.
+ACH :9.1. Dist: 6
+Elapsed time is 4.393221 seconds.
+ACH :9.1. Dist: 6.5
+Elapsed time is 4.452217 seconds.
+ACH :9.1. Dist: 7
+Elapsed time is 4.504607 seconds.
+ACH :9.1. Dist: 7.5
+Elapsed time is 4.418796 seconds.
+ACH :9.1. Dist: 8
+Elapsed time is 4.347655 seconds.
+ACH :9.1. Dist: 8.5
+Elapsed time is 4.316455 seconds.
+ACH :9.1. Dist: 9
+Elapsed time is 4.440385 seconds.
+ACH :9.1. Dist: 9.5
+Elapsed time is 4.417495 seconds.
+ACH :9.1. Dist: 10
+Elapsed time is 4.432858 seconds.
+ACH :9.2. Dist: 4
+Elapsed time is 4.547174 seconds.
+ACH :9.2. Dist: 4.5
+Elapsed time is 4.443866 seconds.
+ACH :9.2. Dist: 5
+Elapsed time is 4.447938 seconds.
+ACH :9.2. Dist: 5.5
+Elapsed time is 4.433480 seconds.
+ACH :9.2. Dist: 6
+Elapsed time is 4.455307 seconds.
+ACH :9.2. Dist: 6.5
+Elapsed time is 4.418181 seconds.
+ACH :9.2. Dist: 7
+Elapsed time is 4.497981 seconds.
+ACH :9.2. Dist: 7.5
+Elapsed time is 4.324245 seconds.
+ACH :9.2. Dist: 8
+Elapsed time is 4.371706 seconds.
+ACH :9.2. Dist: 8.5
+Elapsed time is 4.488624 seconds.
+ACH :9.2. Dist: 9
+Elapsed time is 4.333533 seconds.
+ACH :9.2. Dist: 9.5
+Elapsed time is 4.424075 seconds.
+ACH :9.2. Dist: 10
+slurmstepd: error: *** JOB 52773343 ON c27a-s41 CANCELLED AT 2022-11-29T14:48:40 ***

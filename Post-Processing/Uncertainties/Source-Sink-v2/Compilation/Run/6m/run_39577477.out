@@ -1,0 +1,433 @@
+Thu Aug  1 11:31:19 EDT 2024
+c30a-s40.ufhpc
+
+fpath =
+
+    '/blue/bala1s/krishnap.kalivel/COVID/Sou2Snk_v2/room_34/dist_6m/Data'
+
+
+spath =
+
+    '/blue/bala1s/krishnap.kalivel/COVID/Sou2Snk_v2/room_34/dist_6m/Data_02'
+
+
+nx =
+
+    25
+
+
+ny =
+
+     8
+
+
+nz =
+
+    25
+
+
+dist =
+
+     6
+
+FigureData_Dist_6m_nx_01_ny_01.mat
+Elapsed time is 10.025397 seconds.
+FigureData_Dist_6m_nx_01_ny_02.mat
+Elapsed time is 9.828539 seconds.
+FigureData_Dist_6m_nx_01_ny_03.mat
+Elapsed time is 1.569275 seconds.
+FigureData_Dist_6m_nx_01_ny_04.mat
+Elapsed time is 10.285533 seconds.
+FigureData_Dist_6m_nx_01_ny_05.mat
+Elapsed time is 9.556112 seconds.
+FigureData_Dist_6m_nx_01_ny_06.mat
+Elapsed time is 1.950556 seconds.
+FigureData_Dist_6m_nx_01_ny_07.mat
+Elapsed time is 8.101652 seconds.
+FigureData_Dist_6m_nx_01_ny_08.mat
+Elapsed time is 6.564953 seconds.
+FigureData_Dist_6m_nx_02_ny_01.mat
+Elapsed time is 9.633557 seconds.
+FigureData_Dist_6m_nx_02_ny_02.mat
+Elapsed time is 8.172607 seconds.
+FigureData_Dist_6m_nx_02_ny_03.mat
+Elapsed time is 2.271092 seconds.
+FigureData_Dist_6m_nx_02_ny_04.mat
+Elapsed time is 8.437829 seconds.
+FigureData_Dist_6m_nx_02_ny_05.mat
+Elapsed time is 8.505655 seconds.
+FigureData_Dist_6m_nx_02_ny_06.mat
+Elapsed time is 2.608705 seconds.
+FigureData_Dist_6m_nx_02_ny_07.mat
+Elapsed time is 7.965035 seconds.
+FigureData_Dist_6m_nx_02_ny_08.mat
+Elapsed time is 8.746630 seconds.
+FigureData_Dist_6m_nx_03_ny_01.mat
+Elapsed time is 11.711896 seconds.
+FigureData_Dist_6m_nx_03_ny_02.mat
+Elapsed time is 10.541889 seconds.
+FigureData_Dist_6m_nx_03_ny_03.mat
+Elapsed time is 3.350734 seconds.
+FigureData_Dist_6m_nx_03_ny_04.mat
+Elapsed time is 10.271790 seconds.
+FigureData_Dist_6m_nx_03_ny_05.mat
+Elapsed time is 10.253264 seconds.
+FigureData_Dist_6m_nx_03_ny_06.mat
+Elapsed time is 3.660956 seconds.
+FigureData_Dist_6m_nx_03_ny_07.mat
+Elapsed time is 10.169819 seconds.
+FigureData_Dist_6m_nx_03_ny_08.mat
+Elapsed time is 11.015480 seconds.
+FigureData_Dist_6m_nx_04_ny_01.mat
+Elapsed time is 12.068114 seconds.
+FigureData_Dist_6m_nx_04_ny_02.mat
+Elapsed time is 11.326941 seconds.
+FigureData_Dist_6m_nx_04_ny_03.mat
+Elapsed time is 4.215743 seconds.
+FigureData_Dist_6m_nx_04_ny_04.mat
+Elapsed time is 10.948291 seconds.
+FigureData_Dist_6m_nx_04_ny_05.mat
+Elapsed time is 11.088273 seconds.
+FigureData_Dist_6m_nx_04_ny_06.mat
+Elapsed time is 4.605565 seconds.
+FigureData_Dist_6m_nx_04_ny_07.mat
+Elapsed time is 11.192472 seconds.
+FigureData_Dist_6m_nx_04_ny_08.mat
+Elapsed time is 11.651271 seconds.
+FigureData_Dist_6m_nx_05_ny_01.mat
+Elapsed time is 12.465933 seconds.
+FigureData_Dist_6m_nx_05_ny_02.mat
+Elapsed time is 13.839861 seconds.
+FigureData_Dist_6m_nx_05_ny_03.mat
+Elapsed time is 6.330489 seconds.
+FigureData_Dist_6m_nx_05_ny_04.mat
+Elapsed time is 11.839382 seconds.
+FigureData_Dist_6m_nx_05_ny_05.mat
+Elapsed time is 12.137348 seconds.
+FigureData_Dist_6m_nx_05_ny_06.mat
+Elapsed time is 5.544248 seconds.
+FigureData_Dist_6m_nx_05_ny_07.mat
+Elapsed time is 12.547110 seconds.
+FigureData_Dist_6m_nx_05_ny_08.mat
+Elapsed time is 12.396141 seconds.
+FigureData_Dist_6m_nx_06_ny_01.mat
+Elapsed time is 14.289182 seconds.
+FigureData_Dist_6m_nx_06_ny_02.mat
+Elapsed time is 14.507925 seconds.
+FigureData_Dist_6m_nx_06_ny_03.mat
+Elapsed time is 6.449539 seconds.
+FigureData_Dist_6m_nx_06_ny_04.mat
+Elapsed time is 5.999149 seconds.
+FigureData_Dist_6m_nx_06_ny_05.mat
+Elapsed time is 6.145406 seconds.
+FigureData_Dist_6m_nx_06_ny_06.mat
+Elapsed time is 6.630312 seconds.
+FigureData_Dist_6m_nx_06_ny_07.mat
+Elapsed time is 14.677714 seconds.
+FigureData_Dist_6m_nx_06_ny_08.mat
+Elapsed time is 14.443744 seconds.
+FigureData_Dist_6m_nx_07_ny_01.mat
+Elapsed time is 14.970952 seconds.
+FigureData_Dist_6m_nx_07_ny_02.mat
+Elapsed time is 14.544742 seconds.
+FigureData_Dist_6m_nx_07_ny_03.mat
+Elapsed time is 7.213353 seconds.
+FigureData_Dist_6m_nx_07_ny_04.mat
+Elapsed time is 16.050712 seconds.
+FigureData_Dist_6m_nx_07_ny_05.mat
+Elapsed time is 7.130119 seconds.
+FigureData_Dist_6m_nx_07_ny_06.mat
+Elapsed time is 7.584501 seconds.
+FigureData_Dist_6m_nx_07_ny_07.mat
+Elapsed time is 15.921696 seconds.
+FigureData_Dist_6m_nx_07_ny_08.mat
+Elapsed time is 15.603959 seconds.
+FigureData_Dist_6m_nx_08_ny_01.mat
+Elapsed time is 16.029142 seconds.
+FigureData_Dist_6m_nx_08_ny_02.mat
+Elapsed time is 15.205228 seconds.
+FigureData_Dist_6m_nx_08_ny_03.mat
+Elapsed time is 8.124113 seconds.
+FigureData_Dist_6m_nx_08_ny_04.mat
+Elapsed time is 16.508485 seconds.
+FigureData_Dist_6m_nx_08_ny_05.mat
+Elapsed time is 8.049402 seconds.
+FigureData_Dist_6m_nx_08_ny_06.mat
+Elapsed time is 8.584238 seconds.
+FigureData_Dist_6m_nx_08_ny_07.mat
+Elapsed time is 16.794158 seconds.
+FigureData_Dist_6m_nx_08_ny_08.mat
+Elapsed time is 16.266469 seconds.
+FigureData_Dist_6m_nx_09_ny_01.mat
+Elapsed time is 16.476382 seconds.
+FigureData_Dist_6m_nx_09_ny_02.mat
+Elapsed time is 15.925541 seconds.
+FigureData_Dist_6m_nx_09_ny_03.mat
+Elapsed time is 9.089164 seconds.
+FigureData_Dist_6m_nx_09_ny_04.mat
+Elapsed time is 17.002430 seconds.
+FigureData_Dist_6m_nx_09_ny_05.mat
+Elapsed time is 17.767025 seconds.
+FigureData_Dist_6m_nx_09_ny_06.mat
+Elapsed time is 9.493596 seconds.
+FigureData_Dist_6m_nx_09_ny_07.mat
+Elapsed time is 17.521136 seconds.
+FigureData_Dist_6m_nx_09_ny_08.mat
+Elapsed time is 16.941802 seconds.
+FigureData_Dist_6m_nx_10_ny_01.mat
+Elapsed time is 9.645639 seconds.
+FigureData_Dist_6m_nx_10_ny_02.mat
+Elapsed time is 18.288211 seconds.
+FigureData_Dist_6m_nx_10_ny_03.mat
+Elapsed time is 10.164571 seconds.
+FigureData_Dist_6m_nx_10_ny_04.mat
+Elapsed time is 10.041191 seconds.
+FigureData_Dist_6m_nx_10_ny_05.mat
+Elapsed time is 10.123771 seconds.
+FigureData_Dist_6m_nx_10_ny_06.mat
+Elapsed time is 10.671615 seconds.
+FigureData_Dist_6m_nx_10_ny_07.mat
+Elapsed time is 10.637632 seconds.
+FigureData_Dist_6m_nx_10_ny_08.mat
+Elapsed time is 10.554127 seconds.
+FigureData_Dist_6m_nx_11_ny_01.mat
+Elapsed time is 10.840266 seconds.
+FigureData_Dist_6m_nx_11_ny_02.mat
+Elapsed time is 10.995441 seconds.
+FigureData_Dist_6m_nx_11_ny_03.mat
+Elapsed time is 11.466656 seconds.
+FigureData_Dist_6m_nx_11_ny_04.mat
+Elapsed time is 11.137736 seconds.
+FigureData_Dist_6m_nx_11_ny_05.mat
+Elapsed time is 11.549356 seconds.
+FigureData_Dist_6m_nx_11_ny_06.mat
+Elapsed time is 11.887448 seconds.
+FigureData_Dist_6m_nx_11_ny_07.mat
+Elapsed time is 11.555917 seconds.
+FigureData_Dist_6m_nx_11_ny_08.mat
+Elapsed time is 11.690331 seconds.
+FigureData_Dist_6m_nx_12_ny_01.mat
+Elapsed time is 19.871858 seconds.
+FigureData_Dist_6m_nx_12_ny_02.mat
+Elapsed time is 20.613728 seconds.
+FigureData_Dist_6m_nx_12_ny_03.mat
+Elapsed time is 12.434857 seconds.
+FigureData_Dist_6m_nx_12_ny_04.mat
+Elapsed time is 12.290623 seconds.
+FigureData_Dist_6m_nx_12_ny_05.mat
+Elapsed time is 12.467800 seconds.
+FigureData_Dist_6m_nx_12_ny_06.mat
+Elapsed time is 12.816540 seconds.
+FigureData_Dist_6m_nx_12_ny_07.mat
+Elapsed time is 19.625195 seconds.
+FigureData_Dist_6m_nx_12_ny_08.mat
+Elapsed time is 20.422756 seconds.
+FigureData_Dist_6m_nx_13_ny_01.mat
+Elapsed time is 12.854252 seconds.
+FigureData_Dist_6m_nx_13_ny_02.mat
+Elapsed time is 13.470055 seconds.
+FigureData_Dist_6m_nx_13_ny_03.mat
+Elapsed time is 13.582141 seconds.
+FigureData_Dist_6m_nx_13_ny_04.mat
+Elapsed time is 13.501690 seconds.
+FigureData_Dist_6m_nx_13_ny_05.mat
+Elapsed time is 13.583624 seconds.
+FigureData_Dist_6m_nx_13_ny_06.mat
+Elapsed time is 14.118183 seconds.
+FigureData_Dist_6m_nx_13_ny_07.mat
+Elapsed time is 13.591842 seconds.
+FigureData_Dist_6m_nx_13_ny_08.mat
+Elapsed time is 22.084656 seconds.
+FigureData_Dist_6m_nx_14_ny_01.mat
+Elapsed time is 22.373237 seconds.
+FigureData_Dist_6m_nx_14_ny_02.mat
+Elapsed time is 13.961194 seconds.
+FigureData_Dist_6m_nx_14_ny_03.mat
+Elapsed time is 14.571176 seconds.
+FigureData_Dist_6m_nx_14_ny_04.mat
+Elapsed time is 14.335861 seconds.
+FigureData_Dist_6m_nx_14_ny_05.mat
+Elapsed time is 14.528691 seconds.
+FigureData_Dist_6m_nx_14_ny_06.mat
+Elapsed time is 14.890057 seconds.
+FigureData_Dist_6m_nx_14_ny_07.mat
+Elapsed time is 21.457427 seconds.
+FigureData_Dist_6m_nx_14_ny_08.mat
+Elapsed time is 22.088643 seconds.
+FigureData_Dist_6m_nx_15_ny_01.mat
+Elapsed time is 14.985405 seconds.
+FigureData_Dist_6m_nx_15_ny_02.mat
+Elapsed time is 15.091334 seconds.
+FigureData_Dist_6m_nx_15_ny_03.mat
+Elapsed time is 15.734490 seconds.
+FigureData_Dist_6m_nx_15_ny_04.mat
+Elapsed time is 15.436841 seconds.
+FigureData_Dist_6m_nx_15_ny_05.mat
+Elapsed time is 15.556857 seconds.
+FigureData_Dist_6m_nx_15_ny_06.mat
+Elapsed time is 16.192051 seconds.
+FigureData_Dist_6m_nx_15_ny_07.mat
+Elapsed time is 15.780967 seconds.
+FigureData_Dist_6m_nx_15_ny_08.mat
+Elapsed time is 15.938454 seconds.
+FigureData_Dist_6m_nx_16_ny_01.mat
+Elapsed time is 16.365300 seconds.
+FigureData_Dist_6m_nx_16_ny_02.mat
+Elapsed time is 16.079244 seconds.
+FigureData_Dist_6m_nx_16_ny_03.mat
+Elapsed time is 16.660979 seconds.
+FigureData_Dist_6m_nx_16_ny_04.mat
+Elapsed time is 16.365175 seconds.
+FigureData_Dist_6m_nx_16_ny_05.mat
+Elapsed time is 16.552983 seconds.
+FigureData_Dist_6m_nx_16_ny_06.mat
+Elapsed time is 17.065344 seconds.
+FigureData_Dist_6m_nx_16_ny_07.mat
+Elapsed time is 16.738332 seconds.
+FigureData_Dist_6m_nx_16_ny_08.mat
+Elapsed time is 16.856483 seconds.
+FigureData_Dist_6m_nx_17_ny_01.mat
+Elapsed time is 25.288408 seconds.
+FigureData_Dist_6m_nx_17_ny_02.mat
+Elapsed time is 24.728848 seconds.
+FigureData_Dist_6m_nx_17_ny_03.mat
+Elapsed time is 17.502810 seconds.
+FigureData_Dist_6m_nx_17_ny_04.mat
+Elapsed time is 25.806949 seconds.
+FigureData_Dist_6m_nx_17_ny_05.mat
+Elapsed time is 17.442983 seconds.
+FigureData_Dist_6m_nx_17_ny_06.mat
+Elapsed time is 18.158448 seconds.
+FigureData_Dist_6m_nx_17_ny_07.mat
+Elapsed time is 26.335518 seconds.
+FigureData_Dist_6m_nx_17_ny_08.mat
+Elapsed time is 26.009732 seconds.
+FigureData_Dist_6m_nx_18_ny_01.mat
+Elapsed time is 26.606268 seconds.
+FigureData_Dist_6m_nx_18_ny_02.mat
+Elapsed time is 25.926554 seconds.
+FigureData_Dist_6m_nx_18_ny_03.mat
+Elapsed time is 18.531221 seconds.
+FigureData_Dist_6m_nx_18_ny_04.mat
+Elapsed time is 18.424065 seconds.
+FigureData_Dist_6m_nx_18_ny_05.mat
+Elapsed time is 18.455523 seconds.
+FigureData_Dist_6m_nx_18_ny_06.mat
+Elapsed time is 18.966868 seconds.
+FigureData_Dist_6m_nx_18_ny_07.mat
+Elapsed time is 27.767930 seconds.
+FigureData_Dist_6m_nx_18_ny_08.mat
+Elapsed time is 26.824475 seconds.
+FigureData_Dist_6m_nx_19_ny_01.mat
+Elapsed time is 27.451304 seconds.
+FigureData_Dist_6m_nx_19_ny_02.mat
+Elapsed time is 27.314015 seconds.
+FigureData_Dist_6m_nx_19_ny_03.mat
+Elapsed time is 19.552833 seconds.
+FigureData_Dist_6m_nx_19_ny_04.mat
+Elapsed time is 19.255076 seconds.
+FigureData_Dist_6m_nx_19_ny_05.mat
+Elapsed time is 19.468619 seconds.
+FigureData_Dist_6m_nx_19_ny_06.mat
+Elapsed time is 20.070851 seconds.
+FigureData_Dist_6m_nx_19_ny_07.mat
+Elapsed time is 28.029991 seconds.
+FigureData_Dist_6m_nx_19_ny_08.mat
+Elapsed time is 28.238281 seconds.
+FigureData_Dist_6m_nx_20_ny_01.mat
+Elapsed time is 28.476377 seconds.
+FigureData_Dist_6m_nx_20_ny_02.mat
+Elapsed time is 28.105849 seconds.
+FigureData_Dist_6m_nx_20_ny_03.mat
+Elapsed time is 20.501393 seconds.
+FigureData_Dist_6m_nx_20_ny_04.mat
+Elapsed time is 20.328180 seconds.
+FigureData_Dist_6m_nx_20_ny_05.mat
+Elapsed time is 20.363810 seconds.
+FigureData_Dist_6m_nx_20_ny_06.mat
+Elapsed time is 20.830457 seconds.
+FigureData_Dist_6m_nx_20_ny_07.mat
+Elapsed time is 28.837418 seconds.
+FigureData_Dist_6m_nx_20_ny_08.mat
+Elapsed time is 28.884619 seconds.
+FigureData_Dist_6m_nx_21_ny_01.mat
+Elapsed time is 28.798829 seconds.
+FigureData_Dist_6m_nx_21_ny_02.mat
+Elapsed time is 27.934728 seconds.
+FigureData_Dist_6m_nx_21_ny_03.mat
+Elapsed time is 21.280123 seconds.
+FigureData_Dist_6m_nx_21_ny_04.mat
+Elapsed time is 27.884616 seconds.
+FigureData_Dist_6m_nx_21_ny_05.mat
+Elapsed time is 27.843999 seconds.
+FigureData_Dist_6m_nx_21_ny_06.mat
+Elapsed time is 21.625479 seconds.
+FigureData_Dist_6m_nx_21_ny_07.mat
+Elapsed time is 28.570105 seconds.
+FigureData_Dist_6m_nx_21_ny_08.mat
+Elapsed time is 28.805591 seconds.
+FigureData_Dist_6m_nx_22_ny_01.mat
+Elapsed time is 30.338350 seconds.
+FigureData_Dist_6m_nx_22_ny_02.mat
+Elapsed time is 28.870889 seconds.
+FigureData_Dist_6m_nx_22_ny_03.mat
+Elapsed time is 22.199065 seconds.
+FigureData_Dist_6m_nx_22_ny_04.mat
+Elapsed time is 28.848158 seconds.
+FigureData_Dist_6m_nx_22_ny_05.mat
+Elapsed time is 29.249906 seconds.
+FigureData_Dist_6m_nx_22_ny_06.mat
+Elapsed time is 22.508463 seconds.
+FigureData_Dist_6m_nx_22_ny_07.mat
+Elapsed time is 29.062037 seconds.
+FigureData_Dist_6m_nx_22_ny_08.mat
+Elapsed time is 29.757387 seconds.
+FigureData_Dist_6m_nx_23_ny_01.mat
+Elapsed time is 30.902387 seconds.
+FigureData_Dist_6m_nx_23_ny_02.mat
+Elapsed time is 30.053914 seconds.
+FigureData_Dist_6m_nx_23_ny_03.mat
+Elapsed time is 23.087829 seconds.
+FigureData_Dist_6m_nx_23_ny_04.mat
+Elapsed time is 29.644214 seconds.
+FigureData_Dist_6m_nx_23_ny_05.mat
+Elapsed time is 29.830289 seconds.
+FigureData_Dist_6m_nx_23_ny_06.mat
+Elapsed time is 23.441250 seconds.
+FigureData_Dist_6m_nx_23_ny_07.mat
+Elapsed time is 29.921815 seconds.
+FigureData_Dist_6m_nx_23_ny_08.mat
+Elapsed time is 30.546318 seconds.
+FigureData_Dist_6m_nx_24_ny_01.mat
+Elapsed time is 30.919930 seconds.
+FigureData_Dist_6m_nx_24_ny_02.mat
+Elapsed time is 30.111019 seconds.
+FigureData_Dist_6m_nx_24_ny_03.mat
+Elapsed time is 23.871058 seconds.
+FigureData_Dist_6m_nx_24_ny_04.mat
+Elapsed time is 30.303010 seconds.
+FigureData_Dist_6m_nx_24_ny_05.mat
+Elapsed time is 30.781106 seconds.
+FigureData_Dist_6m_nx_24_ny_06.mat
+Elapsed time is 24.209791 seconds.
+FigureData_Dist_6m_nx_24_ny_07.mat
+Elapsed time is 29.538632 seconds.
+FigureData_Dist_6m_nx_24_ny_08.mat
+Elapsed time is 30.061054 seconds.
+FigureData_Dist_6m_nx_25_ny_01.mat
+Elapsed time is 32.424149 seconds.
+FigureData_Dist_6m_nx_25_ny_02.mat
+Elapsed time is 32.550595 seconds.
+FigureData_Dist_6m_nx_25_ny_03.mat
+Elapsed time is 25.016848 seconds.
+FigureData_Dist_6m_nx_25_ny_04.mat
+Elapsed time is 33.491612 seconds.
+FigureData_Dist_6m_nx_25_ny_05.mat
+Elapsed time is 32.489435 seconds.
+FigureData_Dist_6m_nx_25_ny_06.mat
+Elapsed time is 25.139510 seconds.
+FigureData_Dist_6m_nx_25_ny_07.mat
+Elapsed time is 30.997726 seconds.
+FigureData_Dist_6m_nx_25_ny_08.mat
+Elapsed time is 30.549122 seconds.
+Data Saved

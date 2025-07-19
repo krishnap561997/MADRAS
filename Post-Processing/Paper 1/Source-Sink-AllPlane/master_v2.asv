@@ -1,0 +1,88 @@
+clc, clear all, close all
+nfile = 991;
+time_limit = 700;
+nxt = 25;    nyt = 8;     nzt = 25;
+rlenx = 10; rleny = 3.2; rlenz = 10;
+sphere_diameter = 0.4; 
+nxi = 23;
+nyi = 5;
+nzi = 7;
+parentFolder = 'C:\Users\krishnap.kalivel\OneDrive - University of Florida\CMT Lab\Daily Log\November\27\test';
+%parentFolder = '/blue/bala/krishnap.kalivel/COVID/Sou2Snk_AllPlane/room_29';
+text1 = strcat(['Source_nxi_',sprintf('%03d',round(nxi)),...
+                                '_nyi_',sprintf('%03d',round(nyi)),...;
+                                '_nzi_',sprintf('%03d',round(nzi))]);
+mkdir(parentFolder,text1);
+parentFolder = strcat(parentFolder,'/',text1);
+%parentFolder = strcat('/blue/bala/krishnap.kalivel/COVID/Sou2Snk_AllPlane/room_29/',text1);
+X = find_symm(nxi, nzi, rlenx, rlenz, sphere_diameter);
+
+for i=1:size(X,1)
+    nxi = X(i,1);
+    nzi = X(i,2);
+    dirtext = strcat(['Source_nxi_',sprintf('%03d',round(nxi)),...
+                                '_nyi_',sprintf('%03d',round(nyi)),...;
+                                '_nzi_',sprintf('%03d',round(nzi))]);
+    mkdir(parentFolder,dirtext)
+    dir_path = strcat([parentFolder,'/',dirtext]);
+    toto = char(strip(strip(dir_path,'left',''''),'right',''''));
+    cd(toto)
+    parentFolder2 = strcat(parentFolder, '/', dirtext);
+    for j=1:nyt
+        dirtext2 = strcat(['Row_', sprintf('%03d',round(j))]);
+        mkdir(parentFolder2,dirtext2)
+        dir_path = strcat([parentFolder2,'/',dirtext2]);
+        toto = char(strip(strip(dir_path,'left',''''),'right',''''));
+        cd(toto)
+        text2 = strcat("'",parentFolder2, "'");
+        fid = fopen('input.txt','wt');
+        fprintf(fid,text2);
+        fprintf(fid,'\n');
+        fprintf(fid,"'/blue/bala/krishnap.kalivel/COVID/room_29/id_dp_tm'");
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(nfile));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(time_limit));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(nxi));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(nyi));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(nzi));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(rlenx));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(rleny));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(rlenz));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(sphere_diameter));
+        fprintf(fid,'\n');
+        fprintf(fid,num2str(j));
+        fprintf(fid,'\n');
+        fclose(fid);
+        %text = strcat(toto,'/main_sou2snk');
+        %copyfile(text,'main_sou2snk')
+        %text = strcat(toto,'/run.sh');
+        %copyfile(text,'run.sh')
+        tmp = '/home/krishnap.kalivel/MATLAB_src/Source-Sink-AllPlane';
+        text = strcat(tmp,'/main_sou2snk');
+        copyfile(text,'main_sou2snk')
+        text = strcat(tmp,'/run.sh');
+        copyfile(text,'run.sh')
+        cd(parentFolder);
+        if(i==1 && j==1 &&  k==1)
+           fid = fopen('mscript','wt');
+        else
+           fid = fopen('mscript', 'a+');
+        end
+        fprintf(fid,'cd ');
+        fprintf(fid,toto);
+        fprintf(fid,'\n');
+        fprintf(fid,'sbatch run.sh');
+        fprintf(fid,'\n');
+        fclose(fid);
+    end
+
+end
+

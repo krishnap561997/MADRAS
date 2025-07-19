@@ -1,0 +1,39 @@
+Tue May 21 09:05:08 EDT 2024
+c22b-s37.ufhpc
+
+fpath =
+
+    '/blue/bala/krishnap.kalivel/RANS/RANS_onecassette/Sou2Snk/dist_2m/Data'
+
+
+spath =
+
+    '/blue/bala/krishnap.kalivel/RANS/RANS_onecassette/Sou2Snk/dist_2m/Data_02'
+
+
+nx =
+
+    11
+
+
+ny =
+
+     6
+
+
+nz =
+
+    15
+
+
+dist =
+
+     2
+
+Error using load
+Unable to find file or directory
+'/blue/bala/krishnap.kalivel/RANS/RANS_onecassette/Sou2Snk/dist_2m/Data/Source_nxi_001_nyi_001_nzi_001'.
+
+Error in compile_data_mean_it (line 24)
+
+MATLAB:load:couldNotReadFile

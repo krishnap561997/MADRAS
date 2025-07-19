@@ -1,0 +1,9 @@
+'/blue/bala/nzgheib/COVID/room_29/par'
+'/blue/bala/nzgheib/COVID/room_29/parout'
+'/blue/bala/nzgheib/COVID/Spheres/MATLAB_src/Source-Exit/test'
+'/blue/bala/nzgheib/COVID/Spheres/room_29/id_dp_tm'
+10
+4
+1
+1
+1

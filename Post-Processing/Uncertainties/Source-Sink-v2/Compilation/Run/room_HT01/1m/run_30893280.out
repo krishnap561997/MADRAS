@@ -1,0 +1,34 @@
+Tue May  7 09:52:45 EDT 2024
+c31a-s21.ufhpc
+
+fpath =
+
+    '/blue/bala/krishnap.kalivel/COVID/Sou2Snk_v2/room_HT01/dist_1m/Data'
+
+
+spath =
+
+    '/blue/bala/krishnap.kalivel/COVID/Sou2Snk_v2/room_HT01/dist_1m/Data_02'
+
+
+nx =
+
+    25
+
+
+ny =
+
+     8
+
+
+nz =
+
+    25
+
+
+dist =
+
+     1
+
+/tmp/slurmd/job30893280/slurm_script: line 26: 3693086 Killed                  ./compile_stats_v1
+slurmstepd: error: Detected 2 oom-kill event(s) in StepId=30893280.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.

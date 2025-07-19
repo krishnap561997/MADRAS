@@ -1,0 +1,23 @@
+Mon Dec  6 10:20:00 EST 2021
+c23a-s1.ufhpc
+
+path =
+
+    '/blue/bala/krishnap.kalivel/COVID/Sou2Snk_Spheres/dist_8m/room_27/Data'
+
+
+fpath =
+
+    '/blue/bala/krishnap.kalivel/COVID/Sou2Snk_Spheres/dist_8m/room_27/Figures'
+
+
+ans =
+
+     1     1     1
+
+Error using load
+Unable to read file 'Source_nxi_001_nyi_001_nzi_001.mat'. No such file or directory.
+
+Error in master_plot_v2 (line 30)
+
+MATLAB:load:couldNotReadFile

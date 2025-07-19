@@ -1,0 +1,10 @@
+'/orange/bala1s/krishnap.kalivel/COVID/room_34/h5/par'
+'/blue/bala1s/krishnap.kalivel/COVID/IZModel/room_34/Data'
+4479
+10
+3.2
+10
+5
+5
+0
+4

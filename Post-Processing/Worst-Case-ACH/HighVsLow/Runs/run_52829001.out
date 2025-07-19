@@ -1,0 +1,692 @@
+Wed Nov 30 09:10:06 EST 2022
+c33b-s28.ufhpc
+
+fpath =
+
+    '/home/krishnap.kalivel/MATLAB_src/Higher-ACH-Better/HighVsLow/Data'
+
+
+d =
+
+    10
+
+Low ACH. dt1: 0. T0: 1. dT2: 0
+Low ACH. dt1: 0. T0: 1. dT2: 0.5
+Low ACH. dt1: 0. T0: 1. dT2: 1
+Low ACH. dt1: 0. T0: 1. dT2: 1.5
+Low ACH. dt1: 0. T0: 1. dT2: 2
+Low ACH. dt1: 0.5. T0: 1. dT2: 0
+Low ACH. dt1: 0.5. T0: 1. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 1. dT2: 1
+Low ACH. dt1: 0.5. T0: 1. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 1. dT2: 2
+Low ACH. dt1: 1. T0: 1. dT2: 0
+Low ACH. dt1: 1. T0: 1. dT2: 0.5
+Low ACH. dt1: 1. T0: 1. dT2: 1
+Low ACH. dt1: 1. T0: 1. dT2: 1.5
+Low ACH. dt1: 1. T0: 1. dT2: 2
+Low ACH. dt1: 1.5. T0: 1. dT2: 0
+Low ACH. dt1: 1.5. T0: 1. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 1. dT2: 1
+Low ACH. dt1: 1.5. T0: 1. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 1. dT2: 2
+Low ACH. dt1: 2. T0: 1. dT2: 0
+Low ACH. dt1: 2. T0: 1. dT2: 0.5
+Low ACH. dt1: 2. T0: 1. dT2: 1
+Low ACH. dt1: 2. T0: 1. dT2: 1.5
+Low ACH. dt1: 2. T0: 1. dT2: 2
+Low ACH. dt1: 0. T0: 1.5. dT2: 0
+Low ACH. dt1: 0. T0: 1.5. dT2: 0.5
+Low ACH. dt1: 0. T0: 1.5. dT2: 1
+Low ACH. dt1: 0. T0: 1.5. dT2: 1.5
+Low ACH. dt1: 0. T0: 1.5. dT2: 2
+Low ACH. dt1: 0.5. T0: 1.5. dT2: 0
+Low ACH. dt1: 0.5. T0: 1.5. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 1.5. dT2: 1
+Low ACH. dt1: 0.5. T0: 1.5. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 1.5. dT2: 2
+Low ACH. dt1: 1. T0: 1.5. dT2: 0
+Low ACH. dt1: 1. T0: 1.5. dT2: 0.5
+Low ACH. dt1: 1. T0: 1.5. dT2: 1
+Low ACH. dt1: 1. T0: 1.5. dT2: 1.5
+Low ACH. dt1: 1. T0: 1.5. dT2: 2
+Low ACH. dt1: 1.5. T0: 1.5. dT2: 0
+Low ACH. dt1: 1.5. T0: 1.5. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 1.5. dT2: 1
+Low ACH. dt1: 1.5. T0: 1.5. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 1.5. dT2: 2
+Low ACH. dt1: 2. T0: 1.5. dT2: 0
+Low ACH. dt1: 2. T0: 1.5. dT2: 0.5
+Low ACH. dt1: 2. T0: 1.5. dT2: 1
+Low ACH. dt1: 2. T0: 1.5. dT2: 1.5
+Low ACH. dt1: 2. T0: 1.5. dT2: 2
+Low ACH. dt1: 0. T0: 2. dT2: 0
+Low ACH. dt1: 0. T0: 2. dT2: 0.5
+Low ACH. dt1: 0. T0: 2. dT2: 1
+Low ACH. dt1: 0. T0: 2. dT2: 1.5
+Low ACH. dt1: 0. T0: 2. dT2: 2
+Low ACH. dt1: 0.5. T0: 2. dT2: 0
+Low ACH. dt1: 0.5. T0: 2. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 2. dT2: 1
+Low ACH. dt1: 0.5. T0: 2. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 2. dT2: 2
+Low ACH. dt1: 1. T0: 2. dT2: 0
+Low ACH. dt1: 1. T0: 2. dT2: 0.5
+Low ACH. dt1: 1. T0: 2. dT2: 1
+Low ACH. dt1: 1. T0: 2. dT2: 1.5
+Low ACH. dt1: 1. T0: 2. dT2: 2
+Low ACH. dt1: 1.5. T0: 2. dT2: 0
+Low ACH. dt1: 1.5. T0: 2. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 2. dT2: 1
+Low ACH. dt1: 1.5. T0: 2. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 2. dT2: 2
+Low ACH. dt1: 2. T0: 2. dT2: 0
+Low ACH. dt1: 2. T0: 2. dT2: 0.5
+Low ACH. dt1: 2. T0: 2. dT2: 1
+Low ACH. dt1: 2. T0: 2. dT2: 1.5
+Low ACH. dt1: 2. T0: 2. dT2: 2
+Low ACH. dt1: 0. T0: 2.5. dT2: 0
+Low ACH. dt1: 0. T0: 2.5. dT2: 0.5
+Low ACH. dt1: 0. T0: 2.5. dT2: 1
+Low ACH. dt1: 0. T0: 2.5. dT2: 1.5
+Low ACH. dt1: 0. T0: 2.5. dT2: 2
+Low ACH. dt1: 0.5. T0: 2.5. dT2: 0
+Low ACH. dt1: 0.5. T0: 2.5. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 2.5. dT2: 1
+Low ACH. dt1: 0.5. T0: 2.5. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 2.5. dT2: 2
+Low ACH. dt1: 1. T0: 2.5. dT2: 0
+Low ACH. dt1: 1. T0: 2.5. dT2: 0.5
+Low ACH. dt1: 1. T0: 2.5. dT2: 1
+Low ACH. dt1: 1. T0: 2.5. dT2: 1.5
+Low ACH. dt1: 1. T0: 2.5. dT2: 2
+Low ACH. dt1: 1.5. T0: 2.5. dT2: 0
+Low ACH. dt1: 1.5. T0: 2.5. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 2.5. dT2: 1
+Low ACH. dt1: 1.5. T0: 2.5. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 2.5. dT2: 2
+Low ACH. dt1: 2. T0: 2.5. dT2: 0
+Low ACH. dt1: 2. T0: 2.5. dT2: 0.5
+Low ACH. dt1: 2. T0: 2.5. dT2: 1
+Low ACH. dt1: 2. T0: 2.5. dT2: 1.5
+Low ACH. dt1: 2. T0: 2.5. dT2: 2
+Low ACH. dt1: 0. T0: 3. dT2: 0
+Low ACH. dt1: 0. T0: 3. dT2: 0.5
+Low ACH. dt1: 0. T0: 3. dT2: 1
+Low ACH. dt1: 0. T0: 3. dT2: 1.5
+Low ACH. dt1: 0. T0: 3. dT2: 2
+Low ACH. dt1: 0.5. T0: 3. dT2: 0
+Low ACH. dt1: 0.5. T0: 3. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 3. dT2: 1
+Low ACH. dt1: 0.5. T0: 3. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 3. dT2: 2
+Low ACH. dt1: 1. T0: 3. dT2: 0
+Low ACH. dt1: 1. T0: 3. dT2: 0.5
+Low ACH. dt1: 1. T0: 3. dT2: 1
+Low ACH. dt1: 1. T0: 3. dT2: 1.5
+Low ACH. dt1: 1. T0: 3. dT2: 2
+Low ACH. dt1: 1.5. T0: 3. dT2: 0
+Low ACH. dt1: 1.5. T0: 3. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 3. dT2: 1
+Low ACH. dt1: 1.5. T0: 3. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 3. dT2: 2
+Low ACH. dt1: 2. T0: 3. dT2: 0
+Low ACH. dt1: 2. T0: 3. dT2: 0.5
+Low ACH. dt1: 2. T0: 3. dT2: 1
+Low ACH. dt1: 2. T0: 3. dT2: 1.5
+Low ACH. dt1: 2. T0: 3. dT2: 2
+Low ACH. dt1: 0. T0: 3.5. dT2: 0
+Low ACH. dt1: 0. T0: 3.5. dT2: 0.5
+Low ACH. dt1: 0. T0: 3.5. dT2: 1
+Low ACH. dt1: 0. T0: 3.5. dT2: 1.5
+Low ACH. dt1: 0. T0: 3.5. dT2: 2
+Low ACH. dt1: 0.5. T0: 3.5. dT2: 0
+Low ACH. dt1: 0.5. T0: 3.5. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 3.5. dT2: 1
+Low ACH. dt1: 0.5. T0: 3.5. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 3.5. dT2: 2
+Low ACH. dt1: 1. T0: 3.5. dT2: 0
+Low ACH. dt1: 1. T0: 3.5. dT2: 0.5
+Low ACH. dt1: 1. T0: 3.5. dT2: 1
+Low ACH. dt1: 1. T0: 3.5. dT2: 1.5
+Low ACH. dt1: 1. T0: 3.5. dT2: 2
+Low ACH. dt1: 1.5. T0: 3.5. dT2: 0
+Low ACH. dt1: 1.5. T0: 3.5. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 3.5. dT2: 1
+Low ACH. dt1: 1.5. T0: 3.5. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 3.5. dT2: 2
+Low ACH. dt1: 2. T0: 3.5. dT2: 0
+Low ACH. dt1: 2. T0: 3.5. dT2: 0.5
+Low ACH. dt1: 2. T0: 3.5. dT2: 1
+Low ACH. dt1: 2. T0: 3.5. dT2: 1.5
+Low ACH. dt1: 2. T0: 3.5. dT2: 2
+Low ACH. dt1: 0. T0: 4. dT2: 0
+Low ACH. dt1: 0. T0: 4. dT2: 0.5
+Low ACH. dt1: 0. T0: 4. dT2: 1
+Low ACH. dt1: 0. T0: 4. dT2: 1.5
+Low ACH. dt1: 0. T0: 4. dT2: 2
+Low ACH. dt1: 0.5. T0: 4. dT2: 0
+Low ACH. dt1: 0.5. T0: 4. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 4. dT2: 1
+Low ACH. dt1: 0.5. T0: 4. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 4. dT2: 2
+Low ACH. dt1: 1. T0: 4. dT2: 0
+Low ACH. dt1: 1. T0: 4. dT2: 0.5
+Low ACH. dt1: 1. T0: 4. dT2: 1
+Low ACH. dt1: 1. T0: 4. dT2: 1.5
+Low ACH. dt1: 1. T0: 4. dT2: 2
+Low ACH. dt1: 1.5. T0: 4. dT2: 0
+Low ACH. dt1: 1.5. T0: 4. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 4. dT2: 1
+Low ACH. dt1: 1.5. T0: 4. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 4. dT2: 2
+Low ACH. dt1: 2. T0: 4. dT2: 0
+Low ACH. dt1: 2. T0: 4. dT2: 0.5
+Low ACH. dt1: 2. T0: 4. dT2: 1
+Low ACH. dt1: 2. T0: 4. dT2: 1.5
+Low ACH. dt1: 2. T0: 4. dT2: 2
+Low ACH. dt1: 0. T0: 4.5. dT2: 0
+Low ACH. dt1: 0. T0: 4.5. dT2: 0.5
+Low ACH. dt1: 0. T0: 4.5. dT2: 1
+Low ACH. dt1: 0. T0: 4.5. dT2: 1.5
+Low ACH. dt1: 0. T0: 4.5. dT2: 2
+Low ACH. dt1: 0.5. T0: 4.5. dT2: 0
+Low ACH. dt1: 0.5. T0: 4.5. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 4.5. dT2: 1
+Low ACH. dt1: 0.5. T0: 4.5. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 4.5. dT2: 2
+Low ACH. dt1: 1. T0: 4.5. dT2: 0
+Low ACH. dt1: 1. T0: 4.5. dT2: 0.5
+Low ACH. dt1: 1. T0: 4.5. dT2: 1
+Low ACH. dt1: 1. T0: 4.5. dT2: 1.5
+Low ACH. dt1: 1. T0: 4.5. dT2: 2
+Low ACH. dt1: 1.5. T0: 4.5. dT2: 0
+Low ACH. dt1: 1.5. T0: 4.5. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 4.5. dT2: 1
+Low ACH. dt1: 1.5. T0: 4.5. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 4.5. dT2: 2
+Low ACH. dt1: 2. T0: 4.5. dT2: 0
+Low ACH. dt1: 2. T0: 4.5. dT2: 0.5
+Low ACH. dt1: 2. T0: 4.5. dT2: 1
+Low ACH. dt1: 2. T0: 4.5. dT2: 1.5
+Low ACH. dt1: 2. T0: 4.5. dT2: 2
+Low ACH. dt1: 0. T0: 5. dT2: 0
+Low ACH. dt1: 0. T0: 5. dT2: 0.5
+Low ACH. dt1: 0. T0: 5. dT2: 1
+Low ACH. dt1: 0. T0: 5. dT2: 1.5
+Low ACH. dt1: 0. T0: 5. dT2: 2
+Low ACH. dt1: 0.5. T0: 5. dT2: 0
+Low ACH. dt1: 0.5. T0: 5. dT2: 0.5
+Low ACH. dt1: 0.5. T0: 5. dT2: 1
+Low ACH. dt1: 0.5. T0: 5. dT2: 1.5
+Low ACH. dt1: 0.5. T0: 5. dT2: 2
+Low ACH. dt1: 1. T0: 5. dT2: 0
+Low ACH. dt1: 1. T0: 5. dT2: 0.5
+Low ACH. dt1: 1. T0: 5. dT2: 1
+Low ACH. dt1: 1. T0: 5. dT2: 1.5
+Low ACH. dt1: 1. T0: 5. dT2: 2
+Low ACH. dt1: 1.5. T0: 5. dT2: 0
+Low ACH. dt1: 1.5. T0: 5. dT2: 0.5
+Low ACH. dt1: 1.5. T0: 5. dT2: 1
+Low ACH. dt1: 1.5. T0: 5. dT2: 1.5
+Low ACH. dt1: 1.5. T0: 5. dT2: 2
+Low ACH. dt1: 2. T0: 5. dT2: 0
+Low ACH. dt1: 2. T0: 5. dT2: 0.5
+Low ACH. dt1: 2. T0: 5. dT2: 1
+Low ACH. dt1: 2. T0: 5. dT2: 1.5
+Low ACH. dt1: 2. T0: 5. dT2: 2
+High ACH. dt1: 0. T0: 60. dT2: 0
+Elapsed time is 0.151788 seconds.
+High ACH. dt1: 0. T0: 60. dT2: 30
+Elapsed time is 0.157740 seconds.
+High ACH. dt1: 0. T0: 60. dT2: 60
+Elapsed time is 0.155699 seconds.
+High ACH. dt1: 0. T0: 60. dT2: 90
+Elapsed time is 0.155771 seconds.
+High ACH. dt1: 0. T0: 60. dT2: 120
+Elapsed time is 0.154138 seconds.
+High ACH. dt1: 30. T0: 60. dT2: 0
+Elapsed time is 0.150227 seconds.
+High ACH. dt1: 30. T0: 60. dT2: 30
+Elapsed time is 0.150810 seconds.
+High ACH. dt1: 30. T0: 60. dT2: 60
+Elapsed time is 0.150684 seconds.
+High ACH. dt1: 30. T0: 60. dT2: 90
+Elapsed time is 0.152448 seconds.
+High ACH. dt1: 30. T0: 60. dT2: 120
+Elapsed time is 0.151420 seconds.
+High ACH. dt1: 60. T0: 60. dT2: 0
+Elapsed time is 0.148949 seconds.
+High ACH. dt1: 60. T0: 60. dT2: 30
+Elapsed time is 0.147001 seconds.
+High ACH. dt1: 60. T0: 60. dT2: 60
+Elapsed time is 0.147117 seconds.
+High ACH. dt1: 60. T0: 60. dT2: 90
+Elapsed time is 0.147385 seconds.
+High ACH. dt1: 60. T0: 60. dT2: 120
+Elapsed time is 0.149882 seconds.
+High ACH. dt1: 90. T0: 60. dT2: 0
+Elapsed time is 0.156859 seconds.
+High ACH. dt1: 90. T0: 60. dT2: 30
+Elapsed time is 0.148268 seconds.
+High ACH. dt1: 90. T0: 60. dT2: 60
+Elapsed time is 0.148330 seconds.
+High ACH. dt1: 90. T0: 60. dT2: 90
+Elapsed time is 0.149102 seconds.
+High ACH. dt1: 90. T0: 60. dT2: 120
+Elapsed time is 0.148649 seconds.
+High ACH. dt1: 120. T0: 60. dT2: 0
+Elapsed time is 0.148534 seconds.
+High ACH. dt1: 120. T0: 60. dT2: 30
+Elapsed time is 0.159793 seconds.
+High ACH. dt1: 120. T0: 60. dT2: 60
+Elapsed time is 0.150623 seconds.
+High ACH. dt1: 120. T0: 60. dT2: 90
+Elapsed time is 0.168817 seconds.
+High ACH. dt1: 120. T0: 60. dT2: 120
+Elapsed time is 0.163313 seconds.
+High ACH. dt1: 0. T0: 90. dT2: 0
+Elapsed time is 0.441387 seconds.
+High ACH. dt1: 0. T0: 90. dT2: 30
+Elapsed time is 0.363935 seconds.
+High ACH. dt1: 0. T0: 90. dT2: 60
+Elapsed time is 0.202808 seconds.
+High ACH. dt1: 0. T0: 90. dT2: 90
+Elapsed time is 0.204895 seconds.
+High ACH. dt1: 0. T0: 90. dT2: 120
+Elapsed time is 0.206039 seconds.
+High ACH. dt1: 30. T0: 90. dT2: 0
+Elapsed time is 0.207224 seconds.
+High ACH. dt1: 30. T0: 90. dT2: 30
+Elapsed time is 0.202829 seconds.
+High ACH. dt1: 30. T0: 90. dT2: 60
+Elapsed time is 0.204985 seconds.
+High ACH. dt1: 30. T0: 90. dT2: 90
+Elapsed time is 0.203936 seconds.
+High ACH. dt1: 30. T0: 90. dT2: 120
+Elapsed time is 0.211225 seconds.
+High ACH. dt1: 60. T0: 90. dT2: 0
+Elapsed time is 0.204973 seconds.
+High ACH. dt1: 60. T0: 90. dT2: 30
+Elapsed time is 0.207913 seconds.
+High ACH. dt1: 60. T0: 90. dT2: 60
+Elapsed time is 0.207719 seconds.
+High ACH. dt1: 60. T0: 90. dT2: 90
+Elapsed time is 0.208198 seconds.
+High ACH. dt1: 60. T0: 90. dT2: 120
+Elapsed time is 0.212941 seconds.
+High ACH. dt1: 90. T0: 90. dT2: 0
+Elapsed time is 0.207751 seconds.
+High ACH. dt1: 90. T0: 90. dT2: 30
+Elapsed time is 0.205405 seconds.
+High ACH. dt1: 90. T0: 90. dT2: 60
+Elapsed time is 0.208894 seconds.
+High ACH. dt1: 90. T0: 90. dT2: 90
+Elapsed time is 0.209339 seconds.
+High ACH. dt1: 90. T0: 90. dT2: 120
+Elapsed time is 0.233076 seconds.
+High ACH. dt1: 120. T0: 90. dT2: 0
+Elapsed time is 0.228522 seconds.
+High ACH. dt1: 120. T0: 90. dT2: 30
+Elapsed time is 0.230577 seconds.
+High ACH. dt1: 120. T0: 90. dT2: 60
+Elapsed time is 0.228458 seconds.
+High ACH. dt1: 120. T0: 90. dT2: 90
+Elapsed time is 0.215131 seconds.
+High ACH. dt1: 120. T0: 90. dT2: 120
+Elapsed time is 0.220737 seconds.
+High ACH. dt1: 0. T0: 120. dT2: 0
+Elapsed time is 0.268707 seconds.
+High ACH. dt1: 0. T0: 120. dT2: 30
+Elapsed time is 0.276590 seconds.
+High ACH. dt1: 0. T0: 120. dT2: 60
+Elapsed time is 0.265141 seconds.
+High ACH. dt1: 0. T0: 120. dT2: 90
+Elapsed time is 0.265687 seconds.
+High ACH. dt1: 0. T0: 120. dT2: 120
+Elapsed time is 0.268166 seconds.
+High ACH. dt1: 30. T0: 120. dT2: 0
+Elapsed time is 0.267084 seconds.
+High ACH. dt1: 30. T0: 120. dT2: 30
+Elapsed time is 0.263874 seconds.
+High ACH. dt1: 30. T0: 120. dT2: 60
+Elapsed time is 0.263835 seconds.
+High ACH. dt1: 30. T0: 120. dT2: 90
+Elapsed time is 0.267726 seconds.
+High ACH. dt1: 30. T0: 120. dT2: 120
+Elapsed time is 0.270716 seconds.
+High ACH. dt1: 60. T0: 120. dT2: 0
+Elapsed time is 0.266688 seconds.
+High ACH. dt1: 60. T0: 120. dT2: 30
+Elapsed time is 0.267219 seconds.
+High ACH. dt1: 60. T0: 120. dT2: 60
+Elapsed time is 0.270675 seconds.
+High ACH. dt1: 60. T0: 120. dT2: 90
+Elapsed time is 0.272234 seconds.
+High ACH. dt1: 60. T0: 120. dT2: 120
+Elapsed time is 0.271637 seconds.
+High ACH. dt1: 90. T0: 120. dT2: 0
+Elapsed time is 0.267070 seconds.
+High ACH. dt1: 90. T0: 120. dT2: 30
+Elapsed time is 0.268137 seconds.
+High ACH. dt1: 90. T0: 120. dT2: 60
+Elapsed time is 0.271299 seconds.
+High ACH. dt1: 90. T0: 120. dT2: 90
+Elapsed time is 0.270185 seconds.
+High ACH. dt1: 90. T0: 120. dT2: 120
+Elapsed time is 0.272177 seconds.
+High ACH. dt1: 120. T0: 120. dT2: 0
+Elapsed time is 0.267597 seconds.
+High ACH. dt1: 120. T0: 120. dT2: 30
+Elapsed time is 0.269742 seconds.
+High ACH. dt1: 120. T0: 120. dT2: 60
+Elapsed time is 0.269554 seconds.
+High ACH. dt1: 120. T0: 120. dT2: 90
+Elapsed time is 0.273467 seconds.
+High ACH. dt1: 120. T0: 120. dT2: 120
+Elapsed time is 0.273234 seconds.
+High ACH. dt1: 0. T0: 150. dT2: 0
+Elapsed time is 0.328080 seconds.
+High ACH. dt1: 0. T0: 150. dT2: 30
+Elapsed time is 0.326846 seconds.
+High ACH. dt1: 0. T0: 150. dT2: 60
+Elapsed time is 0.326453 seconds.
+High ACH. dt1: 0. T0: 150. dT2: 90
+Elapsed time is 0.326224 seconds.
+High ACH. dt1: 0. T0: 150. dT2: 120
+Elapsed time is 0.329960 seconds.
+High ACH. dt1: 30. T0: 150. dT2: 0
+Elapsed time is 0.323413 seconds.
+High ACH. dt1: 30. T0: 150. dT2: 30
+Elapsed time is 0.325404 seconds.
+High ACH. dt1: 30. T0: 150. dT2: 60
+Elapsed time is 0.326734 seconds.
+High ACH. dt1: 30. T0: 150. dT2: 90
+Elapsed time is 0.325218 seconds.
+High ACH. dt1: 30. T0: 150. dT2: 120
+Elapsed time is 0.331573 seconds.
+High ACH. dt1: 60. T0: 150. dT2: 0
+Elapsed time is 0.325823 seconds.
+High ACH. dt1: 60. T0: 150. dT2: 30
+Elapsed time is 0.328156 seconds.
+High ACH. dt1: 60. T0: 150. dT2: 60
+Elapsed time is 0.330361 seconds.
+High ACH. dt1: 60. T0: 150. dT2: 90
+Elapsed time is 0.330711 seconds.
+High ACH. dt1: 60. T0: 150. dT2: 120
+Elapsed time is 0.330048 seconds.
+High ACH. dt1: 90. T0: 150. dT2: 0
+Elapsed time is 0.328223 seconds.
+High ACH. dt1: 90. T0: 150. dT2: 30
+Elapsed time is 0.325902 seconds.
+High ACH. dt1: 90. T0: 150. dT2: 60
+Elapsed time is 0.328980 seconds.
+High ACH. dt1: 90. T0: 150. dT2: 90
+Elapsed time is 0.324936 seconds.
+High ACH. dt1: 90. T0: 150. dT2: 120
+Elapsed time is 0.330192 seconds.
+High ACH. dt1: 120. T0: 150. dT2: 0
+Elapsed time is 0.354662 seconds.
+High ACH. dt1: 120. T0: 150. dT2: 30
+Elapsed time is 0.329642 seconds.
+High ACH. dt1: 120. T0: 150. dT2: 60
+Elapsed time is 0.326763 seconds.
+High ACH. dt1: 120. T0: 150. dT2: 90
+Elapsed time is 0.330846 seconds.
+High ACH. dt1: 120. T0: 150. dT2: 120
+Elapsed time is 0.362058 seconds.
+High ACH. dt1: 0. T0: 180. dT2: 0
+Elapsed time is 0.434313 seconds.
+High ACH. dt1: 0. T0: 180. dT2: 30
+Elapsed time is 0.409777 seconds.
+High ACH. dt1: 0. T0: 180. dT2: 60
+Elapsed time is 0.420049 seconds.
+High ACH. dt1: 0. T0: 180. dT2: 90
+Elapsed time is 0.422195 seconds.
+High ACH. dt1: 0. T0: 180. dT2: 120
+Elapsed time is 0.419741 seconds.
+High ACH. dt1: 30. T0: 180. dT2: 0
+Elapsed time is 0.413670 seconds.
+High ACH. dt1: 30. T0: 180. dT2: 30
+Elapsed time is 0.421880 seconds.
+High ACH. dt1: 30. T0: 180. dT2: 60
+Elapsed time is 0.430237 seconds.
+High ACH. dt1: 30. T0: 180. dT2: 90
+Elapsed time is 0.411508 seconds.
+High ACH. dt1: 30. T0: 180. dT2: 120
+Elapsed time is 0.804283 seconds.
+High ACH. dt1: 60. T0: 180. dT2: 0
+Elapsed time is 0.413983 seconds.
+High ACH. dt1: 60. T0: 180. dT2: 30
+Elapsed time is 0.420683 seconds.
+High ACH. dt1: 60. T0: 180. dT2: 60
+Elapsed time is 0.417420 seconds.
+High ACH. dt1: 60. T0: 180. dT2: 90
+Elapsed time is 0.412923 seconds.
+High ACH. dt1: 60. T0: 180. dT2: 120
+Elapsed time is 0.410574 seconds.
+High ACH. dt1: 90. T0: 180. dT2: 0
+Elapsed time is 0.402687 seconds.
+High ACH. dt1: 90. T0: 180. dT2: 30
+Elapsed time is 0.401414 seconds.
+High ACH. dt1: 90. T0: 180. dT2: 60
+Elapsed time is 0.394686 seconds.
+High ACH. dt1: 90. T0: 180. dT2: 90
+Elapsed time is 0.385709 seconds.
+High ACH. dt1: 90. T0: 180. dT2: 120
+Elapsed time is 0.389587 seconds.
+High ACH. dt1: 120. T0: 180. dT2: 0
+Elapsed time is 0.425538 seconds.
+High ACH. dt1: 120. T0: 180. dT2: 30
+Elapsed time is 0.440734 seconds.
+High ACH. dt1: 120. T0: 180. dT2: 60
+Elapsed time is 0.393597 seconds.
+High ACH. dt1: 120. T0: 180. dT2: 90
+Elapsed time is 0.389510 seconds.
+High ACH. dt1: 120. T0: 180. dT2: 120
+Elapsed time is 0.393808 seconds.
+High ACH. dt1: 0. T0: 210. dT2: 0
+Elapsed time is 0.444590 seconds.
+High ACH. dt1: 0. T0: 210. dT2: 30
+Elapsed time is 0.448605 seconds.
+High ACH. dt1: 0. T0: 210. dT2: 60
+Elapsed time is 0.450687 seconds.
+High ACH. dt1: 0. T0: 210. dT2: 90
+Elapsed time is 0.452603 seconds.
+High ACH. dt1: 0. T0: 210. dT2: 120
+Elapsed time is 0.450979 seconds.
+High ACH. dt1: 30. T0: 210. dT2: 0
+Elapsed time is 0.448834 seconds.
+High ACH. dt1: 30. T0: 210. dT2: 30
+Elapsed time is 0.449852 seconds.
+High ACH. dt1: 30. T0: 210. dT2: 60
+Elapsed time is 0.445228 seconds.
+High ACH. dt1: 30. T0: 210. dT2: 90
+Elapsed time is 0.450013 seconds.
+High ACH. dt1: 30. T0: 210. dT2: 120
+Elapsed time is 0.453178 seconds.
+High ACH. dt1: 60. T0: 210. dT2: 0
+Elapsed time is 0.446228 seconds.
+High ACH. dt1: 60. T0: 210. dT2: 30
+Elapsed time is 0.446692 seconds.
+High ACH. dt1: 60. T0: 210. dT2: 60
+Elapsed time is 0.444422 seconds.
+High ACH. dt1: 60. T0: 210. dT2: 90
+Elapsed time is 0.447831 seconds.
+High ACH. dt1: 60. T0: 210. dT2: 120
+Elapsed time is 0.450375 seconds.
+High ACH. dt1: 90. T0: 210. dT2: 0
+Elapsed time is 0.455475 seconds.
+High ACH. dt1: 90. T0: 210. dT2: 30
+Elapsed time is 0.447484 seconds.
+High ACH. dt1: 90. T0: 210. dT2: 60
+Elapsed time is 0.458651 seconds.
+High ACH. dt1: 90. T0: 210. dT2: 90
+Elapsed time is 0.449351 seconds.
+High ACH. dt1: 90. T0: 210. dT2: 120
+Elapsed time is 0.453178 seconds.
+High ACH. dt1: 120. T0: 210. dT2: 0
+Elapsed time is 0.468975 seconds.
+High ACH. dt1: 120. T0: 210. dT2: 30
+Elapsed time is 0.482091 seconds.
+High ACH. dt1: 120. T0: 210. dT2: 60
+Elapsed time is 0.471808 seconds.
+High ACH. dt1: 120. T0: 210. dT2: 90
+Elapsed time is 0.462002 seconds.
+High ACH. dt1: 120. T0: 210. dT2: 120
+Elapsed time is 0.453413 seconds.
+High ACH. dt1: 0. T0: 240. dT2: 0
+Elapsed time is 0.505319 seconds.
+High ACH. dt1: 0. T0: 240. dT2: 30
+Elapsed time is 0.498265 seconds.
+High ACH. dt1: 0. T0: 240. dT2: 60
+Elapsed time is 0.509275 seconds.
+High ACH. dt1: 0. T0: 240. dT2: 90
+Elapsed time is 0.508005 seconds.
+High ACH. dt1: 0. T0: 240. dT2: 120
+Elapsed time is 0.507467 seconds.
+High ACH. dt1: 30. T0: 240. dT2: 0
+Elapsed time is 0.534030 seconds.
+High ACH. dt1: 30. T0: 240. dT2: 30
+Elapsed time is 0.554290 seconds.
+High ACH. dt1: 30. T0: 240. dT2: 60
+Elapsed time is 0.508096 seconds.
+High ACH. dt1: 30. T0: 240. dT2: 90
+Elapsed time is 0.509428 seconds.
+High ACH. dt1: 30. T0: 240. dT2: 120
+Elapsed time is 0.508964 seconds.
+High ACH. dt1: 60. T0: 240. dT2: 0
+Elapsed time is 0.522141 seconds.
+High ACH. dt1: 60. T0: 240. dT2: 30
+Elapsed time is 0.501598 seconds.
+High ACH. dt1: 60. T0: 240. dT2: 60
+Elapsed time is 0.507863 seconds.
+High ACH. dt1: 60. T0: 240. dT2: 90
+Elapsed time is 0.506054 seconds.
+High ACH. dt1: 60. T0: 240. dT2: 120
+Elapsed time is 0.509686 seconds.
+High ACH. dt1: 90. T0: 240. dT2: 0
+Elapsed time is 0.503777 seconds.
+High ACH. dt1: 90. T0: 240. dT2: 30
+Elapsed time is 0.507523 seconds.
+High ACH. dt1: 90. T0: 240. dT2: 60
+Elapsed time is 0.498982 seconds.
+High ACH. dt1: 90. T0: 240. dT2: 90
+Elapsed time is 0.508335 seconds.
+High ACH. dt1: 90. T0: 240. dT2: 120
+Elapsed time is 0.504974 seconds.
+High ACH. dt1: 120. T0: 240. dT2: 0
+Elapsed time is 0.505942 seconds.
+High ACH. dt1: 120. T0: 240. dT2: 30
+Elapsed time is 0.523811 seconds.
+High ACH. dt1: 120. T0: 240. dT2: 60
+Elapsed time is 0.525735 seconds.
+High ACH. dt1: 120. T0: 240. dT2: 90
+Elapsed time is 0.508170 seconds.
+High ACH. dt1: 120. T0: 240. dT2: 120
+Elapsed time is 0.509605 seconds.
+High ACH. dt1: 0. T0: 270. dT2: 0
+Elapsed time is 0.558967 seconds.
+High ACH. dt1: 0. T0: 270. dT2: 30
+Elapsed time is 0.572727 seconds.
+High ACH. dt1: 0. T0: 270. dT2: 60
+Elapsed time is 0.563784 seconds.
+High ACH. dt1: 0. T0: 270. dT2: 90
+Elapsed time is 0.563570 seconds.
+High ACH. dt1: 0. T0: 270. dT2: 120
+Elapsed time is 0.575390 seconds.
+High ACH. dt1: 30. T0: 270. dT2: 0
+Elapsed time is 0.605520 seconds.
+High ACH. dt1: 30. T0: 270. dT2: 30
+Elapsed time is 0.602684 seconds.
+High ACH. dt1: 30. T0: 270. dT2: 60
+Elapsed time is 0.576582 seconds.
+High ACH. dt1: 30. T0: 270. dT2: 90
+Elapsed time is 0.574507 seconds.
+High ACH. dt1: 30. T0: 270. dT2: 120
+Elapsed time is 0.573519 seconds.
+High ACH. dt1: 60. T0: 270. dT2: 0
+Elapsed time is 0.569305 seconds.
+High ACH. dt1: 60. T0: 270. dT2: 30
+Elapsed time is 0.572102 seconds.
+High ACH. dt1: 60. T0: 270. dT2: 60
+Elapsed time is 0.564037 seconds.
+High ACH. dt1: 60. T0: 270. dT2: 90
+Elapsed time is 0.562093 seconds.
+High ACH. dt1: 60. T0: 270. dT2: 120
+Elapsed time is 0.557182 seconds.
+High ACH. dt1: 90. T0: 270. dT2: 0
+Elapsed time is 0.566928 seconds.
+High ACH. dt1: 90. T0: 270. dT2: 30
+Elapsed time is 0.597710 seconds.
+High ACH. dt1: 90. T0: 270. dT2: 60
+Elapsed time is 0.592164 seconds.
+High ACH. dt1: 90. T0: 270. dT2: 90
+Elapsed time is 0.570692 seconds.
+High ACH. dt1: 90. T0: 270. dT2: 120
+Elapsed time is 0.568122 seconds.
+High ACH. dt1: 120. T0: 270. dT2: 0
+Elapsed time is 0.568798 seconds.
+High ACH. dt1: 120. T0: 270. dT2: 30
+Elapsed time is 0.571671 seconds.
+High ACH. dt1: 120. T0: 270. dT2: 60
+Elapsed time is 0.572952 seconds.
+High ACH. dt1: 120. T0: 270. dT2: 90
+Elapsed time is 0.565643 seconds.
+High ACH. dt1: 120. T0: 270. dT2: 120
+Elapsed time is 0.563563 seconds.
+High ACH. dt1: 0. T0: 300. dT2: 0
+Elapsed time is 0.629804 seconds.
+High ACH. dt1: 0. T0: 300. dT2: 30
+Elapsed time is 0.626896 seconds.
+High ACH. dt1: 0. T0: 300. dT2: 60
+Elapsed time is 0.636850 seconds.
+High ACH. dt1: 0. T0: 300. dT2: 90
+Elapsed time is 0.623466 seconds.
+High ACH. dt1: 0. T0: 300. dT2: 120
+Elapsed time is 0.627142 seconds.
+High ACH. dt1: 30. T0: 300. dT2: 0
+Elapsed time is 0.614979 seconds.
+High ACH. dt1: 30. T0: 300. dT2: 30
+Elapsed time is 0.625254 seconds.
+High ACH. dt1: 30. T0: 300. dT2: 60
+Elapsed time is 0.626700 seconds.
+High ACH. dt1: 30. T0: 300. dT2: 90
+Elapsed time is 0.626921 seconds.
+High ACH. dt1: 30. T0: 300. dT2: 120
+Elapsed time is 0.623696 seconds.
+High ACH. dt1: 60. T0: 300. dT2: 0
+Elapsed time is 0.628434 seconds.
+High ACH. dt1: 60. T0: 300. dT2: 30
+Elapsed time is 0.631899 seconds.
+High ACH. dt1: 60. T0: 300. dT2: 60
+Elapsed time is 0.630924 seconds.
+High ACH. dt1: 60. T0: 300. dT2: 90
+Elapsed time is 0.636607 seconds.
+High ACH. dt1: 60. T0: 300. dT2: 120
+Elapsed time is 0.696406 seconds.
+High ACH. dt1: 90. T0: 300. dT2: 0
+Elapsed time is 0.637007 seconds.
+High ACH. dt1: 90. T0: 300. dT2: 30
+Elapsed time is 0.626823 seconds.
+High ACH. dt1: 90. T0: 300. dT2: 60
+Elapsed time is 0.628395 seconds.
+High ACH. dt1: 90. T0: 300. dT2: 90
+Elapsed time is 0.632962 seconds.
+High ACH. dt1: 90. T0: 300. dT2: 120
+Elapsed time is 0.630146 seconds.
+High ACH. dt1: 120. T0: 300. dT2: 0
+Elapsed time is 0.634230 seconds.
+High ACH. dt1: 120. T0: 300. dT2: 30
+Elapsed time is 0.645643 seconds.
+High ACH. dt1: 120. T0: 300. dT2: 60
+Elapsed time is 0.671282 seconds.
+High ACH. dt1: 120. T0: 300. dT2: 90
+Elapsed time is 0.624907 seconds.
+High ACH. dt1: 120. T0: 300. dT2: 120
+Elapsed time is 0.630978 seconds.
+Unrecognized function or variable 'a'.
+
+Error in highvslow (line 79)
+
+MATLAB:UndefinedFunction

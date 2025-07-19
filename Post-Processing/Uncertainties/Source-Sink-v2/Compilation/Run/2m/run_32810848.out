@@ -1,0 +1,32 @@
+Tue May 28 12:23:42 EDT 2024
+c35b-s16.ufhpc
+
+fpath =
+
+    '/blue/bala/krishnap.kalivel/RANS/RANS_LGRoom/Sou2Snk/dist_2m/Data'
+
+
+spath =
+
+    '/blue/bala/krishnap.kalivel/RANS/RANS_LGRoom/Sou2Snk/dist_2m/Data_02'
+
+
+nx =
+
+    19
+
+
+ny =
+
+     5
+
+
+nz =
+
+    29
+
+
+dist =
+
+     2
+

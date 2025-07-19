@@ -1,0 +1,7 @@
+'/home/krishnap.kalivel/MATLAB_src/Aerosol-Paper/SFR_approximator/dist_0.4m'
+0.4
+10000
+2
+13
+3
+13

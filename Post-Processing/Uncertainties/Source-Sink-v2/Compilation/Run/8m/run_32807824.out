@@ -1,0 +1,5434 @@
+Tue May 28 11:55:12 EDT 2024
+c22a-s23.ufhpc
+
+fpath =
+
+    '/blue/bala/krishnap.kalivel/RANS/RANS_LGRoom/Sou2Snk/dist_8m/Data'
+
+
+spath =
+
+    '/blue/bala/krishnap.kalivel/RANS/RANS_LGRoom/Sou2Snk/dist_8m/Data_02'
+
+
+nx =
+
+    19
+
+
+ny =
+
+     5
+
+
+nz =
+
+    29
+
+
+dist =
+
+     8
+
+Source_nxi_001_nyi_001_nzi_001
+Elapsed time is 0.148199 seconds.
+Source_nxi_001_nyi_001_nzi_002
+Elapsed time is 0.019082 seconds.
+Source_nxi_001_nyi_001_nzi_003
+Elapsed time is 0.026907 seconds.
+Source_nxi_001_nyi_001_nzi_004
+Elapsed time is 0.030622 seconds.
+Source_nxi_001_nyi_001_nzi_005
+Elapsed time is 0.059786 seconds.
+Source_nxi_001_nyi_001_nzi_006
+Elapsed time is 0.060719 seconds.
+Source_nxi_001_nyi_001_nzi_007
+Elapsed time is 0.074459 seconds.
+Source_nxi_001_nyi_001_nzi_008
+Elapsed time is 0.081382 seconds.
+Source_nxi_001_nyi_001_nzi_009
+Elapsed time is 0.102330 seconds.
+Source_nxi_001_nyi_001_nzi_010
+Elapsed time is 0.091810 seconds.
+Source_nxi_001_nyi_001_nzi_011
+Elapsed time is 0.084537 seconds.
+Source_nxi_001_nyi_001_nzi_012
+Elapsed time is 0.085808 seconds.
+Source_nxi_001_nyi_001_nzi_013
+Elapsed time is 0.101449 seconds.
+Source_nxi_001_nyi_001_nzi_014
+Elapsed time is 0.092678 seconds.
+Source_nxi_001_nyi_001_nzi_015
+Elapsed time is 0.224450 seconds.
+Source_nxi_001_nyi_001_nzi_016
+Elapsed time is 0.190233 seconds.
+Source_nxi_001_nyi_001_nzi_017
+Elapsed time is 0.119448 seconds.
+Source_nxi_001_nyi_001_nzi_018
+Elapsed time is 0.096920 seconds.
+Source_nxi_001_nyi_001_nzi_019
+Elapsed time is 0.095044 seconds.
+Source_nxi_001_nyi_001_nzi_020
+Elapsed time is 0.134531 seconds.
+Source_nxi_001_nyi_001_nzi_021
+Elapsed time is 0.239738 seconds.
+Source_nxi_001_nyi_001_nzi_022
+Elapsed time is 0.252536 seconds.
+Source_nxi_001_nyi_001_nzi_023
+Elapsed time is 0.268148 seconds.
+Source_nxi_001_nyi_001_nzi_024
+Elapsed time is 0.264956 seconds.
+Source_nxi_001_nyi_001_nzi_025
+Elapsed time is 0.283892 seconds.
+Source_nxi_001_nyi_001_nzi_026
+Elapsed time is 0.289859 seconds.
+Source_nxi_001_nyi_001_nzi_027
+Elapsed time is 0.292287 seconds.
+Source_nxi_001_nyi_001_nzi_028
+Elapsed time is 0.305744 seconds.
+Source_nxi_001_nyi_001_nzi_029
+Elapsed time is 0.320187 seconds.
+Data Saved
+Source_nxi_001_nyi_002_nzi_001
+Elapsed time is 0.020256 seconds.
+Source_nxi_001_nyi_002_nzi_002
+Elapsed time is 0.024909 seconds.
+Source_nxi_001_nyi_002_nzi_003
+Elapsed time is 0.039718 seconds.
+Source_nxi_001_nyi_002_nzi_004
+Elapsed time is 0.061071 seconds.
+Source_nxi_001_nyi_002_nzi_005
+Elapsed time is 0.086768 seconds.
+Source_nxi_001_nyi_002_nzi_006
+Elapsed time is 0.108910 seconds.
+Source_nxi_001_nyi_002_nzi_007
+Elapsed time is 0.134910 seconds.
+Source_nxi_001_nyi_002_nzi_008
+Elapsed time is 0.163646 seconds.
+Source_nxi_001_nyi_002_nzi_009
+Elapsed time is 0.187076 seconds.
+Source_nxi_001_nyi_002_nzi_010
+Elapsed time is 0.142972 seconds.
+Source_nxi_001_nyi_002_nzi_011
+Elapsed time is 0.131191 seconds.
+Source_nxi_001_nyi_002_nzi_012
+Elapsed time is 0.137620 seconds.
+Source_nxi_001_nyi_002_nzi_013
+Elapsed time is 0.172330 seconds.
+Source_nxi_001_nyi_002_nzi_014
+Elapsed time is 0.160942 seconds.
+Source_nxi_001_nyi_002_nzi_015
+Elapsed time is 0.161214 seconds.
+Source_nxi_001_nyi_002_nzi_016
+Elapsed time is 0.164776 seconds.
+Source_nxi_001_nyi_002_nzi_017
+Elapsed time is 0.204523 seconds.
+Source_nxi_001_nyi_002_nzi_018
+Elapsed time is 0.184268 seconds.
+Source_nxi_001_nyi_002_nzi_019
+Elapsed time is 0.191229 seconds.
+Source_nxi_001_nyi_002_nzi_020
+Elapsed time is 0.238176 seconds.
+Source_nxi_001_nyi_002_nzi_021
+Elapsed time is 0.358872 seconds.
+Source_nxi_001_nyi_002_nzi_022
+Elapsed time is 0.362585 seconds.
+Source_nxi_001_nyi_002_nzi_023
+Elapsed time is 0.369017 seconds.
+Source_nxi_001_nyi_002_nzi_024
+Elapsed time is 0.396757 seconds.
+Source_nxi_001_nyi_002_nzi_025
+Elapsed time is 0.405865 seconds.
+Source_nxi_001_nyi_002_nzi_026
+Elapsed time is 0.425749 seconds.
+Source_nxi_001_nyi_002_nzi_027
+Elapsed time is 0.448655 seconds.
+Source_nxi_001_nyi_002_nzi_028
+Elapsed time is 0.467313 seconds.
+Source_nxi_001_nyi_002_nzi_029
+Elapsed time is 0.479622 seconds.
+Data Saved
+Source_nxi_001_nyi_003_nzi_001
+Elapsed time is 0.021922 seconds.
+Source_nxi_001_nyi_003_nzi_002
+Elapsed time is 0.024261 seconds.
+Source_nxi_001_nyi_003_nzi_003
+Elapsed time is 0.035095 seconds.
+Source_nxi_001_nyi_003_nzi_004
+Elapsed time is 0.062093 seconds.
+Source_nxi_001_nyi_003_nzi_005
+Elapsed time is 0.091626 seconds.
+Source_nxi_001_nyi_003_nzi_006
+Elapsed time is 0.112001 seconds.
+Source_nxi_001_nyi_003_nzi_007
+Elapsed time is 0.131275 seconds.
+Source_nxi_001_nyi_003_nzi_008
+Elapsed time is 0.161679 seconds.
+Source_nxi_001_nyi_003_nzi_009
+Elapsed time is 0.189218 seconds.
+Source_nxi_001_nyi_003_nzi_010
+Elapsed time is 0.139975 seconds.
+Source_nxi_001_nyi_003_nzi_011
+Elapsed time is 0.102990 seconds.
+Source_nxi_001_nyi_003_nzi_012
+Elapsed time is 0.117518 seconds.
+Source_nxi_001_nyi_003_nzi_013
+Elapsed time is 0.160006 seconds.
+Source_nxi_001_nyi_003_nzi_014
+Elapsed time is 0.156122 seconds.
+Source_nxi_001_nyi_003_nzi_015
+Elapsed time is 0.135251 seconds.
+Source_nxi_001_nyi_003_nzi_016
+Elapsed time is 0.162394 seconds.
+Source_nxi_001_nyi_003_nzi_017
+Elapsed time is 0.186812 seconds.
+Source_nxi_001_nyi_003_nzi_018
+Elapsed time is 0.144696 seconds.
+Source_nxi_001_nyi_003_nzi_019
+Elapsed time is 0.152954 seconds.
+Source_nxi_001_nyi_003_nzi_020
+Elapsed time is 0.224995 seconds.
+Source_nxi_001_nyi_003_nzi_021
+Elapsed time is 0.303391 seconds.
+Source_nxi_001_nyi_003_nzi_022
+Elapsed time is 0.309231 seconds.
+Source_nxi_001_nyi_003_nzi_023
+Elapsed time is 0.288609 seconds.
+Source_nxi_001_nyi_003_nzi_024
+Elapsed time is 0.305782 seconds.
+Source_nxi_001_nyi_003_nzi_025
+Elapsed time is 0.320829 seconds.
+Source_nxi_001_nyi_003_nzi_026
+Elapsed time is 0.333609 seconds.
+Source_nxi_001_nyi_003_nzi_027
+Elapsed time is 0.350329 seconds.
+Source_nxi_001_nyi_003_nzi_028
+Elapsed time is 0.370475 seconds.
+Source_nxi_001_nyi_003_nzi_029
+Elapsed time is 0.377329 seconds.
+Data Saved
+Source_nxi_001_nyi_004_nzi_001
+Elapsed time is 0.013348 seconds.
+Source_nxi_001_nyi_004_nzi_002
+Elapsed time is 0.021916 seconds.
+Source_nxi_001_nyi_004_nzi_003
+Elapsed time is 0.030708 seconds.
+Source_nxi_001_nyi_004_nzi_004
+Elapsed time is 0.045631 seconds.
+Source_nxi_001_nyi_004_nzi_005
+Elapsed time is 0.067472 seconds.
+Source_nxi_001_nyi_004_nzi_006
+Elapsed time is 0.088914 seconds.
+Source_nxi_001_nyi_004_nzi_007
+Elapsed time is 0.107706 seconds.
+Source_nxi_001_nyi_004_nzi_008
+Elapsed time is 0.130951 seconds.
+Source_nxi_001_nyi_004_nzi_009
+Elapsed time is 0.150584 seconds.
+Source_nxi_001_nyi_004_nzi_010
+Elapsed time is 0.116885 seconds.
+Source_nxi_001_nyi_004_nzi_011
+Elapsed time is 0.110029 seconds.
+Source_nxi_001_nyi_004_nzi_012
+Elapsed time is 0.117381 seconds.
+Source_nxi_001_nyi_004_nzi_013
+Elapsed time is 0.148465 seconds.
+Source_nxi_001_nyi_004_nzi_014
+Elapsed time is 0.129854 seconds.
+Source_nxi_001_nyi_004_nzi_015
+Elapsed time is 0.136946 seconds.
+Source_nxi_001_nyi_004_nzi_016
+Elapsed time is 0.141095 seconds.
+Source_nxi_001_nyi_004_nzi_017
+Elapsed time is 0.184502 seconds.
+Source_nxi_001_nyi_004_nzi_018
+Elapsed time is 0.164143 seconds.
+Source_nxi_001_nyi_004_nzi_019
+Elapsed time is 0.168018 seconds.
+Source_nxi_001_nyi_004_nzi_020
+Elapsed time is 0.209366 seconds.
+Source_nxi_001_nyi_004_nzi_021
+Elapsed time is 0.321459 seconds.
+Source_nxi_001_nyi_004_nzi_022
+Elapsed time is 0.314335 seconds.
+Source_nxi_001_nyi_004_nzi_023
+Elapsed time is 0.326572 seconds.
+Source_nxi_001_nyi_004_nzi_024
+Elapsed time is 0.350201 seconds.
+Source_nxi_001_nyi_004_nzi_025
+Elapsed time is 0.368506 seconds.
+Source_nxi_001_nyi_004_nzi_026
+Elapsed time is 0.381398 seconds.
+Source_nxi_001_nyi_004_nzi_027
+Elapsed time is 0.403108 seconds.
+Source_nxi_001_nyi_004_nzi_028
+Elapsed time is 0.421586 seconds.
+Source_nxi_001_nyi_004_nzi_029
+Elapsed time is 0.437935 seconds.
+Data Saved
+Source_nxi_001_nyi_005_nzi_001
+Elapsed time is 0.011273 seconds.
+Source_nxi_001_nyi_005_nzi_002
+Elapsed time is 0.016131 seconds.
+Source_nxi_001_nyi_005_nzi_003
+Elapsed time is 0.022656 seconds.
+Source_nxi_001_nyi_005_nzi_004
+Elapsed time is 0.028340 seconds.
+Source_nxi_001_nyi_005_nzi_005
+Elapsed time is 0.039247 seconds.
+Source_nxi_001_nyi_005_nzi_006
+Elapsed time is 0.054085 seconds.
+Source_nxi_001_nyi_005_nzi_007
+Elapsed time is 0.066659 seconds.
+Source_nxi_001_nyi_005_nzi_008
+Elapsed time is 0.079908 seconds.
+Source_nxi_001_nyi_005_nzi_009
+Elapsed time is 0.097029 seconds.
+Source_nxi_001_nyi_005_nzi_010
+Elapsed time is 0.083987 seconds.
+Source_nxi_001_nyi_005_nzi_011
+Elapsed time is 0.073330 seconds.
+Source_nxi_001_nyi_005_nzi_012
+Elapsed time is 0.080169 seconds.
+Source_nxi_001_nyi_005_nzi_013
+Elapsed time is 0.092511 seconds.
+Source_nxi_001_nyi_005_nzi_014
+Elapsed time is 0.088636 seconds.
+Source_nxi_001_nyi_005_nzi_015
+Elapsed time is 0.095265 seconds.
+Source_nxi_001_nyi_005_nzi_016
+Elapsed time is 0.099198 seconds.
+Source_nxi_001_nyi_005_nzi_017
+Elapsed time is 0.114650 seconds.
+Source_nxi_001_nyi_005_nzi_018
+Elapsed time is 0.111056 seconds.
+Source_nxi_001_nyi_005_nzi_019
+Elapsed time is 0.113726 seconds.
+Source_nxi_001_nyi_005_nzi_020
+Elapsed time is 0.140108 seconds.
+Source_nxi_001_nyi_005_nzi_021
+Elapsed time is 0.196706 seconds.
+Source_nxi_001_nyi_005_nzi_022
+Elapsed time is 0.208876 seconds.
+Source_nxi_001_nyi_005_nzi_023
+Elapsed time is 0.225729 seconds.
+Source_nxi_001_nyi_005_nzi_024
+Elapsed time is 0.243006 seconds.
+Source_nxi_001_nyi_005_nzi_025
+Elapsed time is 0.259644 seconds.
+Source_nxi_001_nyi_005_nzi_026
+Elapsed time is 0.249490 seconds.
+Source_nxi_001_nyi_005_nzi_027
+Elapsed time is 0.259727 seconds.
+Source_nxi_001_nyi_005_nzi_028
+Elapsed time is 0.265402 seconds.
+Source_nxi_001_nyi_005_nzi_029
+Elapsed time is 0.284590 seconds.
+Data Saved
+Source_nxi_002_nyi_001_nzi_001
+Elapsed time is 0.012006 seconds.
+Source_nxi_002_nyi_001_nzi_002
+Elapsed time is 0.018649 seconds.
+Source_nxi_002_nyi_001_nzi_003
+Elapsed time is 0.026297 seconds.
+Source_nxi_002_nyi_001_nzi_004
+Elapsed time is 0.035013 seconds.
+Source_nxi_002_nyi_001_nzi_005
+Elapsed time is 0.053311 seconds.
+Source_nxi_002_nyi_001_nzi_006
+Elapsed time is 0.071464 seconds.
+Source_nxi_002_nyi_001_nzi_007
+Elapsed time is 0.086752 seconds.
+Source_nxi_002_nyi_001_nzi_008
+Elapsed time is 0.105384 seconds.
+Source_nxi_002_nyi_001_nzi_009
+Elapsed time is 0.126412 seconds.
+Source_nxi_002_nyi_001_nzi_010
+Elapsed time is 0.091523 seconds.
+Source_nxi_002_nyi_001_nzi_011
+Elapsed time is 0.080759 seconds.
+Source_nxi_002_nyi_001_nzi_012
+Elapsed time is 0.088491 seconds.
+Source_nxi_002_nyi_001_nzi_013
+Elapsed time is 0.098269 seconds.
+Source_nxi_002_nyi_001_nzi_014
+Elapsed time is 0.095806 seconds.
+Source_nxi_002_nyi_001_nzi_015
+Elapsed time is 0.100101 seconds.
+Source_nxi_002_nyi_001_nzi_016
+Elapsed time is 0.105362 seconds.
+Source_nxi_002_nyi_001_nzi_017
+Elapsed time is 0.118371 seconds.
+Source_nxi_002_nyi_001_nzi_018
+Elapsed time is 0.104359 seconds.
+Source_nxi_002_nyi_001_nzi_019
+Elapsed time is 0.106632 seconds.
+Source_nxi_002_nyi_001_nzi_020
+Elapsed time is 0.171141 seconds.
+Source_nxi_002_nyi_001_nzi_021
+Elapsed time is 0.267039 seconds.
+Source_nxi_002_nyi_001_nzi_022
+Elapsed time is 0.292656 seconds.
+Source_nxi_002_nyi_001_nzi_023
+Elapsed time is 0.319515 seconds.
+Source_nxi_002_nyi_001_nzi_024
+Elapsed time is 0.352047 seconds.
+Source_nxi_002_nyi_001_nzi_025
+Elapsed time is 0.326068 seconds.
+Source_nxi_002_nyi_001_nzi_026
+Elapsed time is 0.345482 seconds.
+Source_nxi_002_nyi_001_nzi_027
+Elapsed time is 0.364061 seconds.
+Source_nxi_002_nyi_001_nzi_028
+Elapsed time is 0.374577 seconds.
+Source_nxi_002_nyi_001_nzi_029
+Elapsed time is 0.393296 seconds.
+Data Saved
+Source_nxi_002_nyi_002_nzi_001
+Elapsed time is 0.017517 seconds.
+Source_nxi_002_nyi_002_nzi_002
+Elapsed time is 0.032801 seconds.
+Source_nxi_002_nyi_002_nzi_003
+Elapsed time is 0.049318 seconds.
+Source_nxi_002_nyi_002_nzi_004
+Elapsed time is 0.090906 seconds.
+Source_nxi_002_nyi_002_nzi_005
+Elapsed time is 0.123156 seconds.
+Source_nxi_002_nyi_002_nzi_006
+Elapsed time is 0.152282 seconds.
+Source_nxi_002_nyi_002_nzi_007
+Elapsed time is 0.186629 seconds.
+Source_nxi_002_nyi_002_nzi_008
+Elapsed time is 0.216807 seconds.
+Source_nxi_002_nyi_002_nzi_009
+Elapsed time is 0.246376 seconds.
+Source_nxi_002_nyi_002_nzi_010
+Elapsed time is 0.165329 seconds.
+Source_nxi_002_nyi_002_nzi_011
+Elapsed time is 0.154337 seconds.
+Source_nxi_002_nyi_002_nzi_012
+Elapsed time is 0.163897 seconds.
+Source_nxi_002_nyi_002_nzi_013
+Elapsed time is 0.189325 seconds.
+Source_nxi_002_nyi_002_nzi_014
+Elapsed time is 0.171958 seconds.
+Source_nxi_002_nyi_002_nzi_015
+Elapsed time is 0.173153 seconds.
+Source_nxi_002_nyi_002_nzi_016
+Elapsed time is 0.181187 seconds.
+Source_nxi_002_nyi_002_nzi_017
+Elapsed time is 0.228920 seconds.
+Source_nxi_002_nyi_002_nzi_018
+Elapsed time is 0.210579 seconds.
+Source_nxi_002_nyi_002_nzi_019
+Elapsed time is 0.213156 seconds.
+Source_nxi_002_nyi_002_nzi_020
+Elapsed time is 0.256427 seconds.
+Source_nxi_002_nyi_002_nzi_021
+Elapsed time is 0.418087 seconds.
+Source_nxi_002_nyi_002_nzi_022
+Elapsed time is 0.444663 seconds.
+Source_nxi_002_nyi_002_nzi_023
+Elapsed time is 0.476522 seconds.
+Source_nxi_002_nyi_002_nzi_024
+Elapsed time is 0.496453 seconds.
+Source_nxi_002_nyi_002_nzi_025
+Elapsed time is 0.524600 seconds.
+Source_nxi_002_nyi_002_nzi_026
+Elapsed time is 0.544506 seconds.
+Source_nxi_002_nyi_002_nzi_027
+Elapsed time is 0.567041 seconds.
+Source_nxi_002_nyi_002_nzi_028
+Elapsed time is 0.602711 seconds.
+Source_nxi_002_nyi_002_nzi_029
+Elapsed time is 0.706461 seconds.
+Data Saved
+Source_nxi_002_nyi_003_nzi_001
+Elapsed time is 0.018396 seconds.
+Source_nxi_002_nyi_003_nzi_002
+Elapsed time is 0.029640 seconds.
+Source_nxi_002_nyi_003_nzi_003
+Elapsed time is 0.045216 seconds.
+Source_nxi_002_nyi_003_nzi_004
+Elapsed time is 0.076081 seconds.
+Source_nxi_002_nyi_003_nzi_005
+Elapsed time is 0.096397 seconds.
+Source_nxi_002_nyi_003_nzi_006
+Elapsed time is 0.113307 seconds.
+Source_nxi_002_nyi_003_nzi_007
+Elapsed time is 0.136385 seconds.
+Source_nxi_002_nyi_003_nzi_008
+Elapsed time is 0.167754 seconds.
+Source_nxi_002_nyi_003_nzi_009
+Elapsed time is 0.184554 seconds.
+Source_nxi_002_nyi_003_nzi_010
+Elapsed time is 0.117235 seconds.
+Source_nxi_002_nyi_003_nzi_011
+Elapsed time is 0.089204 seconds.
+Source_nxi_002_nyi_003_nzi_012
+Elapsed time is 0.092665 seconds.
+Source_nxi_002_nyi_003_nzi_013
+Elapsed time is 0.125737 seconds.
+Source_nxi_002_nyi_003_nzi_014
+Elapsed time is 0.121707 seconds.
+Source_nxi_002_nyi_003_nzi_015
+Elapsed time is 0.114330 seconds.
+Source_nxi_002_nyi_003_nzi_016
+Elapsed time is 0.143955 seconds.
+Source_nxi_002_nyi_003_nzi_017
+Elapsed time is 0.163588 seconds.
+Source_nxi_002_nyi_003_nzi_018
+Elapsed time is 0.138199 seconds.
+Source_nxi_002_nyi_003_nzi_019
+Elapsed time is 0.142473 seconds.
+Source_nxi_002_nyi_003_nzi_020
+Elapsed time is 0.207958 seconds.
+Source_nxi_002_nyi_003_nzi_021
+Elapsed time is 0.336680 seconds.
+Source_nxi_002_nyi_003_nzi_022
+Elapsed time is 0.345447 seconds.
+Source_nxi_002_nyi_003_nzi_023
+Elapsed time is 0.387710 seconds.
+Source_nxi_002_nyi_003_nzi_024
+Elapsed time is 0.416109 seconds.
+Source_nxi_002_nyi_003_nzi_025
+Elapsed time is 0.439040 seconds.
+Source_nxi_002_nyi_003_nzi_026
+Elapsed time is 0.472746 seconds.
+Source_nxi_002_nyi_003_nzi_027
+Elapsed time is 0.490376 seconds.
+Source_nxi_002_nyi_003_nzi_028
+Elapsed time is 0.515459 seconds.
+Source_nxi_002_nyi_003_nzi_029
+Elapsed time is 0.569341 seconds.
+Data Saved
+Source_nxi_002_nyi_004_nzi_001
+Elapsed time is 0.024566 seconds.
+Source_nxi_002_nyi_004_nzi_002
+Elapsed time is 0.028771 seconds.
+Source_nxi_002_nyi_004_nzi_003
+Elapsed time is 0.042037 seconds.
+Source_nxi_002_nyi_004_nzi_004
+Elapsed time is 0.068747 seconds.
+Source_nxi_002_nyi_004_nzi_005
+Elapsed time is 0.094982 seconds.
+Source_nxi_002_nyi_004_nzi_006
+Elapsed time is 0.123005 seconds.
+Source_nxi_002_nyi_004_nzi_007
+Elapsed time is 0.154927 seconds.
+Source_nxi_002_nyi_004_nzi_008
+Elapsed time is 0.185252 seconds.
+Source_nxi_002_nyi_004_nzi_009
+Elapsed time is 0.207957 seconds.
+Source_nxi_002_nyi_004_nzi_010
+Elapsed time is 0.138421 seconds.
+Source_nxi_002_nyi_004_nzi_011
+Elapsed time is 0.129697 seconds.
+Source_nxi_002_nyi_004_nzi_012
+Elapsed time is 0.132457 seconds.
+Source_nxi_002_nyi_004_nzi_013
+Elapsed time is 0.159868 seconds.
+Source_nxi_002_nyi_004_nzi_014
+Elapsed time is 0.144679 seconds.
+Source_nxi_002_nyi_004_nzi_015
+Elapsed time is 0.158531 seconds.
+Source_nxi_002_nyi_004_nzi_016
+Elapsed time is 0.161721 seconds.
+Source_nxi_002_nyi_004_nzi_017
+Elapsed time is 0.206910 seconds.
+Source_nxi_002_nyi_004_nzi_018
+Elapsed time is 0.184018 seconds.
+Source_nxi_002_nyi_004_nzi_019
+Elapsed time is 0.194916 seconds.
+Source_nxi_002_nyi_004_nzi_020
+Elapsed time is 0.224295 seconds.
+Source_nxi_002_nyi_004_nzi_021
+Elapsed time is 0.362262 seconds.
+Source_nxi_002_nyi_004_nzi_022
+Elapsed time is 0.388917 seconds.
+Source_nxi_002_nyi_004_nzi_023
+Elapsed time is 0.413109 seconds.
+Source_nxi_002_nyi_004_nzi_024
+Elapsed time is 0.434746 seconds.
+Source_nxi_002_nyi_004_nzi_025
+Elapsed time is 0.456731 seconds.
+Source_nxi_002_nyi_004_nzi_026
+Elapsed time is 0.481729 seconds.
+Source_nxi_002_nyi_004_nzi_027
+Elapsed time is 0.503714 seconds.
+Source_nxi_002_nyi_004_nzi_028
+Elapsed time is 0.541248 seconds.
+Source_nxi_002_nyi_004_nzi_029
+Elapsed time is 0.614420 seconds.
+Data Saved
+Source_nxi_002_nyi_005_nzi_001
+Elapsed time is 0.012014 seconds.
+Source_nxi_002_nyi_005_nzi_002
+Elapsed time is 0.018773 seconds.
+Source_nxi_002_nyi_005_nzi_003
+Elapsed time is 0.026126 seconds.
+Source_nxi_002_nyi_005_nzi_004
+Elapsed time is 0.034908 seconds.
+Source_nxi_002_nyi_005_nzi_005
+Elapsed time is 0.050840 seconds.
+Source_nxi_002_nyi_005_nzi_006
+Elapsed time is 0.063383 seconds.
+Source_nxi_002_nyi_005_nzi_007
+Elapsed time is 0.077168 seconds.
+Source_nxi_002_nyi_005_nzi_008
+Elapsed time is 0.117704 seconds.
+Source_nxi_002_nyi_005_nzi_009
+Elapsed time is 0.146142 seconds.
+Source_nxi_002_nyi_005_nzi_010
+Elapsed time is 0.105232 seconds.
+Source_nxi_002_nyi_005_nzi_011
+Elapsed time is 0.096640 seconds.
+Source_nxi_002_nyi_005_nzi_012
+Elapsed time is 0.100130 seconds.
+Source_nxi_002_nyi_005_nzi_013
+Elapsed time is 0.118701 seconds.
+Source_nxi_002_nyi_005_nzi_014
+Elapsed time is 0.112405 seconds.
+Source_nxi_002_nyi_005_nzi_015
+Elapsed time is 0.119193 seconds.
+Source_nxi_002_nyi_005_nzi_016
+Elapsed time is 0.126604 seconds.
+Source_nxi_002_nyi_005_nzi_017
+Elapsed time is 0.144040 seconds.
+Source_nxi_002_nyi_005_nzi_018
+Elapsed time is 0.134547 seconds.
+Source_nxi_002_nyi_005_nzi_019
+Elapsed time is 0.135962 seconds.
+Source_nxi_002_nyi_005_nzi_020
+Elapsed time is 0.169315 seconds.
+Source_nxi_002_nyi_005_nzi_021
+Elapsed time is 0.273015 seconds.
+Source_nxi_002_nyi_005_nzi_022
+Elapsed time is 0.299827 seconds.
+Source_nxi_002_nyi_005_nzi_023
+Elapsed time is 0.323204 seconds.
+Source_nxi_002_nyi_005_nzi_024
+Elapsed time is 0.350337 seconds.
+Source_nxi_002_nyi_005_nzi_025
+Elapsed time is 0.380200 seconds.
+Source_nxi_002_nyi_005_nzi_026
+Elapsed time is 0.399148 seconds.
+Source_nxi_002_nyi_005_nzi_027
+Elapsed time is 0.372094 seconds.
+Source_nxi_002_nyi_005_nzi_028
+Elapsed time is 0.376186 seconds.
+Source_nxi_002_nyi_005_nzi_029
+Elapsed time is 0.382029 seconds.
+Data Saved
+Source_nxi_003_nyi_001_nzi_001
+Elapsed time is 0.011715 seconds.
+Source_nxi_003_nyi_001_nzi_002
+Elapsed time is 0.018419 seconds.
+Source_nxi_003_nyi_001_nzi_003
+Elapsed time is 0.029031 seconds.
+Source_nxi_003_nyi_001_nzi_004
+Elapsed time is 0.041588 seconds.
+Source_nxi_003_nyi_001_nzi_005
+Elapsed time is 0.060448 seconds.
+Source_nxi_003_nyi_001_nzi_006
+Elapsed time is 0.071935 seconds.
+Source_nxi_003_nyi_001_nzi_007
+Elapsed time is 0.100110 seconds.
+Source_nxi_003_nyi_001_nzi_008
+Elapsed time is 0.117534 seconds.
+Source_nxi_003_nyi_001_nzi_009
+Elapsed time is 0.131440 seconds.
+Source_nxi_003_nyi_001_nzi_010
+Elapsed time is 0.096768 seconds.
+Source_nxi_003_nyi_001_nzi_011
+Elapsed time is 0.073302 seconds.
+Source_nxi_003_nyi_001_nzi_012
+Elapsed time is 0.076705 seconds.
+Source_nxi_003_nyi_001_nzi_013
+Elapsed time is 0.094516 seconds.
+Source_nxi_003_nyi_001_nzi_014
+Elapsed time is 0.087896 seconds.
+Source_nxi_003_nyi_001_nzi_015
+Elapsed time is 0.089998 seconds.
+Source_nxi_003_nyi_001_nzi_016
+Elapsed time is 0.090289 seconds.
+Source_nxi_003_nyi_001_nzi_017
+Elapsed time is 0.108528 seconds.
+Source_nxi_003_nyi_001_nzi_018
+Elapsed time is 0.099008 seconds.
+Source_nxi_003_nyi_001_nzi_019
+Elapsed time is 0.102059 seconds.
+Source_nxi_003_nyi_001_nzi_020
+Elapsed time is 0.148722 seconds.
+Source_nxi_003_nyi_001_nzi_021
+Elapsed time is 0.231222 seconds.
+Source_nxi_003_nyi_001_nzi_022
+Elapsed time is 0.250061 seconds.
+Source_nxi_003_nyi_001_nzi_023
+Elapsed time is 0.252003 seconds.
+Source_nxi_003_nyi_001_nzi_024
+Elapsed time is 0.286946 seconds.
+Source_nxi_003_nyi_001_nzi_025
+Elapsed time is 0.302596 seconds.
+Source_nxi_003_nyi_001_nzi_026
+Elapsed time is 0.301432 seconds.
+Source_nxi_003_nyi_001_nzi_027
+Elapsed time is 0.304310 seconds.
+Source_nxi_003_nyi_001_nzi_028
+Elapsed time is 0.311207 seconds.
+Source_nxi_003_nyi_001_nzi_029
+Elapsed time is 0.335555 seconds.
+Data Saved
+Source_nxi_003_nyi_002_nzi_001
+Elapsed time is 0.017515 seconds.
+Source_nxi_003_nyi_002_nzi_002
+Elapsed time is 0.029707 seconds.
+Source_nxi_003_nyi_002_nzi_003
+Elapsed time is 0.049011 seconds.
+Source_nxi_003_nyi_002_nzi_004
+Elapsed time is 0.072964 seconds.
+Source_nxi_003_nyi_002_nzi_005
+Elapsed time is 0.111681 seconds.
+Source_nxi_003_nyi_002_nzi_006
+Elapsed time is 0.139374 seconds.
+Source_nxi_003_nyi_002_nzi_007
+Elapsed time is 0.161187 seconds.
+Source_nxi_003_nyi_002_nzi_008
+Elapsed time is 0.192155 seconds.
+Source_nxi_003_nyi_002_nzi_009
+Elapsed time is 0.220682 seconds.
+Source_nxi_003_nyi_002_nzi_010
+Elapsed time is 0.139018 seconds.
+Source_nxi_003_nyi_002_nzi_011
+Elapsed time is 0.120419 seconds.
+Source_nxi_003_nyi_002_nzi_012
+Elapsed time is 0.127037 seconds.
+Source_nxi_003_nyi_002_nzi_013
+Elapsed time is 0.158437 seconds.
+Source_nxi_003_nyi_002_nzi_014
+Elapsed time is 0.134811 seconds.
+Source_nxi_003_nyi_002_nzi_015
+Elapsed time is 0.134322 seconds.
+Source_nxi_003_nyi_002_nzi_016
+Elapsed time is 0.141960 seconds.
+Source_nxi_003_nyi_002_nzi_017
+Elapsed time is 0.175313 seconds.
+Source_nxi_003_nyi_002_nzi_018
+Elapsed time is 0.148491 seconds.
+Source_nxi_003_nyi_002_nzi_019
+Elapsed time is 0.161561 seconds.
+Source_nxi_003_nyi_002_nzi_020
+Elapsed time is 0.205589 seconds.
+Source_nxi_003_nyi_002_nzi_021
+Elapsed time is 0.342948 seconds.
+Source_nxi_003_nyi_002_nzi_022
+Elapsed time is 0.322176 seconds.
+Source_nxi_003_nyi_002_nzi_023
+Elapsed time is 0.336729 seconds.
+Source_nxi_003_nyi_002_nzi_024
+Elapsed time is 0.352781 seconds.
+Source_nxi_003_nyi_002_nzi_025
+Elapsed time is 0.367571 seconds.
+Source_nxi_003_nyi_002_nzi_026
+Elapsed time is 0.383690 seconds.
+Source_nxi_003_nyi_002_nzi_027
+Elapsed time is 0.404935 seconds.
+Source_nxi_003_nyi_002_nzi_028
+Elapsed time is 0.429486 seconds.
+Source_nxi_003_nyi_002_nzi_029
+Elapsed time is 0.471425 seconds.
+Data Saved
+Source_nxi_003_nyi_003_nzi_001
+Elapsed time is 0.017874 seconds.
+Source_nxi_003_nyi_003_nzi_002
+Elapsed time is 0.027459 seconds.
+Source_nxi_003_nyi_003_nzi_003
+Elapsed time is 0.039783 seconds.
+Source_nxi_003_nyi_003_nzi_004
+Elapsed time is 0.064980 seconds.
+Source_nxi_003_nyi_003_nzi_005
+Elapsed time is 0.095388 seconds.
+Source_nxi_003_nyi_003_nzi_006
+Elapsed time is 0.120984 seconds.
+Source_nxi_003_nyi_003_nzi_007
+Elapsed time is 0.151889 seconds.
+Source_nxi_003_nyi_003_nzi_008
+Elapsed time is 0.179783 seconds.
+Source_nxi_003_nyi_003_nzi_009
+Elapsed time is 0.200790 seconds.
+Source_nxi_003_nyi_003_nzi_010
+Elapsed time is 0.137562 seconds.
+Source_nxi_003_nyi_003_nzi_011
+Elapsed time is 0.105710 seconds.
+Source_nxi_003_nyi_003_nzi_012
+Elapsed time is 0.109881 seconds.
+Source_nxi_003_nyi_003_nzi_013
+Elapsed time is 0.145767 seconds.
+Source_nxi_003_nyi_003_nzi_014
+Elapsed time is 0.139630 seconds.
+Source_nxi_003_nyi_003_nzi_015
+Elapsed time is 0.125572 seconds.
+Source_nxi_003_nyi_003_nzi_016
+Elapsed time is 0.157098 seconds.
+Source_nxi_003_nyi_003_nzi_017
+Elapsed time is 0.175288 seconds.
+Source_nxi_003_nyi_003_nzi_018
+Elapsed time is 0.150695 seconds.
+Source_nxi_003_nyi_003_nzi_019
+Elapsed time is 0.157367 seconds.
+Source_nxi_003_nyi_003_nzi_020
+Elapsed time is 0.226143 seconds.
+Source_nxi_003_nyi_003_nzi_021
+Elapsed time is 0.363704 seconds.
+Source_nxi_003_nyi_003_nzi_022
+Elapsed time is 0.375859 seconds.
+Source_nxi_003_nyi_003_nzi_023
+Elapsed time is 0.400352 seconds.
+Source_nxi_003_nyi_003_nzi_024
+Elapsed time is 0.419305 seconds.
+Source_nxi_003_nyi_003_nzi_025
+Elapsed time is 0.444561 seconds.
+Source_nxi_003_nyi_003_nzi_026
+Elapsed time is 0.474333 seconds.
+Source_nxi_003_nyi_003_nzi_027
+Elapsed time is 0.491983 seconds.
+Source_nxi_003_nyi_003_nzi_028
+Elapsed time is 0.518804 seconds.
+Source_nxi_003_nyi_003_nzi_029
+Elapsed time is 0.572649 seconds.
+Data Saved
+Source_nxi_003_nyi_004_nzi_001
+Elapsed time is 0.016659 seconds.
+Source_nxi_003_nyi_004_nzi_002
+Elapsed time is 0.026501 seconds.
+Source_nxi_003_nyi_004_nzi_003
+Elapsed time is 0.037767 seconds.
+Source_nxi_003_nyi_004_nzi_004
+Elapsed time is 0.062059 seconds.
+Source_nxi_003_nyi_004_nzi_005
+Elapsed time is 0.085882 seconds.
+Source_nxi_003_nyi_004_nzi_006
+Elapsed time is 0.112348 seconds.
+Source_nxi_003_nyi_004_nzi_007
+Elapsed time is 0.142381 seconds.
+Source_nxi_003_nyi_004_nzi_008
+Elapsed time is 0.163322 seconds.
+Source_nxi_003_nyi_004_nzi_009
+Elapsed time is 0.192460 seconds.
+Source_nxi_003_nyi_004_nzi_010
+Elapsed time is 0.124470 seconds.
+Source_nxi_003_nyi_004_nzi_011
+Elapsed time is 0.099846 seconds.
+Source_nxi_003_nyi_004_nzi_012
+Elapsed time is 0.108360 seconds.
+Source_nxi_003_nyi_004_nzi_013
+Elapsed time is 0.136495 seconds.
+Source_nxi_003_nyi_004_nzi_014
+Elapsed time is 0.113650 seconds.
+Source_nxi_003_nyi_004_nzi_015
+Elapsed time is 0.116856 seconds.
+Source_nxi_003_nyi_004_nzi_016
+Elapsed time is 0.123391 seconds.
+Source_nxi_003_nyi_004_nzi_017
+Elapsed time is 0.153451 seconds.
+Source_nxi_003_nyi_004_nzi_018
+Elapsed time is 0.131108 seconds.
+Source_nxi_003_nyi_004_nzi_019
+Elapsed time is 0.141113 seconds.
+Source_nxi_003_nyi_004_nzi_020
+Elapsed time is 0.197506 seconds.
+Source_nxi_003_nyi_004_nzi_021
+Elapsed time is 0.339834 seconds.
+Source_nxi_003_nyi_004_nzi_022
+Elapsed time is 0.337080 seconds.
+Source_nxi_003_nyi_004_nzi_023
+Elapsed time is 0.358485 seconds.
+Source_nxi_003_nyi_004_nzi_024
+Elapsed time is 0.423244 seconds.
+Source_nxi_003_nyi_004_nzi_025
+Elapsed time is 0.444152 seconds.
+Source_nxi_003_nyi_004_nzi_026
+Elapsed time is 0.473724 seconds.
+Source_nxi_003_nyi_004_nzi_027
+Elapsed time is 0.512147 seconds.
+Source_nxi_003_nyi_004_nzi_028
+Elapsed time is 0.523702 seconds.
+Source_nxi_003_nyi_004_nzi_029
+Elapsed time is 0.548020 seconds.
+Data Saved
+Source_nxi_003_nyi_005_nzi_001
+Elapsed time is 0.012178 seconds.
+Source_nxi_003_nyi_005_nzi_002
+Elapsed time is 0.019762 seconds.
+Source_nxi_003_nyi_005_nzi_003
+Elapsed time is 0.031469 seconds.
+Source_nxi_003_nyi_005_nzi_004
+Elapsed time is 0.043168 seconds.
+Source_nxi_003_nyi_005_nzi_005
+Elapsed time is 0.062862 seconds.
+Source_nxi_003_nyi_005_nzi_006
+Elapsed time is 0.079439 seconds.
+Source_nxi_003_nyi_005_nzi_007
+Elapsed time is 0.095103 seconds.
+Source_nxi_003_nyi_005_nzi_008
+Elapsed time is 0.109219 seconds.
+Source_nxi_003_nyi_005_nzi_009
+Elapsed time is 0.129004 seconds.
+Source_nxi_003_nyi_005_nzi_010
+Elapsed time is 0.096647 seconds.
+Source_nxi_003_nyi_005_nzi_011
+Elapsed time is 0.069832 seconds.
+Source_nxi_003_nyi_005_nzi_012
+Elapsed time is 0.080260 seconds.
+Source_nxi_003_nyi_005_nzi_013
+Elapsed time is 0.088890 seconds.
+Source_nxi_003_nyi_005_nzi_014
+Elapsed time is 0.085200 seconds.
+Source_nxi_003_nyi_005_nzi_015
+Elapsed time is 0.086732 seconds.
+Source_nxi_003_nyi_005_nzi_016
+Elapsed time is 0.093559 seconds.
+Source_nxi_003_nyi_005_nzi_017
+Elapsed time is 0.109600 seconds.
+Source_nxi_003_nyi_005_nzi_018
+Elapsed time is 0.100047 seconds.
+Source_nxi_003_nyi_005_nzi_019
+Elapsed time is 0.103567 seconds.
+Source_nxi_003_nyi_005_nzi_020
+Elapsed time is 0.144929 seconds.
+Source_nxi_003_nyi_005_nzi_021
+Elapsed time is 0.233435 seconds.
+Source_nxi_003_nyi_005_nzi_022
+Elapsed time is 0.244448 seconds.
+Source_nxi_003_nyi_005_nzi_023
+Elapsed time is 0.246923 seconds.
+Source_nxi_003_nyi_005_nzi_024
+Elapsed time is 0.296599 seconds.
+Source_nxi_003_nyi_005_nzi_025
+Elapsed time is 0.300907 seconds.
+Source_nxi_003_nyi_005_nzi_026
+Elapsed time is 0.297523 seconds.
+Source_nxi_003_nyi_005_nzi_027
+Elapsed time is 0.303177 seconds.
+Source_nxi_003_nyi_005_nzi_028
+Elapsed time is 0.319911 seconds.
+Source_nxi_003_nyi_005_nzi_029
+Elapsed time is 0.341615 seconds.
+Data Saved
+Source_nxi_004_nyi_001_nzi_001
+Elapsed time is 0.010784 seconds.
+Source_nxi_004_nyi_001_nzi_002
+Elapsed time is 0.016521 seconds.
+Source_nxi_004_nyi_001_nzi_003
+Elapsed time is 0.022770 seconds.
+Source_nxi_004_nyi_001_nzi_004
+Elapsed time is 0.027994 seconds.
+Source_nxi_004_nyi_001_nzi_005
+Elapsed time is 0.042890 seconds.
+Source_nxi_004_nyi_001_nzi_006
+Elapsed time is 0.059384 seconds.
+Source_nxi_004_nyi_001_nzi_007
+Elapsed time is 0.073735 seconds.
+Source_nxi_004_nyi_001_nzi_008
+Elapsed time is 0.086451 seconds.
+Source_nxi_004_nyi_001_nzi_009
+Elapsed time is 0.099616 seconds.
+Source_nxi_004_nyi_001_nzi_010
+Elapsed time is 0.064727 seconds.
+Source_nxi_004_nyi_001_nzi_011
+Elapsed time is 0.049708 seconds.
+Source_nxi_004_nyi_001_nzi_012
+Elapsed time is 0.051044 seconds.
+Source_nxi_004_nyi_001_nzi_013
+Elapsed time is 0.039475 seconds.
+Source_nxi_004_nyi_001_nzi_014
+Elapsed time is 0.035987 seconds.
+Source_nxi_004_nyi_001_nzi_015
+Elapsed time is 0.036905 seconds.
+Source_nxi_004_nyi_001_nzi_016
+Elapsed time is 0.039668 seconds.
+Source_nxi_004_nyi_001_nzi_017
+Elapsed time is 0.049866 seconds.
+Source_nxi_004_nyi_001_nzi_018
+Elapsed time is 0.061306 seconds.
+Source_nxi_004_nyi_001_nzi_019
+Elapsed time is 0.059452 seconds.
+Source_nxi_004_nyi_001_nzi_020
+Elapsed time is 0.095177 seconds.
+Source_nxi_004_nyi_001_nzi_021
+Elapsed time is 0.166648 seconds.
+Source_nxi_004_nyi_001_nzi_022
+Elapsed time is 0.178310 seconds.
+Source_nxi_004_nyi_001_nzi_023
+Elapsed time is 0.192791 seconds.
+Source_nxi_004_nyi_001_nzi_024
+Elapsed time is 0.201119 seconds.
+Source_nxi_004_nyi_001_nzi_025
+Elapsed time is 0.202562 seconds.
+Source_nxi_004_nyi_001_nzi_026
+Elapsed time is 0.220625 seconds.
+Source_nxi_004_nyi_001_nzi_027
+Elapsed time is 0.228247 seconds.
+Source_nxi_004_nyi_001_nzi_028
+Elapsed time is 0.258209 seconds.
+Source_nxi_004_nyi_001_nzi_029
+Elapsed time is 0.268049 seconds.
+Data Saved
+Source_nxi_004_nyi_002_nzi_001
+Elapsed time is 0.013650 seconds.
+Source_nxi_004_nyi_002_nzi_002
+Elapsed time is 0.021856 seconds.
+Source_nxi_004_nyi_002_nzi_003
+Elapsed time is 0.031768 seconds.
+Source_nxi_004_nyi_002_nzi_004
+Elapsed time is 0.050691 seconds.
+Source_nxi_004_nyi_002_nzi_005
+Elapsed time is 0.074654 seconds.
+Source_nxi_004_nyi_002_nzi_006
+Elapsed time is 0.094371 seconds.
+Source_nxi_004_nyi_002_nzi_007
+Elapsed time is 0.109901 seconds.
+Source_nxi_004_nyi_002_nzi_008
+Elapsed time is 0.121755 seconds.
+Source_nxi_004_nyi_002_nzi_009
+Elapsed time is 0.120667 seconds.
+Source_nxi_004_nyi_002_nzi_010
+Elapsed time is 0.066729 seconds.
+Source_nxi_004_nyi_002_nzi_011
+Elapsed time is 0.049561 seconds.
+Source_nxi_004_nyi_002_nzi_012
+Elapsed time is 0.053681 seconds.
+Source_nxi_004_nyi_002_nzi_013
+Elapsed time is 0.047359 seconds.
+Source_nxi_004_nyi_002_nzi_014
+Elapsed time is 0.033169 seconds.
+Source_nxi_004_nyi_002_nzi_015
+Elapsed time is 0.034336 seconds.
+Source_nxi_004_nyi_002_nzi_016
+Elapsed time is 0.034810 seconds.
+Source_nxi_004_nyi_002_nzi_017
+Elapsed time is 0.051930 seconds.
+Source_nxi_004_nyi_002_nzi_018
+Elapsed time is 0.062022 seconds.
+Source_nxi_004_nyi_002_nzi_019
+Elapsed time is 0.065429 seconds.
+Source_nxi_004_nyi_002_nzi_020
+Elapsed time is 0.092035 seconds.
+Source_nxi_004_nyi_002_nzi_021
+Elapsed time is 0.187607 seconds.
+Source_nxi_004_nyi_002_nzi_022
+Elapsed time is 0.267427 seconds.
+Source_nxi_004_nyi_002_nzi_023
+Elapsed time is 0.230977 seconds.
+Source_nxi_004_nyi_002_nzi_024
+Elapsed time is 0.263342 seconds.
+Source_nxi_004_nyi_002_nzi_025
+Elapsed time is 0.278123 seconds.
+Source_nxi_004_nyi_002_nzi_026
+Elapsed time is 0.268415 seconds.
+Source_nxi_004_nyi_002_nzi_027
+Elapsed time is 0.277998 seconds.
+Source_nxi_004_nyi_002_nzi_028
+Elapsed time is 0.299509 seconds.
+Source_nxi_004_nyi_002_nzi_029
+Elapsed time is 0.313170 seconds.
+Data Saved
+Source_nxi_004_nyi_003_nzi_001
+Elapsed time is 0.015551 seconds.
+Source_nxi_004_nyi_003_nzi_002
+Elapsed time is 0.022504 seconds.
+Source_nxi_004_nyi_003_nzi_003
+Elapsed time is 0.031329 seconds.
+Source_nxi_004_nyi_003_nzi_004
+Elapsed time is 0.045639 seconds.
+Source_nxi_004_nyi_003_nzi_005
+Elapsed time is 0.066045 seconds.
+Source_nxi_004_nyi_003_nzi_006
+Elapsed time is 0.085521 seconds.
+Source_nxi_004_nyi_003_nzi_007
+Elapsed time is 0.107289 seconds.
+Source_nxi_004_nyi_003_nzi_008
+Elapsed time is 0.133732 seconds.
+Source_nxi_004_nyi_003_nzi_009
+Elapsed time is 0.155801 seconds.
+Source_nxi_004_nyi_003_nzi_010
+Elapsed time is 0.092483 seconds.
+Source_nxi_004_nyi_003_nzi_011
+Elapsed time is 0.061899 seconds.
+Source_nxi_004_nyi_003_nzi_012
+Elapsed time is 0.065569 seconds.
+Source_nxi_004_nyi_003_nzi_013
+Elapsed time is 0.068211 seconds.
+Source_nxi_004_nyi_003_nzi_014
+Elapsed time is 0.060410 seconds.
+Source_nxi_004_nyi_003_nzi_015
+Elapsed time is 0.043271 seconds.
+Source_nxi_004_nyi_003_nzi_016
+Elapsed time is 0.065333 seconds.
+Source_nxi_004_nyi_003_nzi_017
+Elapsed time is 0.075386 seconds.
+Source_nxi_004_nyi_003_nzi_018
+Elapsed time is 0.076019 seconds.
+Source_nxi_004_nyi_003_nzi_019
+Elapsed time is 0.077311 seconds.
+Source_nxi_004_nyi_003_nzi_020
+Elapsed time is 0.123940 seconds.
+Source_nxi_004_nyi_003_nzi_021
+Elapsed time is 0.243140 seconds.
+Source_nxi_004_nyi_003_nzi_022
+Elapsed time is 0.267229 seconds.
+Source_nxi_004_nyi_003_nzi_023
+Elapsed time is 0.306404 seconds.
+Source_nxi_004_nyi_003_nzi_024
+Elapsed time is 0.316103 seconds.
+Source_nxi_004_nyi_003_nzi_025
+Elapsed time is 0.317648 seconds.
+Source_nxi_004_nyi_003_nzi_026
+Elapsed time is 0.325290 seconds.
+Source_nxi_004_nyi_003_nzi_027
+Elapsed time is 0.346266 seconds.
+Source_nxi_004_nyi_003_nzi_028
+Elapsed time is 0.364361 seconds.
+Source_nxi_004_nyi_003_nzi_029
+Elapsed time is 0.381240 seconds.
+Data Saved
+Source_nxi_004_nyi_004_nzi_001
+Elapsed time is 0.015216 seconds.
+Source_nxi_004_nyi_004_nzi_002
+Elapsed time is 0.020725 seconds.
+Source_nxi_004_nyi_004_nzi_003
+Elapsed time is 0.028253 seconds.
+Source_nxi_004_nyi_004_nzi_004
+Elapsed time is 0.041591 seconds.
+Source_nxi_004_nyi_004_nzi_005
+Elapsed time is 0.061856 seconds.
+Source_nxi_004_nyi_004_nzi_006
+Elapsed time is 0.080741 seconds.
+Source_nxi_004_nyi_004_nzi_007
+Elapsed time is 0.098518 seconds.
+Source_nxi_004_nyi_004_nzi_008
+Elapsed time is 0.120911 seconds.
+Source_nxi_004_nyi_004_nzi_009
+Elapsed time is 0.139016 seconds.
+Source_nxi_004_nyi_004_nzi_010
+Elapsed time is 0.080466 seconds.
+Source_nxi_004_nyi_004_nzi_011
+Elapsed time is 0.059859 seconds.
+Source_nxi_004_nyi_004_nzi_012
+Elapsed time is 0.063568 seconds.
+Source_nxi_004_nyi_004_nzi_013
+Elapsed time is 0.056487 seconds.
+Source_nxi_004_nyi_004_nzi_014
+Elapsed time is 0.039313 seconds.
+Source_nxi_004_nyi_004_nzi_015
+Elapsed time is 0.039566 seconds.
+Source_nxi_004_nyi_004_nzi_016
+Elapsed time is 0.040187 seconds.
+Source_nxi_004_nyi_004_nzi_017
+Elapsed time is 0.060827 seconds.
+Source_nxi_004_nyi_004_nzi_018
+Elapsed time is 0.074061 seconds.
+Source_nxi_004_nyi_004_nzi_019
+Elapsed time is 0.075284 seconds.
+Source_nxi_004_nyi_004_nzi_020
+Elapsed time is 0.111163 seconds.
+Source_nxi_004_nyi_004_nzi_021
+Elapsed time is 0.213717 seconds.
+Source_nxi_004_nyi_004_nzi_022
+Elapsed time is 0.235639 seconds.
+Source_nxi_004_nyi_004_nzi_023
+Elapsed time is 0.257358 seconds.
+Source_nxi_004_nyi_004_nzi_024
+Elapsed time is 0.284300 seconds.
+Source_nxi_004_nyi_004_nzi_025
+Elapsed time is 0.300314 seconds.
+Source_nxi_004_nyi_004_nzi_026
+Elapsed time is 0.298947 seconds.
+Source_nxi_004_nyi_004_nzi_027
+Elapsed time is 0.309741 seconds.
+Source_nxi_004_nyi_004_nzi_028
+Elapsed time is 0.326727 seconds.
+Source_nxi_004_nyi_004_nzi_029
+Elapsed time is 0.343519 seconds.
+Data Saved
+Source_nxi_004_nyi_005_nzi_001
+Elapsed time is 0.010104 seconds.
+Source_nxi_004_nyi_005_nzi_002
+Elapsed time is 0.014677 seconds.
+Source_nxi_004_nyi_005_nzi_003
+Elapsed time is 0.019896 seconds.
+Source_nxi_004_nyi_005_nzi_004
+Elapsed time is 0.024790 seconds.
+Source_nxi_004_nyi_005_nzi_005
+Elapsed time is 0.034271 seconds.
+Source_nxi_004_nyi_005_nzi_006
+Elapsed time is 0.046987 seconds.
+Source_nxi_004_nyi_005_nzi_007
+Elapsed time is 0.058598 seconds.
+Source_nxi_004_nyi_005_nzi_008
+Elapsed time is 0.069662 seconds.
+Source_nxi_004_nyi_005_nzi_009
+Elapsed time is 0.083951 seconds.
+Source_nxi_004_nyi_005_nzi_010
+Elapsed time is 0.057443 seconds.
+Source_nxi_004_nyi_005_nzi_011
+Elapsed time is 0.039919 seconds.
+Source_nxi_004_nyi_005_nzi_012
+Elapsed time is 0.041377 seconds.
+Source_nxi_004_nyi_005_nzi_013
+Elapsed time is 0.036015 seconds.
+Source_nxi_004_nyi_005_nzi_014
+Elapsed time is 0.030555 seconds.
+Source_nxi_004_nyi_005_nzi_015
+Elapsed time is 0.032022 seconds.
+Source_nxi_004_nyi_005_nzi_016
+Elapsed time is 0.032108 seconds.
+Source_nxi_004_nyi_005_nzi_017
+Elapsed time is 0.040448 seconds.
+Source_nxi_004_nyi_005_nzi_018
+Elapsed time is 0.049233 seconds.
+Source_nxi_004_nyi_005_nzi_019
+Elapsed time is 0.051998 seconds.
+Source_nxi_004_nyi_005_nzi_020
+Elapsed time is 0.079764 seconds.
+Source_nxi_004_nyi_005_nzi_021
+Elapsed time is 0.138677 seconds.
+Source_nxi_004_nyi_005_nzi_022
+Elapsed time is 0.147784 seconds.
+Source_nxi_004_nyi_005_nzi_023
+Elapsed time is 0.142528 seconds.
+Source_nxi_004_nyi_005_nzi_024
+Elapsed time is 0.164475 seconds.
+Source_nxi_004_nyi_005_nzi_025
+Elapsed time is 0.205019 seconds.
+Source_nxi_004_nyi_005_nzi_026
+Elapsed time is 0.217041 seconds.
+Source_nxi_004_nyi_005_nzi_027
+Elapsed time is 0.231672 seconds.
+Source_nxi_004_nyi_005_nzi_028
+Elapsed time is 0.248789 seconds.
+Source_nxi_004_nyi_005_nzi_029
+Elapsed time is 0.264528 seconds.
+Data Saved
+Source_nxi_005_nyi_001_nzi_001
+Elapsed time is 0.010154 seconds.
+Source_nxi_005_nyi_001_nzi_002
+Elapsed time is 0.014439 seconds.
+Source_nxi_005_nyi_001_nzi_003
+Elapsed time is 0.020282 seconds.
+Source_nxi_005_nyi_001_nzi_004
+Elapsed time is 0.028638 seconds.
+Source_nxi_005_nyi_001_nzi_005
+Elapsed time is 0.036327 seconds.
+Source_nxi_005_nyi_001_nzi_006
+Elapsed time is 0.047108 seconds.
+Source_nxi_005_nyi_001_nzi_007
+Elapsed time is 0.066091 seconds.
+Source_nxi_005_nyi_001_nzi_008
+Elapsed time is 0.076346 seconds.
+Source_nxi_005_nyi_001_nzi_009
+Elapsed time is 0.085388 seconds.
+Source_nxi_005_nyi_001_nzi_010
+Elapsed time is 0.058573 seconds.
+Source_nxi_005_nyi_001_nzi_011
+Elapsed time is 0.038132 seconds.
+Source_nxi_005_nyi_001_nzi_012
+Elapsed time is 0.037670 seconds.
+Source_nxi_005_nyi_001_nzi_013
+Elapsed time is 0.033239 seconds.
+Source_nxi_005_nyi_001_nzi_014
+Elapsed time is 0.018202 seconds.
+Source_nxi_005_nyi_001_nzi_015
+Elapsed time is 0.019158 seconds.
+Source_nxi_005_nyi_001_nzi_016
+Elapsed time is 0.018586 seconds.
+Source_nxi_005_nyi_001_nzi_017
+Elapsed time is 0.034679 seconds.
+Source_nxi_005_nyi_001_nzi_018
+Elapsed time is 0.044478 seconds.
+Source_nxi_005_nyi_001_nzi_019
+Elapsed time is 0.046418 seconds.
+Source_nxi_005_nyi_001_nzi_020
+Elapsed time is 0.076577 seconds.
+Source_nxi_005_nyi_001_nzi_021
+Elapsed time is 0.140031 seconds.
+Source_nxi_005_nyi_001_nzi_022
+Elapsed time is 0.152068 seconds.
+Source_nxi_005_nyi_001_nzi_023
+Elapsed time is 0.163835 seconds.
+Source_nxi_005_nyi_001_nzi_024
+Elapsed time is 0.175264 seconds.
+Source_nxi_005_nyi_001_nzi_025
+Elapsed time is 0.185483 seconds.
+Source_nxi_005_nyi_001_nzi_026
+Elapsed time is 0.189762 seconds.
+Source_nxi_005_nyi_001_nzi_027
+Elapsed time is 0.194516 seconds.
+Source_nxi_005_nyi_001_nzi_028
+Elapsed time is 0.216565 seconds.
+Source_nxi_005_nyi_001_nzi_029
+Elapsed time is 0.224254 seconds.
+Data Saved
+Source_nxi_005_nyi_002_nzi_001
+Elapsed time is 0.013415 seconds.
+Source_nxi_005_nyi_002_nzi_002
+Elapsed time is 0.021195 seconds.
+Source_nxi_005_nyi_002_nzi_003
+Elapsed time is 0.032054 seconds.
+Source_nxi_005_nyi_002_nzi_004
+Elapsed time is 0.049717 seconds.
+Source_nxi_005_nyi_002_nzi_005
+Elapsed time is 0.069507 seconds.
+Source_nxi_005_nyi_002_nzi_006
+Elapsed time is 0.090435 seconds.
+Source_nxi_005_nyi_002_nzi_007
+Elapsed time is 0.106427 seconds.
+Source_nxi_005_nyi_002_nzi_008
+Elapsed time is 0.134248 seconds.
+Source_nxi_005_nyi_002_nzi_009
+Elapsed time is 0.152855 seconds.
+Source_nxi_005_nyi_002_nzi_010
+Elapsed time is 0.085362 seconds.
+Source_nxi_005_nyi_002_nzi_011
+Elapsed time is 0.059504 seconds.
+Source_nxi_005_nyi_002_nzi_012
+Elapsed time is 0.059020 seconds.
+Source_nxi_005_nyi_002_nzi_013
+Elapsed time is 0.055429 seconds.
+Source_nxi_005_nyi_002_nzi_014
+Elapsed time is 0.022812 seconds.
+Source_nxi_005_nyi_002_nzi_015
+Elapsed time is 0.022185 seconds.
+Source_nxi_005_nyi_002_nzi_016
+Elapsed time is 0.023385 seconds.
+Source_nxi_005_nyi_002_nzi_017
+Elapsed time is 0.054396 seconds.
+Source_nxi_005_nyi_002_nzi_018
+Elapsed time is 0.072788 seconds.
+Source_nxi_005_nyi_002_nzi_019
+Elapsed time is 0.071880 seconds.
+Source_nxi_005_nyi_002_nzi_020
+Elapsed time is 0.110658 seconds.
+Source_nxi_005_nyi_002_nzi_021
+Elapsed time is 0.232828 seconds.
+Source_nxi_005_nyi_002_nzi_022
+Elapsed time is 0.249100 seconds.
+Source_nxi_005_nyi_002_nzi_023
+Elapsed time is 0.254593 seconds.
+Source_nxi_005_nyi_002_nzi_024
+Elapsed time is 0.276165 seconds.
+Source_nxi_005_nyi_002_nzi_025
+Elapsed time is 0.295918 seconds.
+Source_nxi_005_nyi_002_nzi_026
+Elapsed time is 0.314518 seconds.
+Source_nxi_005_nyi_002_nzi_027
+Elapsed time is 0.323014 seconds.
+Source_nxi_005_nyi_002_nzi_028
+Elapsed time is 0.323327 seconds.
+Source_nxi_005_nyi_002_nzi_029
+Elapsed time is 0.336266 seconds.
+Data Saved
+Source_nxi_005_nyi_003_nzi_001
+Elapsed time is 0.014564 seconds.
+Source_nxi_005_nyi_003_nzi_002
+Elapsed time is 0.021379 seconds.
+Source_nxi_005_nyi_003_nzi_003
+Elapsed time is 0.031140 seconds.
+Source_nxi_005_nyi_003_nzi_004
+Elapsed time is 0.042479 seconds.
+Source_nxi_005_nyi_003_nzi_005
+Elapsed time is 0.067293 seconds.
+Source_nxi_005_nyi_003_nzi_006
+Elapsed time is 0.091960 seconds.
+Source_nxi_005_nyi_003_nzi_007
+Elapsed time is 0.105987 seconds.
+Source_nxi_005_nyi_003_nzi_008
+Elapsed time is 0.137840 seconds.
+Source_nxi_005_nyi_003_nzi_009
+Elapsed time is 0.154158 seconds.
+Source_nxi_005_nyi_003_nzi_010
+Elapsed time is 0.083301 seconds.
+Source_nxi_005_nyi_003_nzi_011
+Elapsed time is 0.048115 seconds.
+Source_nxi_005_nyi_003_nzi_012
+Elapsed time is 0.050372 seconds.
+Source_nxi_005_nyi_003_nzi_013
+Elapsed time is 0.050405 seconds.
+Source_nxi_005_nyi_003_nzi_014
+Elapsed time is 0.022119 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_005_nyi_003_nzi_016
+Elapsed time is 0.021765 seconds.
+Source_nxi_005_nyi_003_nzi_017
+Elapsed time is 0.055648 seconds.
+Source_nxi_005_nyi_003_nzi_018
+Elapsed time is 0.053825 seconds.
+Source_nxi_005_nyi_003_nzi_019
+Elapsed time is 0.059428 seconds.
+Source_nxi_005_nyi_003_nzi_020
+Elapsed time is 0.100859 seconds.
+Source_nxi_005_nyi_003_nzi_021
+Elapsed time is 0.226462 seconds.
+Source_nxi_005_nyi_003_nzi_022
+Elapsed time is 0.232254 seconds.
+Source_nxi_005_nyi_003_nzi_023
+Elapsed time is 0.254519 seconds.
+Source_nxi_005_nyi_003_nzi_024
+Elapsed time is 0.257423 seconds.
+Source_nxi_005_nyi_003_nzi_025
+Elapsed time is 0.287963 seconds.
+Source_nxi_005_nyi_003_nzi_026
+Elapsed time is 0.310532 seconds.
+Source_nxi_005_nyi_003_nzi_027
+Elapsed time is 0.324554 seconds.
+Source_nxi_005_nyi_003_nzi_028
+Elapsed time is 0.314778 seconds.
+Source_nxi_005_nyi_003_nzi_029
+Elapsed time is 0.313618 seconds.
+Data Saved
+Source_nxi_005_nyi_004_nzi_001
+Elapsed time is 0.012573 seconds.
+Source_nxi_005_nyi_004_nzi_002
+Elapsed time is 0.016603 seconds.
+Source_nxi_005_nyi_004_nzi_003
+Elapsed time is 0.022831 seconds.
+Source_nxi_005_nyi_004_nzi_004
+Elapsed time is 0.030686 seconds.
+Source_nxi_005_nyi_004_nzi_005
+Elapsed time is 0.044686 seconds.
+Source_nxi_005_nyi_004_nzi_006
+Elapsed time is 0.058764 seconds.
+Source_nxi_005_nyi_004_nzi_007
+Elapsed time is 0.072620 seconds.
+Source_nxi_005_nyi_004_nzi_008
+Elapsed time is 0.087082 seconds.
+Source_nxi_005_nyi_004_nzi_009
+Elapsed time is 0.102571 seconds.
+Source_nxi_005_nyi_004_nzi_010
+Elapsed time is 0.057215 seconds.
+Source_nxi_005_nyi_004_nzi_011
+Elapsed time is 0.040619 seconds.
+Source_nxi_005_nyi_004_nzi_012
+Elapsed time is 0.041214 seconds.
+Source_nxi_005_nyi_004_nzi_013
+Elapsed time is 0.038090 seconds.
+Source_nxi_005_nyi_004_nzi_014
+Elapsed time is 0.017424 seconds.
+Source_nxi_005_nyi_004_nzi_015
+Elapsed time is 0.017585 seconds.
+Source_nxi_005_nyi_004_nzi_016
+Elapsed time is 0.017690 seconds.
+Source_nxi_005_nyi_004_nzi_017
+Elapsed time is 0.041965 seconds.
+Source_nxi_005_nyi_004_nzi_018
+Elapsed time is 0.049870 seconds.
+Source_nxi_005_nyi_004_nzi_019
+Elapsed time is 0.051776 seconds.
+Source_nxi_005_nyi_004_nzi_020
+Elapsed time is 0.076679 seconds.
+Source_nxi_005_nyi_004_nzi_021
+Elapsed time is 0.167845 seconds.
+Source_nxi_005_nyi_004_nzi_022
+Elapsed time is 0.184300 seconds.
+Source_nxi_005_nyi_004_nzi_023
+Elapsed time is 0.210524 seconds.
+Source_nxi_005_nyi_004_nzi_024
+Elapsed time is 0.233046 seconds.
+Source_nxi_005_nyi_004_nzi_025
+Elapsed time is 0.254306 seconds.
+Source_nxi_005_nyi_004_nzi_026
+Elapsed time is 0.277946 seconds.
+Source_nxi_005_nyi_004_nzi_027
+Elapsed time is 0.289375 seconds.
+Source_nxi_005_nyi_004_nzi_028
+Elapsed time is 0.284673 seconds.
+Source_nxi_005_nyi_004_nzi_029
+Elapsed time is 0.300330 seconds.
+Data Saved
+Source_nxi_005_nyi_005_nzi_001
+Elapsed time is 0.009467 seconds.
+Source_nxi_005_nyi_005_nzi_002
+Elapsed time is 0.013090 seconds.
+Source_nxi_005_nyi_005_nzi_003
+Elapsed time is 0.017546 seconds.
+Source_nxi_005_nyi_005_nzi_004
+Elapsed time is 0.021687 seconds.
+Source_nxi_005_nyi_005_nzi_005
+Elapsed time is 0.027956 seconds.
+Source_nxi_005_nyi_005_nzi_006
+Elapsed time is 0.039438 seconds.
+Source_nxi_005_nyi_005_nzi_007
+Elapsed time is 0.048822 seconds.
+Source_nxi_005_nyi_005_nzi_008
+Elapsed time is 0.058575 seconds.
+Source_nxi_005_nyi_005_nzi_009
+Elapsed time is 0.068138 seconds.
+Source_nxi_005_nyi_005_nzi_010
+Elapsed time is 0.044371 seconds.
+Source_nxi_005_nyi_005_nzi_011
+Elapsed time is 0.031037 seconds.
+Source_nxi_005_nyi_005_nzi_012
+Elapsed time is 0.032785 seconds.
+Source_nxi_005_nyi_005_nzi_013
+Elapsed time is 0.028394 seconds.
+Source_nxi_005_nyi_005_nzi_014
+Elapsed time is 0.015143 seconds.
+Source_nxi_005_nyi_005_nzi_015
+Elapsed time is 0.015879 seconds.
+Source_nxi_005_nyi_005_nzi_016
+Elapsed time is 0.015826 seconds.
+Source_nxi_005_nyi_005_nzi_017
+Elapsed time is 0.029599 seconds.
+Source_nxi_005_nyi_005_nzi_018
+Elapsed time is 0.037580 seconds.
+Source_nxi_005_nyi_005_nzi_019
+Elapsed time is 0.039179 seconds.
+Source_nxi_005_nyi_005_nzi_020
+Elapsed time is 0.064959 seconds.
+Source_nxi_005_nyi_005_nzi_021
+Elapsed time is 0.118135 seconds.
+Source_nxi_005_nyi_005_nzi_022
+Elapsed time is 0.129741 seconds.
+Source_nxi_005_nyi_005_nzi_023
+Elapsed time is 0.137637 seconds.
+Source_nxi_005_nyi_005_nzi_024
+Elapsed time is 0.149904 seconds.
+Source_nxi_005_nyi_005_nzi_025
+Elapsed time is 0.155268 seconds.
+Source_nxi_005_nyi_005_nzi_026
+Elapsed time is 0.161690 seconds.
+Source_nxi_005_nyi_005_nzi_027
+Elapsed time is 0.170853 seconds.
+Source_nxi_005_nyi_005_nzi_028
+Elapsed time is 0.183906 seconds.
+Source_nxi_005_nyi_005_nzi_029
+Elapsed time is 0.197581 seconds.
+Data Saved
+Source_nxi_006_nyi_001_nzi_001
+Elapsed time is 0.010037 seconds.
+Source_nxi_006_nyi_001_nzi_002
+Elapsed time is 0.013464 seconds.
+Source_nxi_006_nyi_001_nzi_003
+Elapsed time is 0.018351 seconds.
+Source_nxi_006_nyi_001_nzi_004
+Elapsed time is 0.021783 seconds.
+Source_nxi_006_nyi_001_nzi_005
+Elapsed time is 0.028310 seconds.
+Source_nxi_006_nyi_001_nzi_006
+Elapsed time is 0.039287 seconds.
+Source_nxi_006_nyi_001_nzi_007
+Elapsed time is 0.049063 seconds.
+Source_nxi_006_nyi_001_nzi_008
+Elapsed time is 0.059541 seconds.
+Source_nxi_006_nyi_001_nzi_009
+Elapsed time is 0.069014 seconds.
+Source_nxi_006_nyi_001_nzi_010
+Elapsed time is 0.044985 seconds.
+Source_nxi_006_nyi_001_nzi_011
+Elapsed time is 0.025302 seconds.
+Source_nxi_006_nyi_001_nzi_012
+Elapsed time is 0.026838 seconds.
+Source_nxi_006_nyi_001_nzi_013
+Elapsed time is 0.021497 seconds.
+Source_nxi_006_nyi_001_nzi_014
+Elapsed time is 0.012867 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_006_nyi_001_nzi_016
+Elapsed time is 0.008725 seconds.
+Source_nxi_006_nyi_001_nzi_017
+Elapsed time is 0.022217 seconds.
+Source_nxi_006_nyi_001_nzi_018
+Elapsed time is 0.029121 seconds.
+Source_nxi_006_nyi_001_nzi_019
+Elapsed time is 0.030473 seconds.
+Source_nxi_006_nyi_001_nzi_020
+Elapsed time is 0.061250 seconds.
+Source_nxi_006_nyi_001_nzi_021
+Elapsed time is 0.112418 seconds.
+Source_nxi_006_nyi_001_nzi_022
+Elapsed time is 0.119197 seconds.
+Source_nxi_006_nyi_001_nzi_023
+Elapsed time is 0.131200 seconds.
+Source_nxi_006_nyi_001_nzi_024
+Elapsed time is 0.141791 seconds.
+Source_nxi_006_nyi_001_nzi_025
+Elapsed time is 0.149356 seconds.
+Source_nxi_006_nyi_001_nzi_026
+Elapsed time is 0.160529 seconds.
+Source_nxi_006_nyi_001_nzi_027
+Elapsed time is 0.163490 seconds.
+Source_nxi_006_nyi_001_nzi_028
+Elapsed time is 0.175989 seconds.
+Source_nxi_006_nyi_001_nzi_029
+Elapsed time is 0.188771 seconds.
+Data Saved
+Source_nxi_006_nyi_002_nzi_001
+Elapsed time is 0.011609 seconds.
+Source_nxi_006_nyi_002_nzi_002
+Elapsed time is 0.016964 seconds.
+Source_nxi_006_nyi_002_nzi_003
+Elapsed time is 0.023618 seconds.
+Source_nxi_006_nyi_002_nzi_004
+Elapsed time is 0.030874 seconds.
+Source_nxi_006_nyi_002_nzi_005
+Elapsed time is 0.045889 seconds.
+Source_nxi_006_nyi_002_nzi_006
+Elapsed time is 0.060676 seconds.
+Source_nxi_006_nyi_002_nzi_007
+Elapsed time is 0.076354 seconds.
+Source_nxi_006_nyi_002_nzi_008
+Elapsed time is 0.090151 seconds.
+Source_nxi_006_nyi_002_nzi_009
+Elapsed time is 0.109570 seconds.
+Source_nxi_006_nyi_002_nzi_010
+Elapsed time is 0.057420 seconds.
+Source_nxi_006_nyi_002_nzi_011
+Elapsed time is 0.039581 seconds.
+Source_nxi_006_nyi_002_nzi_012
+Elapsed time is 0.039647 seconds.
+Source_nxi_006_nyi_002_nzi_013
+Elapsed time is 0.033254 seconds.
+Source_nxi_006_nyi_002_nzi_014
+Elapsed time is 0.009836 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_006_nyi_002_nzi_016
+Elapsed time is 0.010410 seconds.
+Source_nxi_006_nyi_002_nzi_017
+Elapsed time is 0.034853 seconds.
+Source_nxi_006_nyi_002_nzi_018
+Elapsed time is 0.043340 seconds.
+Source_nxi_006_nyi_002_nzi_019
+Elapsed time is 0.044370 seconds.
+Source_nxi_006_nyi_002_nzi_020
+Elapsed time is 0.072565 seconds.
+Source_nxi_006_nyi_002_nzi_021
+Elapsed time is 0.164306 seconds.
+Source_nxi_006_nyi_002_nzi_022
+Elapsed time is 0.179499 seconds.
+Source_nxi_006_nyi_002_nzi_023
+Elapsed time is 0.193274 seconds.
+Source_nxi_006_nyi_002_nzi_024
+Elapsed time is 0.198535 seconds.
+Source_nxi_006_nyi_002_nzi_025
+Elapsed time is 0.220519 seconds.
+Source_nxi_006_nyi_002_nzi_026
+Elapsed time is 0.234600 seconds.
+Source_nxi_006_nyi_002_nzi_027
+Elapsed time is 0.256445 seconds.
+Source_nxi_006_nyi_002_nzi_028
+Elapsed time is 0.270123 seconds.
+Source_nxi_006_nyi_002_nzi_029
+Elapsed time is 0.271768 seconds.
+Data Saved
+Source_nxi_006_nyi_003_nzi_001
+Elapsed time is 0.013037 seconds.
+Source_nxi_006_nyi_003_nzi_002
+Elapsed time is 0.018868 seconds.
+Source_nxi_006_nyi_003_nzi_003
+Elapsed time is 0.025982 seconds.
+Source_nxi_006_nyi_003_nzi_004
+Elapsed time is 0.035677 seconds.
+Source_nxi_006_nyi_003_nzi_005
+Elapsed time is 0.053172 seconds.
+Source_nxi_006_nyi_003_nzi_006
+Elapsed time is 0.066883 seconds.
+Source_nxi_006_nyi_003_nzi_007
+Elapsed time is 0.078859 seconds.
+Source_nxi_006_nyi_003_nzi_008
+Elapsed time is 0.095118 seconds.
+Source_nxi_006_nyi_003_nzi_009
+Elapsed time is 0.147818 seconds.
+Source_nxi_006_nyi_003_nzi_010
+Elapsed time is 0.079774 seconds.
+Source_nxi_006_nyi_003_nzi_011
+Elapsed time is 0.048781 seconds.
+Source_nxi_006_nyi_003_nzi_012
+Elapsed time is 0.048867 seconds.
+Source_nxi_006_nyi_003_nzi_013
+Elapsed time is 0.049012 seconds.
+Source_nxi_006_nyi_003_nzi_014
+Elapsed time is 0.021687 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_006_nyi_003_nzi_016
+Elapsed time is 0.021390 seconds.
+Source_nxi_006_nyi_003_nzi_017
+Elapsed time is 0.052765 seconds.
+Source_nxi_006_nyi_003_nzi_018
+Elapsed time is 0.053362 seconds.
+Source_nxi_006_nyi_003_nzi_019
+Elapsed time is 0.055469 seconds.
+Source_nxi_006_nyi_003_nzi_020
+Elapsed time is 0.102841 seconds.
+Source_nxi_006_nyi_003_nzi_021
+Elapsed time is 0.216663 seconds.
+Source_nxi_006_nyi_003_nzi_022
+Elapsed time is 0.250100 seconds.
+Source_nxi_006_nyi_003_nzi_023
+Elapsed time is 0.254369 seconds.
+Source_nxi_006_nyi_003_nzi_024
+Elapsed time is 0.270781 seconds.
+Source_nxi_006_nyi_003_nzi_025
+Elapsed time is 0.287543 seconds.
+Source_nxi_006_nyi_003_nzi_026
+Elapsed time is 0.312894 seconds.
+Source_nxi_006_nyi_003_nzi_027
+Elapsed time is 0.330629 seconds.
+Source_nxi_006_nyi_003_nzi_028
+Elapsed time is 0.319597 seconds.
+Source_nxi_006_nyi_003_nzi_029
+Elapsed time is 0.334014 seconds.
+Data Saved
+Source_nxi_006_nyi_004_nzi_001
+Elapsed time is 0.012686 seconds.
+Source_nxi_006_nyi_004_nzi_002
+Elapsed time is 0.018199 seconds.
+Source_nxi_006_nyi_004_nzi_003
+Elapsed time is 0.025814 seconds.
+Source_nxi_006_nyi_004_nzi_004
+Elapsed time is 0.039513 seconds.
+Source_nxi_006_nyi_004_nzi_005
+Elapsed time is 0.062795 seconds.
+Source_nxi_006_nyi_004_nzi_006
+Elapsed time is 0.076033 seconds.
+Source_nxi_006_nyi_004_nzi_007
+Elapsed time is 0.098299 seconds.
+Source_nxi_006_nyi_004_nzi_008
+Elapsed time is 0.111211 seconds.
+Source_nxi_006_nyi_004_nzi_009
+Elapsed time is 0.132472 seconds.
+Source_nxi_006_nyi_004_nzi_010
+Elapsed time is 0.069765 seconds.
+Source_nxi_006_nyi_004_nzi_011
+Elapsed time is 0.045838 seconds.
+Source_nxi_006_nyi_004_nzi_012
+Elapsed time is 0.047094 seconds.
+Source_nxi_006_nyi_004_nzi_013
+Elapsed time is 0.038268 seconds.
+Source_nxi_006_nyi_004_nzi_014
+Elapsed time is 0.011509 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_006_nyi_004_nzi_016
+Elapsed time is 0.010512 seconds.
+Source_nxi_006_nyi_004_nzi_017
+Elapsed time is 0.041464 seconds.
+Source_nxi_006_nyi_004_nzi_018
+Elapsed time is 0.052898 seconds.
+Source_nxi_006_nyi_004_nzi_019
+Elapsed time is 0.053328 seconds.
+Source_nxi_006_nyi_004_nzi_020
+Elapsed time is 0.084406 seconds.
+Source_nxi_006_nyi_004_nzi_021
+Elapsed time is 0.191313 seconds.
+Source_nxi_006_nyi_004_nzi_022
+Elapsed time is 0.207478 seconds.
+Source_nxi_006_nyi_004_nzi_023
+Elapsed time is 0.223201 seconds.
+Source_nxi_006_nyi_004_nzi_024
+Elapsed time is 0.232766 seconds.
+Source_nxi_006_nyi_004_nzi_025
+Elapsed time is 0.247560 seconds.
+Source_nxi_006_nyi_004_nzi_026
+Elapsed time is 0.260953 seconds.
+Source_nxi_006_nyi_004_nzi_027
+Elapsed time is 0.286530 seconds.
+Source_nxi_006_nyi_004_nzi_028
+Elapsed time is 0.294964 seconds.
+Source_nxi_006_nyi_004_nzi_029
+Elapsed time is 0.331668 seconds.
+Data Saved
+Source_nxi_006_nyi_005_nzi_001
+Elapsed time is 0.010261 seconds.
+Source_nxi_006_nyi_005_nzi_002
+Elapsed time is 0.015022 seconds.
+Source_nxi_006_nyi_005_nzi_003
+Elapsed time is 0.020549 seconds.
+Source_nxi_006_nyi_005_nzi_004
+Elapsed time is 0.025597 seconds.
+Source_nxi_006_nyi_005_nzi_005
+Elapsed time is 0.035872 seconds.
+Source_nxi_006_nyi_005_nzi_006
+Elapsed time is 0.051991 seconds.
+Source_nxi_006_nyi_005_nzi_007
+Elapsed time is 0.064192 seconds.
+Source_nxi_006_nyi_005_nzi_008
+Elapsed time is 0.072759 seconds.
+Source_nxi_006_nyi_005_nzi_009
+Elapsed time is 0.088236 seconds.
+Source_nxi_006_nyi_005_nzi_010
+Elapsed time is 0.053390 seconds.
+Source_nxi_006_nyi_005_nzi_011
+Elapsed time is 0.031662 seconds.
+Source_nxi_006_nyi_005_nzi_012
+Elapsed time is 0.032247 seconds.
+Source_nxi_006_nyi_005_nzi_013
+Elapsed time is 0.024783 seconds.
+Source_nxi_006_nyi_005_nzi_014
+Elapsed time is 0.009988 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_006_nyi_005_nzi_016
+Elapsed time is 0.009282 seconds.
+Source_nxi_006_nyi_005_nzi_017
+Elapsed time is 0.025388 seconds.
+Source_nxi_006_nyi_005_nzi_018
+Elapsed time is 0.034934 seconds.
+Source_nxi_006_nyi_005_nzi_019
+Elapsed time is 0.036772 seconds.
+Source_nxi_006_nyi_005_nzi_020
+Elapsed time is 0.070339 seconds.
+Source_nxi_006_nyi_005_nzi_021
+Elapsed time is 0.135001 seconds.
+Source_nxi_006_nyi_005_nzi_022
+Elapsed time is 0.144934 seconds.
+Source_nxi_006_nyi_005_nzi_023
+Elapsed time is 0.157969 seconds.
+Source_nxi_006_nyi_005_nzi_024
+Elapsed time is 0.163704 seconds.
+Source_nxi_006_nyi_005_nzi_025
+Elapsed time is 0.181485 seconds.
+Source_nxi_006_nyi_005_nzi_026
+Elapsed time is 0.184662 seconds.
+Source_nxi_006_nyi_005_nzi_027
+Elapsed time is 0.187433 seconds.
+Source_nxi_006_nyi_005_nzi_028
+Elapsed time is 0.203808 seconds.
+Source_nxi_006_nyi_005_nzi_029
+Elapsed time is 0.208780 seconds.
+Data Saved
+Source_nxi_007_nyi_001_nzi_001
+Elapsed time is 0.011271 seconds.
+Source_nxi_007_nyi_001_nzi_002
+Elapsed time is 0.016532 seconds.
+Source_nxi_007_nyi_001_nzi_003
+Elapsed time is 0.024206 seconds.
+Source_nxi_007_nyi_001_nzi_004
+Elapsed time is 0.031344 seconds.
+Source_nxi_007_nyi_001_nzi_005
+Elapsed time is 0.042135 seconds.
+Source_nxi_007_nyi_001_nzi_006
+Elapsed time is 0.059010 seconds.
+Source_nxi_007_nyi_001_nzi_007
+Elapsed time is 0.074748 seconds.
+Source_nxi_007_nyi_001_nzi_008
+Elapsed time is 0.087830 seconds.
+Source_nxi_007_nyi_001_nzi_009
+Elapsed time is 0.096962 seconds.
+Source_nxi_007_nyi_001_nzi_010
+Elapsed time is 0.067741 seconds.
+Source_nxi_007_nyi_001_nzi_011
+Elapsed time is 0.026339 seconds.
+Source_nxi_007_nyi_001_nzi_012
+Elapsed time is 0.025830 seconds.
+Source_nxi_007_nyi_001_nzi_013
+Elapsed time is 0.018254 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_007_nyi_001_nzi_017
+Elapsed time is 0.018747 seconds.
+Source_nxi_007_nyi_001_nzi_018
+Elapsed time is 0.028556 seconds.
+Source_nxi_007_nyi_001_nzi_019
+Elapsed time is 0.027657 seconds.
+Source_nxi_007_nyi_001_nzi_020
+Elapsed time is 0.079428 seconds.
+Source_nxi_007_nyi_001_nzi_021
+Elapsed time is 0.140733 seconds.
+Source_nxi_007_nyi_001_nzi_022
+Elapsed time is 0.155600 seconds.
+Source_nxi_007_nyi_001_nzi_023
+Elapsed time is 0.172425 seconds.
+Source_nxi_007_nyi_001_nzi_024
+Elapsed time is 0.177798 seconds.
+Source_nxi_007_nyi_001_nzi_025
+Elapsed time is 0.193988 seconds.
+Source_nxi_007_nyi_001_nzi_026
+Elapsed time is 0.204150 seconds.
+Source_nxi_007_nyi_001_nzi_027
+Elapsed time is 0.212378 seconds.
+Source_nxi_007_nyi_001_nzi_028
+Elapsed time is 0.222032 seconds.
+Source_nxi_007_nyi_001_nzi_029
+Elapsed time is 0.238544 seconds.
+Data Saved
+Source_nxi_007_nyi_002_nzi_001
+Elapsed time is 0.015524 seconds.
+Source_nxi_007_nyi_002_nzi_002
+Elapsed time is 0.020727 seconds.
+Source_nxi_007_nyi_002_nzi_003
+Elapsed time is 0.028440 seconds.
+Source_nxi_007_nyi_002_nzi_004
+Elapsed time is 0.039967 seconds.
+Source_nxi_007_nyi_002_nzi_005
+Elapsed time is 0.058165 seconds.
+Source_nxi_007_nyi_002_nzi_006
+Elapsed time is 0.069837 seconds.
+Source_nxi_007_nyi_002_nzi_007
+Elapsed time is 0.083802 seconds.
+Source_nxi_007_nyi_002_nzi_008
+Elapsed time is 0.099883 seconds.
+Source_nxi_007_nyi_002_nzi_009
+Elapsed time is 0.114014 seconds.
+Source_nxi_007_nyi_002_nzi_010
+Elapsed time is 0.065973 seconds.
+Source_nxi_007_nyi_002_nzi_011
+Elapsed time is 0.029638 seconds.
+Source_nxi_007_nyi_002_nzi_012
+Elapsed time is 0.029807 seconds.
+Source_nxi_007_nyi_002_nzi_013
+Elapsed time is 0.023264 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_007_nyi_002_nzi_017
+Elapsed time is 0.023388 seconds.
+Source_nxi_007_nyi_002_nzi_018
+Elapsed time is 0.031276 seconds.
+Source_nxi_007_nyi_002_nzi_019
+Elapsed time is 0.031574 seconds.
+Source_nxi_007_nyi_002_nzi_020
+Elapsed time is 0.081398 seconds.
+Source_nxi_007_nyi_002_nzi_021
+Elapsed time is 0.163881 seconds.
+Source_nxi_007_nyi_002_nzi_022
+Elapsed time is 0.174730 seconds.
+Source_nxi_007_nyi_002_nzi_023
+Elapsed time is 0.189627 seconds.
+Source_nxi_007_nyi_002_nzi_024
+Elapsed time is 0.231363 seconds.
+Source_nxi_007_nyi_002_nzi_025
+Elapsed time is 0.240495 seconds.
+Source_nxi_007_nyi_002_nzi_026
+Elapsed time is 0.280211 seconds.
+Source_nxi_007_nyi_002_nzi_027
+Elapsed time is 0.305490 seconds.
+Source_nxi_007_nyi_002_nzi_028
+Elapsed time is 0.342451 seconds.
+Source_nxi_007_nyi_002_nzi_029
+Elapsed time is 0.361193 seconds.
+Data Saved
+Source_nxi_007_nyi_003_nzi_001
+Elapsed time is 0.014939 seconds.
+Source_nxi_007_nyi_003_nzi_002
+Elapsed time is 0.021702 seconds.
+Source_nxi_007_nyi_003_nzi_003
+Elapsed time is 0.030453 seconds.
+Source_nxi_007_nyi_003_nzi_004
+Elapsed time is 0.046417 seconds.
+Source_nxi_007_nyi_003_nzi_005
+Elapsed time is 0.066745 seconds.
+Source_nxi_007_nyi_003_nzi_006
+Elapsed time is 0.086349 seconds.
+Source_nxi_007_nyi_003_nzi_007
+Elapsed time is 0.107459 seconds.
+Source_nxi_007_nyi_003_nzi_008
+Elapsed time is 0.131760 seconds.
+Source_nxi_007_nyi_003_nzi_009
+Elapsed time is 0.153762 seconds.
+Source_nxi_007_nyi_003_nzi_010
+Elapsed time is 0.093842 seconds.
+Source_nxi_007_nyi_003_nzi_011
+Elapsed time is 0.028383 seconds.
+Source_nxi_007_nyi_003_nzi_012
+Elapsed time is 0.028333 seconds.
+Source_nxi_007_nyi_003_nzi_013
+Elapsed time is 0.029980 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_007_nyi_003_nzi_017
+Elapsed time is 0.029609 seconds.
+Source_nxi_007_nyi_003_nzi_018
+Elapsed time is 0.029562 seconds.
+Source_nxi_007_nyi_003_nzi_019
+Elapsed time is 0.031308 seconds.
+Source_nxi_007_nyi_003_nzi_020
+Elapsed time is 0.108388 seconds.
+Source_nxi_007_nyi_003_nzi_021
+Elapsed time is 0.214908 seconds.
+Source_nxi_007_nyi_003_nzi_022
+Elapsed time is 0.230556 seconds.
+Source_nxi_007_nyi_003_nzi_023
+Elapsed time is 0.259985 seconds.
+Source_nxi_007_nyi_003_nzi_024
+Elapsed time is 0.272945 seconds.
+Source_nxi_007_nyi_003_nzi_025
+Elapsed time is 0.302566 seconds.
+Source_nxi_007_nyi_003_nzi_026
+Elapsed time is 0.315274 seconds.
+Source_nxi_007_nyi_003_nzi_027
+Elapsed time is 0.317485 seconds.
+Source_nxi_007_nyi_003_nzi_028
+Elapsed time is 0.329631 seconds.
+Source_nxi_007_nyi_003_nzi_029
+Elapsed time is 0.351313 seconds.
+Data Saved
+Source_nxi_007_nyi_004_nzi_001
+Elapsed time is 0.013668 seconds.
+Source_nxi_007_nyi_004_nzi_002
+Elapsed time is 0.020004 seconds.
+Source_nxi_007_nyi_004_nzi_003
+Elapsed time is 0.028595 seconds.
+Source_nxi_007_nyi_004_nzi_004
+Elapsed time is 0.042089 seconds.
+Source_nxi_007_nyi_004_nzi_005
+Elapsed time is 0.061449 seconds.
+Source_nxi_007_nyi_004_nzi_006
+Elapsed time is 0.078862 seconds.
+Source_nxi_007_nyi_004_nzi_007
+Elapsed time is 0.096478 seconds.
+Source_nxi_007_nyi_004_nzi_008
+Elapsed time is 0.121258 seconds.
+Source_nxi_007_nyi_004_nzi_009
+Elapsed time is 0.140830 seconds.
+Source_nxi_007_nyi_004_nzi_010
+Elapsed time is 0.083281 seconds.
+Source_nxi_007_nyi_004_nzi_011
+Elapsed time is 0.035394 seconds.
+Source_nxi_007_nyi_004_nzi_012
+Elapsed time is 0.086093 seconds.
+Source_nxi_007_nyi_004_nzi_013
+Elapsed time is 0.049665 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_007_nyi_004_nzi_017
+Elapsed time is 0.059334 seconds.
+Source_nxi_007_nyi_004_nzi_018
+Elapsed time is 0.128910 seconds.
+Source_nxi_007_nyi_004_nzi_019
+Elapsed time is 0.123058 seconds.
+Source_nxi_007_nyi_004_nzi_020
+Elapsed time is 0.232336 seconds.
+Source_nxi_007_nyi_004_nzi_021
+Elapsed time is 0.195846 seconds.
+Source_nxi_007_nyi_004_nzi_022
+Elapsed time is 0.225930 seconds.
+Source_nxi_007_nyi_004_nzi_023
+Elapsed time is 0.224450 seconds.
+Source_nxi_007_nyi_004_nzi_024
+Elapsed time is 0.246201 seconds.
+Source_nxi_007_nyi_004_nzi_025
+Elapsed time is 0.264988 seconds.
+Source_nxi_007_nyi_004_nzi_026
+Elapsed time is 0.291361 seconds.
+Source_nxi_007_nyi_004_nzi_027
+Elapsed time is 0.301388 seconds.
+Source_nxi_007_nyi_004_nzi_028
+Elapsed time is 0.297522 seconds.
+Source_nxi_007_nyi_004_nzi_029
+Elapsed time is 0.314412 seconds.
+Data Saved
+Source_nxi_007_nyi_005_nzi_001
+Elapsed time is 0.010104 seconds.
+Source_nxi_007_nyi_005_nzi_002
+Elapsed time is 0.014389 seconds.
+Source_nxi_007_nyi_005_nzi_003
+Elapsed time is 0.019691 seconds.
+Source_nxi_007_nyi_005_nzi_004
+Elapsed time is 0.024397 seconds.
+Source_nxi_007_nyi_005_nzi_005
+Elapsed time is 0.033074 seconds.
+Source_nxi_007_nyi_005_nzi_006
+Elapsed time is 0.045417 seconds.
+Source_nxi_007_nyi_005_nzi_007
+Elapsed time is 0.054398 seconds.
+Source_nxi_007_nyi_005_nzi_008
+Elapsed time is 0.064288 seconds.
+Source_nxi_007_nyi_005_nzi_009
+Elapsed time is 0.069573 seconds.
+Source_nxi_007_nyi_005_nzi_010
+Elapsed time is 0.056959 seconds.
+Source_nxi_007_nyi_005_nzi_011
+Elapsed time is 0.025049 seconds.
+Source_nxi_007_nyi_005_nzi_012
+Elapsed time is 0.025503 seconds.
+Source_nxi_007_nyi_005_nzi_013
+Elapsed time is 0.017996 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_007_nyi_005_nzi_017
+Elapsed time is 0.017633 seconds.
+Source_nxi_007_nyi_005_nzi_018
+Elapsed time is 0.090253 seconds.
+Source_nxi_007_nyi_005_nzi_019
+Elapsed time is 0.080892 seconds.
+Source_nxi_007_nyi_005_nzi_020
+Elapsed time is 0.220698 seconds.
+Source_nxi_007_nyi_005_nzi_021
+Elapsed time is 0.147284 seconds.
+Source_nxi_007_nyi_005_nzi_022
+Elapsed time is 0.166345 seconds.
+Source_nxi_007_nyi_005_nzi_023
+Elapsed time is 0.171655 seconds.
+Source_nxi_007_nyi_005_nzi_024
+Elapsed time is 0.188104 seconds.
+Source_nxi_007_nyi_005_nzi_025
+Elapsed time is 0.201066 seconds.
+Source_nxi_007_nyi_005_nzi_026
+Elapsed time is 0.205700 seconds.
+Source_nxi_007_nyi_005_nzi_027
+Elapsed time is 0.213210 seconds.
+Source_nxi_007_nyi_005_nzi_028
+Elapsed time is 0.218345 seconds.
+Source_nxi_007_nyi_005_nzi_029
+Elapsed time is 0.235158 seconds.
+Data Saved
+Source_nxi_008_nyi_001_nzi_001
+Elapsed time is 0.009482 seconds.
+Source_nxi_008_nyi_001_nzi_002
+Elapsed time is 0.013738 seconds.
+Source_nxi_008_nyi_001_nzi_003
+Elapsed time is 0.019137 seconds.
+Source_nxi_008_nyi_001_nzi_004
+Elapsed time is 0.025031 seconds.
+Source_nxi_008_nyi_001_nzi_005
+Elapsed time is 0.028602 seconds.
+Source_nxi_008_nyi_001_nzi_006
+Elapsed time is 0.043179 seconds.
+Source_nxi_008_nyi_001_nzi_007
+Elapsed time is 0.053715 seconds.
+Source_nxi_008_nyi_001_nzi_008
+Elapsed time is 0.063189 seconds.
+Source_nxi_008_nyi_001_nzi_009
+Elapsed time is 0.072598 seconds.
+Source_nxi_008_nyi_001_nzi_010
+Elapsed time is 0.046377 seconds.
+Source_nxi_008_nyi_001_nzi_011
+Elapsed time is 0.008436 seconds.
+Source_nxi_008_nyi_001_nzi_012
+Elapsed time is 0.008664 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_008_nyi_001_nzi_018
+Elapsed time is 0.007761 seconds.
+Source_nxi_008_nyi_001_nzi_019
+Elapsed time is 0.008737 seconds.
+Source_nxi_008_nyi_001_nzi_020
+Elapsed time is 0.049317 seconds.
+Source_nxi_008_nyi_001_nzi_021
+Elapsed time is 0.101092 seconds.
+Source_nxi_008_nyi_001_nzi_022
+Elapsed time is 0.109183 seconds.
+Source_nxi_008_nyi_001_nzi_023
+Elapsed time is 0.118415 seconds.
+Source_nxi_008_nyi_001_nzi_024
+Elapsed time is 0.126275 seconds.
+Source_nxi_008_nyi_001_nzi_025
+Elapsed time is 0.138164 seconds.
+Source_nxi_008_nyi_001_nzi_026
+Elapsed time is 0.150530 seconds.
+Source_nxi_008_nyi_001_nzi_027
+Elapsed time is 0.162418 seconds.
+Source_nxi_008_nyi_001_nzi_028
+Elapsed time is 0.178255 seconds.
+Source_nxi_008_nyi_001_nzi_029
+Elapsed time is 0.174490 seconds.
+Data Saved
+Source_nxi_008_nyi_002_nzi_001
+Elapsed time is 0.011279 seconds.
+Source_nxi_008_nyi_002_nzi_002
+Elapsed time is 0.017733 seconds.
+Source_nxi_008_nyi_002_nzi_003
+Elapsed time is 0.026918 seconds.
+Source_nxi_008_nyi_002_nzi_004
+Elapsed time is 0.037638 seconds.
+Source_nxi_008_nyi_002_nzi_005
+Elapsed time is 0.044839 seconds.
+Source_nxi_008_nyi_002_nzi_006
+Elapsed time is 0.072045 seconds.
+Source_nxi_008_nyi_002_nzi_007
+Elapsed time is 0.085912 seconds.
+Source_nxi_008_nyi_002_nzi_008
+Elapsed time is 0.101616 seconds.
+Source_nxi_008_nyi_002_nzi_009
+Elapsed time is 0.116385 seconds.
+Source_nxi_008_nyi_002_nzi_010
+Elapsed time is 0.057453 seconds.
+Source_nxi_008_nyi_002_nzi_011
+Elapsed time is 0.010498 seconds.
+Source_nxi_008_nyi_002_nzi_012
+Elapsed time is 0.010514 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_008_nyi_002_nzi_018
+Elapsed time is 0.009155 seconds.
+Source_nxi_008_nyi_002_nzi_019
+Elapsed time is 0.009898 seconds.
+Source_nxi_008_nyi_002_nzi_020
+Elapsed time is 0.058730 seconds.
+Source_nxi_008_nyi_002_nzi_021
+Elapsed time is 0.151892 seconds.
+Source_nxi_008_nyi_002_nzi_022
+Elapsed time is 0.165727 seconds.
+Source_nxi_008_nyi_002_nzi_023
+Elapsed time is 0.178636 seconds.
+Source_nxi_008_nyi_002_nzi_024
+Elapsed time is 0.189208 seconds.
+Source_nxi_008_nyi_002_nzi_025
+Elapsed time is 0.211557 seconds.
+Source_nxi_008_nyi_002_nzi_026
+Elapsed time is 0.216055 seconds.
+Source_nxi_008_nyi_002_nzi_027
+Elapsed time is 0.223166 seconds.
+Source_nxi_008_nyi_002_nzi_028
+Elapsed time is 0.238102 seconds.
+Source_nxi_008_nyi_002_nzi_029
+Elapsed time is 0.255563 seconds.
+Data Saved
+Source_nxi_008_nyi_003_nzi_001
+Elapsed time is 0.012112 seconds.
+Source_nxi_008_nyi_003_nzi_002
+Elapsed time is 0.019525 seconds.
+Source_nxi_008_nyi_003_nzi_003
+Elapsed time is 0.029515 seconds.
+Source_nxi_008_nyi_003_nzi_004
+Elapsed time is 0.039086 seconds.
+Source_nxi_008_nyi_003_nzi_005
+Elapsed time is 0.057638 seconds.
+Source_nxi_008_nyi_003_nzi_006
+Elapsed time is 0.083541 seconds.
+Source_nxi_008_nyi_003_nzi_007
+Elapsed time is 0.097508 seconds.
+Source_nxi_008_nyi_003_nzi_008
+Elapsed time is 0.113853 seconds.
+Source_nxi_008_nyi_003_nzi_009
+Elapsed time is 0.131140 seconds.
+Source_nxi_008_nyi_003_nzi_010
+Elapsed time is 0.065263 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_008_nyi_003_nzi_020
+Elapsed time is 0.075495 seconds.
+Source_nxi_008_nyi_003_nzi_021
+Elapsed time is 0.170414 seconds.
+Source_nxi_008_nyi_003_nzi_022
+Elapsed time is 0.179166 seconds.
+Source_nxi_008_nyi_003_nzi_023
+Elapsed time is 0.193434 seconds.
+Source_nxi_008_nyi_003_nzi_024
+Elapsed time is 0.214868 seconds.
+Source_nxi_008_nyi_003_nzi_025
+Elapsed time is 0.225715 seconds.
+Source_nxi_008_nyi_003_nzi_026
+Elapsed time is 0.239682 seconds.
+Source_nxi_008_nyi_003_nzi_027
+Elapsed time is 0.254706 seconds.
+Source_nxi_008_nyi_003_nzi_028
+Elapsed time is 0.263419 seconds.
+Source_nxi_008_nyi_003_nzi_029
+Elapsed time is 0.290305 seconds.
+Data Saved
+Source_nxi_008_nyi_004_nzi_001
+Elapsed time is 0.011235 seconds.
+Source_nxi_008_nyi_004_nzi_002
+Elapsed time is 0.039631 seconds.
+Source_nxi_008_nyi_004_nzi_003
+Elapsed time is 0.049616 seconds.
+Source_nxi_008_nyi_004_nzi_004
+Elapsed time is 0.062149 seconds.
+Source_nxi_008_nyi_004_nzi_005
+Elapsed time is 0.129808 seconds.
+Source_nxi_008_nyi_004_nzi_006
+Elapsed time is 0.118698 seconds.
+Source_nxi_008_nyi_004_nzi_007
+Elapsed time is 0.085482 seconds.
+Source_nxi_008_nyi_004_nzi_008
+Elapsed time is 0.097095 seconds.
+Source_nxi_008_nyi_004_nzi_009
+Elapsed time is 0.113413 seconds.
+Source_nxi_008_nyi_004_nzi_010
+Elapsed time is 0.057404 seconds.
+Source_nxi_008_nyi_004_nzi_011
+Elapsed time is 0.009545 seconds.
+Source_nxi_008_nyi_004_nzi_012
+Elapsed time is 0.009871 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_008_nyi_004_nzi_018
+Elapsed time is 0.008806 seconds.
+Source_nxi_008_nyi_004_nzi_019
+Elapsed time is 0.009427 seconds.
+Source_nxi_008_nyi_004_nzi_020
+Elapsed time is 0.060183 seconds.
+Source_nxi_008_nyi_004_nzi_021
+Elapsed time is 0.151314 seconds.
+Source_nxi_008_nyi_004_nzi_022
+Elapsed time is 0.156254 seconds.
+Source_nxi_008_nyi_004_nzi_023
+Elapsed time is 0.174419 seconds.
+Source_nxi_008_nyi_004_nzi_024
+Elapsed time is 0.189095 seconds.
+Source_nxi_008_nyi_004_nzi_025
+Elapsed time is 0.191858 seconds.
+Source_nxi_008_nyi_004_nzi_026
+Elapsed time is 0.175246 seconds.
+Source_nxi_008_nyi_004_nzi_027
+Elapsed time is 0.170998 seconds.
+Source_nxi_008_nyi_004_nzi_028
+Elapsed time is 0.185890 seconds.
+Source_nxi_008_nyi_004_nzi_029
+Elapsed time is 0.198750 seconds.
+Data Saved
+Source_nxi_008_nyi_005_nzi_001
+Elapsed time is 0.007786 seconds.
+Source_nxi_008_nyi_005_nzi_002
+Elapsed time is 0.010682 seconds.
+Source_nxi_008_nyi_005_nzi_003
+Elapsed time is 0.013794 seconds.
+Source_nxi_008_nyi_005_nzi_004
+Elapsed time is 0.017094 seconds.
+Source_nxi_008_nyi_005_nzi_005
+Elapsed time is 0.020329 seconds.
+Source_nxi_008_nyi_005_nzi_006
+Elapsed time is 0.027948 seconds.
+Source_nxi_008_nyi_005_nzi_007
+Elapsed time is 0.037351 seconds.
+Source_nxi_008_nyi_005_nzi_008
+Elapsed time is 0.044705 seconds.
+Source_nxi_008_nyi_005_nzi_009
+Elapsed time is 0.052627 seconds.
+Source_nxi_008_nyi_005_nzi_010
+Elapsed time is 0.032511 seconds.
+Source_nxi_008_nyi_005_nzi_011
+Elapsed time is 0.006277 seconds.
+Source_nxi_008_nyi_005_nzi_012
+Elapsed time is 0.006387 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_008_nyi_005_nzi_018
+Elapsed time is 0.006016 seconds.
+Source_nxi_008_nyi_005_nzi_019
+Elapsed time is 0.006164 seconds.
+Source_nxi_008_nyi_005_nzi_020
+Elapsed time is 0.034834 seconds.
+Source_nxi_008_nyi_005_nzi_021
+Elapsed time is 0.069107 seconds.
+Source_nxi_008_nyi_005_nzi_022
+Elapsed time is 0.077661 seconds.
+Source_nxi_008_nyi_005_nzi_023
+Elapsed time is 0.083741 seconds.
+Source_nxi_008_nyi_005_nzi_024
+Elapsed time is 0.104535 seconds.
+Source_nxi_008_nyi_005_nzi_025
+Elapsed time is 0.109281 seconds.
+Source_nxi_008_nyi_005_nzi_026
+Elapsed time is 0.121057 seconds.
+Source_nxi_008_nyi_005_nzi_027
+Elapsed time is 0.129625 seconds.
+Source_nxi_008_nyi_005_nzi_028
+Elapsed time is 0.148163 seconds.
+Source_nxi_008_nyi_005_nzi_029
+Elapsed time is 0.143575 seconds.
+Data Saved
+Source_nxi_009_nyi_001_nzi_001
+Elapsed time is 0.008867 seconds.
+Source_nxi_009_nyi_001_nzi_002
+Elapsed time is 0.012137 seconds.
+Source_nxi_009_nyi_001_nzi_003
+Elapsed time is 0.015823 seconds.
+Source_nxi_009_nyi_001_nzi_004
+Elapsed time is 0.019739 seconds.
+Source_nxi_009_nyi_001_nzi_005
+Elapsed time is 0.023469 seconds.
+Source_nxi_009_nyi_001_nzi_006
+Elapsed time is 0.031381 seconds.
+Source_nxi_009_nyi_001_nzi_007
+Elapsed time is 0.039837 seconds.
+Source_nxi_009_nyi_001_nzi_008
+Elapsed time is 0.048641 seconds.
+Source_nxi_009_nyi_001_nzi_009
+Elapsed time is 0.057655 seconds.
+Source_nxi_009_nyi_001_nzi_010
+Elapsed time is 0.036450 seconds.
+Source_nxi_009_nyi_001_nzi_011
+Elapsed time is 0.007078 seconds.
+Source_nxi_009_nyi_001_nzi_012
+Elapsed time is 0.007146 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_009_nyi_001_nzi_018
+Elapsed time is 0.006732 seconds.
+Source_nxi_009_nyi_001_nzi_019
+Elapsed time is 0.007156 seconds.
+Source_nxi_009_nyi_001_nzi_020
+Elapsed time is 0.040777 seconds.
+Source_nxi_009_nyi_001_nzi_021
+Elapsed time is 0.084474 seconds.
+Source_nxi_009_nyi_001_nzi_022
+Elapsed time is 0.090321 seconds.
+Source_nxi_009_nyi_001_nzi_023
+Elapsed time is 0.097263 seconds.
+Source_nxi_009_nyi_001_nzi_024
+Elapsed time is 0.105296 seconds.
+Source_nxi_009_nyi_001_nzi_025
+Elapsed time is 0.114043 seconds.
+Source_nxi_009_nyi_001_nzi_026
+Elapsed time is 0.122955 seconds.
+Source_nxi_009_nyi_001_nzi_027
+Elapsed time is 0.132670 seconds.
+Source_nxi_009_nyi_001_nzi_028
+Elapsed time is 0.139996 seconds.
+Source_nxi_009_nyi_001_nzi_029
+Elapsed time is 0.152280 seconds.
+Data Saved
+Source_nxi_009_nyi_002_nzi_001
+Elapsed time is 0.011043 seconds.
+Source_nxi_009_nyi_002_nzi_002
+Elapsed time is 0.016093 seconds.
+Source_nxi_009_nyi_002_nzi_003
+Elapsed time is 0.022182 seconds.
+Source_nxi_009_nyi_002_nzi_004
+Elapsed time is 0.028458 seconds.
+Source_nxi_009_nyi_002_nzi_005
+Elapsed time is 0.040976 seconds.
+Source_nxi_009_nyi_002_nzi_006
+Elapsed time is 0.053683 seconds.
+Source_nxi_009_nyi_002_nzi_007
+Elapsed time is 0.065682 seconds.
+Source_nxi_009_nyi_002_nzi_008
+Elapsed time is 0.078040 seconds.
+Source_nxi_009_nyi_002_nzi_009
+Elapsed time is 0.095916 seconds.
+Source_nxi_009_nyi_002_nzi_010
+Elapsed time is 0.046985 seconds.
+Source_nxi_009_nyi_002_nzi_011
+Elapsed time is 0.009044 seconds.
+Source_nxi_009_nyi_002_nzi_012
+Elapsed time is 0.008592 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_009_nyi_002_nzi_018
+Elapsed time is 0.008386 seconds.
+Source_nxi_009_nyi_002_nzi_019
+Elapsed time is 0.008744 seconds.
+Source_nxi_009_nyi_002_nzi_020
+Elapsed time is 0.052078 seconds.
+Source_nxi_009_nyi_002_nzi_021
+Elapsed time is 0.123281 seconds.
+Source_nxi_009_nyi_002_nzi_022
+Elapsed time is 0.137749 seconds.
+Source_nxi_009_nyi_002_nzi_023
+Elapsed time is 0.147964 seconds.
+Source_nxi_009_nyi_002_nzi_024
+Elapsed time is 0.161449 seconds.
+Source_nxi_009_nyi_002_nzi_025
+Elapsed time is 0.178501 seconds.
+Source_nxi_009_nyi_002_nzi_026
+Elapsed time is 0.182079 seconds.
+Source_nxi_009_nyi_002_nzi_027
+Elapsed time is 0.192894 seconds.
+Source_nxi_009_nyi_002_nzi_028
+Elapsed time is 0.208459 seconds.
+Source_nxi_009_nyi_002_nzi_029
+Elapsed time is 0.224335 seconds.
+Data Saved
+Source_nxi_009_nyi_003_nzi_001
+Elapsed time is 0.011962 seconds.
+Source_nxi_009_nyi_003_nzi_002
+Elapsed time is 0.017527 seconds.
+Source_nxi_009_nyi_003_nzi_003
+Elapsed time is 0.024307 seconds.
+Source_nxi_009_nyi_003_nzi_004
+Elapsed time is 0.031391 seconds.
+Source_nxi_009_nyi_003_nzi_005
+Elapsed time is 0.047455 seconds.
+Source_nxi_009_nyi_003_nzi_006
+Elapsed time is 0.061857 seconds.
+Source_nxi_009_nyi_003_nzi_007
+Elapsed time is 0.077148 seconds.
+Source_nxi_009_nyi_003_nzi_008
+Elapsed time is 0.092531 seconds.
+Source_nxi_009_nyi_003_nzi_009
+Elapsed time is 0.109211 seconds.
+Source_nxi_009_nyi_003_nzi_010
+Elapsed time is 0.057780 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_009_nyi_003_nzi_020
+Elapsed time is 0.061161 seconds.
+Source_nxi_009_nyi_003_nzi_021
+Elapsed time is 0.141603 seconds.
+Source_nxi_009_nyi_003_nzi_022
+Elapsed time is 0.154442 seconds.
+Source_nxi_009_nyi_003_nzi_023
+Elapsed time is 0.169195 seconds.
+Source_nxi_009_nyi_003_nzi_024
+Elapsed time is 0.181995 seconds.
+Source_nxi_009_nyi_003_nzi_025
+Elapsed time is 0.192532 seconds.
+Source_nxi_009_nyi_003_nzi_026
+Elapsed time is 0.199572 seconds.
+Source_nxi_009_nyi_003_nzi_027
+Elapsed time is 0.220653 seconds.
+Source_nxi_009_nyi_003_nzi_028
+Elapsed time is 0.235531 seconds.
+Source_nxi_009_nyi_003_nzi_029
+Elapsed time is 0.262235 seconds.
+Data Saved
+Source_nxi_009_nyi_004_nzi_001
+Elapsed time is 0.010532 seconds.
+Source_nxi_009_nyi_004_nzi_002
+Elapsed time is 0.015247 seconds.
+Source_nxi_009_nyi_004_nzi_003
+Elapsed time is 0.021358 seconds.
+Source_nxi_009_nyi_004_nzi_004
+Elapsed time is 0.027551 seconds.
+Source_nxi_009_nyi_004_nzi_005
+Elapsed time is 0.039140 seconds.
+Source_nxi_009_nyi_004_nzi_006
+Elapsed time is 0.053522 seconds.
+Source_nxi_009_nyi_004_nzi_007
+Elapsed time is 0.067163 seconds.
+Source_nxi_009_nyi_004_nzi_008
+Elapsed time is 0.082053 seconds.
+Source_nxi_009_nyi_004_nzi_009
+Elapsed time is 0.097764 seconds.
+Source_nxi_009_nyi_004_nzi_010
+Elapsed time is 0.047791 seconds.
+Source_nxi_009_nyi_004_nzi_011
+Elapsed time is 0.008682 seconds.
+Source_nxi_009_nyi_004_nzi_012
+Elapsed time is 0.008760 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_009_nyi_004_nzi_018
+Elapsed time is 0.008442 seconds.
+Source_nxi_009_nyi_004_nzi_019
+Elapsed time is 0.009048 seconds.
+Source_nxi_009_nyi_004_nzi_020
+Elapsed time is 0.051970 seconds.
+Source_nxi_009_nyi_004_nzi_021
+Elapsed time is 0.128012 seconds.
+Source_nxi_009_nyi_004_nzi_022
+Elapsed time is 0.136889 seconds.
+Source_nxi_009_nyi_004_nzi_023
+Elapsed time is 0.150592 seconds.
+Source_nxi_009_nyi_004_nzi_024
+Elapsed time is 0.160658 seconds.
+Source_nxi_009_nyi_004_nzi_025
+Elapsed time is 0.173297 seconds.
+Source_nxi_009_nyi_004_nzi_026
+Elapsed time is 0.179499 seconds.
+Source_nxi_009_nyi_004_nzi_027
+Elapsed time is 0.188882 seconds.
+Source_nxi_009_nyi_004_nzi_028
+Elapsed time is 0.201813 seconds.
+Source_nxi_009_nyi_004_nzi_029
+Elapsed time is 0.223716 seconds.
+Data Saved
+Source_nxi_009_nyi_005_nzi_001
+Elapsed time is 0.008680 seconds.
+Source_nxi_009_nyi_005_nzi_002
+Elapsed time is 0.012776 seconds.
+Source_nxi_009_nyi_005_nzi_003
+Elapsed time is 0.017854 seconds.
+Source_nxi_009_nyi_005_nzi_004
+Elapsed time is 0.024554 seconds.
+Source_nxi_009_nyi_005_nzi_005
+Elapsed time is 0.027933 seconds.
+Source_nxi_009_nyi_005_nzi_006
+Elapsed time is 0.042161 seconds.
+Source_nxi_009_nyi_005_nzi_007
+Elapsed time is 0.056870 seconds.
+Source_nxi_009_nyi_005_nzi_008
+Elapsed time is 0.069185 seconds.
+Source_nxi_009_nyi_005_nzi_009
+Elapsed time is 0.079451 seconds.
+Source_nxi_009_nyi_005_nzi_010
+Elapsed time is 0.047223 seconds.
+Source_nxi_009_nyi_005_nzi_011
+Elapsed time is 0.008415 seconds.
+Source_nxi_009_nyi_005_nzi_012
+Elapsed time is 0.009126 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_009_nyi_005_nzi_018
+Elapsed time is 0.008327 seconds.
+Source_nxi_009_nyi_005_nzi_019
+Elapsed time is 0.009616 seconds.
+Source_nxi_009_nyi_005_nzi_020
+Elapsed time is 0.055405 seconds.
+Source_nxi_009_nyi_005_nzi_021
+Elapsed time is 0.105843 seconds.
+Source_nxi_009_nyi_005_nzi_022
+Elapsed time is 0.116324 seconds.
+Source_nxi_009_nyi_005_nzi_023
+Elapsed time is 0.125352 seconds.
+Source_nxi_009_nyi_005_nzi_024
+Elapsed time is 0.138376 seconds.
+Source_nxi_009_nyi_005_nzi_025
+Elapsed time is 0.141336 seconds.
+Source_nxi_009_nyi_005_nzi_026
+Elapsed time is 0.152629 seconds.
+Source_nxi_009_nyi_005_nzi_027
+Elapsed time is 0.161240 seconds.
+Source_nxi_009_nyi_005_nzi_028
+Elapsed time is 0.176092 seconds.
+Source_nxi_009_nyi_005_nzi_029
+Elapsed time is 0.181175 seconds.
+Data Saved
+Source_nxi_010_nyi_001_nzi_001
+Elapsed time is 0.008818 seconds.
+Source_nxi_010_nyi_001_nzi_002
+Elapsed time is 0.012714 seconds.
+Source_nxi_010_nyi_001_nzi_003
+Elapsed time is 0.016585 seconds.
+Source_nxi_010_nyi_001_nzi_004
+Elapsed time is 0.022768 seconds.
+Source_nxi_010_nyi_001_nzi_005
+Elapsed time is 0.029084 seconds.
+Source_nxi_010_nyi_001_nzi_006
+Elapsed time is 0.036617 seconds.
+Source_nxi_010_nyi_001_nzi_007
+Elapsed time is 0.047147 seconds.
+Source_nxi_010_nyi_001_nzi_008
+Elapsed time is 0.055188 seconds.
+Source_nxi_010_nyi_001_nzi_009
+Elapsed time is 0.066184 seconds.
+Source_nxi_010_nyi_001_nzi_010
+Elapsed time is 0.036776 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_010_nyi_001_nzi_020
+Elapsed time is 0.036996 seconds.
+Source_nxi_010_nyi_001_nzi_021
+Elapsed time is 0.086512 seconds.
+Source_nxi_010_nyi_001_nzi_022
+Elapsed time is 0.090713 seconds.
+Source_nxi_010_nyi_001_nzi_023
+Elapsed time is 0.101518 seconds.
+Source_nxi_010_nyi_001_nzi_024
+Elapsed time is 0.108184 seconds.
+Source_nxi_010_nyi_001_nzi_025
+Elapsed time is 0.117468 seconds.
+Source_nxi_010_nyi_001_nzi_026
+Elapsed time is 0.124760 seconds.
+Source_nxi_010_nyi_001_nzi_027
+Elapsed time is 0.134610 seconds.
+Source_nxi_010_nyi_001_nzi_028
+Elapsed time is 0.146904 seconds.
+Source_nxi_010_nyi_001_nzi_029
+Elapsed time is 0.152816 seconds.
+Data Saved
+Source_nxi_010_nyi_002_nzi_001
+Elapsed time is 0.010828 seconds.
+Source_nxi_010_nyi_002_nzi_002
+Elapsed time is 0.017403 seconds.
+Source_nxi_010_nyi_002_nzi_003
+Elapsed time is 0.024677 seconds.
+Source_nxi_010_nyi_002_nzi_004
+Elapsed time is 0.031394 seconds.
+Source_nxi_010_nyi_002_nzi_005
+Elapsed time is 0.044539 seconds.
+Source_nxi_010_nyi_002_nzi_006
+Elapsed time is 0.064933 seconds.
+Source_nxi_010_nyi_002_nzi_007
+Elapsed time is 0.074310 seconds.
+Source_nxi_010_nyi_002_nzi_008
+Elapsed time is 0.090241 seconds.
+Source_nxi_010_nyi_002_nzi_009
+Elapsed time is 0.100579 seconds.
+Source_nxi_010_nyi_002_nzi_010
+Elapsed time is 0.049874 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_010_nyi_002_nzi_020
+Elapsed time is 0.051135 seconds.
+Source_nxi_010_nyi_002_nzi_021
+Elapsed time is 0.131720 seconds.
+Source_nxi_010_nyi_002_nzi_022
+Elapsed time is 0.142100 seconds.
+Source_nxi_010_nyi_002_nzi_023
+Elapsed time is 0.158616 seconds.
+Source_nxi_010_nyi_002_nzi_024
+Elapsed time is 0.172461 seconds.
+Source_nxi_010_nyi_002_nzi_025
+Elapsed time is 0.183766 seconds.
+Source_nxi_010_nyi_002_nzi_026
+Elapsed time is 0.200122 seconds.
+Source_nxi_010_nyi_002_nzi_027
+Elapsed time is 0.212847 seconds.
+Source_nxi_010_nyi_002_nzi_028
+Elapsed time is 0.216842 seconds.
+Source_nxi_010_nyi_002_nzi_029
+Elapsed time is 0.226893 seconds.
+Data Saved
+Source_nxi_010_nyi_003_nzi_001
+Elapsed time is 0.013135 seconds.
+Source_nxi_010_nyi_003_nzi_002
+Elapsed time is 0.020678 seconds.
+Source_nxi_010_nyi_003_nzi_003
+Elapsed time is 0.033139 seconds.
+Source_nxi_010_nyi_003_nzi_004
+Elapsed time is 0.044809 seconds.
+Source_nxi_010_nyi_003_nzi_005
+Elapsed time is 0.068130 seconds.
+Source_nxi_010_nyi_003_nzi_006
+Elapsed time is 0.082537 seconds.
+Source_nxi_010_nyi_003_nzi_007
+Elapsed time is 0.100484 seconds.
+Source_nxi_010_nyi_003_nzi_008
+Elapsed time is 0.126144 seconds.
+Source_nxi_010_nyi_003_nzi_009
+Elapsed time is 0.139604 seconds.
+Source_nxi_010_nyi_003_nzi_010
+Elapsed time is 0.067891 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_010_nyi_003_nzi_020
+Elapsed time is 0.078556 seconds.
+Source_nxi_010_nyi_003_nzi_021
+Elapsed time is 0.173243 seconds.
+Source_nxi_010_nyi_003_nzi_022
+Elapsed time is 0.193681 seconds.
+Source_nxi_010_nyi_003_nzi_023
+Elapsed time is 0.204400 seconds.
+Source_nxi_010_nyi_003_nzi_024
+Elapsed time is 0.222677 seconds.
+Source_nxi_010_nyi_003_nzi_025
+Elapsed time is 0.234495 seconds.
+Source_nxi_010_nyi_003_nzi_026
+Elapsed time is 0.243616 seconds.
+Source_nxi_010_nyi_003_nzi_027
+Elapsed time is 0.253630 seconds.
+Source_nxi_010_nyi_003_nzi_028
+Elapsed time is 0.275778 seconds.
+Source_nxi_010_nyi_003_nzi_029
+Elapsed time is 0.298673 seconds.
+Data Saved
+Source_nxi_010_nyi_004_nzi_001
+Elapsed time is 0.009959 seconds.
+Source_nxi_010_nyi_004_nzi_002
+Elapsed time is 0.015286 seconds.
+Source_nxi_010_nyi_004_nzi_003
+Elapsed time is 0.024006 seconds.
+Source_nxi_010_nyi_004_nzi_004
+Elapsed time is 0.030684 seconds.
+Source_nxi_010_nyi_004_nzi_005
+Elapsed time is 0.036843 seconds.
+Source_nxi_010_nyi_004_nzi_006
+Elapsed time is 0.065260 seconds.
+Source_nxi_010_nyi_004_nzi_007
+Elapsed time is 0.077959 seconds.
+Source_nxi_010_nyi_004_nzi_008
+Elapsed time is 0.088353 seconds.
+Source_nxi_010_nyi_004_nzi_009
+Elapsed time is 0.100689 seconds.
+Source_nxi_010_nyi_004_nzi_010
+Elapsed time is 0.045170 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_010_nyi_004_nzi_020
+Elapsed time is 0.044827 seconds.
+Source_nxi_010_nyi_004_nzi_021
+Elapsed time is 0.130096 seconds.
+Source_nxi_010_nyi_004_nzi_022
+Elapsed time is 0.144231 seconds.
+Source_nxi_010_nyi_004_nzi_023
+Elapsed time is 0.155677 seconds.
+Source_nxi_010_nyi_004_nzi_024
+Elapsed time is 0.171452 seconds.
+Source_nxi_010_nyi_004_nzi_025
+Elapsed time is 0.179721 seconds.
+Source_nxi_010_nyi_004_nzi_026
+Elapsed time is 0.200172 seconds.
+Source_nxi_010_nyi_004_nzi_027
+Elapsed time is 0.198998 seconds.
+Source_nxi_010_nyi_004_nzi_028
+Elapsed time is 0.210614 seconds.
+Source_nxi_010_nyi_004_nzi_029
+Elapsed time is 0.210316 seconds.
+Data Saved
+Source_nxi_010_nyi_005_nzi_001
+Elapsed time is 0.008973 seconds.
+Source_nxi_010_nyi_005_nzi_002
+Elapsed time is 0.010308 seconds.
+Source_nxi_010_nyi_005_nzi_003
+Elapsed time is 0.013184 seconds.
+Source_nxi_010_nyi_005_nzi_004
+Elapsed time is 0.016041 seconds.
+Source_nxi_010_nyi_005_nzi_005
+Elapsed time is 0.019233 seconds.
+Source_nxi_010_nyi_005_nzi_006
+Elapsed time is 0.023873 seconds.
+Source_nxi_010_nyi_005_nzi_007
+Elapsed time is 0.029708 seconds.
+Source_nxi_010_nyi_005_nzi_008
+Elapsed time is 0.035684 seconds.
+Source_nxi_010_nyi_005_nzi_009
+Elapsed time is 0.042053 seconds.
+Source_nxi_010_nyi_005_nzi_010
+Elapsed time is 0.024777 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_010_nyi_005_nzi_020
+Elapsed time is 0.027426 seconds.
+Source_nxi_010_nyi_005_nzi_021
+Elapsed time is 0.056323 seconds.
+Source_nxi_010_nyi_005_nzi_022
+Elapsed time is 0.063178 seconds.
+Source_nxi_010_nyi_005_nzi_023
+Elapsed time is 0.071006 seconds.
+Source_nxi_010_nyi_005_nzi_024
+Elapsed time is 0.078613 seconds.
+Source_nxi_010_nyi_005_nzi_025
+Elapsed time is 0.087353 seconds.
+Source_nxi_010_nyi_005_nzi_026
+Elapsed time is 0.094749 seconds.
+Source_nxi_010_nyi_005_nzi_027
+Elapsed time is 0.099854 seconds.
+Source_nxi_010_nyi_005_nzi_028
+Elapsed time is 0.100197 seconds.
+Source_nxi_010_nyi_005_nzi_029
+Elapsed time is 0.108571 seconds.
+Data Saved
+Source_nxi_011_nyi_001_nzi_001
+Elapsed time is 0.008857 seconds.
+Source_nxi_011_nyi_001_nzi_002
+Elapsed time is 0.012156 seconds.
+Source_nxi_011_nyi_001_nzi_003
+Elapsed time is 0.016180 seconds.
+Source_nxi_011_nyi_001_nzi_004
+Elapsed time is 0.019689 seconds.
+Source_nxi_011_nyi_001_nzi_005
+Elapsed time is 0.023362 seconds.
+Source_nxi_011_nyi_001_nzi_006
+Elapsed time is 0.031040 seconds.
+Source_nxi_011_nyi_001_nzi_007
+Elapsed time is 0.040165 seconds.
+Source_nxi_011_nyi_001_nzi_008
+Elapsed time is 0.047882 seconds.
+Source_nxi_011_nyi_001_nzi_009
+Elapsed time is 0.056332 seconds.
+Source_nxi_011_nyi_001_nzi_010
+Elapsed time is 0.034487 seconds.
+Source_nxi_011_nyi_001_nzi_011
+Elapsed time is 0.006743 seconds.
+Source_nxi_011_nyi_001_nzi_012
+Elapsed time is 0.006610 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_011_nyi_001_nzi_018
+Elapsed time is 0.006682 seconds.
+Source_nxi_011_nyi_001_nzi_019
+Elapsed time is 0.007070 seconds.
+Source_nxi_011_nyi_001_nzi_020
+Elapsed time is 0.039192 seconds.
+Source_nxi_011_nyi_001_nzi_021
+Elapsed time is 0.080265 seconds.
+Source_nxi_011_nyi_001_nzi_022
+Elapsed time is 0.089892 seconds.
+Source_nxi_011_nyi_001_nzi_023
+Elapsed time is 0.097666 seconds.
+Source_nxi_011_nyi_001_nzi_024
+Elapsed time is 0.105608 seconds.
+Source_nxi_011_nyi_001_nzi_025
+Elapsed time is 0.113469 seconds.
+Source_nxi_011_nyi_001_nzi_026
+Elapsed time is 0.123967 seconds.
+Source_nxi_011_nyi_001_nzi_027
+Elapsed time is 0.130254 seconds.
+Source_nxi_011_nyi_001_nzi_028
+Elapsed time is 0.139589 seconds.
+Source_nxi_011_nyi_001_nzi_029
+Elapsed time is 0.144231 seconds.
+Data Saved
+Source_nxi_011_nyi_002_nzi_001
+Elapsed time is 0.010704 seconds.
+Source_nxi_011_nyi_002_nzi_002
+Elapsed time is 0.015740 seconds.
+Source_nxi_011_nyi_002_nzi_003
+Elapsed time is 0.021656 seconds.
+Source_nxi_011_nyi_002_nzi_004
+Elapsed time is 0.027578 seconds.
+Source_nxi_011_nyi_002_nzi_005
+Elapsed time is 0.039674 seconds.
+Source_nxi_011_nyi_002_nzi_006
+Elapsed time is 0.052506 seconds.
+Source_nxi_011_nyi_002_nzi_007
+Elapsed time is 0.065158 seconds.
+Source_nxi_011_nyi_002_nzi_008
+Elapsed time is 0.077897 seconds.
+Source_nxi_011_nyi_002_nzi_009
+Elapsed time is 0.094311 seconds.
+Source_nxi_011_nyi_002_nzi_010
+Elapsed time is 0.047253 seconds.
+Source_nxi_011_nyi_002_nzi_011
+Elapsed time is 0.008878 seconds.
+Source_nxi_011_nyi_002_nzi_012
+Elapsed time is 0.009110 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_011_nyi_002_nzi_018
+Elapsed time is 0.008247 seconds.
+Source_nxi_011_nyi_002_nzi_019
+Elapsed time is 0.008393 seconds.
+Source_nxi_011_nyi_002_nzi_020
+Elapsed time is 0.050299 seconds.
+Source_nxi_011_nyi_002_nzi_021
+Elapsed time is 0.123506 seconds.
+Source_nxi_011_nyi_002_nzi_022
+Elapsed time is 0.139298 seconds.
+Source_nxi_011_nyi_002_nzi_023
+Elapsed time is 0.146863 seconds.
+Source_nxi_011_nyi_002_nzi_024
+Elapsed time is 0.164048 seconds.
+Source_nxi_011_nyi_002_nzi_025
+Elapsed time is 0.175757 seconds.
+Source_nxi_011_nyi_002_nzi_026
+Elapsed time is 0.183635 seconds.
+Source_nxi_011_nyi_002_nzi_027
+Elapsed time is 0.196155 seconds.
+Source_nxi_011_nyi_002_nzi_028
+Elapsed time is 0.210374 seconds.
+Source_nxi_011_nyi_002_nzi_029
+Elapsed time is 0.221596 seconds.
+Data Saved
+Source_nxi_011_nyi_003_nzi_001
+Elapsed time is 0.011753 seconds.
+Source_nxi_011_nyi_003_nzi_002
+Elapsed time is 0.017115 seconds.
+Source_nxi_011_nyi_003_nzi_003
+Elapsed time is 0.023922 seconds.
+Source_nxi_011_nyi_003_nzi_004
+Elapsed time is 0.031066 seconds.
+Source_nxi_011_nyi_003_nzi_005
+Elapsed time is 0.047868 seconds.
+Source_nxi_011_nyi_003_nzi_006
+Elapsed time is 0.061479 seconds.
+Source_nxi_011_nyi_003_nzi_007
+Elapsed time is 0.076724 seconds.
+Source_nxi_011_nyi_003_nzi_008
+Elapsed time is 0.091785 seconds.
+Source_nxi_011_nyi_003_nzi_009
+Elapsed time is 0.110800 seconds.
+Source_nxi_011_nyi_003_nzi_010
+Elapsed time is 0.057219 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_011_nyi_003_nzi_020
+Elapsed time is 0.061396 seconds.
+Source_nxi_011_nyi_003_nzi_021
+Elapsed time is 0.139954 seconds.
+Source_nxi_011_nyi_003_nzi_022
+Elapsed time is 0.155644 seconds.
+Source_nxi_011_nyi_003_nzi_023
+Elapsed time is 0.167895 seconds.
+Source_nxi_011_nyi_003_nzi_024
+Elapsed time is 0.181047 seconds.
+Source_nxi_011_nyi_003_nzi_025
+Elapsed time is 0.191492 seconds.
+Source_nxi_011_nyi_003_nzi_026
+Elapsed time is 0.201029 seconds.
+Source_nxi_011_nyi_003_nzi_027
+Elapsed time is 0.219956 seconds.
+Source_nxi_011_nyi_003_nzi_028
+Elapsed time is 0.235169 seconds.
+Source_nxi_011_nyi_003_nzi_029
+Elapsed time is 0.265607 seconds.
+Data Saved
+Source_nxi_011_nyi_004_nzi_001
+Elapsed time is 0.010646 seconds.
+Source_nxi_011_nyi_004_nzi_002
+Elapsed time is 0.015363 seconds.
+Source_nxi_011_nyi_004_nzi_003
+Elapsed time is 0.021243 seconds.
+Source_nxi_011_nyi_004_nzi_004
+Elapsed time is 0.027637 seconds.
+Source_nxi_011_nyi_004_nzi_005
+Elapsed time is 0.040961 seconds.
+Source_nxi_011_nyi_004_nzi_006
+Elapsed time is 0.053958 seconds.
+Source_nxi_011_nyi_004_nzi_007
+Elapsed time is 0.068320 seconds.
+Source_nxi_011_nyi_004_nzi_008
+Elapsed time is 0.080394 seconds.
+Source_nxi_011_nyi_004_nzi_009
+Elapsed time is 0.097504 seconds.
+Source_nxi_011_nyi_004_nzi_010
+Elapsed time is 0.048549 seconds.
+Source_nxi_011_nyi_004_nzi_011
+Elapsed time is 0.009089 seconds.
+Source_nxi_011_nyi_004_nzi_012
+Elapsed time is 0.009022 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_011_nyi_004_nzi_018
+Elapsed time is 0.008360 seconds.
+Source_nxi_011_nyi_004_nzi_019
+Elapsed time is 0.008741 seconds.
+Source_nxi_011_nyi_004_nzi_020
+Elapsed time is 0.051700 seconds.
+Source_nxi_011_nyi_004_nzi_021
+Elapsed time is 0.125206 seconds.
+Source_nxi_011_nyi_004_nzi_022
+Elapsed time is 0.142479 seconds.
+Source_nxi_011_nyi_004_nzi_023
+Elapsed time is 0.151004 seconds.
+Source_nxi_011_nyi_004_nzi_024
+Elapsed time is 0.162927 seconds.
+Source_nxi_011_nyi_004_nzi_025
+Elapsed time is 0.177260 seconds.
+Source_nxi_011_nyi_004_nzi_026
+Elapsed time is 0.181896 seconds.
+Source_nxi_011_nyi_004_nzi_027
+Elapsed time is 0.194739 seconds.
+Source_nxi_011_nyi_004_nzi_028
+Elapsed time is 0.207421 seconds.
+Source_nxi_011_nyi_004_nzi_029
+Elapsed time is 0.220084 seconds.
+Data Saved
+Source_nxi_011_nyi_005_nzi_001
+Elapsed time is 0.008508 seconds.
+Source_nxi_011_nyi_005_nzi_002
+Elapsed time is 0.011199 seconds.
+Source_nxi_011_nyi_005_nzi_003
+Elapsed time is 0.014217 seconds.
+Source_nxi_011_nyi_005_nzi_004
+Elapsed time is 0.017227 seconds.
+Source_nxi_011_nyi_005_nzi_005
+Elapsed time is 0.020459 seconds.
+Source_nxi_011_nyi_005_nzi_006
+Elapsed time is 0.027828 seconds.
+Source_nxi_011_nyi_005_nzi_007
+Elapsed time is 0.034765 seconds.
+Source_nxi_011_nyi_005_nzi_008
+Elapsed time is 0.046163 seconds.
+Source_nxi_011_nyi_005_nzi_009
+Elapsed time is 0.073453 seconds.
+Source_nxi_011_nyi_005_nzi_010
+Elapsed time is 0.044380 seconds.
+Source_nxi_011_nyi_005_nzi_011
+Elapsed time is 0.008254 seconds.
+Source_nxi_011_nyi_005_nzi_012
+Elapsed time is 0.008232 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_011_nyi_005_nzi_018
+Elapsed time is 0.007497 seconds.
+Source_nxi_011_nyi_005_nzi_019
+Elapsed time is 0.008991 seconds.
+Source_nxi_011_nyi_005_nzi_020
+Elapsed time is 0.050848 seconds.
+Source_nxi_011_nyi_005_nzi_021
+Elapsed time is 0.099118 seconds.
+Source_nxi_011_nyi_005_nzi_022
+Elapsed time is 0.105039 seconds.
+Source_nxi_011_nyi_005_nzi_023
+Elapsed time is 0.113713 seconds.
+Source_nxi_011_nyi_005_nzi_024
+Elapsed time is 0.128249 seconds.
+Source_nxi_011_nyi_005_nzi_025
+Elapsed time is 0.134183 seconds.
+Source_nxi_011_nyi_005_nzi_026
+Elapsed time is 0.153091 seconds.
+Source_nxi_011_nyi_005_nzi_027
+Elapsed time is 0.162672 seconds.
+Source_nxi_011_nyi_005_nzi_028
+Elapsed time is 0.175769 seconds.
+Source_nxi_011_nyi_005_nzi_029
+Elapsed time is 0.178619 seconds.
+Data Saved
+Source_nxi_012_nyi_001_nzi_001
+Elapsed time is 0.009682 seconds.
+Source_nxi_012_nyi_001_nzi_002
+Elapsed time is 0.015798 seconds.
+Source_nxi_012_nyi_001_nzi_003
+Elapsed time is 0.018799 seconds.
+Source_nxi_012_nyi_001_nzi_004
+Elapsed time is 0.025116 seconds.
+Source_nxi_012_nyi_001_nzi_005
+Elapsed time is 0.030664 seconds.
+Source_nxi_012_nyi_001_nzi_006
+Elapsed time is 0.043426 seconds.
+Source_nxi_012_nyi_001_nzi_007
+Elapsed time is 0.055316 seconds.
+Source_nxi_012_nyi_001_nzi_008
+Elapsed time is 0.066911 seconds.
+Source_nxi_012_nyi_001_nzi_009
+Elapsed time is 0.073359 seconds.
+Source_nxi_012_nyi_001_nzi_010
+Elapsed time is 0.047438 seconds.
+Source_nxi_012_nyi_001_nzi_011
+Elapsed time is 0.008652 seconds.
+Source_nxi_012_nyi_001_nzi_012
+Elapsed time is 0.008935 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_012_nyi_001_nzi_018
+Elapsed time is 0.008647 seconds.
+Source_nxi_012_nyi_001_nzi_019
+Elapsed time is 0.008940 seconds.
+Source_nxi_012_nyi_001_nzi_020
+Elapsed time is 0.051127 seconds.
+Source_nxi_012_nyi_001_nzi_021
+Elapsed time is 0.098342 seconds.
+Source_nxi_012_nyi_001_nzi_022
+Elapsed time is 0.110377 seconds.
+Source_nxi_012_nyi_001_nzi_023
+Elapsed time is 0.121644 seconds.
+Source_nxi_012_nyi_001_nzi_024
+Elapsed time is 0.133387 seconds.
+Source_nxi_012_nyi_001_nzi_025
+Elapsed time is 0.137468 seconds.
+Source_nxi_012_nyi_001_nzi_026
+Elapsed time is 0.149255 seconds.
+Source_nxi_012_nyi_001_nzi_027
+Elapsed time is 0.159762 seconds.
+Source_nxi_012_nyi_001_nzi_028
+Elapsed time is 0.171764 seconds.
+Source_nxi_012_nyi_001_nzi_029
+Elapsed time is 0.173943 seconds.
+Data Saved
+Source_nxi_012_nyi_002_nzi_001
+Elapsed time is 0.011980 seconds.
+Source_nxi_012_nyi_002_nzi_002
+Elapsed time is 0.018248 seconds.
+Source_nxi_012_nyi_002_nzi_003
+Elapsed time is 0.026555 seconds.
+Source_nxi_012_nyi_002_nzi_004
+Elapsed time is 0.036791 seconds.
+Source_nxi_012_nyi_002_nzi_005
+Elapsed time is 0.053450 seconds.
+Source_nxi_012_nyi_002_nzi_006
+Elapsed time is 0.071502 seconds.
+Source_nxi_012_nyi_002_nzi_007
+Elapsed time is 0.085451 seconds.
+Source_nxi_012_nyi_002_nzi_008
+Elapsed time is 0.100307 seconds.
+Source_nxi_012_nyi_002_nzi_009
+Elapsed time is 0.113576 seconds.
+Source_nxi_012_nyi_002_nzi_010
+Elapsed time is 0.056837 seconds.
+Source_nxi_012_nyi_002_nzi_011
+Elapsed time is 0.010515 seconds.
+Source_nxi_012_nyi_002_nzi_012
+Elapsed time is 0.010373 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_012_nyi_002_nzi_018
+Elapsed time is 0.010333 seconds.
+Source_nxi_012_nyi_002_nzi_019
+Elapsed time is 0.010997 seconds.
+Source_nxi_012_nyi_002_nzi_020
+Elapsed time is 0.061752 seconds.
+Source_nxi_012_nyi_002_nzi_021
+Elapsed time is 0.154766 seconds.
+Source_nxi_012_nyi_002_nzi_022
+Elapsed time is 0.163112 seconds.
+Source_nxi_012_nyi_002_nzi_023
+Elapsed time is 0.175936 seconds.
+Source_nxi_012_nyi_002_nzi_024
+Elapsed time is 0.198543 seconds.
+Source_nxi_012_nyi_002_nzi_025
+Elapsed time is 0.210091 seconds.
+Source_nxi_012_nyi_002_nzi_026
+Elapsed time is 0.220829 seconds.
+Source_nxi_012_nyi_002_nzi_027
+Elapsed time is 0.230913 seconds.
+Source_nxi_012_nyi_002_nzi_028
+Elapsed time is 0.236732 seconds.
+Source_nxi_012_nyi_002_nzi_029
+Elapsed time is 0.259807 seconds.
+Data Saved
+Source_nxi_012_nyi_003_nzi_001
+Elapsed time is 0.012504 seconds.
+Source_nxi_012_nyi_003_nzi_002
+Elapsed time is 0.018339 seconds.
+Source_nxi_012_nyi_003_nzi_003
+Elapsed time is 0.027018 seconds.
+Source_nxi_012_nyi_003_nzi_004
+Elapsed time is 0.041744 seconds.
+Source_nxi_012_nyi_003_nzi_005
+Elapsed time is 0.060945 seconds.
+Source_nxi_012_nyi_003_nzi_006
+Elapsed time is 0.079538 seconds.
+Source_nxi_012_nyi_003_nzi_007
+Elapsed time is 0.098703 seconds.
+Source_nxi_012_nyi_003_nzi_008
+Elapsed time is 0.113315 seconds.
+Source_nxi_012_nyi_003_nzi_009
+Elapsed time is 0.131270 seconds.
+Source_nxi_012_nyi_003_nzi_010
+Elapsed time is 0.070528 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_012_nyi_003_nzi_020
+Elapsed time is 0.072732 seconds.
+Source_nxi_012_nyi_003_nzi_021
+Elapsed time is 0.168290 seconds.
+Source_nxi_012_nyi_003_nzi_022
+Elapsed time is 0.181655 seconds.
+Source_nxi_012_nyi_003_nzi_023
+Elapsed time is 0.200882 seconds.
+Source_nxi_012_nyi_003_nzi_024
+Elapsed time is 0.218385 seconds.
+Source_nxi_012_nyi_003_nzi_025
+Elapsed time is 0.235283 seconds.
+Source_nxi_012_nyi_003_nzi_026
+Elapsed time is 0.239072 seconds.
+Source_nxi_012_nyi_003_nzi_027
+Elapsed time is 0.250399 seconds.
+Source_nxi_012_nyi_003_nzi_028
+Elapsed time is 0.268836 seconds.
+Source_nxi_012_nyi_003_nzi_029
+Elapsed time is 0.298376 seconds.
+Data Saved
+Source_nxi_012_nyi_004_nzi_001
+Elapsed time is 0.011619 seconds.
+Source_nxi_012_nyi_004_nzi_002
+Elapsed time is 0.016991 seconds.
+Source_nxi_012_nyi_004_nzi_003
+Elapsed time is 0.022429 seconds.
+Source_nxi_012_nyi_004_nzi_004
+Elapsed time is 0.036150 seconds.
+Source_nxi_012_nyi_004_nzi_005
+Elapsed time is 0.055307 seconds.
+Source_nxi_012_nyi_004_nzi_006
+Elapsed time is 0.069260 seconds.
+Source_nxi_012_nyi_004_nzi_007
+Elapsed time is 0.085563 seconds.
+Source_nxi_012_nyi_004_nzi_008
+Elapsed time is 0.095520 seconds.
+Source_nxi_012_nyi_004_nzi_009
+Elapsed time is 0.110872 seconds.
+Source_nxi_012_nyi_004_nzi_010
+Elapsed time is 0.054975 seconds.
+Source_nxi_012_nyi_004_nzi_011
+Elapsed time is 0.010441 seconds.
+Source_nxi_012_nyi_004_nzi_012
+Elapsed time is 0.010617 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_012_nyi_004_nzi_018
+Elapsed time is 0.010273 seconds.
+Source_nxi_012_nyi_004_nzi_019
+Elapsed time is 0.011053 seconds.
+Source_nxi_012_nyi_004_nzi_020
+Elapsed time is 0.062133 seconds.
+Source_nxi_012_nyi_004_nzi_021
+Elapsed time is 0.148338 seconds.
+Source_nxi_012_nyi_004_nzi_022
+Elapsed time is 0.156082 seconds.
+Source_nxi_012_nyi_004_nzi_023
+Elapsed time is 0.178278 seconds.
+Source_nxi_012_nyi_004_nzi_024
+Elapsed time is 0.192376 seconds.
+Source_nxi_012_nyi_004_nzi_025
+Elapsed time is 0.210430 seconds.
+Source_nxi_012_nyi_004_nzi_026
+Elapsed time is 0.215666 seconds.
+Source_nxi_012_nyi_004_nzi_027
+Elapsed time is 0.229588 seconds.
+Source_nxi_012_nyi_004_nzi_028
+Elapsed time is 0.234104 seconds.
+Source_nxi_012_nyi_004_nzi_029
+Elapsed time is 0.253688 seconds.
+Data Saved
+Source_nxi_012_nyi_005_nzi_001
+Elapsed time is 0.007819 seconds.
+Source_nxi_012_nyi_005_nzi_002
+Elapsed time is 0.010701 seconds.
+Source_nxi_012_nyi_005_nzi_003
+Elapsed time is 0.013837 seconds.
+Source_nxi_012_nyi_005_nzi_004
+Elapsed time is 0.017161 seconds.
+Source_nxi_012_nyi_005_nzi_005
+Elapsed time is 0.020288 seconds.
+Source_nxi_012_nyi_005_nzi_006
+Elapsed time is 0.027624 seconds.
+Source_nxi_012_nyi_005_nzi_007
+Elapsed time is 0.034357 seconds.
+Source_nxi_012_nyi_005_nzi_008
+Elapsed time is 0.042002 seconds.
+Source_nxi_012_nyi_005_nzi_009
+Elapsed time is 0.049693 seconds.
+Source_nxi_012_nyi_005_nzi_010
+Elapsed time is 0.030043 seconds.
+Source_nxi_012_nyi_005_nzi_011
+Elapsed time is 0.005726 seconds.
+Source_nxi_012_nyi_005_nzi_012
+Elapsed time is 0.005647 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_012_nyi_005_nzi_018
+Elapsed time is 0.005598 seconds.
+Source_nxi_012_nyi_005_nzi_019
+Elapsed time is 0.005680 seconds.
+Source_nxi_012_nyi_005_nzi_020
+Elapsed time is 0.033466 seconds.
+Source_nxi_012_nyi_005_nzi_021
+Elapsed time is 0.068459 seconds.
+Source_nxi_012_nyi_005_nzi_022
+Elapsed time is 0.074702 seconds.
+Source_nxi_012_nyi_005_nzi_023
+Elapsed time is 0.083535 seconds.
+Source_nxi_012_nyi_005_nzi_024
+Elapsed time is 0.088188 seconds.
+Source_nxi_012_nyi_005_nzi_025
+Elapsed time is 0.095640 seconds.
+Source_nxi_012_nyi_005_nzi_026
+Elapsed time is 0.103374 seconds.
+Source_nxi_012_nyi_005_nzi_027
+Elapsed time is 0.110701 seconds.
+Source_nxi_012_nyi_005_nzi_028
+Elapsed time is 0.116403 seconds.
+Source_nxi_012_nyi_005_nzi_029
+Elapsed time is 0.126792 seconds.
+Data Saved
+Source_nxi_013_nyi_001_nzi_001
+Elapsed time is 0.011219 seconds.
+Source_nxi_013_nyi_001_nzi_002
+Elapsed time is 0.014039 seconds.
+Source_nxi_013_nyi_001_nzi_003
+Elapsed time is 0.019470 seconds.
+Source_nxi_013_nyi_001_nzi_004
+Elapsed time is 0.024323 seconds.
+Source_nxi_013_nyi_001_nzi_005
+Elapsed time is 0.032874 seconds.
+Source_nxi_013_nyi_001_nzi_006
+Elapsed time is 0.044250 seconds.
+Source_nxi_013_nyi_001_nzi_007
+Elapsed time is 0.054968 seconds.
+Source_nxi_013_nyi_001_nzi_008
+Elapsed time is 0.066752 seconds.
+Source_nxi_013_nyi_001_nzi_009
+Elapsed time is 0.077180 seconds.
+Source_nxi_013_nyi_001_nzi_010
+Elapsed time is 0.055400 seconds.
+Source_nxi_013_nyi_001_nzi_011
+Elapsed time is 0.021203 seconds.
+Source_nxi_013_nyi_001_nzi_012
+Elapsed time is 0.021318 seconds.
+Source_nxi_013_nyi_001_nzi_013
+Elapsed time is 0.015157 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_013_nyi_001_nzi_017
+Elapsed time is 0.014951 seconds.
+Source_nxi_013_nyi_001_nzi_018
+Elapsed time is 0.022342 seconds.
+Source_nxi_013_nyi_001_nzi_019
+Elapsed time is 0.023248 seconds.
+Source_nxi_013_nyi_001_nzi_020
+Elapsed time is 0.067134 seconds.
+Source_nxi_013_nyi_001_nzi_021
+Elapsed time is 0.119349 seconds.
+Source_nxi_013_nyi_001_nzi_022
+Elapsed time is 0.127402 seconds.
+Source_nxi_013_nyi_001_nzi_023
+Elapsed time is 0.140694 seconds.
+Source_nxi_013_nyi_001_nzi_024
+Elapsed time is 0.152290 seconds.
+Source_nxi_013_nyi_001_nzi_025
+Elapsed time is 0.159472 seconds.
+Source_nxi_013_nyi_001_nzi_026
+Elapsed time is 0.170517 seconds.
+Source_nxi_013_nyi_001_nzi_027
+Elapsed time is 0.180163 seconds.
+Source_nxi_013_nyi_001_nzi_028
+Elapsed time is 0.198202 seconds.
+Source_nxi_013_nyi_001_nzi_029
+Elapsed time is 0.207339 seconds.
+Data Saved
+Source_nxi_013_nyi_002_nzi_001
+Elapsed time is 0.014950 seconds.
+Source_nxi_013_nyi_002_nzi_002
+Elapsed time is 0.020368 seconds.
+Source_nxi_013_nyi_002_nzi_003
+Elapsed time is 0.027991 seconds.
+Source_nxi_013_nyi_002_nzi_004
+Elapsed time is 0.049387 seconds.
+Source_nxi_013_nyi_002_nzi_005
+Elapsed time is 0.059973 seconds.
+Source_nxi_013_nyi_002_nzi_006
+Elapsed time is 0.077652 seconds.
+Source_nxi_013_nyi_002_nzi_007
+Elapsed time is 0.097133 seconds.
+Source_nxi_013_nyi_002_nzi_008
+Elapsed time is 0.121548 seconds.
+Source_nxi_013_nyi_002_nzi_009
+Elapsed time is 0.140058 seconds.
+Source_nxi_013_nyi_002_nzi_010
+Elapsed time is 0.082598 seconds.
+Source_nxi_013_nyi_002_nzi_011
+Elapsed time is 0.035379 seconds.
+Source_nxi_013_nyi_002_nzi_012
+Elapsed time is 0.038659 seconds.
+Source_nxi_013_nyi_002_nzi_013
+Elapsed time is 0.027546 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_013_nyi_002_nzi_017
+Elapsed time is 0.028143 seconds.
+Source_nxi_013_nyi_002_nzi_018
+Elapsed time is 0.037161 seconds.
+Source_nxi_013_nyi_002_nzi_019
+Elapsed time is 0.038822 seconds.
+Source_nxi_013_nyi_002_nzi_020
+Elapsed time is 0.097627 seconds.
+Source_nxi_013_nyi_002_nzi_021
+Elapsed time is 0.198556 seconds.
+Source_nxi_013_nyi_002_nzi_022
+Elapsed time is 0.211027 seconds.
+Source_nxi_013_nyi_002_nzi_023
+Elapsed time is 0.224932 seconds.
+Source_nxi_013_nyi_002_nzi_024
+Elapsed time is 0.246324 seconds.
+Source_nxi_013_nyi_002_nzi_025
+Elapsed time is 0.268422 seconds.
+Source_nxi_013_nyi_002_nzi_026
+Elapsed time is 0.293694 seconds.
+Source_nxi_013_nyi_002_nzi_027
+Elapsed time is 0.300621 seconds.
+Source_nxi_013_nyi_002_nzi_028
+Elapsed time is 0.302934 seconds.
+Source_nxi_013_nyi_002_nzi_029
+Elapsed time is 0.315590 seconds.
+Data Saved
+Source_nxi_013_nyi_003_nzi_001
+Elapsed time is 0.015652 seconds.
+Source_nxi_013_nyi_003_nzi_002
+Elapsed time is 0.022751 seconds.
+Source_nxi_013_nyi_003_nzi_003
+Elapsed time is 0.031413 seconds.
+Source_nxi_013_nyi_003_nzi_004
+Elapsed time is 0.047259 seconds.
+Source_nxi_013_nyi_003_nzi_005
+Elapsed time is 0.068054 seconds.
+Source_nxi_013_nyi_003_nzi_006
+Elapsed time is 0.087998 seconds.
+Source_nxi_013_nyi_003_nzi_007
+Elapsed time is 0.110914 seconds.
+Source_nxi_013_nyi_003_nzi_008
+Elapsed time is 0.134905 seconds.
+Source_nxi_013_nyi_003_nzi_009
+Elapsed time is 0.157179 seconds.
+Source_nxi_013_nyi_003_nzi_010
+Elapsed time is 0.095806 seconds.
+Source_nxi_013_nyi_003_nzi_011
+Elapsed time is 0.031575 seconds.
+Source_nxi_013_nyi_003_nzi_012
+Elapsed time is 0.028822 seconds.
+Source_nxi_013_nyi_003_nzi_013
+Elapsed time is 0.029294 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_013_nyi_003_nzi_017
+Elapsed time is 0.029260 seconds.
+Source_nxi_013_nyi_003_nzi_018
+Elapsed time is 0.029826 seconds.
+Source_nxi_013_nyi_003_nzi_019
+Elapsed time is 0.031570 seconds.
+Source_nxi_013_nyi_003_nzi_020
+Elapsed time is 0.111382 seconds.
+Source_nxi_013_nyi_003_nzi_021
+Elapsed time is 0.216601 seconds.
+Source_nxi_013_nyi_003_nzi_022
+Elapsed time is 0.230614 seconds.
+Source_nxi_013_nyi_003_nzi_023
+Elapsed time is 0.248307 seconds.
+Source_nxi_013_nyi_003_nzi_024
+Elapsed time is 0.270795 seconds.
+Source_nxi_013_nyi_003_nzi_025
+Elapsed time is 0.299331 seconds.
+Source_nxi_013_nyi_003_nzi_026
+Elapsed time is 0.325984 seconds.
+Source_nxi_013_nyi_003_nzi_027
+Elapsed time is 0.310814 seconds.
+Source_nxi_013_nyi_003_nzi_028
+Elapsed time is 0.321276 seconds.
+Source_nxi_013_nyi_003_nzi_029
+Elapsed time is 0.347613 seconds.
+Data Saved
+Source_nxi_013_nyi_004_nzi_001
+Elapsed time is 0.015690 seconds.
+Source_nxi_013_nyi_004_nzi_002
+Elapsed time is 0.022376 seconds.
+Source_nxi_013_nyi_004_nzi_003
+Elapsed time is 0.036168 seconds.
+Source_nxi_013_nyi_004_nzi_004
+Elapsed time is 0.052772 seconds.
+Source_nxi_013_nyi_004_nzi_005
+Elapsed time is 0.080427 seconds.
+Source_nxi_013_nyi_004_nzi_006
+Elapsed time is 0.103194 seconds.
+Source_nxi_013_nyi_004_nzi_007
+Elapsed time is 0.124147 seconds.
+Source_nxi_013_nyi_004_nzi_008
+Elapsed time is 0.144264 seconds.
+Source_nxi_013_nyi_004_nzi_009
+Elapsed time is 0.168541 seconds.
+Source_nxi_013_nyi_004_nzi_010
+Elapsed time is 0.100339 seconds.
+Source_nxi_013_nyi_004_nzi_011
+Elapsed time is 0.038669 seconds.
+Source_nxi_013_nyi_004_nzi_012
+Elapsed time is 0.042722 seconds.
+Source_nxi_013_nyi_004_nzi_013
+Elapsed time is 0.032220 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_013_nyi_004_nzi_017
+Elapsed time is 0.033929 seconds.
+Source_nxi_013_nyi_004_nzi_018
+Elapsed time is 0.044540 seconds.
+Source_nxi_013_nyi_004_nzi_019
+Elapsed time is 0.044646 seconds.
+Source_nxi_013_nyi_004_nzi_020
+Elapsed time is 0.117003 seconds.
+Source_nxi_013_nyi_004_nzi_021
+Elapsed time is 0.234637 seconds.
+Source_nxi_013_nyi_004_nzi_022
+Elapsed time is 0.256962 seconds.
+Source_nxi_013_nyi_004_nzi_023
+Elapsed time is 0.268126 seconds.
+Source_nxi_013_nyi_004_nzi_024
+Elapsed time is 0.284350 seconds.
+Source_nxi_013_nyi_004_nzi_025
+Elapsed time is 0.314293 seconds.
+Source_nxi_013_nyi_004_nzi_026
+Elapsed time is 0.333324 seconds.
+Source_nxi_013_nyi_004_nzi_027
+Elapsed time is 0.349250 seconds.
+Source_nxi_013_nyi_004_nzi_028
+Elapsed time is 0.344912 seconds.
+Source_nxi_013_nyi_004_nzi_029
+Elapsed time is 0.358075 seconds.
+Data Saved
+Source_nxi_013_nyi_005_nzi_001
+Elapsed time is 0.014184 seconds.
+Source_nxi_013_nyi_005_nzi_002
+Elapsed time is 0.016518 seconds.
+Source_nxi_013_nyi_005_nzi_003
+Elapsed time is 0.023571 seconds.
+Source_nxi_013_nyi_005_nzi_004
+Elapsed time is 0.029558 seconds.
+Source_nxi_013_nyi_005_nzi_005
+Elapsed time is 0.044747 seconds.
+Source_nxi_013_nyi_005_nzi_006
+Elapsed time is 0.062688 seconds.
+Source_nxi_013_nyi_005_nzi_007
+Elapsed time is 0.073557 seconds.
+Source_nxi_013_nyi_005_nzi_008
+Elapsed time is 0.090541 seconds.
+Source_nxi_013_nyi_005_nzi_009
+Elapsed time is 0.100628 seconds.
+Source_nxi_013_nyi_005_nzi_010
+Elapsed time is 0.069558 seconds.
+Source_nxi_013_nyi_005_nzi_011
+Elapsed time is 0.025978 seconds.
+Source_nxi_013_nyi_005_nzi_012
+Elapsed time is 0.027048 seconds.
+Source_nxi_013_nyi_005_nzi_013
+Elapsed time is 0.018268 seconds.
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Skipped due to no Src-Snk combinations
+Source_nxi_013_nyi_005_nzi_017
+Elapsed time is 0.018234 seconds.
+Source_nxi_013_nyi_005_nzi_018
+Elapsed time is 0.026510 seconds.
+Source_nxi_013_nyi_005_nzi_019
+Elapsed time is 0.026811 seconds.
+Source_nxi_013_nyi_005_nzi_020
+Elapsed time is 0.084673 seconds.
+Source_nxi_013_nyi_005_nzi_021
+Elapsed time is 0.146338 seconds.
+Source_nxi_013_nyi_005_nzi_022
+Elapsed time is 0.157845 seconds.
+Source_nxi_013_nyi_005_nzi_023
+Elapsed time is 0.173133 seconds.
+Source_nxi_013_nyi_005_nzi_024
+Elapsed time is 0.183621 seconds.
+Source_nxi_013_nyi_005_nzi_025
+Elapsed time is 0.204883 seconds.
+Source_nxi_013_nyi_005_nzi_026
+Elapsed time is 0.207871 seconds.
+Source_nxi_013_nyi_005_nzi_027
+Elapsed time is 0.221229 seconds.
+Source_nxi_013_nyi_005_nzi_028
+Elapsed time is 0.226029 seconds.
+Source_nxi_013_nyi_005_nzi_029
+Elapsed time is 0.244454 seconds.
+Data Saved
+Source_nxi_014_nyi_001_nzi_001
+Elapsed time is 0.010028 seconds.
+Source_nxi_014_nyi_001_nzi_002
+Elapsed time is 0.014925 seconds.
+Source_nxi_014_nyi_001_nzi_003
+Elapsed time is 0.020404 seconds.
+Source_nxi_014_nyi_001_nzi_004
+Elapsed time is 0.030036 seconds.
+Source_nxi_014_nyi_001_nzi_005
+Elapsed time is 0.038075 seconds.
+Source_nxi_014_nyi_001_nzi_006
+Elapsed time is 0.051862 seconds.
+Source_nxi_014_nyi_001_nzi_007
+Elapsed time is 0.064870 seconds.
+Source_nxi_014_nyi_001_nzi_008
+Elapsed time is 0.074692 seconds.
+Source_nxi_014_nyi_001_nzi_009
+Elapsed time is 0.086519 seconds.
+Source_nxi_014_nyi_001_nzi_010
+Elapsed time is 0.054863 seconds.
+Source_nxi_014_nyi_001_nzi_011
+Elapsed time is 0.028967 seconds.
+Source_nxi_014_nyi_001_nzi_012
+Elapsed time is 0.028554 seconds.
+Source_nxi_014_nyi_001_nzi_013
+Elapsed time is 0.023510 seconds.
+Source_nxi_014_nyi_001_nzi_014
+Elapsed time is 0.009792 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_014_nyi_001_nzi_016
+Elapsed time is 0.009225 seconds.
+Source_nxi_014_nyi_001_nzi_017
+Elapsed time is 0.025388 seconds.
+Source_nxi_014_nyi_001_nzi_018
+Elapsed time is 0.035294 seconds.
+Source_nxi_014_nyi_001_nzi_019
+Elapsed time is 0.036135 seconds.
+Source_nxi_014_nyi_001_nzi_020
+Elapsed time is 0.071571 seconds.
+Source_nxi_014_nyi_001_nzi_021
+Elapsed time is 0.127746 seconds.
+Source_nxi_014_nyi_001_nzi_022
+Elapsed time is 0.140894 seconds.
+Source_nxi_014_nyi_001_nzi_023
+Elapsed time is 0.152279 seconds.
+Source_nxi_014_nyi_001_nzi_024
+Elapsed time is 0.169293 seconds.
+Source_nxi_014_nyi_001_nzi_025
+Elapsed time is 0.180647 seconds.
+Source_nxi_014_nyi_001_nzi_026
+Elapsed time is 0.187254 seconds.
+Source_nxi_014_nyi_001_nzi_027
+Elapsed time is 0.191957 seconds.
+Source_nxi_014_nyi_001_nzi_028
+Elapsed time is 0.198890 seconds.
+Source_nxi_014_nyi_001_nzi_029
+Elapsed time is 0.212488 seconds.
+Data Saved
+Source_nxi_014_nyi_002_nzi_001
+Elapsed time is 0.012412 seconds.
+Source_nxi_014_nyi_002_nzi_002
+Elapsed time is 0.018960 seconds.
+Source_nxi_014_nyi_002_nzi_003
+Elapsed time is 0.029082 seconds.
+Source_nxi_014_nyi_002_nzi_004
+Elapsed time is 0.041254 seconds.
+Source_nxi_014_nyi_002_nzi_005
+Elapsed time is 0.063206 seconds.
+Source_nxi_014_nyi_002_nzi_006
+Elapsed time is 0.081374 seconds.
+Source_nxi_014_nyi_002_nzi_007
+Elapsed time is 0.099115 seconds.
+Source_nxi_014_nyi_002_nzi_008
+Elapsed time is 0.113337 seconds.
+Source_nxi_014_nyi_002_nzi_009
+Elapsed time is 0.130261 seconds.
+Source_nxi_014_nyi_002_nzi_010
+Elapsed time is 0.072730 seconds.
+Source_nxi_014_nyi_002_nzi_011
+Elapsed time is 0.044181 seconds.
+Source_nxi_014_nyi_002_nzi_012
+Elapsed time is 0.048348 seconds.
+Source_nxi_014_nyi_002_nzi_013
+Elapsed time is 0.041973 seconds.
+Source_nxi_014_nyi_002_nzi_014
+Elapsed time is 0.011858 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_014_nyi_002_nzi_016
+Elapsed time is 0.011150 seconds.
+Source_nxi_014_nyi_002_nzi_017
+Elapsed time is 0.041818 seconds.
+Source_nxi_014_nyi_002_nzi_018
+Elapsed time is 0.050238 seconds.
+Source_nxi_014_nyi_002_nzi_019
+Elapsed time is 0.055490 seconds.
+Source_nxi_014_nyi_002_nzi_020
+Elapsed time is 0.079649 seconds.
+Source_nxi_014_nyi_002_nzi_021
+Elapsed time is 0.188946 seconds.
+Source_nxi_014_nyi_002_nzi_022
+Elapsed time is 0.202188 seconds.
+Source_nxi_014_nyi_002_nzi_023
+Elapsed time is 0.193313 seconds.
+Source_nxi_014_nyi_002_nzi_024
+Elapsed time is 0.187735 seconds.
+Source_nxi_014_nyi_002_nzi_025
+Elapsed time is 0.195878 seconds.
+Source_nxi_014_nyi_002_nzi_026
+Elapsed time is 0.209288 seconds.
+Source_nxi_014_nyi_002_nzi_027
+Elapsed time is 0.229451 seconds.
+Source_nxi_014_nyi_002_nzi_028
+Elapsed time is 0.240803 seconds.
+Source_nxi_014_nyi_002_nzi_029
+Elapsed time is 0.240190 seconds.
+Data Saved
+Source_nxi_014_nyi_003_nzi_001
+Elapsed time is 0.012961 seconds.
+Source_nxi_014_nyi_003_nzi_002
+Elapsed time is 0.017343 seconds.
+Source_nxi_014_nyi_003_nzi_003
+Elapsed time is 0.024226 seconds.
+Source_nxi_014_nyi_003_nzi_004
+Elapsed time is 0.033173 seconds.
+Source_nxi_014_nyi_003_nzi_005
+Elapsed time is 0.046734 seconds.
+Source_nxi_014_nyi_003_nzi_006
+Elapsed time is 0.060144 seconds.
+Source_nxi_014_nyi_003_nzi_007
+Elapsed time is 0.075175 seconds.
+Source_nxi_014_nyi_003_nzi_008
+Elapsed time is 0.092309 seconds.
+Source_nxi_014_nyi_003_nzi_009
+Elapsed time is 0.121144 seconds.
+Source_nxi_014_nyi_003_nzi_010
+Elapsed time is 0.065681 seconds.
+Source_nxi_014_nyi_003_nzi_011
+Elapsed time is 0.040296 seconds.
+Source_nxi_014_nyi_003_nzi_012
+Elapsed time is 0.041519 seconds.
+Source_nxi_014_nyi_003_nzi_013
+Elapsed time is 0.042261 seconds.
+Source_nxi_014_nyi_003_nzi_014
+Elapsed time is 0.019028 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_014_nyi_003_nzi_016
+Elapsed time is 0.018831 seconds.
+Source_nxi_014_nyi_003_nzi_017
+Elapsed time is 0.044792 seconds.
+Source_nxi_014_nyi_003_nzi_018
+Elapsed time is 0.044811 seconds.
+Source_nxi_014_nyi_003_nzi_019
+Elapsed time is 0.047274 seconds.
+Source_nxi_014_nyi_003_nzi_020
+Elapsed time is 0.086546 seconds.
+Source_nxi_014_nyi_003_nzi_021
+Elapsed time is 0.182556 seconds.
+Source_nxi_014_nyi_003_nzi_022
+Elapsed time is 0.193914 seconds.
+Source_nxi_014_nyi_003_nzi_023
+Elapsed time is 0.204538 seconds.
+Source_nxi_014_nyi_003_nzi_024
+Elapsed time is 0.229640 seconds.
+Source_nxi_014_nyi_003_nzi_025
+Elapsed time is 0.252758 seconds.
+Source_nxi_014_nyi_003_nzi_026
+Elapsed time is 0.268359 seconds.
+Source_nxi_014_nyi_003_nzi_027
+Elapsed time is 0.288315 seconds.
+Source_nxi_014_nyi_003_nzi_028
+Elapsed time is 0.285736 seconds.
+Source_nxi_014_nyi_003_nzi_029
+Elapsed time is 0.293519 seconds.
+Data Saved
+Source_nxi_014_nyi_004_nzi_001
+Elapsed time is 0.011697 seconds.
+Source_nxi_014_nyi_004_nzi_002
+Elapsed time is 0.016954 seconds.
+Source_nxi_014_nyi_004_nzi_003
+Elapsed time is 0.023349 seconds.
+Source_nxi_014_nyi_004_nzi_004
+Elapsed time is 0.030850 seconds.
+Source_nxi_014_nyi_004_nzi_005
+Elapsed time is 0.046233 seconds.
+Source_nxi_014_nyi_004_nzi_006
+Elapsed time is 0.059819 seconds.
+Source_nxi_014_nyi_004_nzi_007
+Elapsed time is 0.075134 seconds.
+Source_nxi_014_nyi_004_nzi_008
+Elapsed time is 0.090324 seconds.
+Source_nxi_014_nyi_004_nzi_009
+Elapsed time is 0.109971 seconds.
+Source_nxi_014_nyi_004_nzi_010
+Elapsed time is 0.055997 seconds.
+Source_nxi_014_nyi_004_nzi_011
+Elapsed time is 0.039679 seconds.
+Source_nxi_014_nyi_004_nzi_012
+Elapsed time is 0.039940 seconds.
+Source_nxi_014_nyi_004_nzi_013
+Elapsed time is 0.033072 seconds.
+Source_nxi_014_nyi_004_nzi_014
+Elapsed time is 0.010097 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_014_nyi_004_nzi_016
+Elapsed time is 0.009778 seconds.
+Source_nxi_014_nyi_004_nzi_017
+Elapsed time is 0.034471 seconds.
+Source_nxi_014_nyi_004_nzi_018
+Elapsed time is 0.043411 seconds.
+Source_nxi_014_nyi_004_nzi_019
+Elapsed time is 0.043575 seconds.
+Source_nxi_014_nyi_004_nzi_020
+Elapsed time is 0.072276 seconds.
+Source_nxi_014_nyi_004_nzi_021
+Elapsed time is 0.163488 seconds.
+Source_nxi_014_nyi_004_nzi_022
+Elapsed time is 0.177864 seconds.
+Source_nxi_014_nyi_004_nzi_023
+Elapsed time is 0.190586 seconds.
+Source_nxi_014_nyi_004_nzi_024
+Elapsed time is 0.201272 seconds.
+Source_nxi_014_nyi_004_nzi_025
+Elapsed time is 0.218755 seconds.
+Source_nxi_014_nyi_004_nzi_026
+Elapsed time is 0.224678 seconds.
+Source_nxi_014_nyi_004_nzi_027
+Elapsed time is 0.255665 seconds.
+Source_nxi_014_nyi_004_nzi_028
+Elapsed time is 0.264524 seconds.
+Source_nxi_014_nyi_004_nzi_029
+Elapsed time is 0.265312 seconds.
+Data Saved
+Source_nxi_014_nyi_005_nzi_001
+Elapsed time is 0.009590 seconds.
+Source_nxi_014_nyi_005_nzi_002
+Elapsed time is 0.013245 seconds.
+Source_nxi_014_nyi_005_nzi_003
+Elapsed time is 0.017853 seconds.
+Source_nxi_014_nyi_005_nzi_004
+Elapsed time is 0.022881 seconds.
+Source_nxi_014_nyi_005_nzi_005
+Elapsed time is 0.028775 seconds.
+Source_nxi_014_nyi_005_nzi_006
+Elapsed time is 0.040684 seconds.
+Source_nxi_014_nyi_005_nzi_007
+Elapsed time is 0.049793 seconds.
+Source_nxi_014_nyi_005_nzi_008
+Elapsed time is 0.061616 seconds.
+Source_nxi_014_nyi_005_nzi_009
+Elapsed time is 0.069850 seconds.
+Source_nxi_014_nyi_005_nzi_010
+Elapsed time is 0.046521 seconds.
+Source_nxi_014_nyi_005_nzi_011
+Elapsed time is 0.026853 seconds.
+Source_nxi_014_nyi_005_nzi_012
+Elapsed time is 0.026931 seconds.
+Source_nxi_014_nyi_005_nzi_013
+Elapsed time is 0.020770 seconds.
+Source_nxi_014_nyi_005_nzi_014
+Elapsed time is 0.009341 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_014_nyi_005_nzi_016
+Elapsed time is 0.008198 seconds.
+Source_nxi_014_nyi_005_nzi_017
+Elapsed time is 0.021587 seconds.
+Source_nxi_014_nyi_005_nzi_018
+Elapsed time is 0.030594 seconds.
+Source_nxi_014_nyi_005_nzi_019
+Elapsed time is 0.031451 seconds.
+Source_nxi_014_nyi_005_nzi_020
+Elapsed time is 0.061567 seconds.
+Source_nxi_014_nyi_005_nzi_021
+Elapsed time is 0.110977 seconds.
+Source_nxi_014_nyi_005_nzi_022
+Elapsed time is 0.121091 seconds.
+Source_nxi_014_nyi_005_nzi_023
+Elapsed time is 0.133185 seconds.
+Source_nxi_014_nyi_005_nzi_024
+Elapsed time is 0.143844 seconds.
+Source_nxi_014_nyi_005_nzi_025
+Elapsed time is 0.153006 seconds.
+Source_nxi_014_nyi_005_nzi_026
+Elapsed time is 0.156340 seconds.
+Source_nxi_014_nyi_005_nzi_027
+Elapsed time is 0.167637 seconds.
+Source_nxi_014_nyi_005_nzi_028
+Elapsed time is 0.172385 seconds.
+Source_nxi_014_nyi_005_nzi_029
+Elapsed time is 0.187238 seconds.
+Data Saved
+Source_nxi_015_nyi_001_nzi_001
+Elapsed time is 0.009416 seconds.
+Source_nxi_015_nyi_001_nzi_002
+Elapsed time is 0.012600 seconds.
+Source_nxi_015_nyi_001_nzi_003
+Elapsed time is 0.016832 seconds.
+Source_nxi_015_nyi_001_nzi_004
+Elapsed time is 0.020902 seconds.
+Source_nxi_015_nyi_001_nzi_005
+Elapsed time is 0.026220 seconds.
+Source_nxi_015_nyi_001_nzi_006
+Elapsed time is 0.034379 seconds.
+Source_nxi_015_nyi_001_nzi_007
+Elapsed time is 0.042815 seconds.
+Source_nxi_015_nyi_001_nzi_008
+Elapsed time is 0.061130 seconds.
+Source_nxi_015_nyi_001_nzi_009
+Elapsed time is 0.061445 seconds.
+Source_nxi_015_nyi_001_nzi_010
+Elapsed time is 0.056661 seconds.
+Source_nxi_015_nyi_001_nzi_011
+Elapsed time is 0.038637 seconds.
+Source_nxi_015_nyi_001_nzi_012
+Elapsed time is 0.038273 seconds.
+Source_nxi_015_nyi_001_nzi_013
+Elapsed time is 0.032259 seconds.
+Source_nxi_015_nyi_001_nzi_014
+Elapsed time is 0.018168 seconds.
+Source_nxi_015_nyi_001_nzi_015
+Elapsed time is 0.018460 seconds.
+Source_nxi_015_nyi_001_nzi_016
+Elapsed time is 0.019027 seconds.
+Source_nxi_015_nyi_001_nzi_017
+Elapsed time is 0.036143 seconds.
+Source_nxi_015_nyi_001_nzi_018
+Elapsed time is 0.044842 seconds.
+Source_nxi_015_nyi_001_nzi_019
+Elapsed time is 0.042290 seconds.
+Source_nxi_015_nyi_001_nzi_020
+Elapsed time is 0.072914 seconds.
+Source_nxi_015_nyi_001_nzi_021
+Elapsed time is 0.138378 seconds.
+Source_nxi_015_nyi_001_nzi_022
+Elapsed time is 0.147677 seconds.
+Source_nxi_015_nyi_001_nzi_023
+Elapsed time is 0.162709 seconds.
+Source_nxi_015_nyi_001_nzi_024
+Elapsed time is 0.181044 seconds.
+Source_nxi_015_nyi_001_nzi_025
+Elapsed time is 0.190669 seconds.
+Source_nxi_015_nyi_001_nzi_026
+Elapsed time is 0.193211 seconds.
+Source_nxi_015_nyi_001_nzi_027
+Elapsed time is 0.200316 seconds.
+Source_nxi_015_nyi_001_nzi_028
+Elapsed time is 0.216452 seconds.
+Source_nxi_015_nyi_001_nzi_029
+Elapsed time is 0.225500 seconds.
+Data Saved
+Source_nxi_015_nyi_002_nzi_001
+Elapsed time is 0.013537 seconds.
+Source_nxi_015_nyi_002_nzi_002
+Elapsed time is 0.021877 seconds.
+Source_nxi_015_nyi_002_nzi_003
+Elapsed time is 0.033409 seconds.
+Source_nxi_015_nyi_002_nzi_004
+Elapsed time is 0.045953 seconds.
+Source_nxi_015_nyi_002_nzi_005
+Elapsed time is 0.070484 seconds.
+Source_nxi_015_nyi_002_nzi_006
+Elapsed time is 0.093144 seconds.
+Source_nxi_015_nyi_002_nzi_007
+Elapsed time is 0.108527 seconds.
+Source_nxi_015_nyi_002_nzi_008
+Elapsed time is 0.131515 seconds.
+Source_nxi_015_nyi_002_nzi_009
+Elapsed time is 0.150584 seconds.
+Source_nxi_015_nyi_002_nzi_010
+Elapsed time is 0.079443 seconds.
+Source_nxi_015_nyi_002_nzi_011
+Elapsed time is 0.061561 seconds.
+Source_nxi_015_nyi_002_nzi_012
+Elapsed time is 0.061616 seconds.
+Source_nxi_015_nyi_002_nzi_013
+Elapsed time is 0.054112 seconds.
+Source_nxi_015_nyi_002_nzi_014
+Elapsed time is 0.023784 seconds.
+Source_nxi_015_nyi_002_nzi_015
+Elapsed time is 0.022988 seconds.
+Source_nxi_015_nyi_002_nzi_016
+Elapsed time is 0.022663 seconds.
+Source_nxi_015_nyi_002_nzi_017
+Elapsed time is 0.055402 seconds.
+Source_nxi_015_nyi_002_nzi_018
+Elapsed time is 0.068397 seconds.
+Source_nxi_015_nyi_002_nzi_019
+Elapsed time is 0.070959 seconds.
+Source_nxi_015_nyi_002_nzi_020
+Elapsed time is 0.109791 seconds.
+Source_nxi_015_nyi_002_nzi_021
+Elapsed time is 0.234024 seconds.
+Source_nxi_015_nyi_002_nzi_022
+Elapsed time is 0.246782 seconds.
+Source_nxi_015_nyi_002_nzi_023
+Elapsed time is 0.258144 seconds.
+Source_nxi_015_nyi_002_nzi_024
+Elapsed time is 0.273946 seconds.
+Source_nxi_015_nyi_002_nzi_025
+Elapsed time is 0.294317 seconds.
+Source_nxi_015_nyi_002_nzi_026
+Elapsed time is 0.314029 seconds.
+Source_nxi_015_nyi_002_nzi_027
+Elapsed time is 0.323996 seconds.
+Source_nxi_015_nyi_002_nzi_028
+Elapsed time is 0.329283 seconds.
+Source_nxi_015_nyi_002_nzi_029
+Elapsed time is 0.347541 seconds.
+Data Saved
+Source_nxi_015_nyi_003_nzi_001
+Elapsed time is 0.015376 seconds.
+Source_nxi_015_nyi_003_nzi_002
+Elapsed time is 0.021516 seconds.
+Source_nxi_015_nyi_003_nzi_003
+Elapsed time is 0.029141 seconds.
+Source_nxi_015_nyi_003_nzi_004
+Elapsed time is 0.049521 seconds.
+Source_nxi_015_nyi_003_nzi_005
+Elapsed time is 0.075144 seconds.
+Source_nxi_015_nyi_003_nzi_006
+Elapsed time is 0.091242 seconds.
+Source_nxi_015_nyi_003_nzi_007
+Elapsed time is 0.113214 seconds.
+Source_nxi_015_nyi_003_nzi_008
+Elapsed time is 0.133828 seconds.
+Source_nxi_015_nyi_003_nzi_009
+Elapsed time is 0.150093 seconds.
+Source_nxi_015_nyi_003_nzi_010
+Elapsed time is 0.081444 seconds.
+Source_nxi_015_nyi_003_nzi_011
+Elapsed time is 0.051014 seconds.
+Source_nxi_015_nyi_003_nzi_012
+Elapsed time is 0.050021 seconds.
+Source_nxi_015_nyi_003_nzi_013
+Elapsed time is 0.052106 seconds.
+Source_nxi_015_nyi_003_nzi_014
+Elapsed time is 0.024091 seconds.
+Skipped due to no Src-Snk combinations
+Source_nxi_015_nyi_003_nzi_016
+Elapsed time is 0.023030 seconds.
+Source_nxi_015_nyi_003_nzi_017
+Elapsed time is 0.054593 seconds.
+Source_nxi_015_nyi_003_nzi_018
+Elapsed time is 0.055061 seconds.
+Source_nxi_015_nyi_003_nzi_019
+Elapsed time is 0.058966 seconds.
+Source_nxi_015_nyi_003_nzi_020
+Elapsed time is 0.102856 seconds.
+Source_nxi_015_nyi_003_nzi_021
+Elapsed time is 0.220142 seconds.
+Source_nxi_015_nyi_003_nzi_022
+Elapsed time is 0.240984 seconds.
+Source_nxi_015_nyi_003_nzi_023
+Elapsed time is 0.248174 seconds.
+Source_nxi_015_nyi_003_nzi_024
+Elapsed time is 0.256372 seconds.
+Source_nxi_015_nyi_003_nzi_025
+Elapsed time is 0.277983 seconds.
+Source_nxi_015_nyi_003_nzi_026
+Elapsed time is 0.310844 seconds.
+Source_nxi_015_nyi_003_nzi_027
+Elapsed time is 0.326011 seconds.
+Source_nxi_015_nyi_003_nzi_028
+Elapsed time is 0.317914 seconds.
+Source_nxi_015_nyi_003_nzi_029
+Elapsed time is 0.332616 seconds.
+Data Saved
+Source_nxi_015_nyi_004_nzi_001
+Elapsed time is 0.013949 seconds.
+Source_nxi_015_nyi_004_nzi_002
+Elapsed time is 0.020730 seconds.
+Source_nxi_015_nyi_004_nzi_003
+Elapsed time is 0.030349 seconds.
+Source_nxi_015_nyi_004_nzi_004
+Elapsed time is 0.045803 seconds.
+Source_nxi_015_nyi_004_nzi_005
+Elapsed time is 0.069744 seconds.
+Source_nxi_015_nyi_004_nzi_006
+Elapsed time is 0.090811 seconds.
+Source_nxi_015_nyi_004_nzi_007
+Elapsed time is 0.106513 seconds.
+Source_nxi_015_nyi_004_nzi_008
+Elapsed time is 0.127820 seconds.
+Source_nxi_015_nyi_004_nzi_009
+Elapsed time is 0.146113 seconds.
+Source_nxi_015_nyi_004_nzi_010
+Elapsed time is 0.082572 seconds.
+Source_nxi_015_nyi_004_nzi_011
+Elapsed time is 0.056686 seconds.
+Source_nxi_015_nyi_004_nzi_012
+Elapsed time is 0.060284 seconds.
+Source_nxi_015_nyi_004_nzi_013
+Elapsed time is 0.047960 seconds.
+Source_nxi_015_nyi_004_nzi_014
+Elapsed time is 0.020424 seconds.
+Source_nxi_015_nyi_004_nzi_015
+Elapsed time is 0.022158 seconds.
+Source_nxi_015_nyi_004_nzi_016
+Elapsed time is 0.022480 seconds.
+Source_nxi_015_nyi_004_nzi_017
+Elapsed time is 0.052365 seconds.
+Source_nxi_015_nyi_004_nzi_018
+Elapsed time is 0.065310 seconds.
+Source_nxi_015_nyi_004_nzi_019
+Elapsed time is 0.068737 seconds.
+Source_nxi_015_nyi_004_nzi_020
+Elapsed time is 0.102895 seconds.
+Source_nxi_015_nyi_004_nzi_021
+Elapsed time is 0.208103 seconds.
+Source_nxi_015_nyi_004_nzi_022
+Elapsed time is 0.189192 seconds.
+Source_nxi_015_nyi_004_nzi_023
+Elapsed time is 0.199613 seconds.
+Source_nxi_015_nyi_004_nzi_024
+Elapsed time is 0.223194 seconds.
+Source_nxi_015_nyi_004_nzi_025
+Elapsed time is 0.241035 seconds.
+Source_nxi_015_nyi_004_nzi_026
+Elapsed time is 0.258186 seconds.
+Source_nxi_015_nyi_004_nzi_027
+Elapsed time is 0.263800 seconds.
+Source_nxi_015_nyi_004_nzi_028
+Elapsed time is 0.268933 seconds.
+Source_nxi_015_nyi_004_nzi_029
+Elapsed time is 0.274644 seconds.
+Data Saved
+Source_nxi_015_nyi_005_nzi_001
+Elapsed time is 0.008786 seconds.
+Source_nxi_015_nyi_005_nzi_002
+Elapsed time is 0.012208 seconds.
+Source_nxi_015_nyi_005_nzi_003
+Elapsed time is 0.016015 seconds.
+Source_nxi_015_nyi_005_nzi_004
+Elapsed time is 0.019626 seconds.
+Source_nxi_015_nyi_005_nzi_005
+Elapsed time is 0.025042 seconds.
+Source_nxi_015_nyi_005_nzi_006
+Elapsed time is 0.033442 seconds.
+Source_nxi_015_nyi_005_nzi_007
+Elapsed time is 0.041469 seconds.
+Source_nxi_015_nyi_005_nzi_008
+Elapsed time is 0.050137 seconds.
+Source_nxi_015_nyi_005_nzi_009
+Elapsed time is 0.058313 seconds.
+Source_nxi_015_nyi_005_nzi_010
+Elapsed time is 0.037584 seconds.
+Source_nxi_015_nyi_005_nzi_011
+Elapsed time is 0.026408 seconds.
+Source_nxi_015_nyi_005_nzi_012
+Elapsed time is 0.027401 seconds.
+Source_nxi_015_nyi_005_nzi_013
+Elapsed time is 0.022819 seconds.
+Source_nxi_015_nyi_005_nzi_014
+Elapsed time is 0.012576 seconds.
+Source_nxi_015_nyi_005_nzi_015
+Elapsed time is 0.012564 seconds.
+Source_nxi_015_nyi_005_nzi_016
+Elapsed time is 0.012629 seconds.
+Source_nxi_015_nyi_005_nzi_017
+Elapsed time is 0.024532 seconds.
+Source_nxi_015_nyi_005_nzi_018
+Elapsed time is 0.031332 seconds.
+Source_nxi_015_nyi_005_nzi_019
+Elapsed time is 0.032191 seconds.
+Source_nxi_015_nyi_005_nzi_020
+Elapsed time is 0.054293 seconds.
+Source_nxi_015_nyi_005_nzi_021
+Elapsed time is 0.097841 seconds.
+Source_nxi_015_nyi_005_nzi_022
+Elapsed time is 0.107588 seconds.
+Source_nxi_015_nyi_005_nzi_023
+Elapsed time is 0.116070 seconds.
+Source_nxi_015_nyi_005_nzi_024
+Elapsed time is 0.123403 seconds.
+Source_nxi_015_nyi_005_nzi_025
+Elapsed time is 0.134973 seconds.
+Source_nxi_015_nyi_005_nzi_026
+Elapsed time is 0.140813 seconds.
+Source_nxi_015_nyi_005_nzi_027
+Elapsed time is 0.149753 seconds.
+Source_nxi_015_nyi_005_nzi_028
+Elapsed time is 0.175763 seconds.
+Source_nxi_015_nyi_005_nzi_029
+Elapsed time is 0.175920 seconds.
+Data Saved
+Source_nxi_016_nyi_001_nzi_001
+Elapsed time is 0.009854 seconds.
+Source_nxi_016_nyi_001_nzi_002
+Elapsed time is 0.013687 seconds.
+Source_nxi_016_nyi_001_nzi_003
+Elapsed time is 0.018586 seconds.
+Source_nxi_016_nyi_001_nzi_004
+Elapsed time is 0.022793 seconds.
+Source_nxi_016_nyi_001_nzi_005
+Elapsed time is 0.030827 seconds.
+Source_nxi_016_nyi_001_nzi_006
+Elapsed time is 0.041652 seconds.
+Source_nxi_016_nyi_001_nzi_007
+Elapsed time is 0.052391 seconds.
+Source_nxi_016_nyi_001_nzi_008
+Elapsed time is 0.063051 seconds.
+Source_nxi_016_nyi_001_nzi_009
+Elapsed time is 0.069231 seconds.
+Source_nxi_016_nyi_001_nzi_010
+Elapsed time is 0.048411 seconds.
+Source_nxi_016_nyi_001_nzi_011
+Elapsed time is 0.034521 seconds.
+Source_nxi_016_nyi_001_nzi_012
+Elapsed time is 0.035914 seconds.
+Source_nxi_016_nyi_001_nzi_013
+Elapsed time is 0.031529 seconds.
+Source_nxi_016_nyi_001_nzi_014
+Elapsed time is 0.026794 seconds.
+Source_nxi_016_nyi_001_nzi_015
+Elapsed time is 0.027273 seconds.
+Source_nxi_016_nyi_001_nzi_016
+Elapsed time is 0.026808 seconds.
+Source_nxi_016_nyi_001_nzi_017
+Elapsed time is 0.034843 seconds.
+Source_nxi_016_nyi_001_nzi_018
+Elapsed time is 0.041785 seconds.
+Source_nxi_016_nyi_001_nzi_019
+Elapsed time is 0.043545 seconds.
+Source_nxi_016_nyi_001_nzi_020
+Elapsed time is 0.066232 seconds.
+Source_nxi_016_nyi_001_nzi_021
+Elapsed time is 0.116674 seconds.
+Source_nxi_016_nyi_001_nzi_022
+Elapsed time is 0.132691 seconds.
+Source_nxi_016_nyi_001_nzi_023
+Elapsed time is 0.141100 seconds.
+Source_nxi_016_nyi_001_nzi_024
+Elapsed time is 0.144659 seconds.
+Source_nxi_016_nyi_001_nzi_025
+Elapsed time is 0.158125 seconds.
+Source_nxi_016_nyi_001_nzi_026
+Elapsed time is 0.173194 seconds.
+Source_nxi_016_nyi_001_nzi_027
+Elapsed time is 0.189493 seconds.
+Source_nxi_016_nyi_001_nzi_028
+Elapsed time is 0.206395 seconds.
+Source_nxi_016_nyi_001_nzi_029
+Elapsed time is 0.221246 seconds.
+Data Saved
+Source_nxi_016_nyi_002_nzi_001
+Elapsed time is 0.012080 seconds.
+Source_nxi_016_nyi_002_nzi_002
+Elapsed time is 0.018829 seconds.
+Source_nxi_016_nyi_002_nzi_003
+Elapsed time is 0.026578 seconds.
+Source_nxi_016_nyi_002_nzi_004
+Elapsed time is 0.037827 seconds.
+Source_nxi_016_nyi_002_nzi_005
+Elapsed time is 0.051579 seconds.
+Source_nxi_016_nyi_002_nzi_006
+Elapsed time is 0.067650 seconds.
+Source_nxi_016_nyi_002_nzi_007
+Elapsed time is 0.085783 seconds.
+Source_nxi_016_nyi_002_nzi_008
+Elapsed time is 0.101525 seconds.
+Source_nxi_016_nyi_002_nzi_009
+Elapsed time is 0.119320 seconds.
+Source_nxi_016_nyi_002_nzi_010
+Elapsed time is 0.070011 seconds.
+Source_nxi_016_nyi_002_nzi_011
+Elapsed time is 0.050831 seconds.
+Source_nxi_016_nyi_002_nzi_012
+Elapsed time is 0.053419 seconds.
+Source_nxi_016_nyi_002_nzi_013
+Elapsed time is 0.047191 seconds.
+Source_nxi_016_nyi_002_nzi_014
+Elapsed time is 0.032911 seconds.
+Source_nxi_016_nyi_002_nzi_015
+Elapsed time is 0.033953 seconds.
+Source_nxi_016_nyi_002_nzi_016
+Elapsed time is 0.034390 seconds.
+Source_nxi_016_nyi_002_nzi_017
+Elapsed time is 0.051188 seconds.
+Source_nxi_016_nyi_002_nzi_018
+Elapsed time is 0.064138 seconds.
+Source_nxi_016_nyi_002_nzi_019
+Elapsed time is 0.063890 seconds.
+Source_nxi_016_nyi_002_nzi_020
+Elapsed time is 0.094497 seconds.
+Source_nxi_016_nyi_002_nzi_021
+Elapsed time is 0.187940 seconds.
+Source_nxi_016_nyi_002_nzi_022
+Elapsed time is 0.212094 seconds.
+Source_nxi_016_nyi_002_nzi_023
+Elapsed time is 0.233299 seconds.
+Source_nxi_016_nyi_002_nzi_024
+Elapsed time is 0.262614 seconds.
+Source_nxi_016_nyi_002_nzi_025
+Elapsed time is 0.281085 seconds.
+Source_nxi_016_nyi_002_nzi_026
+Elapsed time is 0.275967 seconds.
+Source_nxi_016_nyi_002_nzi_027
+Elapsed time is 0.288163 seconds.
+Source_nxi_016_nyi_002_nzi_028
+Elapsed time is 0.304023 seconds.
+Source_nxi_016_nyi_002_nzi_029
+Elapsed time is 0.318242 seconds.
+Data Saved
+Source_nxi_016_nyi_003_nzi_001
+Elapsed time is 0.014869 seconds.
+Source_nxi_016_nyi_003_nzi_002
+Elapsed time is 0.022098 seconds.
+Source_nxi_016_nyi_003_nzi_003
+Elapsed time is 0.031172 seconds.
+Source_nxi_016_nyi_003_nzi_004
+Elapsed time is 0.046915 seconds.
+Source_nxi_016_nyi_003_nzi_005
+Elapsed time is 0.065072 seconds.
+Source_nxi_016_nyi_003_nzi_006
+Elapsed time is 0.083792 seconds.
+Source_nxi_016_nyi_003_nzi_007
+Elapsed time is 0.107038 seconds.
+Source_nxi_016_nyi_003_nzi_008
+Elapsed time is 0.132458 seconds.
+Source_nxi_016_nyi_003_nzi_009
+Elapsed time is 0.151634 seconds.
+Source_nxi_016_nyi_003_nzi_010
+Elapsed time is 0.094688 seconds.
+Source_nxi_016_nyi_003_nzi_011
+Elapsed time is 0.064621 seconds.
+Source_nxi_016_nyi_003_nzi_012
+Elapsed time is 0.070148 seconds.
+Source_nxi_016_nyi_003_nzi_013
+Elapsed time is 0.074505 seconds.
+Source_nxi_016_nyi_003_nzi_014
+Elapsed time is 0.064779 seconds.
+Source_nxi_016_nyi_003_nzi_015
+Elapsed time is 0.046944 seconds.
+Source_nxi_016_nyi_003_nzi_016
+Elapsed time is 0.069562 seconds.
+Source_nxi_016_nyi_003_nzi_017
+Elapsed time is 0.084943 seconds.
+Source_nxi_016_nyi_003_nzi_018
+Elapsed time is 0.087513 seconds.
+Source_nxi_016_nyi_003_nzi_019
+Elapsed time is 0.089129 seconds.
+Source_nxi_016_nyi_003_nzi_020
+Elapsed time is 0.140769 seconds.
+Source_nxi_016_nyi_003_nzi_021
+Elapsed time is 0.270235 seconds.
+Source_nxi_016_nyi_003_nzi_022
+Elapsed time is 0.292733 seconds.
+Source_nxi_016_nyi_003_nzi_023
+Elapsed time is 0.321124 seconds.
+Source_nxi_016_nyi_003_nzi_024
+Elapsed time is 0.317731 seconds.
+Source_nxi_016_nyi_003_nzi_025
+Elapsed time is 0.332415 seconds.
+Source_nxi_016_nyi_003_nzi_026
+Elapsed time is 0.323014 seconds.
+Source_nxi_016_nyi_003_nzi_027
+Elapsed time is 0.340677 seconds.
+Source_nxi_016_nyi_003_nzi_028
+Elapsed time is 0.355161 seconds.
+Source_nxi_016_nyi_003_nzi_029
+Elapsed time is 0.374956 seconds.
+Data Saved
+Source_nxi_016_nyi_004_nzi_001
+Elapsed time is 0.014274 seconds.
+Source_nxi_016_nyi_004_nzi_002
+Elapsed time is 0.020023 seconds.
+Source_nxi_016_nyi_004_nzi_003
+Elapsed time is 0.027462 seconds.
+Source_nxi_016_nyi_004_nzi_004
+Elapsed time is 0.039595 seconds.
+Source_nxi_016_nyi_004_nzi_005
+Elapsed time is 0.057861 seconds.
+Source_nxi_016_nyi_004_nzi_006
+Elapsed time is 0.075146 seconds.
+Source_nxi_016_nyi_004_nzi_007
+Elapsed time is 0.092343 seconds.
+Source_nxi_016_nyi_004_nzi_008
+Elapsed time is 0.116141 seconds.
+Source_nxi_016_nyi_004_nzi_009
+Elapsed time is 0.134031 seconds.
+Source_nxi_016_nyi_004_nzi_010
+Elapsed time is 0.077883 seconds.
+Source_nxi_016_nyi_004_nzi_011
+Elapsed time is 0.059077 seconds.
+Source_nxi_016_nyi_004_nzi_012
+Elapsed time is 0.059731 seconds.
+Source_nxi_016_nyi_004_nzi_013
+Elapsed time is 0.053039 seconds.
+Source_nxi_016_nyi_004_nzi_014
+Elapsed time is 0.037194 seconds.
+Source_nxi_016_nyi_004_nzi_015
+Elapsed time is 0.038137 seconds.
+Source_nxi_016_nyi_004_nzi_016
+Elapsed time is 0.039086 seconds.
+Source_nxi_016_nyi_004_nzi_017
+Elapsed time is 0.059190 seconds.
+Source_nxi_016_nyi_004_nzi_018
+Elapsed time is 0.070796 seconds.
+Source_nxi_016_nyi_004_nzi_019
+Elapsed time is 0.072457 seconds.
+Source_nxi_016_nyi_004_nzi_020
+Elapsed time is 0.112056 seconds.
+Source_nxi_016_nyi_004_nzi_021
+Elapsed time is 0.232014 seconds.
+Source_nxi_016_nyi_004_nzi_022
+Elapsed time is 0.236707 seconds.
+Source_nxi_016_nyi_004_nzi_023
+Elapsed time is 0.244971 seconds.
+Source_nxi_016_nyi_004_nzi_024
+Elapsed time is 0.280914 seconds.
+Source_nxi_016_nyi_004_nzi_025
+Elapsed time is 0.298257 seconds.
+Source_nxi_016_nyi_004_nzi_026
+Elapsed time is 0.302012 seconds.
+Source_nxi_016_nyi_004_nzi_027
+Elapsed time is 0.303629 seconds.
+Source_nxi_016_nyi_004_nzi_028
+Elapsed time is 0.325238 seconds.
+Source_nxi_016_nyi_004_nzi_029
+Elapsed time is 0.335212 seconds.
+Data Saved
+Source_nxi_016_nyi_005_nzi_001
+Elapsed time is 0.010853 seconds.
+Source_nxi_016_nyi_005_nzi_002
+Elapsed time is 0.016117 seconds.
+Source_nxi_016_nyi_005_nzi_003
+Elapsed time is 0.023362 seconds.
+Source_nxi_016_nyi_005_nzi_004
+Elapsed time is 0.029710 seconds.
+Source_nxi_016_nyi_005_nzi_005
+Elapsed time is 0.043345 seconds.
+Source_nxi_016_nyi_005_nzi_006
+Elapsed time is 0.057625 seconds.
+Source_nxi_016_nyi_005_nzi_007
+Elapsed time is 0.069886 seconds.
+Source_nxi_016_nyi_005_nzi_008
+Elapsed time is 0.070886 seconds.
+Source_nxi_016_nyi_005_nzi_009
+Elapsed time is 0.077386 seconds.
+Source_nxi_016_nyi_005_nzi_010
+Elapsed time is 0.056320 seconds.
+Source_nxi_016_nyi_005_nzi_011
+Elapsed time is 0.044880 seconds.
+Source_nxi_016_nyi_005_nzi_012
+Elapsed time is 0.047311 seconds.
+Source_nxi_016_nyi_005_nzi_013
+Elapsed time is 0.039745 seconds.
+Source_nxi_016_nyi_005_nzi_014
+Elapsed time is 0.033175 seconds.
+Source_nxi_016_nyi_005_nzi_015
+Elapsed time is 0.035012 seconds.
+Source_nxi_016_nyi_005_nzi_016
+Elapsed time is 0.033049 seconds.
+Source_nxi_016_nyi_005_nzi_017
+Elapsed time is 0.043509 seconds.
+Source_nxi_016_nyi_005_nzi_018
+Elapsed time is 0.050323 seconds.
+Source_nxi_016_nyi_005_nzi_019
+Elapsed time is 0.052844 seconds.
+Source_nxi_016_nyi_005_nzi_020
+Elapsed time is 0.077865 seconds.
+Source_nxi_016_nyi_005_nzi_021
+Elapsed time is 0.137926 seconds.
+Source_nxi_016_nyi_005_nzi_022
+Elapsed time is 0.149418 seconds.
+Source_nxi_016_nyi_005_nzi_023
+Elapsed time is 0.158798 seconds.
+Source_nxi_016_nyi_005_nzi_024
+Elapsed time is 0.166661 seconds.
+Source_nxi_016_nyi_005_nzi_025
+Elapsed time is 0.179788 seconds.
+Source_nxi_016_nyi_005_nzi_026
+Elapsed time is 0.194710 seconds.
+Source_nxi_016_nyi_005_nzi_027
+Elapsed time is 0.204829 seconds.
+Source_nxi_016_nyi_005_nzi_028
+Elapsed time is 0.224359 seconds.
+Source_nxi_016_nyi_005_nzi_029
+Elapsed time is 0.235144 seconds.
+Data Saved
+Source_nxi_017_nyi_001_nzi_001
+Elapsed time is 0.011121 seconds.
+Source_nxi_017_nyi_001_nzi_002
+Elapsed time is 0.016776 seconds.
+Source_nxi_017_nyi_001_nzi_003
+Elapsed time is 0.023509 seconds.
+Source_nxi_017_nyi_001_nzi_004
+Elapsed time is 0.030474 seconds.
+Source_nxi_017_nyi_001_nzi_005
+Elapsed time is 0.046647 seconds.
+Source_nxi_017_nyi_001_nzi_006
+Elapsed time is 0.059066 seconds.
+Source_nxi_017_nyi_001_nzi_007
+Elapsed time is 0.073913 seconds.
+Source_nxi_017_nyi_001_nzi_008
+Elapsed time is 0.088814 seconds.
+Source_nxi_017_nyi_001_nzi_009
+Elapsed time is 0.107914 seconds.
+Source_nxi_017_nyi_001_nzi_010
+Elapsed time is 0.077290 seconds.
+Source_nxi_017_nyi_001_nzi_011
+Elapsed time is 0.061146 seconds.
+Source_nxi_017_nyi_001_nzi_012
+Elapsed time is 0.065235 seconds.
+Source_nxi_017_nyi_001_nzi_013
+Elapsed time is 0.075180 seconds.
+Source_nxi_017_nyi_001_nzi_014
+Elapsed time is 0.070150 seconds.
+Source_nxi_017_nyi_001_nzi_015
+Elapsed time is 0.070626 seconds.
+Source_nxi_017_nyi_001_nzi_016
+Elapsed time is 0.074170 seconds.
+Source_nxi_017_nyi_001_nzi_017
+Elapsed time is 0.087272 seconds.
+Source_nxi_017_nyi_001_nzi_018
+Elapsed time is 0.081409 seconds.
+Source_nxi_017_nyi_001_nzi_019
+Elapsed time is 0.084127 seconds.
+Source_nxi_017_nyi_001_nzi_020
+Elapsed time is 0.122960 seconds.
+Source_nxi_017_nyi_001_nzi_021
+Elapsed time is 0.190289 seconds.
+Source_nxi_017_nyi_001_nzi_022
+Elapsed time is 0.207558 seconds.
+Source_nxi_017_nyi_001_nzi_023
+Elapsed time is 0.225195 seconds.
+Source_nxi_017_nyi_001_nzi_024
+Elapsed time is 0.251820 seconds.
+Source_nxi_017_nyi_001_nzi_025
+Elapsed time is 0.266831 seconds.
+Source_nxi_017_nyi_001_nzi_026
+Elapsed time is 0.262339 seconds.
+Source_nxi_017_nyi_001_nzi_027
+Elapsed time is 0.269493 seconds.
+Source_nxi_017_nyi_001_nzi_028
+Elapsed time is 0.279729 seconds.
+Source_nxi_017_nyi_001_nzi_029
+Elapsed time is 0.293777 seconds.
+Data Saved
+Source_nxi_017_nyi_002_nzi_001
+Elapsed time is 0.016294 seconds.
+Source_nxi_017_nyi_002_nzi_002
+Elapsed time is 0.025135 seconds.
+Source_nxi_017_nyi_002_nzi_003
+Elapsed time is 0.035332 seconds.
+Source_nxi_017_nyi_002_nzi_004
+Elapsed time is 0.058042 seconds.
+Source_nxi_017_nyi_002_nzi_005
+Elapsed time is 0.081164 seconds.
+Source_nxi_017_nyi_002_nzi_006
+Elapsed time is 0.105474 seconds.
+Source_nxi_017_nyi_002_nzi_007
+Elapsed time is 0.133641 seconds.
+Source_nxi_017_nyi_002_nzi_008
+Elapsed time is 0.159066 seconds.
+Source_nxi_017_nyi_002_nzi_009
+Elapsed time is 0.179618 seconds.
+Source_nxi_017_nyi_002_nzi_010
+Elapsed time is 0.119289 seconds.
+Source_nxi_017_nyi_002_nzi_011
+Elapsed time is 0.097531 seconds.
+Source_nxi_017_nyi_002_nzi_012
+Elapsed time is 0.104624 seconds.
+Source_nxi_017_nyi_002_nzi_013
+Elapsed time is 0.127796 seconds.
+Source_nxi_017_nyi_002_nzi_014
+Elapsed time is 0.110086 seconds.
+Source_nxi_017_nyi_002_nzi_015
+Elapsed time is 0.113494 seconds.
+Source_nxi_017_nyi_002_nzi_016
+Elapsed time is 0.117999 seconds.
+Source_nxi_017_nyi_002_nzi_017
+Elapsed time is 0.154805 seconds.
+Source_nxi_017_nyi_002_nzi_018
+Elapsed time is 0.133928 seconds.
+Source_nxi_017_nyi_002_nzi_019
+Elapsed time is 0.143087 seconds.
+Source_nxi_017_nyi_002_nzi_020
+Elapsed time is 0.195661 seconds.
+Source_nxi_017_nyi_002_nzi_021
+Elapsed time is 0.348771 seconds.
+Source_nxi_017_nyi_002_nzi_022
+Elapsed time is 0.336761 seconds.
+Source_nxi_017_nyi_002_nzi_023
+Elapsed time is 0.358502 seconds.
+Source_nxi_017_nyi_002_nzi_024
+Elapsed time is 0.379676 seconds.
+Source_nxi_017_nyi_002_nzi_025
+Elapsed time is 0.398608 seconds.
+Source_nxi_017_nyi_002_nzi_026
+Elapsed time is 0.420806 seconds.
+Source_nxi_017_nyi_002_nzi_027
+Elapsed time is 0.446492 seconds.
+Source_nxi_017_nyi_002_nzi_028
+Elapsed time is 0.462235 seconds.
+Source_nxi_017_nyi_002_nzi_029
+Elapsed time is 0.488847 seconds.
+Data Saved
+Source_nxi_017_nyi_003_nzi_001
+Elapsed time is 0.017730 seconds.
+Source_nxi_017_nyi_003_nzi_002
+Elapsed time is 0.027526 seconds.
+Source_nxi_017_nyi_003_nzi_003
+Elapsed time is 0.039130 seconds.
+Source_nxi_017_nyi_003_nzi_004
+Elapsed time is 0.065723 seconds.
+Source_nxi_017_nyi_003_nzi_005
+Elapsed time is 0.091098 seconds.
+Source_nxi_017_nyi_003_nzi_006
+Elapsed time is 0.118495 seconds.
+Source_nxi_017_nyi_003_nzi_007
+Elapsed time is 0.151340 seconds.
+Source_nxi_017_nyi_003_nzi_008
+Elapsed time is 0.175054 seconds.
+Source_nxi_017_nyi_003_nzi_009
+Elapsed time is 0.197180 seconds.
+Source_nxi_017_nyi_003_nzi_010
+Elapsed time is 0.133419 seconds.
+Source_nxi_017_nyi_003_nzi_011
+Elapsed time is 0.102125 seconds.
+Source_nxi_017_nyi_003_nzi_012
+Elapsed time is 0.106163 seconds.
+Source_nxi_017_nyi_003_nzi_013
+Elapsed time is 0.141992 seconds.
+Source_nxi_017_nyi_003_nzi_014
+Elapsed time is 0.136939 seconds.
+Source_nxi_017_nyi_003_nzi_015
+Elapsed time is 0.119624 seconds.
+Source_nxi_017_nyi_003_nzi_016
+Elapsed time is 0.154218 seconds.
+Source_nxi_017_nyi_003_nzi_017
+Elapsed time is 0.171601 seconds.
+Source_nxi_017_nyi_003_nzi_018
+Elapsed time is 0.148708 seconds.
+Source_nxi_017_nyi_003_nzi_019
+Elapsed time is 0.149876 seconds.
+Source_nxi_017_nyi_003_nzi_020
+Elapsed time is 0.220070 seconds.
+Source_nxi_017_nyi_003_nzi_021
+Elapsed time is 0.360255 seconds.
+Source_nxi_017_nyi_003_nzi_022
+Elapsed time is 0.371627 seconds.
+Source_nxi_017_nyi_003_nzi_023
+Elapsed time is 0.397519 seconds.
+Source_nxi_017_nyi_003_nzi_024
+Elapsed time is 0.418753 seconds.
+Source_nxi_017_nyi_003_nzi_025
+Elapsed time is 0.440836 seconds.
+Source_nxi_017_nyi_003_nzi_026
+Elapsed time is 0.465808 seconds.
+Source_nxi_017_nyi_003_nzi_027
+Elapsed time is 0.484066 seconds.
+Source_nxi_017_nyi_003_nzi_028
+Elapsed time is 0.517497 seconds.
+Source_nxi_017_nyi_003_nzi_029
+Elapsed time is 0.558891 seconds.
+Data Saved
+Source_nxi_017_nyi_004_nzi_001
+Elapsed time is 0.016529 seconds.
+Source_nxi_017_nyi_004_nzi_002
+Elapsed time is 0.026663 seconds.
+Source_nxi_017_nyi_004_nzi_003
+Elapsed time is 0.035902 seconds.
+Source_nxi_017_nyi_004_nzi_004
+Elapsed time is 0.058204 seconds.
+Source_nxi_017_nyi_004_nzi_005
+Elapsed time is 0.081958 seconds.
+Source_nxi_017_nyi_004_nzi_006
+Elapsed time is 0.105155 seconds.
+Source_nxi_017_nyi_004_nzi_007
+Elapsed time is 0.136430 seconds.
+Source_nxi_017_nyi_004_nzi_008
+Elapsed time is 0.163640 seconds.
+Source_nxi_017_nyi_004_nzi_009
+Elapsed time is 0.181533 seconds.
+Source_nxi_017_nyi_004_nzi_010
+Elapsed time is 0.119480 seconds.
+Source_nxi_017_nyi_004_nzi_011
+Elapsed time is 0.097998 seconds.
+Source_nxi_017_nyi_004_nzi_012
+Elapsed time is 0.105132 seconds.
+Source_nxi_017_nyi_004_nzi_013
+Elapsed time is 0.127630 seconds.
+Source_nxi_017_nyi_004_nzi_014
+Elapsed time is 0.110876 seconds.
+Source_nxi_017_nyi_004_nzi_015
+Elapsed time is 0.114540 seconds.
+Source_nxi_017_nyi_004_nzi_016
+Elapsed time is 0.119077 seconds.
+Source_nxi_017_nyi_004_nzi_017
+Elapsed time is 0.152888 seconds.
+Source_nxi_017_nyi_004_nzi_018
+Elapsed time is 0.134951 seconds.
+Source_nxi_017_nyi_004_nzi_019
+Elapsed time is 0.141214 seconds.
+Source_nxi_017_nyi_004_nzi_020
+Elapsed time is 0.200047 seconds.
+Source_nxi_017_nyi_004_nzi_021
+Elapsed time is 0.346298 seconds.
+Source_nxi_017_nyi_004_nzi_022
+Elapsed time is 0.341472 seconds.
+Source_nxi_017_nyi_004_nzi_023
+Elapsed time is 0.358431 seconds.
+Source_nxi_017_nyi_004_nzi_024
+Elapsed time is 0.396631 seconds.
+Source_nxi_017_nyi_004_nzi_025
+Elapsed time is 0.405971 seconds.
+Source_nxi_017_nyi_004_nzi_026
+Elapsed time is 0.425508 seconds.
+Source_nxi_017_nyi_004_nzi_027
+Elapsed time is 0.446702 seconds.
+Source_nxi_017_nyi_004_nzi_028
+Elapsed time is 0.467480 seconds.
+Source_nxi_017_nyi_004_nzi_029
+Elapsed time is 0.491420 seconds.
+Data Saved
+Source_nxi_017_nyi_005_nzi_001
+Elapsed time is 0.011718 seconds.
+Source_nxi_017_nyi_005_nzi_002
+Elapsed time is 0.017676 seconds.
+Source_nxi_017_nyi_005_nzi_003
+Elapsed time is 0.024514 seconds.
+Source_nxi_017_nyi_005_nzi_004
+Elapsed time is 0.031180 seconds.
+Source_nxi_017_nyi_005_nzi_005
+Elapsed time is 0.046338 seconds.
+Source_nxi_017_nyi_005_nzi_006
+Elapsed time is 0.060814 seconds.
+Source_nxi_017_nyi_005_nzi_007
+Elapsed time is 0.076482 seconds.
+Source_nxi_017_nyi_005_nzi_008
+Elapsed time is 0.089202 seconds.
+Source_nxi_017_nyi_005_nzi_009
+Elapsed time is 0.106448 seconds.
+Source_nxi_017_nyi_005_nzi_010
+Elapsed time is 0.079215 seconds.
+Source_nxi_017_nyi_005_nzi_011
+Elapsed time is 0.061282 seconds.
+Source_nxi_017_nyi_005_nzi_012
+Elapsed time is 0.064813 seconds.
+Source_nxi_017_nyi_005_nzi_013
+Elapsed time is 0.075686 seconds.
+Source_nxi_017_nyi_005_nzi_014
+Elapsed time is 0.070813 seconds.
+Source_nxi_017_nyi_005_nzi_015
+Elapsed time is 0.073477 seconds.
+Source_nxi_017_nyi_005_nzi_016
+Elapsed time is 0.077328 seconds.
+Source_nxi_017_nyi_005_nzi_017
+Elapsed time is 0.089688 seconds.
+Source_nxi_017_nyi_005_nzi_018
+Elapsed time is 0.084996 seconds.
+Source_nxi_017_nyi_005_nzi_019
+Elapsed time is 0.085859 seconds.
+Source_nxi_017_nyi_005_nzi_020
+Elapsed time is 0.120801 seconds.
+Source_nxi_017_nyi_005_nzi_021
+Elapsed time is 0.192773 seconds.
+Source_nxi_017_nyi_005_nzi_022
+Elapsed time is 0.212020 seconds.
+Source_nxi_017_nyi_005_nzi_023
+Elapsed time is 0.232677 seconds.
+Source_nxi_017_nyi_005_nzi_024
+Elapsed time is 0.257091 seconds.
+Source_nxi_017_nyi_005_nzi_025
+Elapsed time is 0.268867 seconds.
+Source_nxi_017_nyi_005_nzi_026
+Elapsed time is 0.266650 seconds.
+Source_nxi_017_nyi_005_nzi_027
+Elapsed time is 0.268857 seconds.
+Source_nxi_017_nyi_005_nzi_028
+Elapsed time is 0.281604 seconds.
+Source_nxi_017_nyi_005_nzi_029
+Elapsed time is 0.310397 seconds.
+Data Saved
+Source_nxi_018_nyi_001_nzi_001
+Elapsed time is 0.011814 seconds.
+Source_nxi_018_nyi_001_nzi_002
+Elapsed time is 0.018694 seconds.
+Source_nxi_018_nyi_001_nzi_003
+Elapsed time is 0.025548 seconds.
+Source_nxi_018_nyi_001_nzi_004
+Elapsed time is 0.035127 seconds.
+Source_nxi_018_nyi_001_nzi_005
+Elapsed time is 0.051734 seconds.
+Source_nxi_018_nyi_001_nzi_006
+Elapsed time is 0.067565 seconds.
+Source_nxi_018_nyi_001_nzi_007
+Elapsed time is 0.083854 seconds.
+Source_nxi_018_nyi_001_nzi_008
+Elapsed time is 0.102858 seconds.
+Source_nxi_018_nyi_001_nzi_009
+Elapsed time is 0.120751 seconds.
+Source_nxi_018_nyi_001_nzi_010
+Elapsed time is 0.092768 seconds.
+Source_nxi_018_nyi_001_nzi_011
+Elapsed time is 0.081406 seconds.
+Source_nxi_018_nyi_001_nzi_012
+Elapsed time is 0.086391 seconds.
+Source_nxi_018_nyi_001_nzi_013
+Elapsed time is 0.100037 seconds.
+Source_nxi_018_nyi_001_nzi_014
+Elapsed time is 0.099295 seconds.
+Source_nxi_018_nyi_001_nzi_015
+Elapsed time is 0.101434 seconds.
+Source_nxi_018_nyi_001_nzi_016
+Elapsed time is 0.105722 seconds.
+Source_nxi_018_nyi_001_nzi_017
+Elapsed time is 0.119704 seconds.
+Source_nxi_018_nyi_001_nzi_018
+Elapsed time is 0.112011 seconds.
+Source_nxi_018_nyi_001_nzi_019
+Elapsed time is 0.116640 seconds.
+Source_nxi_018_nyi_001_nzi_020
+Elapsed time is 0.148871 seconds.
+Source_nxi_018_nyi_001_nzi_021
+Elapsed time is 0.240210 seconds.
+Source_nxi_018_nyi_001_nzi_022
+Elapsed time is 0.262771 seconds.
+Source_nxi_018_nyi_001_nzi_023
+Elapsed time is 0.285257 seconds.
+Source_nxi_018_nyi_001_nzi_024
+Elapsed time is 0.282774 seconds.
+Source_nxi_018_nyi_001_nzi_025
+Elapsed time is 0.285487 seconds.
+Source_nxi_018_nyi_001_nzi_026
+Elapsed time is 0.296462 seconds.
+Source_nxi_018_nyi_001_nzi_027
+Elapsed time is 0.315236 seconds.
+Source_nxi_018_nyi_001_nzi_028
+Elapsed time is 0.326844 seconds.
+Source_nxi_018_nyi_001_nzi_029
+Elapsed time is 0.340228 seconds.
+Data Saved
+Source_nxi_018_nyi_002_nzi_001
+Elapsed time is 0.016653 seconds.
+Source_nxi_018_nyi_002_nzi_002
+Elapsed time is 0.027278 seconds.
+Source_nxi_018_nyi_002_nzi_003
+Elapsed time is 0.040475 seconds.
+Source_nxi_018_nyi_002_nzi_004
+Elapsed time is 0.065796 seconds.
+Source_nxi_018_nyi_002_nzi_005
+Elapsed time is 0.091566 seconds.
+Source_nxi_018_nyi_002_nzi_006
+Elapsed time is 0.121152 seconds.
+Source_nxi_018_nyi_002_nzi_007
+Elapsed time is 0.150892 seconds.
+Source_nxi_018_nyi_002_nzi_008
+Elapsed time is 0.176887 seconds.
+Source_nxi_018_nyi_002_nzi_009
+Elapsed time is 0.208706 seconds.
+Source_nxi_018_nyi_002_nzi_010
+Elapsed time is 0.138589 seconds.
+Source_nxi_018_nyi_002_nzi_011
+Elapsed time is 0.126085 seconds.
+Source_nxi_018_nyi_002_nzi_012
+Elapsed time is 0.137030 seconds.
+Source_nxi_018_nyi_002_nzi_013
+Elapsed time is 0.157765 seconds.
+Source_nxi_018_nyi_002_nzi_014
+Elapsed time is 0.141428 seconds.
+Source_nxi_018_nyi_002_nzi_015
+Elapsed time is 0.150731 seconds.
+Source_nxi_018_nyi_002_nzi_016
+Elapsed time is 0.161161 seconds.
+Source_nxi_018_nyi_002_nzi_017
+Elapsed time is 0.199498 seconds.
+Source_nxi_018_nyi_002_nzi_018
+Elapsed time is 0.183278 seconds.
+Source_nxi_018_nyi_002_nzi_019
+Elapsed time is 0.190154 seconds.
+Source_nxi_018_nyi_002_nzi_020
+Elapsed time is 0.234607 seconds.
+Source_nxi_018_nyi_002_nzi_021
+Elapsed time is 0.361247 seconds.
+Source_nxi_018_nyi_002_nzi_022
+Elapsed time is 0.387668 seconds.
+Source_nxi_018_nyi_002_nzi_023
+Elapsed time is 0.409853 seconds.
+Source_nxi_018_nyi_002_nzi_024
+Elapsed time is 0.431654 seconds.
+Source_nxi_018_nyi_002_nzi_025
+Elapsed time is 0.457042 seconds.
+Source_nxi_018_nyi_002_nzi_026
+Elapsed time is 0.475500 seconds.
+Source_nxi_018_nyi_002_nzi_027
+Elapsed time is 0.495607 seconds.
+Source_nxi_018_nyi_002_nzi_028
+Elapsed time is 0.534826 seconds.
+Source_nxi_018_nyi_002_nzi_029
+Elapsed time is 0.602431 seconds.
+Data Saved
+Source_nxi_018_nyi_003_nzi_001
+Elapsed time is 0.018299 seconds.
+Source_nxi_018_nyi_003_nzi_002
+Elapsed time is 0.032411 seconds.
+Source_nxi_018_nyi_003_nzi_003
+Elapsed time is 0.053194 seconds.
+Source_nxi_018_nyi_003_nzi_004
+Elapsed time is 0.091872 seconds.
+Source_nxi_018_nyi_003_nzi_005
+Elapsed time is 0.121234 seconds.
+Source_nxi_018_nyi_003_nzi_006
+Elapsed time is 0.150861 seconds.
+Source_nxi_018_nyi_003_nzi_007
+Elapsed time is 0.186023 seconds.
+Source_nxi_018_nyi_003_nzi_008
+Elapsed time is 0.216845 seconds.
+Source_nxi_018_nyi_003_nzi_009
+Elapsed time is 0.245342 seconds.
+Source_nxi_018_nyi_003_nzi_010
+Elapsed time is 0.164717 seconds.
+Source_nxi_018_nyi_003_nzi_011
+Elapsed time is 0.128513 seconds.
+Source_nxi_018_nyi_003_nzi_012
+Elapsed time is 0.134422 seconds.
+Source_nxi_018_nyi_003_nzi_013
+Elapsed time is 0.176557 seconds.
+Source_nxi_018_nyi_003_nzi_014
+Elapsed time is 0.164943 seconds.
+Source_nxi_018_nyi_003_nzi_015
+Elapsed time is 0.145826 seconds.
+Source_nxi_018_nyi_003_nzi_016
+Elapsed time is 0.177915 seconds.
+Source_nxi_018_nyi_003_nzi_017
+Elapsed time is 0.200044 seconds.
+Source_nxi_018_nyi_003_nzi_018
+Elapsed time is 0.165466 seconds.
+Source_nxi_018_nyi_003_nzi_019
+Elapsed time is 0.172590 seconds.
+Source_nxi_018_nyi_003_nzi_020
+Elapsed time is 0.249150 seconds.
+Source_nxi_018_nyi_003_nzi_021
+Elapsed time is 0.408152 seconds.
+Source_nxi_018_nyi_003_nzi_022
+Elapsed time is 0.420138 seconds.
+Source_nxi_018_nyi_003_nzi_023
+Elapsed time is 0.446212 seconds.
+Source_nxi_018_nyi_003_nzi_024
+Elapsed time is 0.467262 seconds.
+Source_nxi_018_nyi_003_nzi_025
+Elapsed time is 0.494039 seconds.
+Source_nxi_018_nyi_003_nzi_026
+Elapsed time is 0.525852 seconds.
+Source_nxi_018_nyi_003_nzi_027
+Elapsed time is 0.543107 seconds.
+Source_nxi_018_nyi_003_nzi_028
+Elapsed time is 0.573057 seconds.
+Source_nxi_018_nyi_003_nzi_029
+Elapsed time is 0.629999 seconds.
+Data Saved
+Source_nxi_018_nyi_004_nzi_001
+Elapsed time is 0.018720 seconds.
+Source_nxi_018_nyi_004_nzi_002
+Elapsed time is 0.035479 seconds.
+Source_nxi_018_nyi_004_nzi_003
+Elapsed time is 0.054048 seconds.
+Source_nxi_018_nyi_004_nzi_004
+Elapsed time is 0.090892 seconds.
+Source_nxi_018_nyi_004_nzi_005
+Elapsed time is 0.119630 seconds.
+Source_nxi_018_nyi_004_nzi_006
+Elapsed time is 0.146303 seconds.
+Source_nxi_018_nyi_004_nzi_007
+Elapsed time is 0.184188 seconds.
+Source_nxi_018_nyi_004_nzi_008
+Elapsed time is 0.208965 seconds.
+Source_nxi_018_nyi_004_nzi_009
+Elapsed time is 0.237834 seconds.
+Source_nxi_018_nyi_004_nzi_010
+Elapsed time is 0.164431 seconds.
+Source_nxi_018_nyi_004_nzi_011
+Elapsed time is 0.149104 seconds.
+Source_nxi_018_nyi_004_nzi_012
+Elapsed time is 0.158639 seconds.
+Source_nxi_018_nyi_004_nzi_013
+Elapsed time is 0.185446 seconds.
+Source_nxi_018_nyi_004_nzi_014
+Elapsed time is 0.161707 seconds.
+Source_nxi_018_nyi_004_nzi_015
+Elapsed time is 0.180606 seconds.
+Source_nxi_018_nyi_004_nzi_016
+Elapsed time is 0.183797 seconds.
+Source_nxi_018_nyi_004_nzi_017
+Elapsed time is 0.230800 seconds.
+Source_nxi_018_nyi_004_nzi_018
+Elapsed time is 0.212069 seconds.
+Source_nxi_018_nyi_004_nzi_019
+Elapsed time is 0.219478 seconds.
+Source_nxi_018_nyi_004_nzi_020
+Elapsed time is 0.249426 seconds.
+Source_nxi_018_nyi_004_nzi_021
+Elapsed time is 0.408732 seconds.
+Source_nxi_018_nyi_004_nzi_022
+Elapsed time is 0.430189 seconds.
+Source_nxi_018_nyi_004_nzi_023
+Elapsed time is 0.465553 seconds.
+Source_nxi_018_nyi_004_nzi_024
+Elapsed time is 0.486638 seconds.
+Source_nxi_018_nyi_004_nzi_025
+Elapsed time is 0.513383 seconds.
+Source_nxi_018_nyi_004_nzi_026
+Elapsed time is 0.529856 seconds.
+Source_nxi_018_nyi_004_nzi_027
+Elapsed time is 0.557152 seconds.
+Source_nxi_018_nyi_004_nzi_028
+Elapsed time is 0.607622 seconds.
+Source_nxi_018_nyi_004_nzi_029
+Elapsed time is 0.683346 seconds.
+Data Saved
+Source_nxi_018_nyi_005_nzi_001
+Elapsed time is 0.013151 seconds.
+Source_nxi_018_nyi_005_nzi_002
+Elapsed time is 0.021108 seconds.
+Source_nxi_018_nyi_005_nzi_003
+Elapsed time is 0.034322 seconds.
+Source_nxi_018_nyi_005_nzi_004
+Elapsed time is 0.046793 seconds.
+Source_nxi_018_nyi_005_nzi_005
+Elapsed time is 0.072165 seconds.
+Source_nxi_018_nyi_005_nzi_006
+Elapsed time is 0.089102 seconds.
+Source_nxi_018_nyi_005_nzi_007
+Elapsed time is 0.107748 seconds.
+Source_nxi_018_nyi_005_nzi_008
+Elapsed time is 0.126569 seconds.
+Source_nxi_018_nyi_005_nzi_009
+Elapsed time is 0.147502 seconds.
+Source_nxi_018_nyi_005_nzi_010
+Elapsed time is 0.109198 seconds.
+Source_nxi_018_nyi_005_nzi_011
+Elapsed time is 0.099705 seconds.
+Source_nxi_018_nyi_005_nzi_012
+Elapsed time is 0.102959 seconds.
+Source_nxi_018_nyi_005_nzi_013
+Elapsed time is 0.119778 seconds.
+Source_nxi_018_nyi_005_nzi_014
+Elapsed time is 0.118831 seconds.
+Source_nxi_018_nyi_005_nzi_015
+Elapsed time is 0.124534 seconds.
+Source_nxi_018_nyi_005_nzi_016
+Elapsed time is 0.127189 seconds.
+Source_nxi_018_nyi_005_nzi_017
+Elapsed time is 0.145814 seconds.
+Source_nxi_018_nyi_005_nzi_018
+Elapsed time is 0.137573 seconds.
+Source_nxi_018_nyi_005_nzi_019
+Elapsed time is 0.135937 seconds.
+Source_nxi_018_nyi_005_nzi_020
+Elapsed time is 0.172959 seconds.
+Source_nxi_018_nyi_005_nzi_021
+Elapsed time is 0.267711 seconds.
+Source_nxi_018_nyi_005_nzi_022
+Elapsed time is 0.293718 seconds.
+Source_nxi_018_nyi_005_nzi_023
+Elapsed time is 0.312688 seconds.
+Source_nxi_018_nyi_005_nzi_024
+Elapsed time is 0.316820 seconds.
+Source_nxi_018_nyi_005_nzi_025
+Elapsed time is 0.323362 seconds.
+Source_nxi_018_nyi_005_nzi_026
+Elapsed time is 0.333210 seconds.
+Source_nxi_018_nyi_005_nzi_027
+Elapsed time is 0.359617 seconds.
+Source_nxi_018_nyi_005_nzi_028
+Elapsed time is 0.361775 seconds.
+Source_nxi_018_nyi_005_nzi_029
+Elapsed time is 0.373981 seconds.
+Data Saved
+Source_nxi_019_nyi_001_nzi_001
+Elapsed time is 0.010771 seconds.
+Source_nxi_019_nyi_001_nzi_002
+Elapsed time is 0.017208 seconds.
+Source_nxi_019_nyi_001_nzi_003
+Elapsed time is 0.026994 seconds.
+Source_nxi_019_nyi_001_nzi_004
+Elapsed time is 0.036163 seconds.
+Source_nxi_019_nyi_001_nzi_005
+Elapsed time is 0.055683 seconds.
+Source_nxi_019_nyi_001_nzi_006
+Elapsed time is 0.069911 seconds.
+Source_nxi_019_nyi_001_nzi_007
+Elapsed time is 0.085303 seconds.
+Source_nxi_019_nyi_001_nzi_008
+Elapsed time is 0.100048 seconds.
+Source_nxi_019_nyi_001_nzi_009
+Elapsed time is 0.113085 seconds.
+Source_nxi_019_nyi_001_nzi_010
+Elapsed time is 0.098355 seconds.
+Source_nxi_019_nyi_001_nzi_011
+Elapsed time is 0.089334 seconds.
+Source_nxi_019_nyi_001_nzi_012
+Elapsed time is 0.092753 seconds.
+Source_nxi_019_nyi_001_nzi_013
+Elapsed time is 0.105664 seconds.
+Source_nxi_019_nyi_001_nzi_014
+Elapsed time is 0.094158 seconds.
+Source_nxi_019_nyi_001_nzi_015
+Elapsed time is 0.106923 seconds.
+Source_nxi_019_nyi_001_nzi_016
+Elapsed time is 0.119758 seconds.
+Source_nxi_019_nyi_001_nzi_017
+Elapsed time is 0.135836 seconds.
+Source_nxi_019_nyi_001_nzi_018
+Elapsed time is 0.132428 seconds.
+Source_nxi_019_nyi_001_nzi_019
+Elapsed time is 0.134724 seconds.
+Source_nxi_019_nyi_001_nzi_020
+Elapsed time is 0.165559 seconds.
+Source_nxi_019_nyi_001_nzi_021
+Elapsed time is 0.230664 seconds.
+Source_nxi_019_nyi_001_nzi_022
+Elapsed time is 0.239931 seconds.
+Source_nxi_019_nyi_001_nzi_023
+Elapsed time is 0.255721 seconds.
+Source_nxi_019_nyi_001_nzi_024
+Elapsed time is 0.271508 seconds.
+Source_nxi_019_nyi_001_nzi_025
+Elapsed time is 0.287770 seconds.
+Source_nxi_019_nyi_001_nzi_026
+Elapsed time is 0.275426 seconds.
+Source_nxi_019_nyi_001_nzi_027
+Elapsed time is 0.287278 seconds.
+Source_nxi_019_nyi_001_nzi_028
+Elapsed time is 0.302272 seconds.
+Source_nxi_019_nyi_001_nzi_029
+Elapsed time is 0.310443 seconds.
+Data Saved
+Source_nxi_019_nyi_002_nzi_001
+Elapsed time is 0.012102 seconds.
+Source_nxi_019_nyi_002_nzi_002
+Elapsed time is 0.019796 seconds.
+Source_nxi_019_nyi_002_nzi_003
+Elapsed time is 0.027085 seconds.
+Source_nxi_019_nyi_002_nzi_004
+Elapsed time is 0.041252 seconds.
+Source_nxi_019_nyi_002_nzi_005
+Elapsed time is 0.059291 seconds.
+Source_nxi_019_nyi_002_nzi_006
+Elapsed time is 0.077103 seconds.
+Source_nxi_019_nyi_002_nzi_007
+Elapsed time is 0.098540 seconds.
+Source_nxi_019_nyi_002_nzi_008
+Elapsed time is 0.116469 seconds.
+Source_nxi_019_nyi_002_nzi_009
+Elapsed time is 0.134967 seconds.
+Source_nxi_019_nyi_002_nzi_010
+Elapsed time is 0.105703 seconds.
+Source_nxi_019_nyi_002_nzi_011
+Elapsed time is 0.097591 seconds.
+Source_nxi_019_nyi_002_nzi_012
+Elapsed time is 0.106013 seconds.
+Source_nxi_019_nyi_002_nzi_013
+Elapsed time is 0.129195 seconds.
+Source_nxi_019_nyi_002_nzi_014
+Elapsed time is 0.116033 seconds.
+Source_nxi_019_nyi_002_nzi_015
+Elapsed time is 0.122334 seconds.
+Source_nxi_019_nyi_002_nzi_016
+Elapsed time is 0.125668 seconds.
+Source_nxi_019_nyi_002_nzi_017
+Elapsed time is 0.164674 seconds.
+Source_nxi_019_nyi_002_nzi_018
+Elapsed time is 0.142973 seconds.
+Source_nxi_019_nyi_002_nzi_019
+Elapsed time is 0.156905 seconds.
+Source_nxi_019_nyi_002_nzi_020
+Elapsed time is 0.192039 seconds.
+Source_nxi_019_nyi_002_nzi_021
+Elapsed time is 0.295328 seconds.
+Source_nxi_019_nyi_002_nzi_022
+Elapsed time is 0.287548 seconds.
+Source_nxi_019_nyi_002_nzi_023
+Elapsed time is 0.294647 seconds.
+Source_nxi_019_nyi_002_nzi_024
+Elapsed time is 0.322444 seconds.
+Source_nxi_019_nyi_002_nzi_025
+Elapsed time is 0.326807 seconds.
+Source_nxi_019_nyi_002_nzi_026
+Elapsed time is 0.351902 seconds.
+Source_nxi_019_nyi_002_nzi_027
+Elapsed time is 0.362608 seconds.
+Source_nxi_019_nyi_002_nzi_028
+Elapsed time is 0.372468 seconds.
+Source_nxi_019_nyi_002_nzi_029
+Elapsed time is 0.386639 seconds.
+Data Saved
+Source_nxi_019_nyi_003_nzi_001
+Elapsed time is 0.013483 seconds.
+Source_nxi_019_nyi_003_nzi_002
+Elapsed time is 0.021107 seconds.
+Source_nxi_019_nyi_003_nzi_003
+Elapsed time is 0.028656 seconds.
+Source_nxi_019_nyi_003_nzi_004
+Elapsed time is 0.042420 seconds.
+Source_nxi_019_nyi_003_nzi_005
+Elapsed time is 0.060608 seconds.
+Source_nxi_019_nyi_003_nzi_006
+Elapsed time is 0.078811 seconds.
+Source_nxi_019_nyi_003_nzi_007
+Elapsed time is 0.096346 seconds.
+Source_nxi_019_nyi_003_nzi_008
+Elapsed time is 0.117194 seconds.
+Source_nxi_019_nyi_003_nzi_009
+Elapsed time is 0.135229 seconds.
+Source_nxi_019_nyi_003_nzi_010
+Elapsed time is 0.104070 seconds.
+Source_nxi_019_nyi_003_nzi_011
+Elapsed time is 0.081566 seconds.
+Source_nxi_019_nyi_003_nzi_012
+Elapsed time is 0.085826 seconds.
+Source_nxi_019_nyi_003_nzi_013
+Elapsed time is 0.117104 seconds.
+Source_nxi_019_nyi_003_nzi_014
+Elapsed time is 0.113932 seconds.
+Source_nxi_019_nyi_003_nzi_015
+Elapsed time is 0.097721 seconds.
+Source_nxi_019_nyi_003_nzi_016
+Elapsed time is 0.119792 seconds.
+Source_nxi_019_nyi_003_nzi_017
+Elapsed time is 0.139129 seconds.
+Source_nxi_019_nyi_003_nzi_018
+Elapsed time is 0.118690 seconds.
+Source_nxi_019_nyi_003_nzi_019
+Elapsed time is 0.124256 seconds.
+Source_nxi_019_nyi_003_nzi_020
+Elapsed time is 0.189880 seconds.
+Source_nxi_019_nyi_003_nzi_021
+Elapsed time is 0.291548 seconds.
+Source_nxi_019_nyi_003_nzi_022
+Elapsed time is 0.296269 seconds.
+Source_nxi_019_nyi_003_nzi_023
+Elapsed time is 0.293869 seconds.
+Source_nxi_019_nyi_003_nzi_024
+Elapsed time is 0.305584 seconds.
+Source_nxi_019_nyi_003_nzi_025
+Elapsed time is 0.332731 seconds.
+Source_nxi_019_nyi_003_nzi_026
+Elapsed time is 0.342696 seconds.
+Source_nxi_019_nyi_003_nzi_027
+Elapsed time is 0.355000 seconds.
+Source_nxi_019_nyi_003_nzi_028
+Elapsed time is 0.388333 seconds.
+Source_nxi_019_nyi_003_nzi_029
+Elapsed time is 0.437845 seconds.
+Data Saved
+Source_nxi_019_nyi_004_nzi_001
+Elapsed time is 0.013818 seconds.
+Source_nxi_019_nyi_004_nzi_002
+Elapsed time is 0.023733 seconds.
+Source_nxi_019_nyi_004_nzi_003
+Elapsed time is 0.034966 seconds.
+Source_nxi_019_nyi_004_nzi_004
+Elapsed time is 0.052925 seconds.
+Source_nxi_019_nyi_004_nzi_005
+Elapsed time is 0.079525 seconds.
+Source_nxi_019_nyi_004_nzi_006
+Elapsed time is 0.101495 seconds.
+Source_nxi_019_nyi_004_nzi_007
+Elapsed time is 0.124987 seconds.
+Source_nxi_019_nyi_004_nzi_008
+Elapsed time is 0.147940 seconds.
+Source_nxi_019_nyi_004_nzi_009
+Elapsed time is 0.172839 seconds.
+Source_nxi_019_nyi_004_nzi_010
+Elapsed time is 0.133040 seconds.
+Source_nxi_019_nyi_004_nzi_011
+Elapsed time is 0.120124 seconds.
+Source_nxi_019_nyi_004_nzi_012
+Elapsed time is 0.128058 seconds.
+Source_nxi_019_nyi_004_nzi_013
+Elapsed time is 0.166402 seconds.
+Source_nxi_019_nyi_004_nzi_014
+Elapsed time is 0.149055 seconds.
+Source_nxi_019_nyi_004_nzi_015
+Elapsed time is 0.151263 seconds.
+Source_nxi_019_nyi_004_nzi_016
+Elapsed time is 0.157382 seconds.
+Source_nxi_019_nyi_004_nzi_017
+Elapsed time is 0.191646 seconds.
+Source_nxi_019_nyi_004_nzi_018
+Elapsed time is 0.170478 seconds.
+Source_nxi_019_nyi_004_nzi_019
+Elapsed time is 0.182729 seconds.
+Source_nxi_019_nyi_004_nzi_020
+Elapsed time is 0.230049 seconds.
+Source_nxi_019_nyi_004_nzi_021
+Elapsed time is 0.344376 seconds.
+Source_nxi_019_nyi_004_nzi_022
+Elapsed time is 0.331395 seconds.
+Source_nxi_019_nyi_004_nzi_023
+Elapsed time is 0.345705 seconds.
+Source_nxi_019_nyi_004_nzi_024
+Elapsed time is 0.369492 seconds.
+Source_nxi_019_nyi_004_nzi_025
+Elapsed time is 0.385150 seconds.
+Source_nxi_019_nyi_004_nzi_026
+Elapsed time is 0.401374 seconds.
+Source_nxi_019_nyi_004_nzi_027
+Elapsed time is 0.423735 seconds.
+Source_nxi_019_nyi_004_nzi_028
+Elapsed time is 0.439746 seconds.
+Source_nxi_019_nyi_004_nzi_029
+Elapsed time is 0.453272 seconds.
+Data Saved
+Source_nxi_019_nyi_005_nzi_001
+Elapsed time is 0.010893 seconds.
+Source_nxi_019_nyi_005_nzi_002
+Elapsed time is 0.017006 seconds.
+Source_nxi_019_nyi_005_nzi_003
+Elapsed time is 0.024459 seconds.
+Source_nxi_019_nyi_005_nzi_004
+Elapsed time is 0.028951 seconds.
+Source_nxi_019_nyi_005_nzi_005
+Elapsed time is 0.047487 seconds.
+Source_nxi_019_nyi_005_nzi_006
+Elapsed time is 0.060596 seconds.
+Source_nxi_019_nyi_005_nzi_007
+Elapsed time is 0.078576 seconds.
+Source_nxi_019_nyi_005_nzi_008
+Elapsed time is 0.090946 seconds.
+Source_nxi_019_nyi_005_nzi_009
+Elapsed time is 0.098840 seconds.
+Source_nxi_019_nyi_005_nzi_010
+Elapsed time is 0.079226 seconds.
+Source_nxi_019_nyi_005_nzi_011
+Elapsed time is 0.066316 seconds.
+Source_nxi_019_nyi_005_nzi_012
+Elapsed time is 0.068909 seconds.
+Source_nxi_019_nyi_005_nzi_013
+Elapsed time is 0.075285 seconds.
+Source_nxi_019_nyi_005_nzi_014
+Elapsed time is 0.081066 seconds.
+Source_nxi_019_nyi_005_nzi_015
+Elapsed time is 0.086974 seconds.
+Source_nxi_019_nyi_005_nzi_016
+Elapsed time is 0.092141 seconds.
+Source_nxi_019_nyi_005_nzi_017
+Elapsed time is 0.106204 seconds.
+Source_nxi_019_nyi_005_nzi_018
+Elapsed time is 0.095588 seconds.
+Source_nxi_019_nyi_005_nzi_019
+Elapsed time is 0.098528 seconds.
+Source_nxi_019_nyi_005_nzi_020
+Elapsed time is 0.125759 seconds.
+Source_nxi_019_nyi_005_nzi_021
+Elapsed time is 0.174525 seconds.
+Source_nxi_019_nyi_005_nzi_022
+Elapsed time is 0.191817 seconds.
+Source_nxi_019_nyi_005_nzi_023
+Elapsed time is 0.209646 seconds.
+Source_nxi_019_nyi_005_nzi_024
+Elapsed time is 0.226678 seconds.
+Source_nxi_019_nyi_005_nzi_025
+Elapsed time is 0.233566 seconds.
+Source_nxi_019_nyi_005_nzi_026
+Elapsed time is 0.227082 seconds.
+Source_nxi_019_nyi_005_nzi_027
+Elapsed time is 0.233230 seconds.
+Source_nxi_019_nyi_005_nzi_028
+Elapsed time is 0.242683 seconds.
+Source_nxi_019_nyi_005_nzi_029
+Elapsed time is 0.261151 seconds.
+Data Saved

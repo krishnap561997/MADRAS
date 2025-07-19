@@ -1,0 +1,6 @@
+'/blue/bala/krishnap.kalivel/RANS/RANS_IndoorUnit/Sou2Snk/dist_6m/Data'
+'/blue/bala/krishnap.kalivel/RANS/RANS_IndoorUnit/Sou2Snk/dist_6m/Data_02'
+25
+8
+25
+6
