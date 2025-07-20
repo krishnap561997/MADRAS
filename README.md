@@ -7,11 +7,12 @@ The software and its workflow are used to derive meaningful statistical informat
 Turbulent dispersal processes are two-point two-time stochastic processes that depend on the locations of the pollutant's origin (**source**) and where the concentration is monitored (**sink**). Quite often, these flows are one-way coupled, such as in aerosol transmission of diseases, occupational hazards introduced through chemicals, droplet impingement on airfoils, and atmospheric dispersion in urban settings. Statistical overloading is an Euler-Lagrange simulation strategy wherein the simulation domain is overloaded with Lagrangian particles that are randomly seeded across both time and space. The Lagrangian point-particles and their dispersal are monitored by tracking their spatiotemporal data over the course of the simulation. For further details on the statistical overloading methodology and its implementation, please refer to the published works of [Krishnaprasad et al., 2025](https://www.sciencedirect.com/science/article/pii/S0021850225000679?casa_token=OltE_e7JP0AAAAAA:sNyJROtb4YO5C6vd4ZwAZl_GXRdZWJyIck9YYAeB_HS9d82FCEb4MTxkH9c8_ftCWTRgeGQ42w).
 
 # Workflow
+A brief overview of the workflow is presented here. The first step is to generate spatiotemporal data of the Lagrangian trajectory of our pollutants through Euler-Lagrange CFD Simulations or experiments. An example of a simulation for a $10 \times 10 \times 3.2$ m<sub>3<\sub> room is provided in [Simulation](Simulation).
 
 ## Pre-processing step
 ```mermaid
 graph TD;
-    A[Start: **EL CFD Simulations**] --> B[Raw Data: Spatiotemporal Point-Particle Data]
+    A[**Start: Euler-Lagrange CFD Simulations**] --> B[Raw Data: Spatiotemporal Point-Particle Data - **par** files containing particle locations, **parout** files containing particles' mode of exit]
 
     B --> C[Pre-processing]
 
